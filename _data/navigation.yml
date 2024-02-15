@@ -1,0 +1,28 @@
+# Site navigation links
+
+
+
+- title: Home
+  url: 
+  
+ #{{ site.url }}
+
+- title: Journal
+  url: /journal
+
+  
+- title: Conference
+  url: /conference
+
+
+- title: Patent
+  url: /patent
+
+  
+- title: Teaching
+  url: /teaching
+
+
+- title: Group
+  url: /group
+
