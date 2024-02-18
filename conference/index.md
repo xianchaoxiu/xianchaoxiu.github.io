@@ -14,3 +14,7 @@ share: false
 * A. Yang, X. Li, <b>X. Xiu*</b>, Sparse PCA via L2,0-Norm Constrained Optimization for Unsupervised Feature Selection, <i> Chinese Control Conference</i>, 2024 <a href="https://github.com/yan921" class="textlink" target="_blank">[Code]</a> <br>
 * S. Sun, Y. Lei, <b>X. Xiu*</b>, When Nonlocal Meets Nonconvex: A New Paradigm for Hyperspectral Image Denoising, <i> Chinese Control Conference</i>, 2024 <a href="https://github.com/EdSun0" class="textlink" target="_blank">[Code]</a> <br>
 * C. Huang, P. Shang, <b>X. Xiu*</b>, A Riemannian Augmented Lagrangian Method for Structured Sparse PCA, <i> Chinese Control Conference</i>, 2024 <a href="https://github.com/ChenyiHuang23/ROFS" class="textlink" target="_blank">[Code]</a> <br>
+
+### 2018-2023
+
+* F. Yu, <b>X. Xiu*</b>, Robust Transfer Subspace Learning: A Novel Data-Driven Scheme for Fault Diagnosis, <i> CAA Symposium on Fault Detection, Supervision and Safety for Technical Processes (SAFEPROCESS)</i>, 2023 <a href="https://ieeexplore.ieee.org/abstract/document/10295777" class="textlink" target="_blank">[Paper]</a> <br>
