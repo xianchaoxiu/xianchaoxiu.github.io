@@ -15,7 +15,7 @@ share: false
 * Distributed Sparsity Constrained Optimization over the Stiefel Manifold <a href="https://github.com/wtqu" class="textlink" target="_blank">[Code]</a> <br>
 * Revisiting Lq (0 <= q < 1) Norm Regularized Optimization <a href="https://github.com/ShenglongZhou/PSNP" class="textlink" target="_blank">[Code]</a> <br>
 * Robust and Stochastic Sparse Subspace Clustering <a href="https://github.com/zhudafa/S3CH" class="textlink" target="_blank">[Code]</a> <br>
-* <b>X. Xiu</b>, Y. Zhang, Y. Guo, X. Liu, Y. Yang*, A New End-to-End Monitoring Framework for Nonlinear Dynamic Processes with Unknown Noise Statistics, <i>IEEE Transactions on Instrumentation and Measurement</i>, 2024 <a href="https://ieeexplore.ieee.org/document/10252040" class="textlink" target="_blank">[Paper]</a> <a href="https://github.com/xianchaoxiu/IEEE_TIM_DRNN" class="textlink" target="_blank">[Code]</a> <br>
+* <b>X. Xiu</b>, Y. Zhang, Y. Guo, X. Liu, Y. Yang*, A New End-to-End Monitoring Framework for Nonlinear Dynamic Processes with Unknown Noise Statistics, <i>IEEE Transactions on Instrumentation and Measurement</i>, 2024 <a href="https://github.com/xianchaoxiu/IEEE_TIM_DRNN" class="textlink" target="_blank">[Code]</a> <br>
 
 
 ### 2018-2023
