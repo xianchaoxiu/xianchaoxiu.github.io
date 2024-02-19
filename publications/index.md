@@ -9,10 +9,10 @@ share: false
 
 ### Preprints
 * Sparse PCA via L2,0-Norm Constrained Optimization for Unsupervised Feature Selection <br>
-* Hyperspectral Anomaly Detection via Structured Sparsity and Plug-and-Play Senoising <br>
 * When Nonlocal Meets Nonconvex: A New Paradigm for Hyperspectral Image Denoising <br>
-* Distributed Sparsity Constrained Optimization over the Stiefel Manifold <br>
+* Hyperspectral Anomaly Detection via Structured Sparsity and Plug-and-Play Senoising <br>
 * A Riemannian Augmented Lagrangian Method for Structured Sparse PCA <br>
+* Distributed Sparsity Constrained Optimization over the Stiefel Manifold <br>
 * Revisiting Lq (0 <= q < 1) Norm Regularized Optimization <br>
 
 ### 2024-Present
