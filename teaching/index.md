@@ -12,7 +12,7 @@ share: false
 * 名称：运筹学基础<br>
 * 代码：09376025 <br>
 * 适用：本科生（限30人） <br>
-* 教材：运筹学教程（第5版），胡运权，郭耀煌，清华大学出版社 <a href="https://item.jd.com/12931035.html" class="textlink" target="_blank">[Book]</a> <a href="http://faculty.bicmr.pku.edu.cn/~wenzw/optbook.html" class="textlink" target="_blank">[Slide]</a> <br>
+* 教材：运筹学教程（第5版），胡运权，郭耀煌，清华大学出版社 <a href="https://item.jd.com/12931035.html" class="textlink" target="_blank">[Book]</a> <a href="https://github.com/xianchaoxiu/Operations-Research" class="textlink" target="_blank">[Slide]</a> <br>
 
 
 ### Numerical Optimization
