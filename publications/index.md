@@ -8,17 +8,14 @@ share: false
 ---
 
 ### Preprints
-* Sparse PCA via L2,0-Norm Constrained Optimization for Unsupervised Feature Selection <a href="https://github.com/yan921" class="textlink" target="_blank">[Code]</a> <br>
-* When Nonlocal Meets Nonconvex: A New Paradigm for Hyperspectral Image Denoising <a href="https://github.com/EdSun0" class="textlink" target="_blank">[Code]</a> <br>
-* A Riemannian Augmented Lagrangian Method for Structured Sparse PCA <a href="https://github.com/ChenyiHuang23/ROFS" class="textlink" target="_blank">[Code]</a> <br>
-* Hyperspectral Anomaly Detection via Structured Sparsity and Plug-and-Play Senoising <a href="https://github.com/jjs-jjs" class="textlink" target="_blank">[Code]</a> <br>
-* Distributed Sparsity Constrained Optimization over the Stiefel Manifold <a href="https://github.com/wtqu" class="textlink" target="_blank">[Code]</a> <br>
-* Revisiting Lq (0 <= q < 1) Norm Regularized Optimization <a href="https://github.com/ShenglongZhou/PSNP" class="textlink" target="_blank">[Code]</a> <br>
-* Robust and Stochastic Sparse Subspace Clustering <a href="https://github.com/zhudafa/S3CH" class="textlink" target="_blank">[Code]</a> <br>
-
+* Sparse PCA via L2,0-Norm Constrained Optimization for Unsupervised Feature Selection <br>
+* When Nonlocal Meets Nonconvex: A New Paradigm for Hyperspectral Image Denoising <br>
+* A Riemannian Augmented Lagrangian Method for Structured Sparse PCA <br>
+* Hyperspectral Anomaly Detection via Structured Sparsity and Plug-and-Play Senoising <br>
+* Distributed Sparsity Constrained Optimization over the Stiefel Manifold <br>
+* Revisiting Lq (0 <= q < 1) Norm Regularized Optimization <br>
 
 ### 2024-Present
-
 * <b>X. Xiu</b>, Y. Zhang, Y. Guo, X. Liu, Y. Yang*, A New End-to-End Monitoring Framework for Nonlinear Dynamic Processes with Unknown Noise Statistics, <i>IEEE Transactions on Instrumentation and Measurement</i>, 2024 <a href="https://github.com/xianchaoxiu/IEEE_TIM_DRNN" class="textlink" target="_blank">[Code]</a> <br>
 
 
