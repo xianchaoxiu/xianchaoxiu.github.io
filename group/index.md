@@ -17,5 +17,3 @@ share: false
 ### Undergraduate Students
 * 温春辉 (2023.01-2023.06): 基于深度典型相关分析的多视角学习研究 <a href="../group/2023-Wen-Paper.pdf" class="textlink" target="_blank">[Thesis]</a><br>
 
-请使用<a href="https://www.overleaf.com" class="textlink" target="_blank">Overleaf</a>或<a href="https://tug.org/" class="textlink" target="_blank">Tex</a>, 并参考<a href="../group/shu-template.zip" class="textlink" target="_blank">上大模板</a>
-
