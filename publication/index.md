@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /journal/
-title: Journal
-tags: [journal]
+permalink: /publication/
+title: Publication
+tags: [publication]
 modified: 2023-05-17 
 comments: false
 share: false
