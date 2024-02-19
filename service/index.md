@@ -1,9 +1,8 @@
 ---
 layout: page
-permalink: /service/
-title: Services
-tags: [service]
-modified: 2023-05-17 
+permalink: /activities/
+title: Activities
+tags: [activities]
 comments: false
 share: false
 ---
