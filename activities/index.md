@@ -34,5 +34,4 @@ share: false
 * Mathematical Programming (MP) <br>
 * Knowledge-Based Systems (KBS) <br>
 * Pattern Recognition(PR) <br>
-* Neurocomputing <br>
-* ...
+* ......
