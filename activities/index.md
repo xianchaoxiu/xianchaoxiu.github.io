@@ -8,14 +8,14 @@ share: false
 ---
 
 
-### Member 
+### Member of
 * Committee of Operations Research Society of Shanghai (ORSS) <br>
 * Institute of Electrical and Electronics Engineer (IEEE) <br>
 * Society for Industrial and Applied Mathematics (SIAM) <br>
 * Mathematical Reviews (MR)
   
 
-### Reviewer 
+### Reviewer for
 * IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) <br>
 * IEEE Transactions on Neural Networks and Learning Systems (TNNLS) <br>
 * IEEE Transactions on Image Processing (TIP) <br>
