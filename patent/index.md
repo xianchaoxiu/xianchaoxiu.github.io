@@ -3,7 +3,6 @@ layout: page
 permalink: /patent/
 title: Patent
 tags: [patent]
-modified: 2023-05-17 
 comments: false
 share: false
 ---
