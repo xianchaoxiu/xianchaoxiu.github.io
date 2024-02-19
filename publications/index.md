@@ -8,9 +8,9 @@ share: false
 ---
 
 ### Preprints
-* Sparse PCA via L2,0-norm constrained optimization for unsupervised feature selection <a href="https://github.com/yan921" class="textlink" target="_blank">[Code]</a> <br>
-* When nonlocal meets nonconvex: A new paradigm for hyperspectral image denoising <a href="https://github.com/EdSun0" class="textlink" target="_blank">[Code]</a> <br>
-* A Riemannian augmented Lagrangian method for structured sparse PCA <a href="https://github.com/ChenyiHuang23/ROFS" class="textlink" target="_blank">[Code]</a> <br>
+* Sparse PCA via L2,0-Norm Constrained Optimization for Unsupervised Feature Selection <a href="https://github.com/yan921" class="textlink" target="_blank">[Code]</a> <br>
+* When Nonlocal Meets Nonconvex: A New Paradigm for Hyperspectral Image Denoising <a href="https://github.com/EdSun0" class="textlink" target="_blank">[Code]</a> <br>
+* A Riemannian Augmented Lagrangian Method for Structured Sparse PCA <a href="https://github.com/ChenyiHuang23/ROFS" class="textlink" target="_blank">[Code]</a> <br>
 * Hyperspectral Anomaly Detection via Structured Sparsity and Plug-and-Play Senoising <a href="https://github.com/jjs-jjs" class="textlink" target="_blank">[Code]</a> <br>
 * Distributed Sparsity Constrained Optimization over the Stiefel Manifold <a href="https://github.com/wtqu" class="textlink" target="_blank">[Code]</a> <br>
 * Revisiting Lq (0 <= q < 1) Norm Regularized Optimization <a href="https://github.com/ShenglongZhou/PSNP" class="textlink" target="_blank">[Code]</a> <br>
