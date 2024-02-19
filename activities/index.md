@@ -26,8 +26,7 @@ share: false
 * IEEE Transactions on Multimedia (TMM)<br>
 * IEEE Transactions on Cybernetics (TCYB) <br>
 * IEEE Transactions on Geoscience and Remote Sensing (TGRS) <br>
-* IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS) <br>
-* IEEE Geoscience and Remote Sensing Letters (GRSL) <br>
+* IEEE Transactions on Power Electronics (TPE) <br>
 * SIAM Journal on Matrix Analysis and Applications (SIMAX) <br>
 * SIAM Journal on Imaging Sciences (SIIMS) <br>
 * SIAM Journal on Optimization (SIOPT) <br>
