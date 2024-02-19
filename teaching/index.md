@@ -3,7 +3,6 @@ layout: page
 permalink: /teaching/
 title: Teaching
 tags: [teaching]
-modified: 2023-11 
 comments: false
 share: false
 ---
