@@ -3,7 +3,6 @@ layout: page
 permalink: /research/
 title: Research
 tags: [research]
-modified: 2023-09-17 
 share: false
 ---
 
