@@ -25,7 +25,6 @@ share: false
 * IEEE Transactions on Power Electronics (TPE) <br>
 * IEEE Transactions on Signal Processing (TSP) <br>
 * IEEE Transactions on Image Processing (TIP) <br>
-* IEEE Transactions on Multimedia (TMM)<br>
 * IEEE Transactions on Cybernetics (TCYB) <br>
 * SIAM Journal on Optimization (SIOPT) <br>
 * Mathematical Programming (MP) <br>
