@@ -27,10 +27,8 @@ share: false
 * IEEE Transactions on Image Processing (TIP) <br>
 * IEEE Transactions on Cybernetics (TCYB) <br>
 * IEEE Transactions on Multimedia (TMM)<br>
-* SIAM Journal on Matrix Analysis and Applications (SIMAX) <br>
-* SIAM Journal on Imaging Sciences (SIIMS) <br>
 * SIAM Journal on Optimization (SIOPT) <br>
 * Mathematical Programming (MP) <br>
-* Knowledge-Based Systems (KBS) <br>
-* Pattern Recognition(PR) <br>
+* Pattern Recognition (PR) <br>
+* Automatica <br>
 * ......
