@@ -7,11 +7,7 @@ comments: false
 share: false
 ---
 
- I am recruiting self-motivated graduate students with great interests in machine learning and pattern recognition. Reference books   
-        <ul>
-        <li> Optimization: Modeling, Algorithm and Theory (in Chinese) <a href="../teaching/OPT.pdf" class="textlink" target="_blank">[Book]</a> <a href="http://faculty.bicmr.pku.edu.cn/~wenzw/optbook.html" class="textlink" target="_blank">[Web]</a></li>
-	<li> Fundamentals of Pattern Recognition and Machine Learning <a href="../teaching/PR.pdf" class="textlink" target="_blank">[Book] </a> <a href="https://braganeto.engr.tamu.edu/book-website/" class="textlink" target="_blank">[Web]</a></li>
-        </ul>	
+
 
 ### Graduate Students
 * 杨安宁 (2022.09-2025.06): 稀疏黎曼流形优化及其应用
