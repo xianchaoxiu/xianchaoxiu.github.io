@@ -8,6 +8,7 @@ share: false
 ---
 
 ### Preprints
+* Robust Sparse Phase Retrieval: New Model and Convergent Algorithm <br>
 * Sparse PCA via L2,0-Norm Constrained Optimization for Unsupervised Feature Selection <br>
 * When Nonlocal Meets Nonconvex: A New Paradigm for Hyperspectral Image Denoising <br>
 * Hyperspectral Anomaly Detection via Structured Sparsity and Plug-and-Play Denoising <br>
