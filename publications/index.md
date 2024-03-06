@@ -8,8 +8,8 @@ share: false
 ---
 
 ### Preprints
+* Robust Sparse Phase Retrieval with Globally Convergent Majorization-Minimization Algorithm <br>
 * Hyperspectral Anomaly Detection via Structured Sparsity and Plug-and-Play Denoising <br>
-* Robust Sparse Phase Retrieval: New Model and Convergent Algorithm <br>
 * Distributed Sparsity Constrained Optimization over the Stiefel Manifold <br>
 * Revisiting Lq (0 <= q < 1) Norm Regularized Optimization <br>
 
