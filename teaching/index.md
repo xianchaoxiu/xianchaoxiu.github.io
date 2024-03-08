@@ -26,7 +26,7 @@ share: false
 * 名称：计算机仿真<br>
 * 代码：09366120 <br>
 * 适用：本科生（限60人）<br>
-* 教材：控制系统计算机辅助设计——MATLAB语言与应用（第4版），薛定宇，清华大学出版社 <a href="https://item.jd.com/13335949.html" class="textlink" target="_blank">[Book]</a> <a href="https://www.bilibili.com/video/BV1zb411a7ux/?spm_id_from=333.337.search-card.all.click&vd_source=6605f0f4fa55607ac4ed947eaf69e791" class="textlink" target="_blank">[Video]</a><br>
+* 教材：控制系统计算机辅助设计——MATLAB语言与应用（第4版），薛定宇，清华大学出版社 <a href="https://item.jd.com/13335949.html" class="textlink" target="_blank">[Book]</a> <a href="https://www.bilibili.com/video/BV1zb411a7ux/?spm_id_from=333.337.search-card.all.click&vd_source=6605f0f4fa55607ac4ed947eaf69e791" class="textlink" target="_blank">[Video]</a> <a href="https://github.com/xianchaoxiu/Computer-Simulation" class="textlink" target="_blank">[Slide]</a> <br>
 
 
 
