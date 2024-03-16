@@ -15,7 +15,7 @@ share: false
 * Revisiting Lq (0 <= q < 1) Norm Regularized Optimization <br>
 
 ### 2024-Present
-* <b>X. Xiu</b>, Y. Zhang, Y. Guo, X. Liu, Y. Yang*, A New End-to-End Monitoring Framework for Nonlinear Dynamic Processes with Unknown Noise Statistics, <i>IEEE Transactions on Instrumentation and Measurement</i>, 2024 <a href="https://github.com/xianchaoxiu/IEEE_TIM_DRNN" class="textlink" target="_blank">[Code]</a> <br>
+* <b>X. Xiu</b>, Y. Zhang, Y. Guo, X. Liu, Y. Yang*, A New End-to-End Monitoring Framework for Nonlinear Dynamic Processes with Unknown Noise Statistics, <i>IEEE Transactions on Instrumentation and Measurement</i>, 2024 <a href="https://ieeexplore.ieee.org/document/10464356" class="textlink" target="_blank">[Paper]</a> <a href="https://github.com/xianchaoxiu/IEEE_TIM_DRNN" class="textlink" target="_blank">[Code]</a> <br>
 * <b>X. Xiu</b>, L. Pan, Y. Yang*, W. Liu, Efficient and Fast Joint Sparse Constrained Canonical Correlation Analysis for Fault Detection, <i>IEEE Transactions on Neural Networks and Learning Systems</i>, 2024 <a href="https://ieeexplore.ieee.org/document/9887978" class="textlink" target="_blank">[Paper]</a> <br>
 
 ### 2018-2023
