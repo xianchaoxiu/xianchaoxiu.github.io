@@ -8,7 +8,7 @@ share: false
 ---
 
 ### Preprints
-* Solving Robust Sparse Phase Retrieval via Convergent Majorization-Minimization Algorithm with Linear Rate <br>
+* Solving Robust Sparse Phase Retrieval via Linearly Convergent Majorization-Minimization Algorithm <br>
 * Hyperspectral Anomaly Detection via Structured Sparsity and Plug-and-Play Denoising <br>
 * Towards Robust and Sparse Linear Discriminant Analysis for Image Classification <br>
 * Distributed Sparsity Constrained Optimization over the Stiefel Manifold <br>
