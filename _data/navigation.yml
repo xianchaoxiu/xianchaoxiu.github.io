@@ -7,17 +7,17 @@
   
  #{{ site.url }}
 
-- title: Publications
-  url: /publications
+- title: Journals
+  url: /journals
 
-
+- title: Conferences
+  url: /conferences
+  
 - title: Patents
   url: /patents
 
-
 - title: Group
   url: /group
-
   
 - title: Teaching
   url: /teaching
