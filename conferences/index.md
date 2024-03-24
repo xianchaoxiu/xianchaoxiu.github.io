@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /conferences/
-title: Selected Conferences
+title: Conferences
 tags: [conferences]
 modified: 2023-05-17 
 comments: false
