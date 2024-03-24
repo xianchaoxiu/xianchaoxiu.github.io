@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /journals/
-title: Selected Journals
+title: Journals
 tags: [journals]
 comments: false
 share: false
