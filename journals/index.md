@@ -13,7 +13,7 @@ share: false
 * Solving Robust Sparse Phase Retrieval via Linearly Convergent Majorization-Minimization Algorithm <br>
 * Towards Robust and Sparse Linear Discriminant Analysis for Image Classification <br>
 * Distributed Sparsity Constrained Optimization over the Stiefel Manifold <br>
-* Revisiting Lq (0 <= q < 1) Norm Regularized Optimization <br>
+* Revisiting Lq (0 <= q < 1) Norm Regularized Optimization <a href="https://arxiv.org/abs/2306.14394" class="textlink" target="_blank">[arXiv]</a> <a href="https://github.com/ShenglongZhou/PSNP" class="textlink" target="_blank">[Code]</a> <br>
 
 ### 2024-Present
 * <b>X. Xiu</b>, Y. Zhang, Y. Guo, X. Liu, Y. Yang*, A New End-to-End Monitoring Framework for Nonlinear Dynamic Processes with Unknown Noise Statistics, <i>IEEE Transactions on Instrumentation and Measurement</i>, 2024 <a href="https://ieeexplore.ieee.org/document/10464356" class="textlink" target="_blank">[Paper]</a> <a href="https://github.com/xianchaoxiu/IEEE_TIM_DRNN" class="textlink" target="_blank">[Code]</a> <br>
