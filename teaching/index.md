@@ -35,6 +35,6 @@ share: false
 * 代码：7XB092001 <br>
 * 时间：2022-2023冬季<br>
 * 适用：研究生（限100人） <br>
-* 教材：学术论文写作手册（第8版），A. Winkler，C. Metherell，北京大学出版社 <a href="https://item.jd.com/12054881.html" class="textlink" target="_blank">[Book]</a> <a href="http://faculty.bicmr.pku.edu.cn/~wenzw/optbook.html" class="textlink" target="_blank">[Slide]</a> <br>
+* 教材：学术论文写作手册（第8版），A. Winkler，C. Metherell，北京大学出版社 <a href="https://item.jd.com/12054881.html" class="textlink" target="_blank">[Book]</a> <a href="../teaching/SW.pdf" class="textlink" target="_blank">[Slide]</a> <br>
 
   
