@@ -17,4 +17,4 @@ share: false
 
 ### 2018-2023
 * <b>X. Xiu*</b>, R. Liu, Z. Miao, A Sparse Semismooth Newton-Based Manifold Algorithm for Partial Least Squares, <i>China Automation Congress (CAC)</i>, 2022 <a href="https://ieeexplore.ieee.org/document/10055654" class="textlink" target="_blank">[Paper]</a> <br>
-* <b>X. Xiu</b>, Y. Yang*, K. Kong, W. Liu, A Highly Efficient Joint Sparsity Constrained Robust Principal Component Analysis for Fault Diagnosis, <i>IEEE 9th Data Driven Control and Learning Systems Conference (DDCLS)</i>, 2020, Best Paper Nomination Award <a href="https://ieeexplore.ieee.org/abstract/document/9275063" class="textlink" target="_blank">[Paper]</a> <br>
+* <b>X. Xiu</b>, Y. Yang*, K. Kong, W. Liu, A Highly Efficient Joint Sparsity Constrained Robust Principal Component Analysis for Fault Diagnosis, <i>IEEE 9th Data Driven Control and Learning Systems Conference (DDCLS)</i>, 2020, <b>Best Paper Nomination Award</b> <a href="https://ieeexplore.ieee.org/abstract/document/9275063" class="textlink" target="_blank">[Paper]</a> <br>
