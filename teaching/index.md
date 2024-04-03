@@ -29,12 +29,4 @@ share: false
 * 适用：本科生（限60人）<br>
 * 教材：控制系统计算机辅助设计——MATLAB语言与应用（第4版），薛定宇，清华大学出版社 <a href="https://item.jd.com/13335949.html" class="textlink" target="_blank">[Book]</a> <a href="https://www.bilibili.com/video/BV1zb411a7ux/?spm_id_from=333.337.search-card.all.click&vd_source=6605f0f4fa55607ac4ed947eaf69e791" class="textlink" target="_blank">[Video]</a> <br>
 
-
-### Scientific Writing
-* 名称：学术英语写作<br>
-* 代码：7XB092001 <br>
-* 时间：2022-2023冬季<br>
-* 适用：研究生（限100人） <br>
-* 教材：学术论文写作手册（第8版），A. Winkler，C. Metherell，北京大学出版社 <a href="https://item.jd.com/12054881.html" class="textlink" target="_blank">[Book]</a> <a href="../teaching/SW.pdf" class="textlink" target="_blank">[Slide]</a> <br>
-
   
