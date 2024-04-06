@@ -8,6 +8,7 @@ share: false
 ---
 
 ### Preprints
+* Distributed Sparsity Constrained Optimization Over the Stiefel Manifold <a href="https://github.com/xianchaoxiu/HPR" class="textlink" target="_blank">[Code]</a> <br>
 * Solving Robust Sparse Phase Retrieval via Linearly Convergent Majorization-Minimization Algorithm <a href="https://github.com/xianchaoxiu/HPR" class="textlink" target="_blank">[Code]</a> <br>
 * Revisiting Lq (0 <= q < 1) Norm Regularized Optimization <a href="https://arxiv.org/abs/2306.14394" class="textlink" target="_blank">[arXiv]</a> <a href="https://github.com/ShenglongZhou/PSNP" class="textlink" target="_blank">[Code]</a> <br>
 
