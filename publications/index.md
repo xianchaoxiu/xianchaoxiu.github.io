@@ -8,7 +8,8 @@ share: false
 ---
 
 ### Preprints
-* Revisiting Lq (0 <= q < 1) Norm Regularized Optimization <a href="https://arxiv.org/abs/2306.14394" class="textlink" target="_blank">[arXiv]</a> <a href="https://github.com/ShenglongZhou/PSNP" class="textlink" target="_blank">[Code]</a> <br>
+* Solving Robust Sparse Phase Retrieval via Linearly Convergent Majorization-Minimization Algorithm <a href="https://www.researchgate.net/publication/379608686" class="textlink" target="_blank">[Paper]</a> <a href="https://github.com/xianchaoxiu/HPR" class="textlink" target="_blank">[Code]</a> <br>
+* Revisiting Lq (0 <= q < 1) Norm Regularized Optimization <a href="https://arxiv.org/abs/2306.14394" class="textlink" target="_blank">[Paper]</a> <a href="https://github.com/ShenglongZhou/PSNP" class="textlink" target="_blank">[Code]</a> <br>
 
 ### 2024-Present
 * J.Liu, M. Feng, <b>X. Xiu*</b>, W. Liu, Towards Robust and Sparse Linear Discriminant Analysis for Image Classification, <i>Pattern Recognition</i>, 2024 <a href="https://ieeexplore.ieee.org/document/10464356" class="textlink" target="_blank">[Paper]</a> <a href="https://github.com/xianchaoxiu/2024-TIM" class="textlink" target="_blank">[Code]</a> <br>
