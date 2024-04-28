@@ -9,7 +9,6 @@ share: false
 
 ### Preprints
 * Hyperspectral Anomaly Detection via Multidirectional Sparsity and Plug-and-Play Denoising <br>
-* PnP-TLRA: Deep Plug-and-Play Tensor Low-Rank Approximation for Hyperspectral Anomaly Detection <br>	
 * Solving Robust Sparse Phase Retrieval via Linearly Convergent Majorization-Minimization Algorithm  <br>
 * Distributed Sparsity Constrained Optimization Over the Stiefel Manifold	 <br>
 * Revisiting Lq (0 <= q < 1) Norm Regularized Optimization <a href="https://arxiv.org/abs/2306.14394" class="textlink" target="_blank">[Paper]</a> <a href="https://github.com/ShenglongZhou/PSNP" class="textlink" target="_blank">[Code]</a> <br>
