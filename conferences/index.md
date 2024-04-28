@@ -11,8 +11,8 @@ share: false
 
 ### 2024-Present
 
-* A. Yang, X. Li, <b>X. Xiu*</b>, Sparse PCA via L2,0-Norm Constrained Optimization for Unsupervised Feature Selection, <i> Chinese Control Conference (CCC)</i>, 2024  <br>
-* S. Sun, Y. Lei, <b>X. Xiu*</b>, When Nonlocal Meets Nonconvex: A New Paradigm for Hyperspectral Image Denoising, <i> Chinese Control Conference (CCC)</i>, 2024  <br>
+* A. Yang, X. Li, <b>X. Xiu*</b>, Sparse PCA via L2,0-Norm Constrained Optimization for Unsupervised Feature Selection, <i> Chinese Control Conference (CCC)</i>, 2024 <br>
+* S. Sun, Y. Lei, <b>X. Xiu*</b>, When Nonlocal Meets Nonconvex: A New Paradigm for Hyperspectral Image Denoising, <i> Chinese Control Conference (CCC)</i>, 2024 <br>
 * C. Huang, P. Shang, <b>X. Xiu*</b>, A Riemannian Augmented Lagrangian Method for Structured Sparse PCA, <i> Chinese Control Conference (CCC)</i>, 2024 <br>
 
 ### 2018-2023
