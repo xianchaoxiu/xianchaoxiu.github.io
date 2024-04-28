@@ -16,4 +16,4 @@ share: false
 * C. Huang, P. Shang, <b>X. Xiu*</b>, A Riemannian Augmented Lagrangian Method for Structured Sparse PCA, <i> Chinese Control Conference (CCC)</i>, 2024 <br>
 
 ### 2018-2023
-* <b>X. Xiu</b>, Y. Yang*, K. Kong, W. Liu, A Highly Efficient Joint Sparsity Constrained Robust Principal Component Analysis for Fault Diagnosis, <i>IEEE 9th Data Driven Control and Learning Systems Conference (DDCLS)</i>, 2020 <a href="https://ieeexplore.ieee.org/abstract/document/9275063" class="textlink" target="_blank">[Paper]</a> Best Paper Nomination Award <br>
+* <b>X. Xiu</b>, Y. Yang*, K. Kong, W. Liu, A Highly Efficient Joint Sparsity Constrained Robust Principal Component Analysis for Fault Diagnosis, <i>IEEE 9th Data Driven Control and Learning Systems Conference (DDCLS)</i>, <b>Best Paper Nomination Award</b>, 2020 <a href="https://ieeexplore.ieee.org/abstract/document/9275063" class="textlink" target="_blank">[Paper]</a> <br>
