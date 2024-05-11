@@ -8,9 +8,6 @@ share: false
 ---
 
 ### Preprints
-* Unsupervised Feature Selection via Bi-Sparsity Constrained Optimization <br>
-* Learning Sparse PCA on Grassmann Manifold for Unsupervised Feature Selection <br>
-* STAR-Net: An Interpretable Model-Aided Network for Hyperspectral Image Denoising <br>
 * Hyperspectral Anomaly Detection via Multidirectional Sparsity and Plug-and-Play Denoising <br>
 * PnP-TLRA: Deep Plug-and-Play Tensor Low-Rank Approximation for Hyperspectral Anomaly Detection <br>	
 * Solving Robust Sparse Phase Retrieval via Linearly Convergent Majorization-Minimization Algorithm <br>
