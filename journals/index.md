@@ -9,7 +9,7 @@ share: false
 
 ### Preprints
 * Nonlocal Hyperspectral Image Denoising with Nonconvex Regularization <br>
-* Unsupervised Feature Selection via Bi-sparsity Constrained Optimization <br>
+* Unsupervised Feature Selection via Double Sparsity Constrained Optimization <br>
 * Learning Nonconvex PCA on Grassmann Manifold for Unsupervised Feature Selection <br>
 * Solving Robust Sparse Phase Retrieval via Linearly Convergent Majorization-Minimization Algorithm <br>
 * Distributed Sparsity Constrained Optimization Over the Stiefel Manifold <br>
