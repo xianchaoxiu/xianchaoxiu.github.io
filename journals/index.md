@@ -11,8 +11,8 @@ share: false
 * Nonlocal Hyperspectral Image Denoising with Nonconvex Regularization <br>
 * Unsupervised Feature Selection via Double Sparsity Constrained Optimization <br>
 * Learning Nonconvex PCA on Grassmann Manifold for Unsupervised Feature Selection <br>
-* Solving Robust Sparse Phase Retrieval via Linearly Convergent Majorization-Minimization Algorithm <br>
-* Distributed Sparsity Constrained Optimization over the Stiefel Manifold <br>
+* Solving Robust Sparse Phase Retrieval via Linearly Convergent Majorization-Minimization Algorithm <a href="https://github.com/xianchaoxiu/HPR" class="textlink" target="_blank">[Code]</a> <br>
+* Distributed Sparsity Constrained Optimization over the Stiefel Manifold <a href="https://github.com/wtqu" class="textlink" target="_blank">[Code]</a> <br>
 * Revisiting Lq (0 <= q < 1) Norm Regularized Optimization <a href="https://arxiv.org/abs/2306.14394" class="textlink" target="_blank">[Paper]</a> <a href="https://github.com/ShenglongZhou/PSNP" class="textlink" target="_blank">[Code]</a> <br>
 
 ### 2024-Present
