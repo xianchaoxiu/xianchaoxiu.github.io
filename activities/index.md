@@ -32,15 +32,10 @@ share: false
 * SIAM Journal on Imaging Sciences (SIIMS) <br>
 * SIAM Journal on Optimization (SIOPT) <br>
 * Journal of Scientific Computing (JSC) <br>
-* Expert Systems with Applications (ESA) <br>
 * Mathematical Programming (MP) <br>
-* Knowledge-Based Systems (KBS) <br>
-* Information Sciences (IS) <br>
-* Applied Intelligence (AI) <br>
 * Pattern Recognition (PR) <br>
 * Information Fusion (IF) <br>
 * Inverse Problems (IP) <br>
-* Machine Learning (ML) <br>
 * Neural Networks (NN) <br>
 * Neurocomputing <br>
 * ......
