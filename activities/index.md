@@ -27,10 +27,8 @@ share: false
 * IEEE Transactions on Image Processing (TIP) <br>
 * IEEE Transactions on Cybernetics (TCYB) <br>
 * IEEE Transactions on Multimedia (TMM) <br>
-* Journal of Computational and Applied Mathematics (JCAM) <br>
 * International Journal of Computer Vision (IJCV) <br>
 * Journal of Machine Learning Research (JMLR) <br>
-* Applied Mathematical Modelling  (AMM) <br>
 * SIAM Journal on Imaging Sciences (SIIMS) <br>
 * SIAM Journal on Optimization (SIOPT) <br>
 * Journal of Scientific Computing (JSC) <br>
