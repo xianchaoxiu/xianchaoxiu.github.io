@@ -37,5 +37,4 @@ share: false
 * Information Fusion (IF) <br>
 * Inverse Problems (IP) <br>
 * Neural Networks (NN) <br>
-* Neurocomputing <br>
 * ......
