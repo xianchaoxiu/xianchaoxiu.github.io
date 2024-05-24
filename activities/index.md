@@ -1,4 +1,3 @@
-![image](https://github.com/xianchaoxiu/xianchaoxiu.github.io/assets/128447891/ba12ad17-ecc5-41c2-9e6f-b56e393fb051)---
 layout: page
 permalink: /activities/
 title: Activities
