@@ -31,10 +31,10 @@ share: false
 * Journal of Machine Learning Research (JMLR) <br>
 * SIAM Journal on Imaging Sciences (SIIMS) <br>
 * SIAM Journal on Optimization (SIOPT) <br>
-* Journal of Scientific Computing (JSC) <br>
 * Mathematical Programming (MP) <br>
+* Information Sciences (IS) <br>
 * Pattern Recognition (PR) <br>
 * Information Fusion (IF) <br>
-* Neural Networks (NN) <br>
 * Inverse Problems (IP) <br>
+* Neural Networks (NN) <br>
 * ......
