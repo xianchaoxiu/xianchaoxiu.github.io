@@ -22,7 +22,6 @@ share: false
 * IEEE Transactions on Knowledge and Data Engineering (TKDE)<br>
 * IEEE Transactions on Geoscience and Remote Sensing (TGRS) <br>
 * IEEE Transactions on Industrial Informatics (TII) <br>
-* IEEE Transactions on Industrial Electronics (TIE) <br>
 * IEEE Transactions on Signal Processing (TSP) <br>
 * IEEE Transactions on Image Processing (TIP) <br>
 * IEEE Transactions on Cybernetics (TCYB) <br>
