@@ -17,7 +17,6 @@ share: false
 
 ### Reviewer for
 * IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) <br>
-* IEEE Transactions on Circuits and Systems for Video Technology (TCSVT) <br>
 * IEEE Transactions on Neural Networks and Learning Systems (TNNLS) <br>
 * IEEE Transactions on Knowledge and Data Engineering (TKDE)<br>
 * IEEE Transactions on Geoscience and Remote Sensing (TGRS) <br>
