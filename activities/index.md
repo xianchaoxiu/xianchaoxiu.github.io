@@ -35,6 +35,6 @@ share: false
 * Information Sciences (IS) <br>
 * Pattern Recognition (PR) <br>
 * Information Fusion (IF) <br>
-* Inverse Problems (IP) <br>
 * Neural Networks (NN) <br>
+* Inverse Problems (IP) <br>
 * ......
