@@ -36,3 +36,9 @@ share: false
 * Neural Networks (NN) <br>
 * Inverse Problems (IP) <br>
 * ......
+
+
+
+### Awards (in Chinese)
+* 上海大学优秀本科毕业设计指导奖, 2023 <br>
+* 上海大学自动化系十佳优秀教师, 2022 <br>
