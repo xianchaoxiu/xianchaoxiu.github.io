@@ -30,7 +30,6 @@ share: false
 * SIAM Journal on Imaging Sciences (SIIMS) <br>
 * SIAM Journal on Optimization (SIOPT) <br>
 * Mathematical Programming (MP) <br>
-* Information Sciences (IS) <br>
 * Pattern Recognition (PR) <br>
 * Information Fusion (IF) <br>
 * Neural Networks (NN) <br>
