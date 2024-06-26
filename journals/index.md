@@ -8,10 +8,10 @@ share: false
 ---
 
 ### Preprints
+* Revisiting Unsupervised Feature Selection via Double Sparsity Constrained Optimization <br>
 * Weighted Multidirectional Sparsity Regularized Low-rank Tensor Representation for Hyperspectral Anomaly Detection <br>
 * Solving Robust Sparse Phase Retrieval via Linearly Convergent Majorization-Minimization Algorithm <br>
 * Distributed Sparsity Constrained Optimization Over the Stiefel Manifold	<br>
-* Revisiting Lq (0 <= q < 1) Norm Regularized Optimization <a href="https://arxiv.org/abs/2306.14394" class="textlink" target="_blank">[Paper]</a> <a href="https://github.com/ShenglongZhou/PSNP" class="textlink" target="_blank">[Code]</a> <br>
 
 ### 2024-Present
 * J. Liu, M. Feng, <b>X. Xiu*</b>, W. Liu, Towards Robust and Sparse Linear Discriminant Analysis for Image Classification, <i>Pattern Recognition</i>, 2024 <a href="https://www.sciencedirect.com/science/article/pii/S0031320324002632" class="textlink" target="_blank">[Paper]</a> <a href="https://github.com/EMXlight/RSLDAplus" class="textlink" target="_blank">[Code]</a> <br>
