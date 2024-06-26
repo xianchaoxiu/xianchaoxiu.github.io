@@ -9,7 +9,6 @@ share: false
 
 ### Preprints
 * Revisiting Unsupervised Feature Selection via Double Sparsity Constrained Optimization <br>
-* Weighted Multidirectional Sparsity Regularized Low-rank Tensor Representation for Hyperspectral Anomaly Detection <br>
 * Solving Robust Sparse Phase Retrieval via Linearly Convergent Majorization-Minimization Algorithm <br>
 * Distributed Sparsity Constrained Optimization Over the Stiefel Manifold	<br>
 
