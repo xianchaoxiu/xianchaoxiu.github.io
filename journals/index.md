@@ -8,7 +8,7 @@ share: false
 ---
 
 ### Preprints
-* Bi-Sparse Feature Selection <br>
+* Bi-Sparse Unsupervised Feature Selection <br>
 * Revisiting Unsupervised Feature Selection via Double Sparsity Constrained Optimization <br>
 * Solving Robust Sparse Phase Retrieval via Linearly Convergent Majorization-Minimization Algorithm <br>
 * Distributed Sparsity Constrained Optimization Over the Stiefel Manifold	<br>
