@@ -8,8 +8,6 @@ share: false
 ---
 
 ### Preprints
-* Solving Robust Sparse Phase Retrieval via Linearly Convergent Majorization-Minimization Algorithm <br>
-* Distributed Sparsity Constrained Optimization Over the Stiefel Manifold	<br>
 * Revisiting Lq(0≤q<1) Norm Regularized Optimization <a href="https://arxiv.org/abs/2306.14394" class="textlink" target="_blank">[ArXiv]</a> <a href="https://github.com/ShenglongZhou/PSNP" class="textlink" target="_blank">[Code]</a> <br>
 
 ### 2024-Present
