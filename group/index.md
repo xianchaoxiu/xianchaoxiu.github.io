@@ -13,6 +13,7 @@ share: false
 * TBA
   
 ### Master's Students
+* Long Chen (2024.09-2027.06) 
 * Jianhao Li (2024.09-2027.06)
 * Chenyi Huang (2023.09-2026.06)
 * Anning Yang (2022.09-2025.06)
