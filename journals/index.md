@@ -7,9 +7,6 @@ comments: false
 share: false
 ---
 
-### Preprints
-* Revisiting Lq(0≤q<1) Norm Regularized Optimization <a href="https://arxiv.org/abs/2306.14394" class="textlink" target="_blank">[ArXiv]</a> <a href="https://github.com/ShenglongZhou/PSNP" class="textlink" target="_blank">[Code]</a> <br>
-
 ### 2024-Present
 * W. Qu, H. Chen, <b>X. Xiu*</b>, W. Liu, Distributed Sparsity Constrained Optimization Over the Stiefel Manifold, <i>Neurocomputing</i>, 2024 <a href="https://www.sciencedirect.com/science/article/pii/S0925231224010385" class="textlink" target="_blank">[Paper]</a> <a href="https://github.com/wtqu/DREAM" class="textlink" target="_blank">[Code]</a> <br>
 * J. Liu, M. Feng, <b>X. Xiu*</b>, W. Liu, Towards Robust and Sparse Linear Discriminant Analysis for Image Classification, <i>Pattern Recognition</i>, 2024 <a href="https://www.sciencedirect.com/science/article/pii/S0031320324002632" class="textlink" target="_blank">[Paper]</a> <a href="https://github.com/EMXlight/RSLDAplus" class="textlink" target="_blank">[Code]</a> <br>
