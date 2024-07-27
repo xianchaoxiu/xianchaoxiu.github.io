@@ -9,7 +9,7 @@ share: false
 
 
  
-### Numerical Optimization (Graduate)
+### Optimization (Graduate)
 * Introduction  <a href="../group/2024-Yu.pdf" class="textlink" target="_blank">[Slide]</a>
 * Introduction  <a href="../group/2024-Yu.pdf" class="textlink" target="_blank">[Slide]</a>
 * Introduction  <a href="../group/2024-Yu.pdf" class="textlink" target="_blank">[Slide]</a>
