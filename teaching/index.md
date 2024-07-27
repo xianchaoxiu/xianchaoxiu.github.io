@@ -9,20 +9,20 @@ share: false
 
 
  
-### Optimization (Graduate)
+### Optimization
 * Introduction  <a href="../group/2024-Yu.pdf" class="textlink" target="_blank">[Slide]</a>
 * Introduction  <a href="../group/2024-Yu.pdf" class="textlink" target="_blank">[Slide]</a>
 * Introduction  <a href="../group/2024-Yu.pdf" class="textlink" target="_blank">[Slide]</a>
 
 
 
-### Operations Research (Undergraduate)
+### Operations Research
 * Introduction  <a href="../group/2024-Yu.pdf" class="textlink" target="_blank">[Slide]</a>
 * Introduction  <a href="../group/2024-Yu.pdf" class="textlink" target="_blank">[Slide]</a>
 * Introduction  <a href="../group/2024-Yu.pdf" class="textlink" target="_blank">[Slide]</a>
 
 
-### Machine Vision (Undergraduate)
+### Machine Vision
 * Introduction  <a href="../group/2024-Yu.pdf" class="textlink" target="_blank">[Slide]</a>
 * Introduction  <a href="../group/2024-Yu.pdf" class="textlink" target="_blank">[Slide]</a>
 * Introduction  <a href="../group/2024-Yu.pdf" class="textlink" target="_blank">[Slide]</a>
