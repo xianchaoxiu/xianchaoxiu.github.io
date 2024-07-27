@@ -7,7 +7,14 @@ comments: false
 share: false
 ---
 
+
  
+### Numerical Optimization (Graduate)
+* Introduction  <a href="../group/2024-Yu.pdf" class="textlink" target="_blank">[Slide]</a>
+* Introduction  <a href="../group/2024-Yu.pdf" class="textlink" target="_blank">[Slide]</a>
+* Introduction  <a href="../group/2024-Yu.pdf" class="textlink" target="_blank">[Slide]</a>
+
+
 
 ### Operations Research (Undergraduate)
 * Introduction  <a href="../group/2024-Yu.pdf" class="textlink" target="_blank">[Slide]</a>
@@ -20,10 +27,5 @@ share: false
 * Introduction  <a href="../group/2024-Yu.pdf" class="textlink" target="_blank">[Slide]</a>
 * Introduction  <a href="../group/2024-Yu.pdf" class="textlink" target="_blank">[Slide]</a>
 
-
-### Numerical Optimization (Graduate)
-* Introduction  <a href="../group/2024-Yu.pdf" class="textlink" target="_blank">[Slide]</a>
-* Introduction  <a href="../group/2024-Yu.pdf" class="textlink" target="_blank">[Slide]</a>
-* Introduction  <a href="../group/2024-Yu.pdf" class="textlink" target="_blank">[Slide]</a>
 
   
