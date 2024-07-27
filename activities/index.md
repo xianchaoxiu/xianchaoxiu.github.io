@@ -10,8 +10,10 @@ share: false
 
 ### Member of
 * Committee of Operations Research Society of Shanghai (ORSS) <br>
-* Society for Industrial and Applied Mathematics (SIAM) <br>
 * Institute of Electrical and Electronics Engineer (IEEE) <br>
+* Society for Industrial and Applied Mathematics (SIAM) <br>
+* Operations Research Society of China (ORSC) <br>
+* Chinese Association of Automation (CAA) <br>
 * Mathematical Reviews (MR)
   
 
