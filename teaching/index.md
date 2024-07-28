@@ -14,9 +14,9 @@ share: false
 * Chapter 2: Basics  <a href="../teaching/OR-2.pdf" class="textlink" target="_blank">[Slide]</a>
 * Chapter 3: Optimization Problems  <a href="../teaching/OR-3.pdf" class="textlink" target="_blank">[Slide]</a>
 * Chapter 4: Optimality Theory  <a href="../teaching/OR-4.pdf" class="textlink" target="_blank">[Slide]</a>
-* Chapter 5: Unconstrained Algorithms  <a href="../teaching/OR-5" class="textlink" target="_blank">[Slide]</a>
-* Chapter 6: Constrained Algorithms  <a href="../teaching/OR-6.pdf" class="textlink" target="_blank">[Slide]</a>
-* Chapter 7: Composite Algorithms  <a href="../teaching/OR-6.pdf" class="textlink" target="_blank">[Slide]</a>
+* Chapter 5: Unconstrained Optimization  <a href="../teaching/OR-5" class="textlink" target="_blank">[Slide]</a>
+* Chapter 6: Constrained Optimization  <a href="../teaching/OR-6.pdf" class="textlink" target="_blank">[Slide]</a>
+* Chapter 7: Composite Optimization  <a href="../teaching/OR-6.pdf" class="textlink" target="_blank">[Slide]</a>
 
 
 
