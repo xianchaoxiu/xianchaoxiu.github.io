@@ -9,7 +9,7 @@ share: false
 
 
  
-### Optimization
+### Numerical Optimization
 * Chapter 1: Introduction to Optimization  <a href="../teaching/OR-1.pdf" class="textlink" target="_blank">[Slide]</a>
 * Chapter 2: Basic Knowledge  <a href="../teaching/OR-2.pdf" class="textlink" target="_blank">[Slide]</a>
 * Chapter 3: Typical Optimization Problems  <a href="../teaching/OR-3.pdf" class="textlink" target="_blank">[Slide]</a>
