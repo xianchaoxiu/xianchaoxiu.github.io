@@ -14,7 +14,7 @@ share: false
 * Institute of Electrical and Electronics Engineer <a href="https://www.ieee.org" class="textlink" target="_blank">[Home]</a> <br>
 * Operations Research Society of China <a href="https://www.orsc.org.cn" class="textlink" target="_blank">[Home]</a> <br>
 * Chinese Association of Automation <a href="https://www.caa.org.cn" class="textlink" target="_blank">[Home]</a> <br>
-* Mathematical Reviews <a href="https://mathscinet.ams.org/mresubs/index.html" class="textlink" target="_blank">[Home]</a> <br>
+* Mathematical Reviews <a href="https://mathscinet.ams.org" class="textlink" target="_blank">[Home]</a> <br>
   
 
 ### Reviewer for
