@@ -20,7 +20,6 @@ share: false
 ### Reviewer for
 * IEEE Transactions on Pattern Analysis and Machine Intelligence <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34" class="textlink" target="_blank">[Home]</a> <br>
 * IEEE Transactions on Neural Networks and Learning Systems <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385" class="textlink" target="_blank">[Home]</a> <br>
-* IEEE Transactions on Knowledge and Data Engineering <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69" class="textlink" target="_blank">[Home]</a> <br>
 * IEEE Transactions on Automatic Control <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9" class="textlink" target="_blank">[Home]</a> <br>
 * IEEE Transactions on Image Processing <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83" class="textlink" target="_blank">[Home]</a> <br>
 * IEEE Transactions on Signal Processing <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=78" class="textlink" target="_blank">[Home]</a> <br>
