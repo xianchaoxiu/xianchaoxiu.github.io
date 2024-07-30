@@ -34,7 +34,6 @@ share: false
 * Information Fusion <a href="https://www.sciencedirect.com/journal/information-fusion" class="textlink" target="_blank">[Home]</a> <br>
 * Neural Networks <a href="https://www.sciencedirect.com/journal/neural-networks" class="textlink" target="_blank">[Home]</a> <br>
 * Inverse Problems <a href="https://iopscience.iop.org/journal/0266-5611" class="textlink" target="_blank">[Home]</a> <br>
-* Inverse Problems <a href="https://iopscience.iop.org/journal/0266-5611" class="textlink" target="_blank">[Home]</a> <br>
 * Automatica <a href="https://www.sciencedirect.com/journal/automatica" class="textlink" target="_blank">[Home]</a> <br>
 * ......
 
