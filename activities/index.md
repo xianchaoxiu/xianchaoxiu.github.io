@@ -9,10 +9,12 @@ share: false
 
 
 ### Member of
-* Committee of Operations Research Society of Shanghai (ORSS) <br>
-* Institute of Electrical and Electronics Engineer (IEEE) <br>
-* Chinese Association of Automation (CAA) <br>
-* Mathematical Reviews (MR)
+* Committee of Operations Research Society of Shanghai (ORSS) <a href="http://www.shorsc.org.cn" class="textlink" target="_blank">[Home]</a> <br>
+* Operations Research Society of China (ORSC) <a href="https://www.orsc.org.cn" class="textlink" target="_blank">[Home]</a> <br>
+* China Society for Industrial and Applied Mathematics (CSIAM) <a href="https://csiam.org.cn" class="textlink" target="_blank">[Home]</a> <br>
+* Institute of Electrical and Electronics Engineer (IEEE) <a href="https://www.ieee.org" class="textlink" target="_blank">[Home]</a> <br>
+* Chinese Association of Automation (CAA) <a href="https://www.caa.org.cn" class="textlink" target="_blank">[Home]</a> <br>
+* Mathematical Reviews (MR) <a href="https://mathscinet.ams.org/mresubs/index.html" class="textlink" target="_blank">[Home]</a> <br>
   
 
 ### Reviewer for
