@@ -30,8 +30,8 @@ share: false
 * SIAM Journal on Scientific Computing <a href="https://www.siam.org/publications/siam-journals/siam-journal-on-scientific-computing/" class="textlink" target="_blank">[Home]</a> <br>
 * SIAM Journal on Optimization <a href="https://www.siam.org/publications/siam-journals/siam-journal-on-optimization/" class="textlink" target="_blank">[Home]</a> <br>
 * Mathematical Programming <a href="https://link.springer.com/journal/10107" class="textlink" target="_blank">[Home]</a> <br>
-* Information Fusion <a href="https://www.sciencedirect.com/journal/information-fusion" class="textlink" target="_blank">[Home]</a> <br>
 * Pattern Recognition <a href="https://www.sciencedirect.com/journal/pattern-recognition" class="textlink" target="_blank">[Home]</a> <br>
+* Information Fusion <a href="https://www.sciencedirect.com/journal/information-fusion" class="textlink" target="_blank">[Home]</a> <br>
 * Neural Networks <a href="https://www.sciencedirect.com/journal/neural-networks" class="textlink" target="_blank">[Home]</a> <br>
 * Automatica <a href="https://www.sciencedirect.com/journal/automatica" class="textlink" target="_blank">[Home]</a> <br>
 * ......
