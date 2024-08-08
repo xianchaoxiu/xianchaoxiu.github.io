@@ -26,10 +26,12 @@ share: false
 * IEEE Transactions on Signal Processing <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=78" class="textlink" target="_blank">[Home]</a> <br>
 * IEEE Transactions on Cybernetics <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036" class="textlink" target="_blank">[Home]</a> <br>
 * IEEE Transactions on Multimedia <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046" class="textlink" target="_blank">[Home]</a> <br>
+* International Journal of Computer Vision <a href="https://link.springer.com/journal/11263" class="textlink" target="_blank">[Home]</a> <br>
 * Journal of Machine Learning Research <a href="https://www.jmlr.org" class="textlink" target="_blank">[Home]</a> <br>
 * SIAM Journal on Scientific Computing <a href="https://www.siam.org/publications/siam-journals/siam-journal-on-scientific-computing/" class="textlink" target="_blank">[Home]</a> <br>
 * SIAM Journal on Optimization <a href="https://www.siam.org/publications/siam-journals/siam-journal-on-optimization/" class="textlink" target="_blank">[Home]</a> <br>
 * Mathematical Programming <a href="https://link.springer.com/journal/10107" class="textlink" target="_blank">[Home]</a> <br>
+* Artificial Intelligence <a href="https://www.sciencedirect.com/journal/artificial-intelligence" class="textlink" target="_blank">[Home]</a> <br>
 * Pattern Recognition <a href="https://www.sciencedirect.com/journal/pattern-recognition" class="textlink" target="_blank">[Home]</a> <br>
 * Information Fusion <a href="https://www.sciencedirect.com/journal/information-fusion" class="textlink" target="_blank">[Home]</a> <br>
 * Neural Networks <a href="https://www.sciencedirect.com/journal/neural-networks" class="textlink" target="_blank">[Home]</a> <br>
