@@ -11,7 +11,7 @@ share: false
  
 ### Numerical Optimization
 * Chapter 1: Introduction <a href="../teaching/OPT-1.pdf" class="textlink" target="_blank">[Slide]</a> 
-* Chapter 2: Basics  <a href="../teaching/OPT-1.pdf" class="textlink" target="_blank">[Slide]</a>
+* Chapter 2: Basics  <a href="../teaching/OPT-2.pdf" class="textlink" target="_blank">[Slide]</a>
 * Chapter 3: Optimization Problems  <a href="../teaching/OPT-1.pdf" class="textlink" target="_blank">[Slide]</a>
 * Chapter 4: Optimality Theory  <a href="../teaching/OPT-1.pdf" class="textlink" target="_blank">[Slide]</a>
 * Chapter 5: Unconstrained Optimization  <a href="../teaching/OPT-1.pdf" class="textlink" target="_blank">[Slide]</a>
