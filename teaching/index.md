@@ -21,11 +21,11 @@ share: false
 
 
 ### Operations Research
-* Chapter 1: Introduction  <a href="../teaching/OR-1.pdf" class="textlink" target="_blank">[Slide]</a>
-* Chapter 2: Linear Programming  <a href="../teaching/OR-2.pdf" class="textlink" target="_blank">[Slide]</a>
-* Chapter 3: Integer Programming  <a href="../teaching/OR-3.pdf" class="textlink" target="_blank">[Slide]</a>
-* Chapter 4: Dynamic Programming  <a href="../teaching/OR-4.pdf" class="textlink" target="_blank">[Slide]</a>
-* Chapter 5: Game Theory  <a href="../teaching/OR-5" class="textlink" target="_blank">[Slide]</a>
-* Chapter 6: Graph Theory  <a href="../teaching/OR-6.pdf" class="textlink" target="_blank">[Slide]</a>
+* Chapter 1: Introduction  <a href="../teaching/OR-C1.pdf" class="textlink" target="_blank">[C1]</a>
+* Chapter 2: Linear Programming  <a href="../teaching/OR-C21.pdf" class="textlink" target="_blank">[C2.1] 
+* Chapter 3: Integer Programming  
+* Chapter 4: Dynamic Programming  
+* Chapter 5: Game Theory  
+* Chapter 6: Graph Theory  
 
   
