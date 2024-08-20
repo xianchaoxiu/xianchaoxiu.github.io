@@ -21,8 +21,8 @@ share: false
 
 
 ### Operations Research
-* Chapter 1: Introduction  <a href="../teaching/OR-C1.pdf" class="textlink" target="_blank">[1]</a>
-* Chapter 2: Linear Programming  <a href="../teaching/OR-C21.pdf" class="textlink" target="_blank">[2.1] 
+* Chapter 1: Introduction  <a href="../teaching/C1.pdf" class="textlink" target="_blank">[1]</a>
+* Chapter 2: Linear Programming  <a href="../teaching/C21.pdf" class="textlink" target="_blank">[2.1]  <a href="../teaching/C22.pdf" class="textlink" target="_blank">[2.2]  <a href="../teaching/C23.pdf" class="textlink" target="_blank">[2.3]  <a href="../teaching/C24.pdf" class="textlink" target="_blank">[2.4]  <a href="../teaching/C25.pdf" class="textlink" target="_blank">[2.5]  <a href="../teaching/C26.pdf" class="textlink" target="_blank">[2.6]  <a href="../teaching/C27.pdf" class="textlink" target="_blank">[2.7] 
 * Chapter 3: Integer Programming  
 * Chapter 4: Dynamic Programming  
 * Chapter 5: Game Theory  
