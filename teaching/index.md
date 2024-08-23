@@ -10,13 +10,13 @@ share: false
 
  
 ### Numerical Optimization
-* Chapter 1: Introduction <a href="../teaching/OPT-1.pdf" class="textlink" target="_blank">[1]</a> 
-* Chapter 2: Basics  <a href="../teaching/OPT-2.pdf" class="textlink" target="_blank">[2]</a>
-* Chapter 3: Optimization Problems  <a href="../teaching/OPT-3.pdf" class="textlink" target="_blank">[3]</a>
-* Chapter 4: Optimality Theory  <a href="../teaching/OPT-4.pdf" class="textlink" target="_blank">[4]</a>
-* Chapter 5: Unconstrained Optimization  <a href="../teaching/OPT-5.pdf" class="textlink" target="_blank">[5]</a>
-* Chapter 6: Constrained Optimization  <a href="../teaching/OPT-6.pdf" class="textlink" target="_blank">[6]</a>
-* Chapter 7: Composite Optimization  <a href="../teaching/OPT-7.pdf" class="textlink" target="_blank">[7]</a>
+* Chapter 1: Introduction <a href="../teaching/S11.pdf" class="textlink" target="_blank">[1.1]</a> <a href="../teaching/S12.pdf" class="textlink" target="_blank">[1.2]</a> 
+* Chapter 2: Basics  <a href="../teaching/S21.pdf" class="textlink" target="_blank">[2.1]</a> <a href="../teaching/S22.pdf" class="textlink" target="_blank">[2.2]</a>
+* Chapter 3: Optimization Problems  <a href="../teaching/S31.pdf" class="textlink" target="_blank">[3.1]</a> <a href="../teaching/S32.pdf" class="textlink" target="_blank">[3.2]</a>
+* Chapter 4: Optimality Theory  <a href="../teaching/S41.pdf" class="textlink" target="_blank">[4.1]</a> <a href="../teaching/S42.pdf" class="textlink" target="_blank">[4.2]</a>
+* Chapter 5: Unconstrained Optimization  <a href="../teaching/S51.pdf" class="textlink" target="_blank">[5.1]</a> <a href="../teaching/S52.pdf" class="textlink" target="_blank">[5.2]</a> <a href="../teaching/S53.pdf" class="textlink" target="_blank">[5.3]</a>
+* Chapter 6: Constrained Optimization  <a href="../teaching/S61.pdf" class="textlink" target="_blank">[6.1]</a> <a href="../teaching/S62.pdf" class="textlink" target="_blank">[6.2]</a>
+* Chapter 7: Composite Optimization  <a href="../teaching/S71.pdf" class="textlink" target="_blank">[7.1]</a> <a href="../teaching/S72.pdf" class="textlink" target="_blank">[7.2]</a> <a href="../teaching/S73.pdf" class="textlink" target="_blank">[7.3]</a> <a href="../teaching/S74.pdf" class="textlink" target="_blank">[7.4]</a> <a href="../teaching/S75.pdf" class="textlink" target="_blank">[7.5]</a>
 
 
 
