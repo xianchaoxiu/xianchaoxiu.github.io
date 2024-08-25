@@ -14,7 +14,7 @@ sass:
   sass_dir: _sass
   style: compressed
 gems:
-  - jekyll-sitemap
+
 
 kramdown:
   auto_ids: true
@@ -42,7 +42,7 @@ owner:
     ad-slot:
   bing-verify:
   github: 
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  stackoverflow: 
   linkedin: #canyilu
   xing: #username
   instagram: #username
