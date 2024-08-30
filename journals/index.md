@@ -10,7 +10,9 @@ share: false
 
 ### Preprint
 
-* J. Fan, A. Yan, <b>X. Xiu*</b>, W. Liu, Robust Sparse Phase Retrieval: Model, Theoretical Guarantee and Efficient Algorithm <a href="https://github.com/xianchaoxiu/HPR" class="textlink" target="_blank">[Code]</a> <br>
+* <b>X. Xiu</b>, C. Huang, P. Shang*, W. Liu, Bi-Sparse Unsupervised Feature Selection  <br>
+* J. Liu, J. Jin, <b>X. Xiu*</b>, J. Zhang, STAR-Net: An Interpretable Tensor Representation Network for Hyperspectral Image Denoising <br>
+* J. Fan, A. Yan, <b>X. Xiu*</b>, W. Liu, Robust Sparse Phase Retrieval: Model, Theoretical Guarantee and Efficient Algorithm  <br>
 * S. Zhou, <b>X. Xiu</b>, Y. Wang, D. Peng, Revisiting Lq (0<=q<1) Norm Regularized Optimization <a href="https://arxiv.org/abs/2306.14394" class="textlink" target="_blank">[arXiv]</a> <a href="https://github.com/ShenglongZhou/PSNP" class="textlink" target="_blank">[Code]</a> <br>
 
 ### 2024-Present
@@ -20,7 +22,8 @@ share: false
 
 ### 2018-2023
 * H. Chen, L. Kong, W. Qu, <b>X. Xiu*</b>, An Enhanced Regularized Clustering Method with Adaptive Spurious Connection Detection, <i>IEEE Signal Processing Letters</i>, 2023 <a href="https://ieeexplore.ieee.org/document/10252040" class="textlink" target="_blank">[Paper]</a>  <br>
-* <b>X. Xiu</b>, Z. Miao, W. Liu*, A Sparsity-Aware Fault Diagnosis Framework Focusing on Accurate Isolation, <i>IEEE Transactions on Industrial Informatics</i>, 2023 <a href="https://ieeexplore.ieee.org/document/9788040" class="textlink" target="_blank">[Paper]</a> <br>
+* J. Sun, <b>X. Xiu</b>, Z. Luo, W. Liu, Learning High-Order Multi-View Representation by New Tensor Canonical Correlation Analysis, <i>IEEE Transactions on Circuits and Systems for Video Technology</i>, 2023 <a href="https://ieeexplore.ieee.org/document/10252040" class="textlink" target="_blank">[Paper]</a>  <br>
+* <b>X. Xiu</b>, Z. Miao, W. Liu*, A Sparsity-Aware Fault Diagnosis Framework Focusing on Accurate Isolation, <i>IEEE Transactions on Industrial Informatics</i>, 2023 <a href="https://ieeexplore.ieee.org/abstract/document/10091146" class="textlink" target="_blank">[Paper]</a> <br>
 * <b>X. Xiu</b>, Y. Li*, Learning Sparse Kernel CCA with Graph Priors for Nonlinear Process Monitoring, <i>IEEE Sensors Journal</i>, 2023 <a href="https://ieeexplore.ieee.org/document/10050438" class="textlink" target="_blank">[Paper]</a> <br>
 * <b>X. Xiu</b>, L. Pan, Y. Yang*, W. Liu, Efficient and Fast Joint Sparse Constrained Canonical Correlation Analysis for Fault Detection, <i>IEEE Transactions on Neural Networks and Learning Systems</i>, 2022 <a href="https://ieeexplore.ieee.org/document/9887978" class="textlink" target="_blank">[Paper]</a> <br>
 * <b>X. Xiu</b>, Z. Miao, Y. Yang*, W. Liu, Deep Canonical Correlation Analysis Using Sparsity-Constrained Optimization for Nonlinear Process Monitoring, <i>IEEE Transactions on Industrial Informatics</i>, 2022 <a href="https://ieeexplore.ieee.org/document/9583864" class="textlink" target="_blank">[Paper]</a> <br>
