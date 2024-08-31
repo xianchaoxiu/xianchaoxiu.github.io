@@ -18,7 +18,7 @@ share: false
 ### 本科生
 * 武乃琼 (2024.01-2024.06): 无监督特征选择的非凸建模和优化 <a href="../group/2024-武乃琼.pdf" class="textlink" target="_blank">[Thesis]</a>
 * 张景羿 (2024.01-2024.06): 即插即用的高光谱图像异常检测方法 <a href="../group/2024-张景羿.pdf" class="textlink" target="_blank">[Thesis]</a>
-* 高 &nbsp; 爽 (2024.01-2024.06): 数据-模型融合驱动的高光谱图像去噪研究 <a href="../group/2024-高爽.pdf" class="textlink" target="_blank">[Thesis]</a>
+* 高 &nbsp; &nbsp;爽 (2024.01-2024.06): 数据-模型融合驱动的高光谱图像去噪研究 <a href="../group/2024-高爽.pdf" class="textlink" target="_blank">[Thesis]</a>
 * 温春晖 (2023.01-2023.06): 基于深度典型相关分析的多视角学习研究 <a href="../group/2023-温春晖.pdf" class="textlink" target="_blank">[Thesis]</a> 
 * 丁一平 (2023.01-2023.06): 基于深度迁移学习的故障诊断研究 <a href="../group/2023-丁一平.pdf" class="textlink" target="_blank">[Thesis]</a>
 * 朱庆琪 (2023.01-2023.06): 基于矩阵分解的小目标检测技术研究 <a href="../group/2023-朱庆琪.pdf" class="textlink" target="_blank">[Thesis]</a>
