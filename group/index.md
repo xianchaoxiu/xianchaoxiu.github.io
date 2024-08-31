@@ -7,7 +7,7 @@ comments: false
 share: false
 ---
 
-### Master Students （in Chinese）
+### Graduate Students （in Chinese）
 * 陈 &nbsp; &nbsp;龙 (2024.09-2027.06) 
 * 李建豪 (2024.09-2027.06)
 * 黄晨毅 (2023.09-2026.06)
