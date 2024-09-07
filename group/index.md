@@ -14,9 +14,6 @@ share: false
 * 杨安宁 (2022.09-2025.06) <br>
 * 于福超 (2021.09-2024.06): 基于迁移学习的轴承故障诊断技术研究 <a href="../group/2024-于福超.pdf" class="textlink" target="_blank">[Thesis]</a>  <br>
 
-### Cooperant Students
-* 孙圣豪 (2023.09-2026.06) <br>
-* 费士祺 (2023.09-2026.06) <br>
 
 ### Undergraduate Students
 * 武乃琼 (2024.01-2024.06): 无监督特征选择的非凸建模和优化 <a href="../group/2024-武乃琼.pdf" class="textlink" target="_blank">[Thesis]</a>  <br>
