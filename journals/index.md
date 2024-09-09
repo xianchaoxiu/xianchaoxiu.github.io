@@ -10,7 +10,6 @@ share: false
 
 ### Preprint
 
-* <b>X. Xiu</b>, C. Huang, P. Shang, W. Liu, Bi-sparse Unsupervised Feature Selection <br>
 * <b>X. Xiu</b>, A. Yang, X. Li, W. Liu, Revisiting Unsupervised Feature Selection via Double Sparsity Constrained Optimization <br>
 * J. Fan, A. Yan, <b>X. Xiu*</b>, W. Liu, Robust Sparse Phase Retrieval: Model, Theoretical Guarantee and Efficient Algorithm  <br>
 
