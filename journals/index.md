@@ -9,11 +9,11 @@ share: false
 
 
 ### Preprint
-* <b>X. Xiu</b>, C. Huang, P. Shang, W. Liu, Bi-Sparse Unsupervised Feature Selection <br>
-* <b>X. Xiu</b>, A. Yang, X. Li, W. Liu, Revisiting Unsupervised Feature Selection via Double Sparsity Constrained Optimization <br>
-* J. Fan, A. Yan, <b>X. Xiu*</b>, W. Liu, Robust Sparse Phase Retrieval: Model, Theoretical Guarantee and Efficient Algorithm  <br>
+* <b>X. Xiu</b>, C. Huang, P. Shang, W. Liu, Bi-Sparse Unsupervised Feature Selection <be>
 * J. Liu, J. Jin, <b>X. Xiu*</b>, J. Zhang, STAR-Net: An Interpretable Tensor Representation Network for Hyperspectral Image Denoising <br>
-
+* <b>X. Xiu</b>, A. Yang, X. Li, W. Liu, Revisiting Unsupervised Feature Selection via Double Sparsity Constrained Optimization <br>
+* J. Fan, A. Yan, <b>X. Xiu*</b>, W. Liu, Robust Sparse Phase Retrieval: Model, Theoretical Guarantee and Efficient Algorithm  <a href="https://github.com/xianchaoxiu/HPR" class="textlink" target="_blank">[Code]</a> <br>
+* S. Zhou, <b>X. Xiu</b>, Y. Wang, D. Peng, Revisiting Lq (0<=q<1) Norm Regularized Optimization <a href="https://arxiv.org/abs/2306.14394" class="textlink" target="_blank">[arXiv]</a> <a href="https://github.com/ShenglongZhou/PSNP" class="textlink" target="_blank">[Code]</a> <br>
 
 ### 2024-Present
 * W. Qu, H. Chen, <b>X. Xiu*</b>, W. Liu, Distributed Sparsity Constrained Optimization Over the Stiefel Manifold, <i>Neurocomputing</i>, 2024 <a href="https://www.sciencedirect.com/science/article/pii/S0925231224010385" class="textlink" target="_blank">[Paper]</a> <a href="https://github.com/wtqu/DREAM" class="textlink" target="_blank">[Code]</a> <br>
