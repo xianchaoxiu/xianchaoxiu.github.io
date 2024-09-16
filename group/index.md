@@ -7,6 +7,12 @@ comments: false
 share: false
 ---
 
+
+* I am now recruiting self-motivated students who have certain mathematical abilities and a strong interest in artificial intelligence.
+* How to write a scientific paper
+
+
+
 ### Graduate Students
 * 陈 &nbsp; &nbsp;龙 (2024.09-2027.06)  <br>
 * 李建豪 (2024.09-2027.06) <br>
