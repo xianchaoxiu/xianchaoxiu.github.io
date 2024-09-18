@@ -7,6 +7,7 @@ comments: false
 share: false
 ---
 
+ I am now recruiting self-motivated students who have certain mathematical abilities and a strong interest in artificial intelligence. Here are the reading materials.
         
 ### Graduate Students
 * 陈 &nbsp; &nbsp;龙 (2024.09-2027.06)  <br>
