@@ -10,7 +10,7 @@ share: false
 
  
 ### Numerical Optimization
-* Chapter 1: Introduction <a href="../teaching/S11.pdf" class="textlink" target="_blank">[1.1]</a> <a href="../teaching/S12.pdf" class="textlink" target="_blank">[1.2]</a> 
+* Chapter 1: Introduction <a href="../teaching/S11.pdf" class="textlink" target="_blank">[1.1]</a> 
 * Chapter 2: Basics  <a href="../teaching/S21.pdf" class="textlink" target="_blank">[2.1]</a> <a href="../teaching/S22.pdf" class="textlink" target="_blank">[2.2]</a>
 * Chapter 3: Optimization Problems  <a href="../teaching/S31.pdf" class="textlink" target="_blank">[3.1]</a> <a href="../teaching/S32.pdf" class="textlink" target="_blank">[3.2]</a>
 * Chapter 4: Optimality Theory  <a href="../teaching/S41.pdf" class="textlink" target="_blank">[4.1]</a> <a href="../teaching/S42.pdf" class="textlink" target="_blank">[4.2]</a>
