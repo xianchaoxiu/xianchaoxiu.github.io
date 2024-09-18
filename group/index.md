@@ -10,6 +10,7 @@ share: false
 I am now recruiting self-motivated students who have certain mathematical abilities and a strong interest in artificial intelligence. Reference books   
 * Optimization: Modeling, Algorithm and Theory <a href="http://faculty.bicmr.pku.edu.cn/~wenzw/optbook.html" class="textlink" target="_blank">[Book]</a>   <a href="https://www.bilibili.com/video/BV1Kc411i7kJ/" class="textlink" target="_blank">[Video]</a> 
 * Machine Learning <a href="https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/MLbook2016.htm" class="textlink" target="_blank">[Book]</a> <a href="https://www.bilibili.com/video/BV1gG411f7zX/" class="textlink" target="_blank">[Video]</a>
+
 Welcome to email me (xcxiu (at) shu (dot) edu (dot) cn) for details!
 
         
