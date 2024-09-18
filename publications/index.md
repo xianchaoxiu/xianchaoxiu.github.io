@@ -17,7 +17,7 @@ share: false
 * J. Fan, A. Yan, <b>X. Xiu*</b>, W. Liu, Robust Sparse Phase Retrieval: Model, Theoretical Guarantee and Efficient Algorithm  <br>
 * S. Zhou, <b>X. Xiu</b>, Y. Wang, D. Peng, Revisiting Lq (0<=q<1) Norm Regularized Optimization <a href="https://arxiv.org/abs/2306.14394" class="textlink" target="_blank">[arXiv]</a> <a href="https://github.com/ShenglongZhou/PSNP" class="textlink" target="_blank">[Code]</a> <br>
 
-### Journals
+### Selected Journals
 
 * W. Qu, H. Chen, <b>X. Xiu*</b>, W. Liu, Distributed Sparsity Constrained Optimization Over the Stiefel Manifold, <i>Neurocomputing</i>, 2024 <a href="https://www.sciencedirect.com/science/article/pii/S0925231224010385" class="textlink" target="_blank">[Paper]</a> <a href="https://github.com/wtqu/DREAM" class="textlink" target="_blank">[Code]</a> <br>
 * J. Liu, M. Feng, <b>X. Xiu*</b>, W. Liu, Towards Robust and Sparse Linear Discriminant Analysis for Image Classification, <i>Pattern Recognition</i>, 2024 <a href="https://www.sciencedirect.com/science/article/pii/S0031320324002632" class="textlink" target="_blank">[Paper]</a> <a href="https://github.com/EMXlight/RSLDAplus" class="textlink" target="_blank">[Code]</a> <br>
@@ -37,7 +37,7 @@ share: false
 
 
 
-### Conferences
+### Selected Conferences
 
 * A. Yang, X. Li, <b>X. Xiu*</b>, Sparse PCA via L2,0-Norm Constrained Optimization for Unsupervised Feature Selection, <i> Chinese Control Conference (CCC)</i>, 2024 <a href="https://ieeexplore.ieee.org/document/10661810" class="textlink" target="_blank">[Paper]</a> <a href="https://github.com/yan921" class="textlink" target="_blank">[Code]</a> <br>
 * S. Sun, Y. Lei, <b>X. Xiu*</b>, When Nonlocal Meets Nonconvex: A New Paradigm for Hyperspectral Image Denoising, <i> Chinese Control Conference (CCC)</i>, 2024 <a href="https://ieeexplore.ieee.org/document/10662067" class="textlink" target="_blank">[Paper]</a> <a href="https://github.com/EdSun0" class="textlink" target="_blank">[Code]</a> <br>
