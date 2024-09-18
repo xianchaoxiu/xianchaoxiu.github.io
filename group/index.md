@@ -7,7 +7,13 @@ comments: false
 share: false
 ---
 
-
+  I am now recruiting self-motivated students who have certain mathematical abilities and a strong interest in artificial intelligence. Reference books   
+	  <ul>
+        <li> Optimization: Modeling, Algorithm and Theory <a href="http://faculty.bicmr.pku.edu.cn/~wenzw/optbook.html" class="textlink" target="_blank">[Book]</a>   <a href="https://www.bilibili.com/video/BV1Kc411i7kJ/" class="textlink" target="_blank">[Video]</a> </li>
+         <li> Machine Learning <a href="https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/MLbook2016.htm" class="textlink" target="_blank">[Book]</a> <a href="https://www.bilibili.com/video/BV1gG411f7zX/" class="textlink" target="_blank">[Video]</a>  </li>
+        </ul>	
+Here are the reading materials for rotating undergraduate students.
+        
 ### Graduate Students
 * 陈 &nbsp; &nbsp;龙 (2024.09-2027.06)  <br>
 * 李建豪 (2024.09-2027.06) <br>
