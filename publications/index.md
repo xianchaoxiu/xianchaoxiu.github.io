@@ -8,7 +8,7 @@ comments: false
 share: false
 ---
 
-You can also browse my <a href="https://www.researchgate.net/profile/Xianchao-Xiu" target="_blank" style="text-decoration:underline;">ResearchGate</a>.
+You can also browse my <a href="https://www.researchgate.net/profile/Xianchao-Xiu" target="_blank" style="text-decoration:underline;">ResearchGate</a> and <a href="https://scholar.google.com/citations?user=EZcKJi4AAAAJ&hl=en" target="_blank" style="text-decoration:underline;">Google Scholar</a>.
 
 ### Preprints
 
