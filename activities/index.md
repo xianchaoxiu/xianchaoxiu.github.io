@@ -13,7 +13,7 @@ share: false
   
 
 ### Reviewer for
-* <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34">IEEE Transactions on Pattern Analysis and Machine Intelligence </a> <br>
+* <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34" class="textlink" target="_blank">IEEE Transactions on Pattern Analysis and Machine Intelligence </a> <br>
 * <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385" class="textlink" target="_blank">IEEE Transactions on Neural Networks and Learning Systems</a> <br>
 * <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69" class="textlink" target="_blank">IEEE Transactions on Knowledge and Data Engineering</a> <br>
 * <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9" class="textlink" target="_blank">IEEE Transactions on Automatic Control</a> <br>
