@@ -7,6 +7,8 @@ comments: false
 share: false
 ---
 
+* Here are the reading materials for students.
+
 ### Ph.D Students
 * TBA
         
