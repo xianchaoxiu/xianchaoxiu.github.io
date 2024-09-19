@@ -10,29 +10,11 @@ share: false
 
 
 ### Selected Journals
+
+* W. Qu, H. Chen, <b>X. Xiu*</b>, W. Liu, Distributed Sparsity Constrained Optimization Over the Stiefel Manifold, <i>Neurocomputing</i>, 2024 <a href="https://www.sciencedirect.com/science/article/pii/S0925231224010385" class="textlink" target="_blank">[Paper]</a> <a href="https://github.com/wtqu/DREAM" class="textlink" target="_blank">[Code]</a>
+* J. Liu, M. Feng, <b>X. Xiu*</b>, W. Liu, Towards Robust and Sparse Linear Discriminant Analysis for Image Classification, <i> Pattern Recognition</i>, 2024 <a href="https://www.sciencedirect.com/science/article/pii/S0031320324002632" class="textlink" target="_blank">[Paper]</a> <a href="https://github.com/EMXlight/RSLDAplus" class="textlink" target="_blank">[Code]
+
 <ol>
-
-
-<li ><p>
-Distributed Sparsity Constrained Optimization Over the Stiefel Manifold <br>
-W. Qu, H. Chen, <b>X. Xiu*</b>, W. Liu <br>
-<i>Neurocomputing</i>, 2024 <br>
-<a href="https://www.sciencedirect.com/science/article/pii/S0925231224010385" class="textlink" target="_blank">[Paper]</a>
-<a href="https://github.com/wtqu/DREAM" class="textlink" target="_blank">[Code]</a>
-</p>
-</li>
-
-
-<li ><p>
-Towards Robust and Sparse Linear Discriminant Analysis for Image Classification <br>
-J. Liu, M. Feng, <b>X. Xiu*</b>, W. Liu <br>
-<i> Pattern Recognition</i>, 2024 <br>
-<a href="https://www.sciencedirect.com/science/article/pii/S0031320324002632" class="textlink" target="_blank">[Paper]</a>
-<a href="https://github.com/EMXlight/RSLDAplus" class="textlink" target="_blank">[Code]</a>
-</p>
-</li>
-
-
 
 <li ><p>
 A New End-to-End Monitoring Framework for Nonlinear Dynamic Processes with Unknown Noise Statistics <br>
