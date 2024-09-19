@@ -7,7 +7,12 @@ comments: false
 share: false
 ---
 
-Here are the <a href="../group/2024-于福超.pdf" target="_blank" style="text-decoration:underline;">reading materials for students</a>.
+I am now recruiting self-motivated students who have certain mathematical abilities and a strong interest in artificial intelligence. Reference books   
+* Optimization: Modeling, Algorithm and Theory <a href="http://faculty.bicmr.pku.edu.cn/~wenzw/optbook.html" class="textlink" target="_blank">[Book]</a>   <a href="https://www.bilibili.com/video/BV1Kc411i7kJ/" class="textlink" target="_blank">[Video]</a> 
+* Neural Networks and Deep Learning <a href="https://nndl.github.io/" class="textlink" target="_blank">[Book]</a> <a href="https://www.bilibili.com/video/BV1P3411u7c1/" class="textlink" target="_blank">[Video]</a>  <br> 
+	      
+Welcome to email me (xcxiu (at) shu (dot) edu (dot) cn) for details! 
+           
 
 ### Ph.D Students
 * TBA
