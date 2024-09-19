@@ -18,7 +18,17 @@ share: false
 
 ### Selected Journals
 
-* W. Qu, H. Chen, <b>X. Xiu*</b>, W. Liu, Distributed Sparsity Constrained Optimization Over the Stiefel Manifold, <i>Neurocomputing</i>, 2024 <a href="https://www.sciencedirect.com/science/article/pii/S0925231224010385" class="textlink" target="_blank">[Paper]</a> <a href="https://github.com/wtqu/DREAM" class="textlink" target="_blank">[Code]</a> <br>
+<li ><p>
+<b>Distributed Sparsity Constrained Optimization Over the Stiefel Manifold</b><br>
+W. Qu, H. Chen, <b>X. Xiu*</b>, W. Liu <br>
+<i>Neurocomputing</i>, 2024<br>
+  <a href="https://www.sciencedirect.com/science/article/pii/S0925231224010385" class="textlink" target="_blank">[Paper]</a>
+  <a href="https://github.com/wtqu/DREAM" class="textlink" target="_blank">[Code]</a>
+</p>
+
+
+
+
 * J. Liu, M. Feng, <b>X. Xiu*</b>, W. Liu, Towards Robust and Sparse Linear Discriminant Analysis for Image Classification, <i>Pattern Recognition</i>, 2024 <a href="https://www.sciencedirect.com/science/article/pii/S0031320324002632" class="textlink" target="_blank">[Paper]</a> <a href="https://github.com/EMXlight/RSLDAplus" class="textlink" target="_blank">[Code]</a> <br>
 * <b>X. Xiu</b>, Y. Zhang, Y. Guo, X. Liu, Y. Yang*, A New End-to-End Monitoring Framework for Nonlinear Dynamic Processes with Unknown Noise Statistics, <i>IEEE Transactions on Instrumentation and Measurement</i>, 2024 <a href="https://ieeexplore.ieee.org/document/10464356" class="textlink" target="_blank">[Paper]</a> <a href="https://github.com/xianchaoxiu/2024-TIM-DRNN" class="textlink" target="_blank">[Code]</a> <br>
 * H. Chen, L. Kong, W. Qu, <b>X. Xiu*</b>, An Enhanced Regularized Clustering Method with Adaptive Spurious Connection Detection, <i>IEEE Signal Processing Letters</i>, 2023 <a href="https://ieeexplore.ieee.org/document/10252040" class="textlink" target="_blank">[Paper]</a>  <br>
