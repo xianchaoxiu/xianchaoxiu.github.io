@@ -25,7 +25,7 @@ W. Qu, H. Chen, <b>X. Xiu*</b>, W. Liu <br>
   <a href="https://www.sciencedirect.com/science/article/pii/S0925231224010385" class="textlink" target="_blank">[Paper]</a>
   <a href="https://github.com/wtqu/DREAM" class="textlink" target="_blank">[Code]</a>
 </p>
-
+</li>
 
 
 
