@@ -27,8 +27,8 @@ share: false
 
 
 ### Selected Conferences
-* A. Yang, X. Li, <b>X. Xiu*</b>, Sparse PCA via L2,0-Norm Constrained Optimization for Unsupervised Feature Selection <br>, <i> Chinese Control Conference (CCC)</i>, 2024 <a href="https://ieeexplore.ieee.org/document/10661810" class="textlink" target="_blank">[Paper]</a> <a href="https://github.com/yan921" class="textlink" target="_blank">[Code]</a>
-* S. Sun, Y. Lei, <b>X. Xiu*</b>, When Nonlocal Meets Nonconvex: A New Paradigm for Hyperspectral Image Denoising, i> Chinese Control Conference (CCC)</i>, 2024 <a href="https://ieeexplore.ieee.org/document/10662067" class="textlink" target="_blank">[Paper]</a> <a href="https://github.com/EdSun0" class="textlink" target="_blank">[Code]</a>
+* A. Yang, X. Li, <b>X. Xiu*</b>, Sparse PCA via L2,0-Norm Constrained Optimization for Unsupervised Feature Selection, <i> Chinese Control Conference (CCC)</i>, 2024 <a href="https://ieeexplore.ieee.org/document/10661810" class="textlink" target="_blank">[Paper]</a> <a href="https://github.com/yan921" class="textlink" target="_blank">[Code]</a>
+* S. Sun, Y. Lei, <b>X. Xiu*</b>, When Nonlocal Meets Nonconvex: A New Paradigm for Hyperspectral Image Denoising, <i> Chinese Control Conference (CCC)</i>, 2024 <a href="https://ieeexplore.ieee.org/document/10662067" class="textlink" target="_blank">[Paper]</a> <a href="https://github.com/EdSun0" class="textlink" target="_blank">[Code]</a>
 * C. Huang, P. Shang, <b>X. Xiu*</b>, A Riemannian Augmented Lagrangian Method for Structured Sparse PCA, <i> Chinese Control Conference (CCC)</i>, 2024 <a href="https://ieeexplore.ieee.org/document/10661785" class="textlink" target="_blank">[Paper]</a> <a href="https://github.com/ChenyiHuang23" class="textlink" target="_blank">[Code]</a>
 
 
