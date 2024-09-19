@@ -7,7 +7,7 @@ comments: false
 share: false
 ---
 
-* Here are the <a href="../group/2024-于福超.pdf" target="_blank" style="text-decoration:underline;">reading materials</a> for students.
+* Here are the <a href="../group/2024-于福超.pdf" target="_blank" style="text-decoration:underline;">reading materials for students</a>.
 
 ### Ph.D Students
 * TBA
