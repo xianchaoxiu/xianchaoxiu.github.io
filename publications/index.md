@@ -8,6 +8,8 @@ comments: false
 share: false
 ---
 
+You can also browse my <a href="https://www.researchgate.net/profile/Xianchao-Xiu" class="textlink" target="_blank"> ResearchGate </a>
+
 ### Preprints
 
 * J. Liu, J. Jin, <b>X. Xiu*</b>, J. Zhang, STAR-Net: An Interpretable Tensor Representation Network for Hyperspectral Image Denoising <br>
