@@ -9,8 +9,9 @@ share: false
 
 Here are the reading materials
 * <a href="../group/begin.pdf" target="_blank" style="text-decoration:underline;"> Let's Begin to Study
-* <a href="../group/geng.pdf" target="_blank" style="text-decoration:underline;"> How to learn by Geng
-* <a href="../group/wen.pdf" target="_blank" style="text-decoration:underline;"> How to read by Wen
+* <a href="../group/choi.pdf" target="_blank" style="text-decoration:underline;"> How to Publish a Paper
+* <a href="../group/brittman.pdf" target="_blank" style="text-decoration:underline;"> The Most Common Habits
+
 
   
 ### Ph.D Students
