@@ -22,7 +22,7 @@ share: false
 
 
 <li ><p>
-<b>Distributed Sparsity Constrained Optimization Over the Stiefel Manifold</b><br>
+Distributed Sparsity Constrained Optimization Over the Stiefel Manifold<br>
 W. Qu, H. Chen, <b>X. Xiu*</b>, W. Liu <br>
 <i>Neurocomputing</i>, 2024<br>
   <a href="https://www.sciencedirect.com/science/article/pii/S0925231224010385" class="textlink" target="_blank">[Paper]</a>
