@@ -7,8 +7,7 @@ comments: false
 share: false
 ---
 
-Here are the reading materials for students.
-           
+Here are the <a href="https://www.researchgate.net/profile/Xianchao-Xiu" target="_blank" style="text-decoration:underline;">reading materials</a> and <a href="../group/Scientific-Writing.pdf" target="_blank" style="text-decoration:underline;">scientific writing</a>.
 
 ### Ph.D Students
 * TBA
