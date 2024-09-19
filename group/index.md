@@ -7,7 +7,7 @@ comments: false
 share: false
 ---
 
-I am recruiting self-motivated students with certain mathematical abilities and a strong interest in artificial intelligence. Welcome to email me (xcxiu (at) shu (dot) edu (dot) cn) for details! Here are the reading materials
+I am recruiting self-motivated students with certain mathematical abilities and a strong interest in artificial intelligence. Here are the reading materials
 * <a href="../group/xiu.pdf" target="_blank" style="text-decoration:underline;"> Let's Begin to Study
 * <a href="../group/choi.pdf" target="_blank" style="text-decoration:underline;"> How to Publish a Paper
 * <a href="../group/brittman.pdf" target="_blank" style="text-decoration:underline;"> The Most Common Habits
