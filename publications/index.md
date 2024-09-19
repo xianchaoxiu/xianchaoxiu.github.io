@@ -10,6 +10,7 @@ share: false
 
 
 
+
 ### Preprints
 
 * J. Liu, J. Jin, <b>X. Xiu*</b>, J. Zhang, STAR-Net: An Interpretable Tensor Representation Network for Hyperspectral Image Denoising <br>
@@ -17,6 +18,8 @@ share: false
 * J. Fan, A. Yan, <b>X. Xiu*</b>, W. Liu, Robust Sparse Phase Retrieval: Model, Theoretical Guarantee and Efficient Algorithm  <br>
 
 ### Selected Journals
+<ol>
+
 
 <li ><p>
 <b>Distributed Sparsity Constrained Optimization Over the Stiefel Manifold</b><br>
@@ -27,7 +30,7 @@ W. Qu, H. Chen, <b>X. Xiu*</b>, W. Liu <br>
 </p>
 </li>
 
-
+</ol>
 
 * J. Liu, M. Feng, <b>X. Xiu*</b>, W. Liu, Towards Robust and Sparse Linear Discriminant Analysis for Image Classification, <i>Pattern Recognition</i>, 2024 <a href="https://www.sciencedirect.com/science/article/pii/S0031320324002632" class="textlink" target="_blank">[Paper]</a> <a href="https://github.com/EMXlight/RSLDAplus" class="textlink" target="_blank">[Code]</a> <br>
 * <b>X. Xiu</b>, Y. Zhang, Y. Guo, X. Liu, Y. Yang*, A New End-to-End Monitoring Framework for Nonlinear Dynamic Processes with Unknown Noise Statistics, <i>IEEE Transactions on Instrumentation and Measurement</i>, 2024 <a href="https://ieeexplore.ieee.org/document/10464356" class="textlink" target="_blank">[Paper]</a> <a href="https://github.com/xianchaoxiu/2024-TIM-DRNN" class="textlink" target="_blank">[Code]</a> <br>
