@@ -8,24 +8,23 @@ comments: false
 share: false
 ---
 
-You can also browse my <a href="https://www.researchgate.net/profile/Xianchao-Xiu" target="_blank" style="text-decoration:underline;">ResearchGate</a> and <a href="https://github.com/xianchaoxiu" target="_blank" style="text-decoration:underline;">Github</a>
+You can also browse my <a href="https://www.researchgate.net/profile/Xianchao-Xiu" class="textlink" target="_blank">ResearchGate</a> and <a href="https://github.com/xianchaoxiu" class="textlink" target="_blank">Github</a>
 
 ### Preprints
 
-* J. Liu, J. Jin, <b>X. Xiu*</b>, J. Zhang, STAR-Net: An Interpretable Tensor Representation Network for Hyperspectral Image Denoising <br>
 * <b>X. Xiu</b>, A. Yang, X. Li, W. Liu, Revisiting Unsupervised Feature Selection via Double Sparsity Constrained Optimization <br>
+* J. Liu, J. Jin, <b>X. Xiu*</b>, J. Zhang, STAR-Net: An Interpretable Tensor Representation Network for Hyperspectral Image Denoising <br>
 * J. Fan, A. Yan, <b>X. Xiu*</b>, W. Liu, Robust Sparse Phase Retrieval: Model, Theoretical Guarantee and Efficient Algorithm  <br>
-* S. Zhou, <b>X. Xiu</b>, Y. Wang, D. Peng, Revisiting Lq (0<=q<1) Norm Regularized Optimization <a href="https://arxiv.org/abs/2306.14394" class="textlink" target="_blank">[ArXiv]</a> <a href="https://github.com/ShenglongZhou/PSNP" class="textlink" target="_blank">[Code]</a> <br>
 
 
 ### Selected Journals
 
-* W. Qu, H. Chen, <b>X. Xiu*</b>, W. Liu, Distributed Sparsity Constrained Optimization Over the Stiefel Manifold, <i>Neurocomputing</i>, 2024 <a href="https://www.sciencedirect.com/science/article/pii/S0925231224010385" class="textlink" target="_blank">[Paper]</a> <a href="https://github.com/wtqu/DREAM" class="textlink" target="_blank">[Code]</a> <br>
-* J. Liu, M. Feng, <b>X. Xiu*</b>, W. Liu, Towards Robust and Sparse Linear Discriminant Analysis for Image Classification, <i> Pattern Recognition</i>, 2024 <a href="https://www.sciencedirect.com/science/article/pii/S0031320324002632" class="textlink" target="_blank">[Paper]</a> <a href="https://github.com/EMXlight/RSLDAplus" class="textlink" target="_blank">[Code] <br>
-* <b>X. Xiu</b>, Y. Zhang, Y. Guo, X. Liu, Y. Yang*, A New End-to-End Monitoring Framework for Nonlinear Dynamic Processes with Unknown Noise Statistics, <i>IEEE Transactions on Instrumentation and Measurement</i>, 2024 <a href="https://ieeexplore.ieee.org/document/10464356" class="textlink" target="_blank">[Paper]</a> <a href="https://github.com/xianchaoxiu/2024-TIM-DRNN" class="textlink" target="_blank">[Code]</a> <br>
-* <b>X. Xiu</b>, Z. Miao, W. Liu*, A Sparsity-Aware Fault Diagnosis Framework Focusing on Accurate Isolation, <i>IEEE Transactions on Industrial Informatics</i>, 2023 <a href="https://ieeexplore.ieee.org/abstract/document/10091146" class="textlink" target="_blank">[Paper]</a> <br>
-* <b>X. Xiu</b>, Y. Li*, Learning Sparse Kernel CCA with Graph Priors for Nonlinear Process Monitoring, <i>IEEE Sensors Journal</i>, 2023 <a href="https://ieeexplore.ieee.org/document/10050438" class="textlink" target="_blank">[Paper]</a> <br>
-* <b>X. Xiu</b>, L. Pan, Y. Yang*, W. Liu, Efficient and Fast Joint Sparse Constrained Canonical Correlation Analysis for Fault Detection, <i>IEEE Transactions on Neural Networks and Learning Systems</i>, 2022 <a href="https://ieeexplore.ieee.org/document/9887978" class="textlink" target="_blank">[Paper]</a> <br>
+* W. Qu, H. Chen, <b>X. Xiu*</b>, W. Liu, <a href="https://www.sciencedirect.com/science/article/pii/S0925231224010385" class="textlink" target="_blank">Distributed Sparsity Constrained Optimization Over the Stiefel Manifold</a>, <i>Neurocomputing</i>, 2024 <a href="https://github.com/wtqu/DREAM" class="textlink" target="_blank">[Code]</a> <br>
+* J. Liu, M. Feng, <b>X. Xiu*</b>, W. Liu, <a href="https://www.sciencedirect.com/science/article/pii/S0031320324002632" class="textlink" target="_blank">Towards Robust and Sparse Linear Discriminant Analysis for Image Classification</a>, <i> Pattern Recognition</i>, 2024  <a href="https://github.com/EMXlight/RSLDAplus" class="textlink" target="_blank">[Code] <br>
+* <b>X. Xiu</b>, Y. Zhang, Y. Guo, X. Liu, Y. Yang*, <a href="https://ieeexplore.ieee.org/document/10464356" class="textlink" target="_blank">A New End-to-End Monitoring Framework for Nonlinear Dynamic Processes with Unknown Noise Statistics</a>, <i>IEEE Transactions on Instrumentation and Measurement</i>, 2024  <a href="https://github.com/xianchaoxiu/2024-TIM-DRNN" class="textlink" target="_blank">[Code]</a> <br>
+* <b>X. Xiu</b>, Z. Miao, W. Liu*, <a href="https://ieeexplore.ieee.org/abstract/document/10091146" class="textlink" target="_blank">A Sparsity-Aware Fault Diagnosis Framework Focusing on Accurate Isolation</a>, <i>IEEE Transactions on Industrial Informatics</i>, 2023 <br>
+* <b>X. Xiu</b>, Y. Li*, <a href="https://ieeexplore.ieee.org/document/10050438" class="textlink" target="_blank">Learning Sparse Kernel CCA with Graph Priors for Nonlinear Process Monitoring</a>, <i>IEEE Sensors Journal</i>, 2023  <br>
+* <b>X. Xiu</b>, L. Pan, Y. Yang*, W. Liu, <a href="https://ieeexplore.ieee.org/document/9887978" class="textlink" target="_blank">Efficient and Fast Joint Sparse Constrained Canonical Correlation Analysis for Fault Detection</a>, <i>IEEE Transactions on Neural Networks and Learning Systems</i>, 2022  <br>
 * <b>X. Xiu</b>, Z. Miao, Y. Yang*, W. Liu, Deep Canonical Correlation Analysis Using Sparsity-Constrained Optimization for Nonlinear Process Monitoring, <i>IEEE Transactions on Industrial Informatics</i>, 2022 <a href="https://ieeexplore.ieee.org/document/9583864" class="textlink" target="_blank">[Paper]</a> <br>
 * <b>X. Xiu</b>, J. Fan, Y. Yang*, W. Liu, Fault Detection for Non-Gaussian Processes Using Structured Joint Sparse Nonnegative Matrix Factorization, <i>IEEE Transactions on Instrumentation and Measurement</i>, 2021 <a href="https://ieeexplore.ieee.org/document/9381237" class="textlink" target="_blank">[Paper]</a> <a href="https://github.com/xianchaoxiu/2021-TIM-SJSNMF" class="textlink" target="_blank">[Code]</a> <br> 
 * <b>X. Xiu</b>, Y. Yang*, L. Kong, W. Liu, Data-Driven Process Monitoring Using Structured Joint Sparse Canonical Correlation Analysis, <i>IEEE Transactions on Circuits and Systems II: Express Briefs</i>, 2021 <a href="https://ieeexplore.ieee.org/document/9068308" class="textlink" target="_blank">[Paper]</a> <br>
