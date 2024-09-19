@@ -7,7 +7,9 @@ comments: false
 share: false
 ---
 
-Here are the <a href="https://www.researchgate.net/profile/Xianchao-Xiu" target="_blank" style="text-decoration:underline;">reading materials for students.
+Here are the reading materials
+* <a href="../group/begin.pdf" target="_blank" style="text-decoration:underline;"> Let's Begin to Study
+* 
 
 ### Ph.D Students
 * TBA
