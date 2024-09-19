@@ -22,17 +22,28 @@ share: false
 
 
 <li ><p>
-Distributed Sparsity Constrained Optimization Over the Stiefel Manifold<br>
+Distributed Sparsity Constrained Optimization Over the Stiefel Manifold <br>
 W. Qu, H. Chen, <b>X. Xiu*</b>, W. Liu <br>
-<i>Neurocomputing</i>, 2024<br>
-  <a href="https://www.sciencedirect.com/science/article/pii/S0925231224010385" class="textlink" target="_blank">[Paper]</a>
-  <a href="https://github.com/wtqu/DREAM" class="textlink" target="_blank">[Code]</a>
+<i>Neurocomputing</i>, 2024 <br>
+<a href="https://www.sciencedirect.com/science/article/pii/S0925231224010385" class="textlink" target="_blank">[Paper]</a>
+<a href="https://github.com/wtqu/DREAM" class="textlink" target="_blank">[Code]</a>
 </p>
 </li>
 
+
+<li ><p>
+Towards Robust and Sparse Linear Discriminant Analysis for Image Classification <br>
+J. Liu, M. Feng, <b>X. Xiu*</b>, W. Liu <br>
+<i> Pattern Recognition</i>, 2024 <br>
+<a href="https://www.sciencedirect.com/science/article/pii/S0031320324002632" class="textlink" target="_blank">[Paper]</a>
+<a href="https://github.com/EMXlight/RSLDAplus" class="textlink" target="_blank">[Code]</a>
+</p>
+</li>
+
+
 </ol>
 
-* J. Liu, M. Feng, <b>X. Xiu*</b>, W. Liu, Towards Robust and Sparse Linear Discriminant Analysis for Image Classification, <i>Pattern Recognition</i>, 2024 <a href="https://www.sciencedirect.com/science/article/pii/S0031320324002632" class="textlink" target="_blank">[Paper]</a> <a href="https://github.com/EMXlight/RSLDAplus" class="textlink" target="_blank">[Code]</a> <br>
+
 * <b>X. Xiu</b>, Y. Zhang, Y. Guo, X. Liu, Y. Yang*, A New End-to-End Monitoring Framework for Nonlinear Dynamic Processes with Unknown Noise Statistics, <i>IEEE Transactions on Instrumentation and Measurement</i>, 2024 <a href="https://ieeexplore.ieee.org/document/10464356" class="textlink" target="_blank">[Paper]</a> <a href="https://github.com/xianchaoxiu/2024-TIM-DRNN" class="textlink" target="_blank">[Code]</a> <br>
 * H. Chen, L. Kong, W. Qu, <b>X. Xiu*</b>, An Enhanced Regularized Clustering Method with Adaptive Spurious Connection Detection, <i>IEEE Signal Processing Letters</i>, 2023 <a href="https://ieeexplore.ieee.org/document/10252040" class="textlink" target="_blank">[Paper]</a>  <br>
 * <b>X. Xiu</b>, Z. Miao, W. Liu*, A Sparsity-Aware Fault Diagnosis Framework Focusing on Accurate Isolation, <i>IEEE Transactions on Industrial Informatics</i>, 2023 <a href="https://ieeexplore.ieee.org/abstract/document/10091146" class="textlink" target="_blank">[Paper]</a> <br>
