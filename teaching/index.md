@@ -10,13 +10,13 @@ share: false
 
  
 ### Numerical Optimization
-* Chapter 1: Introduction <a href="../teaching/S11.pdf" class="textlink" target="_blank">[1.1]</a> 
-* Chapter 2: Basics  <a href="../teaching/S21.pdf" class="textlink" target="_blank">[2.1]</a> <a href="../teaching/S22.pdf" class="textlink" target="_blank">[2.2]</a>
-* Chapter 3: Optimization Problems  <a href="../teaching/S31.pdf" class="textlink" target="_blank">[3.1]</a> <a href="../teaching/S32.pdf" class="textlink" target="_blank">[3.2]</a>
-* Chapter 4: Optimality Theory  <a href="../teaching/S41.pdf" class="textlink" target="_blank">[4.1]</a> <a href="../teaching/S42.pdf" class="textlink" target="_blank">[4.2]</a>
-* Chapter 5: Unconstrained Optimization  <a href="../teaching/S51.pdf" class="textlink" target="_blank">[5.1]</a> <a href="../teaching/S52.pdf" class="textlink" target="_blank">[5.2]</a> <a href="../teaching/S53.pdf" class="textlink" target="_blank">[5.3]</a>
-* Chapter 6: Constrained Optimization  <a href="../teaching/S61.pdf" class="textlink" target="_blank">[6.1]</a> <a href="../teaching/S62.pdf" class="textlink" target="_blank">[6.2]</a>
-* Chapter 7: Composite Optimization  <a href="../teaching/S71.pdf" class="textlink" target="_blank">[7.1]</a> <a href="../teaching/S72.pdf" class="textlink" target="_blank">[7.2]</a> <a href="../teaching/S73.pdf" class="textlink" target="_blank">[7.3]</a> <a href="../teaching/S74.pdf" class="textlink" target="_blank">[7.4]</a> <a href="../teaching/S75.pdf" class="textlink" target="_blank">[7.5]</a>
+* Chapter 1: <a href="../teaching/OPT_1.pdf" class="textlink" target="_blank">Introduction </a> 
+* Chapter 2: <a href="../teaching/OPT_2.pdf" class="textlink" target="_blank">Basics</a>
+* Chapter 3: <a href="../teaching/OPT_3.pdf" class="textlink" target="_blank">Optimization Problems</a>
+* Chapter 4: <a href="../teaching/OPT_4.pdf" class="textlink" target="_blank">Optimality Theory</a>
+* Chapter 5: <a href="../teaching/OPT_5.pdf" class="textlink" target="_blank">Unconstrained Optimization</a>
+* Chapter 6: <a href="../teaching/OPT_6.pdf" class="textlink" target="_blank">Constrained Optimization</a>
+* Chapter 7: <a href="../teaching/OPT_7.pdf" class="textlink" target="_blank">Composite Optimization</a>
 
 
 
