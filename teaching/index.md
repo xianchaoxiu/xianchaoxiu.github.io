@@ -7,7 +7,7 @@ comments: false
 share: false
 ---
 
-### 运筹学基础 <br>
+  ### 运筹学基础 <br>
 
   - <a href="../teaching/OR_1.pdf" class="textlink" target="_blank">绪论 </a> <br>
   - <a href="../teaching/OR_2.pdf" class="textlink" target="_blank">线性规划  </a> <br>
@@ -44,5 +44,7 @@ share: false
   - <a href="../teaching/DL_13.pdf" class="textlink" target="_blank">深度生成模型 </a> <br>
   - <a href="../teaching/DL_14.pdf" class="textlink" target="_blank">深度强化学习 </a> <br>
   - <a href="../teaching/DL_15.pdf" class="textlink" target="_blank">序列生成模型 </a> <br>
+
+
 
 
