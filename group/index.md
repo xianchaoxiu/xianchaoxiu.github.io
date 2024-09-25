@@ -22,7 +22,7 @@ I am recruiting self-motivated students with certain mathematical abilities and 
 * Jianhao Li (2024.09-2027.06) <br>
 * Chenyi Huang (2023.09-2026.06) <br>
 * Anning Yang (2022.09-2025.06) <br>
-* Fuchao Yu (2021.09-2024.06): <a href="../group/2024-于福超.pdf" class="textlink" target="_blank"> Bearing Fault Diagnosis Based on Transfer Learning</a>  <br>
+* Fuchao Yu (2021.09-2024.06)  <br>
 
 
 ### Cooperant Students
