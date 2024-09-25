@@ -11,7 +11,7 @@ share: false
 
 ###  现代优化方法  
 
-- 第一部分 最优化基础 </a> 
+- 第一部分 最优化基础 
   - 第01章  <a href="../teaching/OPT_1.pdf" class="textlink" target="_blank">最优化简介 </a> 
   - 第02章  <a href="../teaching/OPT_2.pdf" class="textlink" target="_blank">基础知识 </a>
   - 第03章  <a href="../teaching/OPT_3.pdf" class="textlink" target="_blank">典型优化问题 </a>
@@ -19,7 +19,7 @@ share: false
   - 第05章 <a href="../teaching/OPT_5.pdf" class="textlink" target="_blank">无约束优化算法 </a>
   - 第06章  <a href="../teaching/OPT_6.pdf" class="textlink" target="_blank">约束优化算法 </a>
   - 第07章  <a href="../teaching/OPT_7.pdf" class="textlink" target="_blank">复合优化算法 </a>
-- 第二部分 深度学习  
+- 第二部分 深度学习
   - 第01章: <a href="../teaching/DL_1.pdf" class="textlink" target="_blank">绪论 </a>
   - 第02章: <a href="../teaching/DL_2.pdf" class="textlink" target="_blank">机器学习概述 </a>
   - 第03章: <a href="../teaching/DL_3.pdf" class="textlink" target="_blank">线性模型 </a>
