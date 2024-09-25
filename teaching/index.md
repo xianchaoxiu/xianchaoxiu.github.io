@@ -7,6 +7,15 @@ comments: false
 share: false
 ---
 
+### 运筹学基础
+
+  - <a href="../teaching/OR_1.pdf" class="textlink" target="_blank">绪论 </a>
+  - <a href="../teaching/OR_2.pdf" class="textlink" target="_blank">线性规划  </a>
+  - <a href="../teaching/OR_3.pdf" class="textlink" target="_blank">整数规划 </a>
+  - <a href="../teaching/OR_4.pdf" class="textlink" target="_blank">非线性规划 </a>
+  - <a href="../teaching/OR_5.pdf" class="textlink" target="_blank">动态规划 </a>
+  - <a href="../teaching/OR_6.pdf" class="textlink" target="_blank">博弈论 </a>
+
 
 
 ###  现代优化方法  
@@ -37,26 +46,3 @@ share: false
   - <a href="../teaching/DL_15.pdf" class="textlink" target="_blank">序列生成模型 </a>
 
 
-### 运筹学基础
-
-  - <a href="../teaching/OR_1.pdf" class="textlink" target="_blank">绪论 </a>
-  - <a href="../teaching/OR_2.pdf" class="textlink" target="_blank">线性规划  </a>
-  - <a href="../teaching/OR_3.pdf" class="textlink" target="_blank">整数规划 </a>
-  - <a href="../teaching/OR_4.pdf" class="textlink" target="_blank">非线性规划 </a>
-  - <a href="../teaching/OR_5.pdf" class="textlink" target="_blank">动态规划 </a>
-  - <a href="../teaching/OR_6.pdf" class="textlink" target="_blank">博弈论 </a>
-
-
-
-### 机器视觉 
-
-  - <a href="../teaching/MV_1.pdf" class="textlink" target="_blank">机器视觉概述 </a>
-  - <a href="../teaching/MV_2.pdf" class="textlink" target="_blank">数字图像基础   </a>
-  - <a href="../teaching/MV_3.pdf" class="textlink" target="_blank">初步认识HALCON </a>
-  - <a href="../teaching/MV_4.pdf" class="textlink" target="_blank">图像预处理 </a>
-  - <a href="../teaching/MV_5.pdf" class="textlink" target="_blank">图像分割 </a>
-  - <a href="../teaching/MV_6.pdf" class="textlink" target="_blank">特征提取 </a>
-  - <a href="../teaching/MV_7.pdf" class="textlink" target="_blank">图像的形态学处理</a>
-  - <a href="../teaching/MV_8.pdf" class="textlink" target="_blank">图像模板匹配   </a>
-  - <a href="../teaching/MV_9.pdf" class="textlink" target="_blank">3D视觉基础 </a>
-  - <a href="../teaching/MV_10.pdf" class="textlink" target="_blank">案例分析 </a>
