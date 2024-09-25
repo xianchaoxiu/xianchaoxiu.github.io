@@ -8,6 +8,7 @@ share: false
 ---
 
 ### 运筹学基础
+
 - <a href="../teaching/OR_1.pdf" class="textlink" target="_blank">绪论 </a> <br>
 - <a href="../teaching/OR_2.pdf" class="textlink" target="_blank">线性规划  </a> <br>
 - <a href="../teaching/OR_3.pdf" class="textlink" target="_blank">整数规划 </a> <br>
@@ -18,7 +19,6 @@ share: false
 ### 现代优化方法
 
 - 最优化基础  <br>
-
   - <a href="../teaching/OPT_1.pdf" class="textlink" target="_blank">最优化简介 </a>  <br>
   - <a href="../teaching/OPT_2.pdf" class="textlink" target="_blank">基础知识 </a> <br>
   - <a href="../teaching/OPT_3.pdf" class="textlink" target="_blank">典型优化问题 </a> <br>
@@ -28,7 +28,6 @@ share: false
   - <a href="../teaching/OPT_7.pdf" class="textlink" target="_blank">复合优化算法 </a> <br>
   
 - 深度学习进阶  <br>
-
   - <a href="../teaching/DL_1.pdf" class="textlink" target="_blank">绪论 </a> <br>
   - <a href="../teaching/DL_2.pdf" class="textlink" target="_blank">机器学习概述 </a> <br>
   - <a href="../teaching/DL_3.pdf" class="textlink" target="_blank">线性模型 </a> <br>
