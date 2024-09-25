@@ -9,13 +9,11 @@ share: false
 
  ### 现代优化方法（研究生）
  
-<li><b> 第一部分 <a href="http://faculty.bicmr.pku.edu.cn/~wenzw/optbook.html" class="textlink" target="_blank">最优化：建模、算法与理论  </a> </b>
-	
-	<ul>
-		<li> 第01章: <a href="../teaching/OPT_1.pdf" class="textlink" target="_blank">最优化简介</a>   </li>
-		<li> 第02章: <a href="../teaching/OPT_2.pdf" class="textlink" target="_blank">基础知识</a> /li>
-	</ul>	
-  
+    <ul>
+    <li> <a href="https://github.com/canyilu/LibADMM" class="textlink">A library of ADMM for sparse and low-rank optimization  </a></li>    
+    <li> <a href="https://github.com/canyilu/tproduct" class="textlink">Tensor-tensor product toolbox 2.0</a></li>
+    <li> A library of proximal operators (coming...)</li>
+    </ul>  
   
  
 ### 现代优化方法（研究生）
