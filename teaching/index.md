@@ -8,10 +8,10 @@ share: false
 ---
 
  
-<li><b> 现代优化方法（研究生） </b>
+<li><b> 第一部分 <a href="http://faculty.bicmr.pku.edu.cn/~wenzw/optbook.html" class="textlink" target="_blank">最优化：建模、算法与理论  </a> </b>
 	<ul>
-		<li> <a href="https://github.com/canyilu/LSR" class="textlink"> Subspace Clustering by Least Square Regression</a> </li>
-		<li> <a href="https://github.com/canyilu/BDR" class="textlink">Subspace Clustering by Block Diagonal Representation </a></li>
+		<li> 第01章: <a href="../teaching/OPT_1.pdf" class="textlink" target="_blank">最优化简介</a>   </li>
+		<li> 第02章: <a href="../teaching/OPT_2.pdf" class="textlink" target="_blank">基础知识</a> /li>
 	</ul>	
   
   
