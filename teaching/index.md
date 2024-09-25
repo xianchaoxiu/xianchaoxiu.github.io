@@ -8,11 +8,16 @@ share: false
 ---
 
  
-
+<li><b> 现代优化方法（研究生） </b>
+	<ul>
+		<li> <a href="https://github.com/canyilu/LSR" class="textlink"> Subspace Clustering by Least Square Regression</a> </li>
+		<li> <a href="https://github.com/canyilu/BDR" class="textlink">Subspace Clustering by Block Diagonal Representation </a></li>
+	</ul>	
   
   
  
-### 最优化方法（研究生）
+### 现代优化方法（研究生）
+* 第一部分：<a href="http://faculty.bicmr.pku.edu.cn/~wenzw/optbook.html" class="textlink" target="_blank">最优化：建模、算法与理论  </a> 
 * 第01章: <a href="../teaching/OPT_1.pdf" class="textlink" target="_blank">最优化简介 </a> 
 * 第02章: <a href="../teaching/OPT_2.pdf" class="textlink" target="_blank">基础知识</a>
 * 第03章: <a href="../teaching/OPT_3.pdf" class="textlink" target="_blank">典型优化问题</a>
@@ -21,8 +26,7 @@ share: false
 * 第06章: <a href="../teaching/OPT_6.pdf" class="textlink" target="_blank">约束优化算法</a>
 * 第07章: <a href="../teaching/OPT_7.pdf" class="textlink" target="_blank">复合优化算法</a>
 
-
-### 深度学习（研究生）
+* 第二部分：<a href="https://nndl.github.io/" class="textlink" target="_blank">神经网络与深度学习  </a> 
 * 第01章: <a href="../teaching/DL_1.pdf" class="textlink" target="_blank">绪论 </a>
 * 第02章: <a href="../teaching/DL_2.pdf" class="textlink" target="_blank">机器学习概述   </a>
 * 第03章: <a href="../teaching/DL_3.pdf" class="textlink" target="_blank">线性模型 </a>
