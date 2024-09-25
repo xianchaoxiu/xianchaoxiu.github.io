@@ -10,7 +10,7 @@ share: false
  
 ### 现代优化方法（研究生）
 * 第一部分：<a href="http://faculty.bicmr.pku.edu.cn/~wenzw/optbook.html" class="textlink" target="_blank">最优化：建模、算法与理论  </a> 
-**  第01章: <a href="../teaching/OPT_1.pdf" class="textlink" target="_blank">最优化简介 </a> 
+- 第01章: <a href="../teaching/OPT_1.pdf" class="textlink" target="_blank">最优化简介 </a> 
 * 第02章: <a href="../teaching/OPT_2.pdf" class="textlink" target="_blank">基础知识</a>
 * 第03章: <a href="../teaching/OPT_3.pdf" class="textlink" target="_blank">典型优化问题</a>
 * 第04章: <a href="../teaching/OPT_4.pdf" class="textlink" target="_blank">最优性理论</a>
