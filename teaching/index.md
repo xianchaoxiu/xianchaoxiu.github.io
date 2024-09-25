@@ -9,9 +9,9 @@ share: false
 
 
 
-###  Numerical Optimization（in Chinese） 
+###  现代优化方法  
 
-- 第01章: <a href="../teaching/OPT_1.pdf" class="textlink" target="_blank">最优化简介 </a>
+- 最优化方法 </a>
   - 第01章: <a href="../teaching/OPT_1.pdf" class="textlink" target="_blank">最优化简介 </a> 
   - 第02章: <a href="../teaching/OPT_2.pdf" class="textlink" target="_blank">基础知识</a>
   - 第03章: <a href="../teaching/OPT_3.pdf" class="textlink" target="_blank">典型优化问题</a>
@@ -19,7 +19,7 @@ share: false
   - 第05章: <a href="../teaching/OPT_5.pdf" class="textlink" target="_blank">无约束优化算法</a>
   - 第06章: <a href="../teaching/OPT_6.pdf" class="textlink" target="_blank">约束优化算法</a>
   - 第07章: <a href="../teaching/OPT_7.pdf" class="textlink" target="_blank">复合优化算法</a>
-- Artificial Intelligence（in Chinese） </a>
+- 人工智能 </a>
   - 第01章: <a href="../teaching/DL_1.pdf" class="textlink" target="_blank">绪论 </a>
   - 第02章: <a href="../teaching/DL_2.pdf" class="textlink" target="_blank">机器学习概述   </a>
   - 第03章: <a href="../teaching/DL_3.pdf" class="textlink" target="_blank">线性模型 </a>
@@ -37,7 +37,7 @@ share: false
   - 第15章: <a href="../teaching/DL_15.pdf" class="textlink" target="_blank">序列生成模型 </a>
 
 
-### Operations Research（in Chinese） 
+### 运筹学基础
 
   - 第01章: <a href="../teaching/OR_1.pdf" class="textlink" target="_blank">绪论 </a>
   - 第02章: <a href="../teaching/OR_2.pdf" class="textlink" target="_blank">线性规划  </a>
@@ -48,7 +48,7 @@ share: false
 
 
 
-### Machine Vision（in Chinese） 
+### 机器视觉 
 
   - 第01章: <a href="../teaching/MV_1.pdf" class="textlink" target="_blank">机器视觉概述 </a>
   - 第02章: <a href="../teaching/MV_2.pdf" class="textlink" target="_blank">数字图像基础   </a>
