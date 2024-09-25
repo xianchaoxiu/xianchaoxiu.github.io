@@ -24,9 +24,9 @@ share: false
 * Chapter 1: <a href="../teaching/OR_1.pdf" class="textlink" target="_blank">Introduction </a>
 * Chapter 2: <a href="../teaching/OR_2.pdf" class="textlink" target="_blank">Linear Programming  </a>
 * Chapter 3: <a href="../teaching/OR_3.pdf" class="textlink" target="_blank">Integer Programming </a>
-* Chapter 4: <a href="../teaching/OR_3.pdf" class="textlink" target="_blank">Nonlinear Programming </a>
-* Chapter 5: <a href="../teaching/OR_3.pdf" class="textlink" target="_blank">Dynamic Programming </a>
-* Chapter 6: <a href="../teaching/OR_3.pdf" class="textlink" target="_blank">Game Theory </a>
+* Chapter 4: <a href="../teaching/OR_4.pdf" class="textlink" target="_blank">Nonlinear Programming </a>
+* Chapter 5: <a href="../teaching/OR_5.pdf" class="textlink" target="_blank">Dynamic Programming </a>
+* Chapter 6: <a href="../teaching/OR_6.pdf" class="textlink" target="_blank">Game Theory </a>
 
 
   
