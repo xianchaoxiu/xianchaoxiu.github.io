@@ -7,6 +7,13 @@ comments: false
 share: false
 ---
 
+
+
+###  Numerical Optimization（in Chinese） 
+
+* 第01章: <a href="../teaching/OPT_1.pdf" class="textlink" target="_blank">最优化简介 </a>
+** 第01章: <a href="../teaching/OPT_1.pdf" class="textlink" target="_blank">最优化简介 </a>
+
  
 ###  Numerical Optimization（in Chinese） 
 
