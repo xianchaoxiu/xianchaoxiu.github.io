@@ -7,7 +7,7 @@ comments: false
 share: false
 ---
 
-### 运筹学基础
+### 运筹学基础（本科生）
 
 - <a href="../teaching/OR_1.pdf" class="textlink" target="_blank">绪论 </a> <br>
 - <a href="../teaching/OR_2.pdf" class="textlink" target="_blank">线性规划  </a> <br>
@@ -16,7 +16,7 @@ share: false
 - <a href="../teaching/OR_5.pdf" class="textlink" target="_blank">动态规划 </a> <br>
 - <a href="../teaching/OR_6.pdf" class="textlink" target="_blank">博弈论 </a> <br>
 
-### 现代优化方法
+### 现代优化方法（研究生）
 
 - 最优化基础  <br>
   - <a href="../teaching/OPT_1.pdf" class="textlink" target="_blank">最优化简介 </a>  <br>
