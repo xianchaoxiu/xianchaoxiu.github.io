@@ -11,7 +11,7 @@ share: false
 You can also browse my <a href="https://www.researchgate.net/profile/Xianchao-Xiu" class="textlink" target="_blank">ResearchGate</a> and <a href="https://github.com/xianchaoxiu" class="textlink" target="_blank">Github</a>
 
 ### Preprints
-* <b>X. Xiu</b>, C. Huang, P. Shang, W. Liu, Bi-Sparse Unsupervised Feature Selection <br>
+* <b>X. Xiu</b>, C. Huang, P. Shang*, W. Liu, Bi-Sparse Unsupervised Feature Selection <br>
 * <b>X. Xiu</b>, A. Yang, X. Li*, W. Liu, Revisiting Unsupervised Feature Selection via Double Sparsity Constrained Optimization <br>
 * J. Liu, J. Jin, <b>X. Xiu*</b>, J. Zhang, STAR-Net: An Interpretable Tensor Representation Network for Hyperspectral Image Denoising <br>
 * J. Fan, A. Yan, <b>X. Xiu*</b>, W. Liu, Robust Sparse Phase Retrieval: Model, Theoretical Guarantee and Efficient Algorithm  <br>
