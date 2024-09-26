@@ -41,8 +41,7 @@ share: false
   - TBA
 
 
-
- ### 运筹学基础
+### 运筹学基础
 
 - 第一部分: 最优化计算方法 <br><br>
   - <a href="../teaching/OR_1.pdf" class="textlink" target="_blank">绪论 </a> <br>
