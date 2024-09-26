@@ -43,7 +43,7 @@ share: false
 
 ### 运筹学基础
 
-- 第一部分: 最优化计算方法 <br>
+- 第一部分: 运筹学 <br>
   - <a href="../teaching/OR_1.pdf" class="textlink" target="_blank">绪论 </a> <br>
   - <a href="../teaching/OR_2.pdf" class="textlink" target="_blank">线性规划  </a> <br>
   - <a href="../teaching/OR_3.pdf" class="textlink" target="_blank">整数规划 </a> <br>
@@ -51,6 +51,6 @@ share: false
   - <a href="../teaching/OR_5.pdf" class="textlink" target="_blank">动态规划 </a> <br>
   - <a href="../teaching/OR_6.pdf" class="textlink" target="_blank">博弈论 </a> <br><br>
 
-- 第二部分: MATLAB  <br>
+- 第二部分: MATLAB应用  <br>
   - TBA
 
