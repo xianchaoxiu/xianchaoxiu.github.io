@@ -11,7 +11,7 @@ share: false
 
 ### 现代优化方法
 
-- 第一部分: 最优化方法  <br>
+- 第一部分` `最优化方法  <br>
   - <a href="../teaching/OPT_1.pdf" class="textlink" target="_blank">最优化简介 </a>  <br>
   - <a href="../teaching/OPT_2.pdf" class="textlink" target="_blank">基础知识 </a> <br>
   - <a href="../teaching/OPT_3.pdf" class="textlink" target="_blank">典型优化问题 </a> <br>
