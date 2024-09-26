@@ -21,21 +21,7 @@ share: false
   - <a href="../teaching/OPT_7.pdf" class="textlink" target="_blank">复合优化算法 </a> <br><br>
   
 - 第二部分: 深度学习基础  <br>
-  - <a href="../teaching/DL_1.pdf" class="textlink" target="_blank">绪论 </a> <br>
-  - <a href="../teaching/DL_2.pdf" class="textlink" target="_blank">机器学习概述 </a> <br>
-  - <a href="../teaching/DL_3.pdf" class="textlink" target="_blank">线性模型 </a> <br>
-  - <a href="../teaching/DL_4.pdf" class="textlink" target="_blank">前馈神经网络 </a> <br>
-  - <a href="../teaching/DL_5.pdf" class="textlink" target="_blank">卷积神经网络 </a> <br>
-  - <a href="../teaching/DL_6.pdf" class="textlink" target="_blank">循环神经网络 </a> <br>
-  - <a href="../teaching/DL_7.pdf" class="textlink" target="_blank">网络优化与正则化 </a> <br>
-  - <a href="../teaching/DL_8.pdf" class="textlink" target="_blank">注意力机制与外部记忆  </a> <br>
-  - <a href="../teaching/DL_9.pdf" class="textlink" target="_blank">无监督学习 </a> <br>
-  - <a href="../teaching/DL_10.pdf" class="textlink" target="_blank">模型独立的学习方式 </a> <br>
-  - <a href="../teaching/DL_11.pdf" class="textlink" target="_blank">概率图模型 </a> <br>
-  - <a href="../teaching/DL_12.pdf" class="textlink" target="_blank">深度信念网络 </a> <br>
-  - <a href="../teaching/DL_13.pdf" class="textlink" target="_blank">深度生成模型 </a> <br>
-  - <a href="../teaching/DL_14.pdf" class="textlink" target="_blank">深度强化学习 </a> <br>
-  - <a href="../teaching/DL_15.pdf" class="textlink" target="_blank">序列生成模型 </a> <br><br>
+  - TBA
   
 - 第三部分: 数据驱动最优化  <br>
   - TBA
