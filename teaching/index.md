@@ -21,10 +21,10 @@ share: false
   - <a href="../teaching/OPT_7.pdf" class="textlink" target="_blank">复合优化算法 </a> <br><br>
   
 - 第二部分: 深度学习基础  <br>
-  - TBA
+  - TBA<br><br>
   
 - 第三部分: 数据驱动最优化  <br>
-  - TBA
+  - TBA<br><br>
 
 
 ### 运筹学基础
