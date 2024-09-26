@@ -43,6 +43,6 @@ share: false
   - <a href="../teaching/DL_13.pdf" class="textlink" target="_blank">深度生成模型 </a> <br>
   - <a href="../teaching/DL_14.pdf" class="textlink" target="_blank">深度强化学习 </a> <br>
   - <a href="../teaching/DL_15.pdf" class="textlink" target="_blank">序列生成模型 </a> <br>
-
-  - 第三部分: 数据驱动最优化  <br>
-    - TBA
+  
+- 第三部分: 数据驱动最优化  <br>
+  - TBA
