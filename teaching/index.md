@@ -42,7 +42,7 @@ share: false
 
 
 
-### 机器视觉
+### 机器视觉基础
 
 - 第一部分: 机器视觉 <br>
   - <a href="../teaching/OR_1.pdf" class="textlink" target="_blank">机器视觉概述 </a> <br>
