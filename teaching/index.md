@@ -54,7 +54,7 @@ share: false
   - <a href="../teaching/OR_5.pdf" class="textlink" target="_blank">图像的形态学处理  </a> <br>
   - <a href="../teaching/OR_6.pdf" class="textlink" target="_blank">图像模板匹配 </a> <br>
 
-- 第二部分: Halcon实践  <br>
+- 第二部分: HALCON实践  <br>
   - TBA
 
 
