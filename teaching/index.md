@@ -42,4 +42,20 @@ share: false
 
 
 
+### 机器视觉
+
+- 第一部分: 机器视觉 <br>
+  - <a href="../teaching/OR_1.pdf" class="textlink" target="_blank">机器视觉概述 </a> <br>
+  - <a href="../teaching/OR_2.pdf" class="textlink" target="_blank">数字图像基础  </a> <br>
+  - <a href="../teaching/OR_3.pdf" class="textlink" target="_blank">初步认识HALCON </a> <br>
+  - <a href="../teaching/OR_4.pdf" class="textlink" target="_blank">图像预处理 </a> <br>
+  - <a href="../teaching/OR_5.pdf" class="textlink" target="_blank">图像分割  </a> <br>
+  - <a href="../teaching/OR_6.pdf" class="textlink" target="_blank">特征提取 </a> <br><br>
+  - <a href="../teaching/OR_5.pdf" class="textlink" target="_blank">图像的形态学处理  </a> <br>
+  - <a href="../teaching/OR_6.pdf" class="textlink" target="_blank">图像模板匹配 </a> <br><br>
+
+- 第二部分: Halcon实践  <br>
+  - TBA
+
+
 
