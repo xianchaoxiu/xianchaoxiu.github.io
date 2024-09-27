@@ -11,8 +11,7 @@ share: false
 You can also browse my <a href="https://www.researchgate.net/profile/Xianchao-Xiu" class="textlink" target="_blank">ResearchGate</a> and <a href="https://github.com/xianchaoxiu" class="textlink" target="_blank">Github</a>
 
 ### Preprints
-* Learning to Feature Selection
-* Tuning-Free Unsupervised Feature Selection via Deep Unfolding Networks
+* Learning to Feature Selection <br>
 * Bi-Sparse Unsupervised Feature Selection <br>
 * Revisiting Unsupervised Feature Selection via Double Sparsity Constrained Optimization <br>
 * STAR-Net: An Interpretable Tensor Representation Network for Hyperspectral Image Denoising <br>
