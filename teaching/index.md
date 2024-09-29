@@ -9,9 +9,9 @@ share: false
 
 
 
-### 现代优化方法
+### 现代优化方法（研究生）
 
-- 第一部分: 优化方法基础  <br>
+- 第一部分: 基础篇  <br>
   - <a href="../teaching/OPT_1.pdf" class="textlink" target="_blank">最优化简介 </a>  <br>
   - <a href="../teaching/OPT_2.pdf" class="textlink" target="_blank">基础知识 </a> <br>
   - <a href="../teaching/OPT_3.pdf" class="textlink" target="_blank">典型优化问题 </a> <br>
@@ -20,14 +20,18 @@ share: false
   - <a href="../teaching/OPT_6.pdf" class="textlink" target="_blank">约束优化算法 </a> <br>
   - <a href="../teaching/OPT_7.pdf" class="textlink" target="_blank">复合优化算法 </a> <br><br>
   
-- 第二部分: 深度学习基础  <br>
+- 第二部分: 进阶篇  <br>
   - TBA<br><br>
   
-- 第三部分: 数据驱动最优化  <br>
+- 第三部分: 实战篇  <br>
   - TBA<br><br>
 
 
-### 运筹学基础
+
+
+
+
+### 运筹学基础（本科生）
 
 - 第一部分: 运筹学 <br>
   - <a href="../teaching/OR_1.pdf" class="textlink" target="_blank">绪论 </a> <br>
