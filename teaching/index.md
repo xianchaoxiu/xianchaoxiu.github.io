@@ -9,7 +9,7 @@ share: false
 
 
 
-### 现代优化方法（研究生）
+### 现代优化方法
 
 - 第一部分: 数学理论  <br>
   - <a href="../teaching/OPT_1.pdf" class="textlink" target="_blank">最优化简介 </a>  <br>
@@ -28,7 +28,7 @@ share: false
 
 
 
-### 运筹学基础（本科生）
+### 运筹学基础
 
 - 第一部分: 运筹学 <br>
   - <a href="../teaching/OR_1.pdf" class="textlink" target="_blank">绪论 </a> <br>
