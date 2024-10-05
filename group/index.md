@@ -22,7 +22,7 @@ I am recruiting self-motivated students with certain mathematical abilities and 
 * Jianhao Li (2024.09 - ) <br>
 * Chenyi Huang (2023.09 - ) <br>
 * Anning Yang (2022.09 - ) <br>
-* Fuchao Yu (2021.09 - 2024.06)  <br>
+* <a href="../group/2024-Yu.pdf" class="textlink" target="_blank"> Fuchao Yu (2021.09 - 2024.06)  <br>
 
 
 ### Cooperant Students
