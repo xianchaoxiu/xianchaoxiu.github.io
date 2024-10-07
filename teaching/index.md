@@ -20,8 +20,11 @@ share: false
   - <a href="../teaching/OPT_6.pdf" class="textlink" target="_blank">约束优化算法 </a> <br>
   - <a href="../teaching/OPT_7.pdf" class="textlink" target="_blank">复合优化算法 </a> <br><br>
   
-- 第二部分: 智能方法  <br>
-  - TBA<br><br>
+- 第二部分: 智能方法及应用  <br>
+  - 无监督特征选择 </a> <br>
+  - 高光谱图像分析 </a> <br>
+  - 深度展开网络 </a> <br>
+  - 大语言模型 </a> <br><br>
 
 
 
