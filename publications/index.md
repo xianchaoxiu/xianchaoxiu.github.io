@@ -11,6 +11,14 @@ share: false
 You can also browse my <a href="https://www.researchgate.net/profile/Xianchao-Xiu" class="textlink" target="_blank">ResearchGate</a> and <a href="https://github.com/xianchaoxiu" class="textlink" target="_blank">Github</a>
 
 
+Shenglong Zhou, Xianchao Xiu, Yingnan Wang, and Dingtao Peng, Revisiting Lq (0<=q<1) norm regularized optimization, 2023. RG, ArXiv, Code
+
+
+### Preprint
+
+
+* S. Zhou, <b>X. Xiu</b>, Y. Wang, D. Peng, <a href="https://arxiv.org/abs/2306.14394" class="textlink" target="_blank">Revisiting Lq (0<=q<1) Norm Regularized Optimization</a>, 2023 <br>
+
 
 ### Selected Journals
 
