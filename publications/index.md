@@ -22,10 +22,9 @@ You can also browse my <a href="https://www.researchgate.net/profile/Xianchao-Xi
 
 
 * J. Liu, M. Feng, <b>X. Xiu*</b>, W. Liu, <a href="https://www.sciencedirect.com/science/article/pii/S0031320324002632" class="textlink" target="_blank">Towards Robust and Sparse Linear Discriminant Analysis for Image Classification</a>, <i> Pattern Recognition</i>, 2024 <br>
-* <b>X. Xiu</b>, L. Pan, Y. Yang*, W. Liu, <a href="https://ieeexplore.ieee.org/document/9887978" class="textlink" target="_blank">Efficient and Fast Joint Sparse Constrained Canonical Correlation Analysis for Fault Detection</a>, <i>IEEE Transactions on Neural Networks and Learning Systems</i>, 2024  <be>
+* <b>X. Xiu</b>, L. Pan, Y. Yang*, W. Liu, <a href="https://ieeexplore.ieee.org/document/9887978" class="textlink" target="_blank">Efficient and Fast Joint Sparse Constrained Canonical Correlation Analysis for Fault Detection</a>, <i>IEEE Transactions on Neural Networks and Learning Systems</i>, 2024  <br>
 * <b>X. Xiu</b>, Z. Miao, W. Liu*, <a href="https://ieeexplore.ieee.org/abstract/document/10091146" class="textlink" target="_blank">A Sparsity-Aware Fault Diagnosis Framework Focusing on Accurate Isolation</a>, <i>IEEE Transactions on Industrial Informatics</i>, 2023 <br>
-* <b>X. Xiu</b>, Z. Miao, Y. Yang*, W. Liu, <a href="https://ieeexplore.ieee.org/document/9583864" class="textlink" target="_blank">Deep Canonical Correlation Analysis Using Sparsity-Constrained Optimization for Nonlinear Process Monitoring</a>, <i>IEEE Transactions on Industrial Informatics</i>, 2022  <be>
-* <b>X. Xiu*</b>, L. Kong, Y. Li, H. Qi, <a href="http://dx.doi.org/10.1007/s10589-017-9977-7" class="textlink" target="_blank">Iterative Reweighted Methods for L1-Lp Minimization</a>, <i>Computational Optimization and Applications</i>, 2018  <be>
+* <b>X. Xiu</b>, Z. Miao, Y. Yang*, W. Liu, <a href="https://ieeexplore.ieee.org/document/9583864" class="textlink" target="_blank">Deep Canonical Correlation Analysis Using Sparsity-Constrained Optimization for Nonlinear Process Monitoring</a>, <i>IEEE Transactions on Industrial Informatics</i>, 2022  <br>
 
 
 
