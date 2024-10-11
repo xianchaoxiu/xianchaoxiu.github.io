@@ -21,10 +21,7 @@ share: false
   - <a href="../teaching/OPT_7.pdf" class="textlink" target="_blank">复合优化算法 </a> <br><br>
      
 - 第二部分: 进阶篇  <br>
-  - 无监督特征选择 <br>
-  - 高光谱图像分析 <br>
-  - 深度展开网络 <br>
-  - 大语言模型  <br><br>
+  - TBA
 
 
 
