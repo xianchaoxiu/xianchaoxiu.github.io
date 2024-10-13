@@ -16,7 +16,7 @@ You can also browse my <a href="https://www.researchgate.net/profile/Xianchao-Xi
 
 
 * <b>X. Xiu</b>, C. Huang, P. Shang*, W. Liu, Bi-Sparse Unsupervised Feature Selection, 2024 <br>
-* J. Fan, A. Yan, <b>X. Xiu*</b>, W. Liu, D. Peng, Robust Sparse Phase Retrieval: Model, Theoretical Guarantee and Efficient Algorithm, 2023 <br>
+* J. Liu, J. Jin, <b>X. Xiu*</b>, J. Zhang, STAR-Net: An Interpretable Tensor Representation Network for Hyperspectral Image Denoising, 2024 <br>
 
 ### Selected Journals
 
