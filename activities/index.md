@@ -15,7 +15,7 @@ share: false
 
 
 ### Editor of
-* <a href="https://www.mdpi.com/journal/mathematics/special_issues/machine_learning_optimization_control_applications" class="textlink" target="_blank">Mathematics （Guest Editor）</a> <br>
+* <a href="https://www.mdpi.com/journal/mathematics/special_issues/machine_learning_optimization_control_applications" class="textlink" target="_blank">Mathematics (Guest Editor)</a> <br>
   
 
 ### Reviewer for
