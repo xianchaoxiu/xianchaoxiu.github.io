@@ -16,7 +16,7 @@ You can also browse my <a href="https://www.researchgate.net/profile/Xianchao-Xi
 
 
 * <b>X. Xiu</b>, C. Huang, P. Shang*, W. Liu, Bi-Sparse Unsupervised Feature Selection, 2024 <br>
-* S. Zhou, <b>X. Xiu</b>, Y. Wang, D. Peng, Revisiting Lq (0<=q<1) Norm Regularized Optimization, 2023 <br>
+* J. Fan, A. Yan, <b>X. Xiu*</b>, W. Liu, D. Peng, Robust Sparse Phase Retrieval: Model, Theoretical Guarantee and Efficient Algorithm, 2023 <br>
 
 ### Selected Journals
 
