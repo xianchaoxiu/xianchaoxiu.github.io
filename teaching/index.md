@@ -11,7 +11,7 @@ share: false
 
 ### 现代优化方法
 
-- 第一部分: 基础篇 <br>
+- <a href="http://faculty.bicmr.pku.edu.cn/~wenzw/optbook.html" class="textlink" target="_blank">第一部分: 最优化方法 </a>  <br>
   - <a href="../teaching/OPT_1.pdf" class="textlink" target="_blank">最优化简介 </a>  <br>
   - <a href="../teaching/OPT_2.pdf" class="textlink" target="_blank">基础知识 </a> <br>
   - <a href="../teaching/OPT_3.pdf" class="textlink" target="_blank">典型优化问题 </a> <br>
@@ -19,11 +19,12 @@ share: false
   - <a href="../teaching/OPT_5.pdf" class="textlink" target="_blank">无约束优化算法 </a> <br>
   - <a href="../teaching/OPT_6.pdf" class="textlink" target="_blank">约束优化算法 </a> <br>
   - <a href="../teaching/OPT_7.pdf" class="textlink" target="_blank">复合优化算法 </a> <br><br>
-     
-- 第二部分: 进阶篇  <br>
+
+- <a href="https://nndl.github.io/" class="textlink" target="_blank"> 第二部分: 深度神经网络 </a>  <br>
   - TBA <br><br>
 
-
+- 第三部分: 数据驱动算法 <br>
+  - TBA <br><br>
 
 
 
