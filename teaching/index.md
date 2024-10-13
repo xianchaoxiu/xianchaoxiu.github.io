@@ -23,7 +23,7 @@ share: false
 - <a href="https://nndl.github.io/" class="textlink" target="_blank"> 第二部分: 深度神经网络 </a>  <br>
   - TBA <br><br>
 
-- 第三部分: 数据驱动算法 <br>
+- 第三部分: 数据驱动最优化 <br>
   - TBA <br><br>
 
 
