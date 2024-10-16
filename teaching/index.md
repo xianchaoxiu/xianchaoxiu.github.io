@@ -21,10 +21,16 @@ share: false
   - <a href="../teaching/OPT_7.pdf" class="textlink" target="_blank">复合优化算法 </a> <br><br>
 
 - <a href="https://nndl.github.io/" class="textlink" target="_blank"> 第二部分: 深度学习基础 </a>  <br>
-  - TBA <br><br>
-
+  - 前馈神经网络 <br>
+  - 卷积神经网络 <br>
+  - 循环神经网络 <br>
+  - 网络优化与正则化 <br> <br>
+      
 - 第三部分: 数据驱动最优化 <br>
-  - TBA <br><br>
+  - 即插即用 <br>
+  - 深度展开网络 <br>
+  - 深度均衡模型 <br>
+  - 大模型辅助设计 <br><br>
 
 
 
