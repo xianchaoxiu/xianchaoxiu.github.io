@@ -11,7 +11,7 @@ share: false
 
 ### 现代优化方法
 
-- <a href="http://faculty.bicmr.pku.edu.cn/~wenzw/optbook.html" class="textlink" target="_blank">第一部分: 最优化方法 </a>  <br>
+- <a href="http://faculty.bicmr.pku.edu.cn/~wenzw/optbook.html" class="textlink" target="_blank">第一部分: 经典优化方法 </a>  <br>
   - <a href="../teaching/OPT_1.pdf" class="textlink" target="_blank">最优化简介 </a>  <br>
   - <a href="../teaching/OPT_2.pdf" class="textlink" target="_blank">基础知识 </a> <br>
   - <a href="../teaching/OPT_3.pdf" class="textlink" target="_blank">典型优化问题 </a> <br>
@@ -26,7 +26,7 @@ share: false
   - 循环神经网络 <br>
   - 优化与正则化 <br> <br>
       
-- 第三部分: 数据驱动最优化 <br>
+- 第三部分: 数据驱动优化 <br>
   - 即插即用 <br>
   - 深度展开网络 <br>
   - 深度均衡模型 <br>
