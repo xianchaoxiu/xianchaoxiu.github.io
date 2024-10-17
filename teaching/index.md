@@ -20,8 +20,8 @@ share: false
   - <a href="../teaching/OPT_6.pdf" class="textlink" target="_blank">约束优化算法 </a> <br>
   - <a href="../teaching/OPT_7.pdf" class="textlink" target="_blank">复合优化算法 </a> <br><br>
 
-- <a href="https://nndl.github.io/" class="textlink" target="_blank"> 第二部分: 深度学习基础 </a>  <br>
-  - 深度前馈网络 <br>
+- <a href="https://nndl.github.io/" class="textlink" target="_blank"> 第二部分: 深度神经网络 </a>  <br>
+  - 前馈神经网络 <br>
   - 卷积神经网络 <br>
   - 循环神经网络 <br>
   - 优化与正则化 <br> <br>
