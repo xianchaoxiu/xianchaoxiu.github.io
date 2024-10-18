@@ -12,11 +12,11 @@ share: false
 ### 现代优化方法
 
 - 第一部分: 经典优化方法  <br>
-  - 基础知识 <br>
-  - 最优性理论 <br>
-  - 无约束优化算法  <br>
-  - 约束优化算法  <br>
-  - 复合优化算法 <br><br>
+  - <a href="../teaching/OPT_1.pdf" class="textlink" target="_blank">基础知识 </a> <br>
+  - <a href="../teaching/OPT_1.pdf" class="textlink" target="_blank">最优性理论 </a> <br>
+  - <a href="../teaching/OPT_1.pdf" class="textlink" target="_blank">无约束优化算法 </a> <br>
+  - <a href="../teaching/OPT_1.pdf" class="textlink" target="_blank">约束优化算法 </a> <br>
+  - <a href="../teaching/OPT_1.pdf" class="textlink" target="_blank">复合优化算法 </a> <br>
 
 - 第二部分: 深度神经网络  <br>
   - 基础知识 <br>
