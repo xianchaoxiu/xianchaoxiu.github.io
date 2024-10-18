@@ -11,14 +11,14 @@ share: false
 
 ### 现代优化方法
 
-- <a href="http://faculty.bicmr.pku.edu.cn/~wenzw/optbook.html" class="textlink" target="_blank">第一部分: 经典优化方法 </a>  <br>
+- 第一部分: 经典优化方法  <br>
   - 基础知识 <br>
   - 最优性理论 <br>
   - 无约束优化算法  <br>
   - 约束优化算法  <br>
   - 复合优化算法 <br><br>
 
-- <a href="https://nndl.github.io/" class="textlink" target="_blank"> 第二部分: 深度神经网络 </a>  <br>
+- 第二部分: 深度神经网络  <br>
   - 深度前馈网络 <br>
   - 卷积神经网络 <br>
   - 循环神经网络 <br>
