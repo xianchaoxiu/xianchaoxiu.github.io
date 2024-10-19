@@ -18,7 +18,7 @@ share: false
   - <a href="../teaching/OPT_1.pdf" class="textlink" target="_blank">约束优化算法 </a> <br>
   - <a href="../teaching/OPT_1.pdf" class="textlink" target="_blank">复合优化算法 </a> <br>
 
-- 第二部分: 深度神经网络  <br>
+- 第二部分: 深度学习基础  <br>
   - 基础知识 <br>
   - 前馈神经网络 <br>
   - 卷积神经网络 <br>
