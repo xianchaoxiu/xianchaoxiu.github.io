@@ -16,6 +16,7 @@ You can also browse my <a href="https://www.researchgate.net/profile/Xianchao-Xi
 
 
 * <b>X. Xiu</b>, C. Huang, P. Shang*, W. Liu, Bi-Sparse Unsupervised Feature Selection, 2024 <br>
+* <b>X. Xiu</b>, A. Yang, X. Li*, W. Liu, Revisiting Unsupervised Feature Selection via Double Sparsity Constrained Optimization, 2024 <br>
 
 ### Selected Journals
 
