@@ -16,22 +16,18 @@ share: false
   - <a href="../teaching/OPT_1.pdf" class="textlink" target="_blank">最优性理论 </a> <br>
   - <a href="../teaching/OPT_1.pdf" class="textlink" target="_blank">无约束优化算法 </a> <br>
   - <a href="../teaching/OPT_1.pdf" class="textlink" target="_blank">约束优化算法 </a> <br>
-  - <a href="../teaching/OPT_1.pdf" class="textlink" target="_blank">复合优化算法 </a> <br>
+  - <a href="../teaching/OPT_1.pdf" class="textlink" target="_blank">复合优化算法 </a> <br><br>
 
-- 第二部分: 深度学习基础  <br>
-  - 基础知识 <br>
-  - 前馈神经网络 <br>
-  - 卷积神经网络 <br>
-  - 循环神经网络 <br>
-  - 优化与正则化 <br> <br>
       
-- 第三部分: 数据驱动优化 <br>
+- 第二部分: 数据驱动优化 <br>
+  - 深度学习基础 <br>
+  - 神经网络优化  <br>
   - 即插即用 <br>
   - 深度展开网络 <br>
   - 深度均衡模型 <br>
   - 大模型辅助设计 <br><br>
 
-- 第四部分: 案例 <br>
+- 第三部分: 案例 <br>
   - 高光谱图像分析 <br>
   - 无监督特征选择 <br><br>
   
