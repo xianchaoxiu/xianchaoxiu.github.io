@@ -42,15 +42,3 @@ share: false
 - <a href="../teaching/OR_5.pdf" class="textlink" target="_blank">动态规划 </a> <br>
 - <a href="../teaching/OR_6.pdf" class="textlink" target="_blank">对策论 </a> <br><br>
   
-
-### 机器视觉
-
-- 机器视觉概述 <br>
-- 数字图像基础 <br>
-- 初步认识HALCON <br>
-- 图像预处理 <br>
-- 图像分割 <br>
-- 特征提取 <br>
-- 形态学处理<br>
-- 模版匹配 <br>
-- 案例分析 <br>
