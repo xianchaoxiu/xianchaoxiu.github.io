@@ -19,7 +19,7 @@ share: false
   - <a href="../teaching/OPT_1.pdf" class="textlink" target="_blank">复合优化算法 </a> <br><br>
 
       
-- 第二部分: 数据驱动优化 <br>
+- 第二部分: 数据驱动优化方法 <br>
   - 基础模型 <br>
   - 神经网络优化  <br>
   - 即插即用 <br>
