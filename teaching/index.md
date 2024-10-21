@@ -12,7 +12,7 @@ share: false
 ### 现代优化方法
 
 - 第一部分: 经典优化方法  <br>
-  - <a href="../teaching/OPT_1.pdf" class="textlink" target="_blank">基础知识 </a> <br>
+  - <a href="../teaching/OPT_1.pdf" class="textlink" target="_blank">绪论 </a> <br>
   - <a href="../teaching/OPT_1.pdf" class="textlink" target="_blank">最优性理论 </a> <br>
   - <a href="../teaching/OPT_1.pdf" class="textlink" target="_blank">无约束优化算法 </a> <br>
   - <a href="../teaching/OPT_1.pdf" class="textlink" target="_blank">约束优化算法 </a> <br>
@@ -20,7 +20,7 @@ share: false
 
       
 - 第二部分: 数据驱动优化 <br>
-  - 深度学习基础 <br>
+  - 基础模型 <br>
   - 神经网络优化  <br>
   - 即插即用 <br>
   - 深度展开网络 <br>
