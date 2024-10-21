@@ -15,8 +15,8 @@ You can also browse my <a href="https://www.researchgate.net/profile/Xianchao-Xi
 ### Preprint
 
 
-* <b>X. Xiu</b>, C. Huang, P. Shang*, W. Liu, Bi-Sparse Unsupervised Feature Selection, 2024 <br>
-* <b>X. Xiu</b>, A. Yang, X. Li*, W. Liu, Revisiting Unsupervised Feature Selection via Double Sparsity Constrained Optimization, 2024 <br>
+* S. Zhou, <b>X. Xiu</b>, D. Peng, Y. Wang, <a href="arXiv:2306.14394" class="textlink" target="_blank">Revisiting Lq (0 <= q < 1) Norm Regularized Optimization</a>, 2023 <br>
+
 
 ### Selected Journals
 
