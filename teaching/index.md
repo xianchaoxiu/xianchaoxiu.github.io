@@ -13,10 +13,10 @@ share: false
 
 - 第一部分: 经典优化方法  <br>
   - <a href="../teaching/OPT_1.pdf" class="textlink" target="_blank">绪论 </a> <br>
-  - <a href="../teaching/OPT_1.pdf" class="textlink" target="_blank">最优性理论 </a> <br>
-  - <a href="../teaching/OPT_1.pdf" class="textlink" target="_blank">无约束优化算法 </a> <br>
-  - <a href="../teaching/OPT_1.pdf" class="textlink" target="_blank">约束优化算法 </a> <br>
-  - <a href="../teaching/OPT_1.pdf" class="textlink" target="_blank">复合优化算法 </a> <br><br>
+  - <a href="../teaching/OPT_2.pdf" class="textlink" target="_blank">最优性理论 </a> <br>
+  - <a href="../teaching/OPT_3.pdf" class="textlink" target="_blank">无约束优化算法 </a> <br>
+  - <a href="../teaching/OPT_4.pdf" class="textlink" target="_blank">约束优化算法 </a> <br>
+  - <a href="../teaching/OPT_5.pdf" class="textlink" target="_blank">复合优化算法 </a> <br><br>
 
       
 - 第二部分: 数据驱动优化方法 <br>
