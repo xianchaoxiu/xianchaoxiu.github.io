@@ -20,8 +20,8 @@ share: false
 
       
 - 第二部分: 数据驱动优化方法 <br>
-  - 基础模型 <br>
-  - 神经网络优化  <br>
+  - <a href="../teaching/OPT_5.pdf" class="textlink" target="_blank">基础模型 </a> <br>
+  - <a href="../teaching/OPT_5.pdf" class="textlink" target="_blank">神经网络优化 </a> <br>
   - 即插即用框架 <br>
   - 深度展开网络 <br>
   - 深度均衡模型 <br>
