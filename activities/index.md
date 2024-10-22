@@ -35,9 +35,9 @@ share: false
 * <a href="https://link.springer.com/journal/10915" class="textlink" target="_blank">Journal of Scientific Computing</a> <br>
 * <a href="https://link.springer.com/journal/10107" class="textlink" target="_blank">Mathematical Programming</a> <br>
 * <a href="https://www.sciencedirect.com/journal/pattern-recognition" class="textlink" target="_blank">Pattern Recognition</a> <br>
-* <a href="https://www.sciencedirect.com/journal/information-fusion" class="textlink" target="_blank">Information Fusion</a> <br>
-* <a href="https://www.sciencedirect.com/journal/neural-networks" class="textlink" target="_blank">Neural Networks</a> <br>
+* <a href="https://www.sciencedirect.com/journal/information-fusion" class="textlink" target="_blank">Information Fusion</a> <be>
 * <a href="https://iopscience.iop.org/journal/0266-5611" class="textlink" target="_blank">Inverse Problems</a> <br>
+* <a href="https://www.sciencedirect.com/journal/neural-networks" class="textlink" target="_blank">Neural Networks</a> <br>
 * <a href="https://www.sciencedirect.com/journal/automatica" class="textlink" target="_blank">Automatica</a> <br>
 * ......
 
