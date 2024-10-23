@@ -12,16 +12,16 @@ share: false
 ### 现代优化方法
 
 - 第一部分: 经典优化方法  <br>
-  - <a href="../teaching/OPT_1.pdf" class="textlink" target="_blank">绪论 </a> <br>
-  - <a href="../teaching/OPT_2.pdf" class="textlink" target="_blank">最优性理论 </a> <br>
-  - <a href="../teaching/OPT_3.pdf" class="textlink" target="_blank">无约束优化算法 </a> <br>
-  - <a href="../teaching/OPT_4.pdf" class="textlink" target="_blank">约束优化算法 </a> <br>
-  - <a href="../teaching/OPT_5.pdf" class="textlink" target="_blank">复合优化算法 </a> <br><br>
+  - <a href="../teaching/现代优化方法/绪论.pdf" class="textlink" target="_blank">绪论 </a> <br>
+  - <a href="../teaching/现代优化方法/最优化理论.pdf" class="textlink" target="_blank">最优性理论 </a> <br>
+  - <a href="../teaching/现代优化方法/无约束优化算法.pdf" class="textlink" target="_blank">无约束优化算法 </a> <br>
+  - <a href="../teaching/现代优化方法/约束优化算法.pdf" class="textlink" target="_blank">约束优化算法 </a> <br>
+  - <a href="../teaching/现代优化方法/复合优化算法.pdf" class="textlink" target="_blank">复合优化算法 </a> <br><br>
 
       
 - 第二部分: 数据驱动优化方法 <br>
-  - <a href="../teaching/OPT_6.pdf" class="textlink" target="_blank">基础模型 </a> <br>
-  - <a href="../teaching/OPT_7.pdf" class="textlink" target="_blank">神经网络优化 </a> <br>
+  - 基础模型  <br>
+  - 神经网络优化  <br>
   - 即插即用框架 <br>
   - 深度展开网络 <br>
   - 深度均衡模型 <br>
@@ -35,10 +35,10 @@ share: false
 
 ### 运筹学
 
-- <a href="../teaching/OR_1.pdf" class="textlink" target="_blank">绪论 </a> <br>
-- <a href="../teaching/OR_2.pdf" class="textlink" target="_blank">线性规划  </a> <br>
-- <a href="../teaching/OR_3.pdf" class="textlink" target="_blank">整数规划 </a> <br>
-- <a href="../teaching/OR_4.pdf" class="textlink" target="_blank">非线性规划 </a> <br>
-- <a href="../teaching/OR_5.pdf" class="textlink" target="_blank">动态规划 </a> <br>
-- <a href="../teaching/OR_6.pdf" class="textlink" target="_blank">对策论 </a> <br><br>
+- <a href="../teaching/运筹学/引言.pdf" class="textlink" target="_blank">引言 </a> <br>
+- <a href="../teaching/运筹学/线性规划.pdf" class="textlink" target="_blank">线性规划  </a> <br>
+- <a href="../teaching/运筹学/整数规划.pdf" class="textlink" target="_blank">整数规划 </a> <br>
+- <a href="../teaching/运筹学/非线性规划.pdf" class="textlink" target="_blank">非线性规划 </a> <br>
+- <a href="../teaching/运筹学/动态规划.pdf" class="textlink" target="_blank">动态规划 </a> <br>
+- <a href="../teaching/运筹学/对策论.pdf" class="textlink" target="_blank">对策论 </a> <br><br>
   
