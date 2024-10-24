@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/8126c77c-47e9-45db-9b10-8b7e253a7f68)---
 layout: page
 permalink: /teaching/
 title: Teaching
@@ -20,8 +20,8 @@ share: false
 
       
 - 第二部分: 数据驱动优化方法 <br>
-  - 基础模型  <br>
-  - 神经网络优化  <br>
+  - <a href="../teaching/现代优化方法/基础模型.pdf" class="textlink" target="_blank">基础模型 </a> <br>
+  - <a href="../teaching/现代优化方法/神经网络优化.pdf" class="textlink" target="_blank">神经网络优化 </a> <br>
   - 即插即用框架 <br>
   - 深度展开网络 <br>
   - 深度均衡模型 <br>
