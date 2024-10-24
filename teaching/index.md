@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8126c77c-47e9-45db-9b10-8b7e253a7f68)---
+---
 layout: page
 permalink: /teaching/
 title: Teaching
