@@ -11,7 +11,7 @@ share: false
 
 ### 现代优化方法
 
-- 第一部分: 经典最优性  <br>
+- 第一部分: 经典最优化  <br>
   - <a href="../teaching/现代优化方法/绪论.pdf" class="textlink" target="_blank">绪论 </a> <br>
   - <a href="../teaching/现代优化方法/最优化理论.pdf" class="textlink" target="_blank">最优性理论 </a> <br>
   - <a href="../teaching/现代优化方法/无约束优化算法.pdf" class="textlink" target="_blank">无约束优化算法 </a> <br>
@@ -19,7 +19,7 @@ share: false
   - <a href="../teaching/现代优化方法/复合优化算法.pdf" class="textlink" target="_blank">复合优化算法 </a> <br><br>
 
       
-- 第二部分: 数据驱动最优性 <br>
+- 第二部分: 数据驱动最优化<br>
   - <a href="../teaching/现代优化方法/基础模型.pdf" class="textlink" target="_blank">基础模型 </a> <br>
   - <a href="../teaching/现代优化方法/神经网络优化.pdf" class="textlink" target="_blank">神经网络优化 </a>  <br>
   - 即插即用框架 <br>
