@@ -21,7 +21,7 @@ share: false
       
 - 第二部分: 数据驱动最优性 <br>
   - <a href="../teaching/现代优化方法/基础模型.pdf" class="textlink" target="_blank">基础模型 </a> <br>
-  - 神经网络优化 <br>
+  - <a href="../teaching/现代优化方法/神经网络优化.pdf" class="textlink" target="_blank">神经网络优化 </a>  <br>
   - 即插即用框架 <br>
   - 深度展开网络 <br>
   - 深度均衡模型 <br>
