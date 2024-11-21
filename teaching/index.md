@@ -21,8 +21,8 @@ share: false
       
 - 第二部分: 数据驱动最优化<br>
   - <a href="../teaching/现代优化方法/基础模型.pdf" class="textlink" target="_blank">基础模型 </a> <br>
-  - <a href="../teaching/现代优化方法/神经网络优化.pdf" class="textlink" target="_blank">网络优化 </a>  <br>
-  - <a href="../teaching/现代优化方法/深度即插即用.pdf" class="textlink" target="_blank">即插即用 </a> <br>
+  - <a href="../teaching/现代优化方法/网络优化.pdf" class="textlink" target="_blank">网络优化 </a>  <br>
+  - <a href="../teaching/现代优化方法/即插即用.pdf" class="textlink" target="_blank">即插即用 </a> <br>
   - 深度展开网络（预计12月完成） <br>
   - 深度均衡模型（预计12月完成） <br>
   - 大模型辅助设计（预计12月完成）  <br><br>
