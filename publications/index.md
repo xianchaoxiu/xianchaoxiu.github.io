@@ -14,12 +14,12 @@ You can also browse my <a href="https://www.researchgate.net/profile/Xianchao-Xi
 
 ### Preprint
 
-
-* S. Zhou*, <b>X. Xiu</b>, D. Peng, Y. Wang, <a href="https://arxiv.org/abs/2306.14394" class="textlink" target="_blank">Revisiting Lq (0 <= q < 1) Norm Regularized Optimization</a>, 2023<br>
-
+* <b>X. Xiu</b>, C. Huang, P. Shang*, W. Liu, Bi-Sparse Unsupervised Feature Selection, 2024 <br>
+* <b>X. Xiu</b>, A. Yang, C. Huang, X. Li*, W. Liu, Enhancing Unsupervised Feature Selection via Double Sparsity Constrained Optimization, 2024 <br>
+* J. Fan, A. Yan, <b>X. Xiu*</b>, W. Liu, Robust Sparse Phase Retrieval: Model, Theoretical Guarantee and Efficient Algorithm, 2024 <br>
+* S. Zhou*, <b>X. Xiu</b>, D. Peng, Y. Wang, Revisiting Lq (0 <= q < 1) Norm Regularized Optimization, 2023
 
 ### Selected Journals
-
 
 * J. Liu, M. Feng, <b>X. Xiu*</b>, W. Liu, <a href="https://www.sciencedirect.com/science/article/pii/S0031320324002632" class="textlink" target="_blank">Towards Robust and Sparse Linear Discriminant Analysis for Image Classification</a>, <i> Pattern Recognition</i>, 2024<br>
 * <b>X. Xiu</b>, L. Pan, Y. Yang*, W. Liu, <a href="https://ieeexplore.ieee.org/document/9887978" class="textlink" target="_blank">Efficient and Fast Joint Sparse Constrained Canonical Correlation Analysis for Fault Detection</a>, <i>IEEE Transactions on Neural Networks and Learning Systems</i>, 2024<br>
