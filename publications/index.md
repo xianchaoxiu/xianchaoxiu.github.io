@@ -15,7 +15,6 @@ You can also browse my <a href="https://www.researchgate.net/profile/Xianchao-Xi
 ### Preprint
 
 * <b>X. Xiu</b>, C. Huang, P. Shang*, W. Liu, Bi-Sparse Unsupervised Feature Selection, 2024 <br>
-* <b>X. Xiu</b>, A. Yang, C. Huang, X. Li*, W. Liu, Enhancing Unsupervised Feature Selection via Double Sparsity Constrained Optimization, 2024 <br>
 * J. Liu, J. Jin, <b>X. Xiu*</b>, J. Zhang, X. Zeng, STAR-Net: An Interpretable Model-Aided Network for Hyperspectral Image Denoising in Internet of Things, 2024 <br>
 * J. Fan, A. Yan, <b>X. Xiu*</b>, W. Liu, Robust Sparse Phase Retrieval: Model, Theoretical Guarantee and Efficient Algorithm, 2024 <br>
 * S. Zhou*, <b>X. Xiu</b>, D. Peng, Y. Wang, Revisiting Lq (0 <= q < 1) Norm Regularized Optimization, 2023
