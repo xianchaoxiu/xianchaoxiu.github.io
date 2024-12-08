@@ -25,8 +25,6 @@ You can also browse my <a href="https://www.researchgate.net/profile/Xianchao-Xi
 * J. Sun, <b>X. Xiu</b>, Z. Luo*, W. Liu, <a href="https://ieeexplore.ieee.org/abstract/document/10091146" class="textlink" target="_blank">Learning High-Order Multi-View Representation by New Tensor Canonical Correlation Analysis</a>, <i>IEEE Transactions on Circuits and Systems for Video Technology</i>, 2023<br>
 * <b>X. Xiu</b>, Z. Miao, W. Liu*, <a href="https://ieeexplore.ieee.org/abstract/document/10091146" class="textlink" target="_blank">A Sparsity-Aware Fault Diagnosis Framework Focusing on Accurate Isolation</a>, <i>IEEE Transactions on Industrial Informatics</i>, 2023<br>
 * <b>X. Xiu</b>, Z. Miao, Y. Yang*, W. Liu, <a href="https://ieeexplore.ieee.org/document/9583864" class="textlink" target="_blank">Deep Canonical Correlation Analysis Using Sparsity-Constrained Optimization for Nonlinear Process Monitoring</a>, <i>IEEE Transactions on Industrial Informatics</i>, 2022<br>
-* Y. Zhang, Y. Yang, H. Li, <b>X. Xiu</b>, W. Liu, <a href="https://ieeexplore.ieee.org/document/9419678" class="textlink" target="_blank">A Data-Driven Modeling Method for Stochastic Nonlinear Degradation Process With Application to RUL Estimation</a>, <i>IEEE Transactions on Systems, Man, and Cybernetics: Systems</i>, 2022<br>
-
 
 
 ### Selected Conferences
