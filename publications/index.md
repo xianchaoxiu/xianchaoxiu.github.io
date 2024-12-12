@@ -27,12 +27,11 @@ You can also browse my <a href="https://www.researchgate.net/profile/Xianchao-Xi
 * <b>X. Xiu</b>, Z. Miao, Y. Yang*, W. Liu, <a href="https://ieeexplore.ieee.org/document/9583864" class="textlink" target="_blank">Deep Canonical Correlation Analysis Using Sparsity-Constrained Optimization for Nonlinear Process Monitoring</a>, <i>IEEE Transactions on Industrial Informatics</i>, 2022<br>
 * <b>X. Xiu</b>, Y. Yang*, L. Kong, W. Liu, <a href="https://ieeexplore.ieee.org/abstract/document/9068308/" class="textlink" target="_blank">Data-Driven Process Monitoring Using Structured Joint Sparse Canonical Correlation Analysis</a>, <i>IEEE Transactions on Circuits and Systems II: Express Briefs</i>, 2021<br>
 * <b>X. Xiu</b>, Y. Yang*, L. Kong, W. Liu, <a href="https://ieeexplore.ieee.org/abstract/document/9381237" class="textlink" target="_blank">Fault Detection Using Structured Joint Sparse Nonnegative Matrix Factorization</a>, <i>IEEE Transactions on Instrumentation and Measurement</i>, 2021<br>
-* <b>X. Xiu</b>, Y. Yang*, L. Kong, W. Liu, , <i>Journal of Process Control</i>, 2020<br>
 
 
 
 ### 2020
-<a href="https://www.sciencedirect.com/science/article/abs/pii/S095915242030247X" class="textlink" target="_blank">Laplacian Regularized Robust Principal Component Analysis for Process Monitoring</a>  <br>
+* <a href="https://www.sciencedirect.com/science/article/abs/pii/S095915242030247X" class="textlink" target="_blank">Laplacian Regularized Robust Principal Component Analysis for Process Monitoring</a>  <br>
 <b>X. Xiu</b>, Y. Yang*, L. Kong, W. Liu <br>
 Journal of Process Control
 
