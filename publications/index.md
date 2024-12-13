@@ -30,6 +30,7 @@ You can also browse my <a href="https://www.researchgate.net/profile/Xianchao-Xi
 * <a href="https://ieeexplore.ieee.org/abstract/document/9068308/" class="textlink" target="_blank">Data-Driven Process Monitoring Using Structured Joint Sparse Canonical Correlation Analysis</a><br>
 <b>X. Xiu</b>, Y. Yang*, L. Kong, W. Liu<br>
 <i>IEEE Transactions on Circuits and Systems II: Express Briefs</i><br>
+
 * <a href="https://ieeexplore.ieee.org/abstract/document/9381237" class="textlink" target="_blank">Fault Detection Using Structured Joint Sparse Nonnegative Matrix Factorization</a> <br>
 <b>X. Xiu</b>, Y. Yang*, L. Kong, W. Liu <br>
 <i>IEEE Transactions on Instrumentation and Measurement</i>
