@@ -13,14 +13,6 @@ You can also browse my <a href="https://www.researchgate.net/profile/Xianchao-Xi
 
 
 
-### 2025
-
-* <a href="https://ieeexplore.ieee.org/abstract/document/10542504" class="textlink" target="_blank">Efficient and Robust Sparse Linear Discriminant Analysis for Data Classification</a><br>
-J. Liu, M. Feng, <b>X. Xiu</b>, W. Liu, and X. Zeng<br>
-<i>IEEE Transactions on Emerging Topics in Computational Intelligence</i><br>
-
-
-
 ### 2024
 
 * <a href="https://ieeexplore.ieee.org/document/9887978" class="textlink" target="_blank">Efficient and Fast Joint Sparse Constrained Canonical Correlation Analysis for Fault Detection</a><br>
