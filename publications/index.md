@@ -11,12 +11,6 @@ share: false
 You can also browse my <a href="https://www.researchgate.net/profile/Xianchao-Xiu" class="textlink" target="_blank">ResearchGate</a> and <a href="https://github.com/xianchaoxiu" class="textlink" target="_blank">Github</a>
 
 
-### 2025
-
-* <a href="https://www.sciencedirect.com/science/article/abs/pii/S095741742402712X" class="textlink" target="_blank">Joint Sparse Subspace Clustering via Fast L2,0-Norm Constrained Optimization</a><br>
-Y. Zhu, <b>X. Xiu</b>, W. Liu, and C. Yin<br>
-<i>Expert Systems with Applications</i><br>
-
 
 
 ### 2024
@@ -39,6 +33,11 @@ W. Qu, H. Chen, <b>X. Xiu</b>, and W. Liu<br>
 * <a href="https://www.sciencedirect.com/science/article/abs/pii/S0925231224010385" class="textlink" target="_blank">Distributed Sparsity Constrained Optimization over the Stiefel Manifold</a><br>
 W. Qu, H. Chen, <b>X. Xiu</b>, and W. Liu<br>
 <i>Neurocomputing</i><br>
+
+
+* <a href="https://www.sciencedirect.com/science/article/abs/pii/S095741742402712X" class="textlink" target="_blank">Joint Sparse Subspace Clustering via Fast L2,0-Norm Constrained Optimization</a><br>
+Y. Zhu, <b>X. Xiu</b>, W. Liu, and C. Yin<br>
+<i>Expert Systems with Applications</i><br>
 
 
 
