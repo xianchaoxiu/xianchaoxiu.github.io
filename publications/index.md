@@ -25,17 +25,26 @@ Y. Zhu, <b>X. Xiu</b>, W. Liu, and C. Yin<br>
 <b>X. Xiu</b>, L. Pan, Y. Yang, and W. Liu<br>
 <i>IEEE Transactions on Neural Networks and Learning Systems</i><br>
 
+
 * <a href="https://www.sciencedirect.com/science/article/abs/pii/S0925231224010385" class="textlink" target="_blank">Distributed Sparsity Constrained Optimization over the Stiefel Manifold</a><br>
 W. Qu, H. Chen, <b>X. Xiu</b>, and W. Liu<br>
 <i>Neurocomputing</i><br>
+
 
 * <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320324002632" class="textlink" target="_blank">Towards Robust and Sparse Linear Discriminant Analysis for Image Classification</a><br>
 W. Qu, H. Chen, <b>X. Xiu</b>, and W. Liu<br>
 <i>Pattern Recognition</i><br>
 
+
 * <a href="https://ieeexplore.ieee.org/abstract/document/10464356" class="textlink" target="_blank">A New End-to-End Monitoring Framework for Nonlinear Dynamic Processes With Unknown Noise Statistics</a><br>
 <b>X. Xiu</b>, Y. Zhang, Y. Guo, X. Liu, and Y. Yang<br>
 <i>IEEE Transactions on Instrumentation and Measurement</i><br>
+
+
+* <a href="https://ieeexplore.ieee.org/abstract/document/10542504" class="textlink" target="_blank">Efficient and Robust Sparse Linear Discriminant Analysis for Data Classification</a><br>
+J. Liu, M. Feng, <b>X. Xiu</b>, W. Liu, and X. Zeng<br>
+<i>IEEE Transactions on Emerging Topics in Computational Intelligence</i><br>
+
 
 
 ### 2023
@@ -49,25 +58,31 @@ W. Qu, H. Chen, <b>X. Xiu</b>, and W. Liu<br>
 H. Chen, L. Kong, W Qu, and <b>X. Xiu</b><br>
 <i>IEEE Signal Processing Letters</i><br>
 
+
 * <a href="https://ieeexplore.ieee.org/abstract/document/10050438" class="textlink" target="_blank">Learning Sparse Kernel CCA with Graph Priors for Nonlinear Process Monitoring</a><br>
 <b>X. Xiu</b> and Y. Li<br>
 <i>IEEE Sensors Journal</i><br>
+
 
 * <a href="https://ieeexplore.ieee.org/abstract/document/9765518" class="textlink" target="_blank">Toward Efficient Process Monitoring Using Spatiotemporal PCA</a><br>
 Y. Li, <b>X. Xiu</b>, and W. Liu<br>
 <i>IEEE Transactions on Circuits and Systems II: Express Briefs</i><br>
 
+
 * <a href="https://www.sciencedirect.com/science/article/abs/pii/S0377042722006057" class="textlink" target="_blank">An Efficient Semi-Proximal ADMM Algorithm for Low-Rank and Sparse Regularized Matrix Minimization Problems with Real-World Applications</a><br>
 W. Qu, <b>X. Xiu</b>, H. Zhang, and J. Fan<br>
 <i>Journal of Computational and Applied Mathematics</i><br>
+
 
 * <a href="https://ieeexplore.ieee.org/abstract/document/10091146" class="textlink" target="_blank">Learning High-Order Multi-View Representation by New Tensor Canonical Correlation Analysis</a><br>
 J. Sun, <b>X. Xiu</b>, Z. Luo, and W. Liu<br>
 <i>IEEE Transactions on Circuits and Systems for Video Technology</i><br>
 
+
 * <a href="https://ieeexplore.ieee.org/abstract/document/10036023" class="textlink" target="_blank">Structured Joint Sparse Orthogonal Nonnegative Matrix Factorization for Fault Detection</a><br>
 X Zhang, <b>X. Xiu</b>, and C Zhang<br>
 <i>IEEE Transactions on Instrumentation and Measurement</i><br>
+
 
 
 ### 2022
@@ -76,13 +91,16 @@ X Zhang, <b>X. Xiu</b>, and C Zhang<br>
 <b>X. Xiu</b>, Z. Miao, Y. Yang, and W. Liu<br>
 <i>IEEE Transactions on Industrial Informatics</i><br>
 
+
 * <a href="https://ieeexplore.ieee.org/abstract/document/9619966" class="textlink" target="_blank">An Efficient Newton-Based Method for Sparse Generalized Canonical Correlation Analysis</a><br>
 X. Li, <b>X. Xiu</b>, W. Liu, and Z. Miao<br>
 <i>IEEE Signal Processing Letters</i><br>
 
+
 * <a href="https://ieeexplore.ieee.org/abstract/document/9745488" class="textlink" target="_blank">Efficient and Robust Process Monitoring Using Structured Low-Rank Representation</a><br>
 Z. Miao and <b>X. Xiu</b><br>
 <i>IEEE Transactions on Circuits and Systems II: Express Briefs</i><br>
+
 
 * <a href="https://www.sciencedirect.com/science/article/abs/pii/S0360544222013184" class="textlink" target="_blank">Towards Efficient State of Charge Estimation of Lithium-ion Batteries Using Canonical Correlation Analysis</a><br>
 Z. Ni, <b>X. Xiu</b>, and Y. Yang<br>
@@ -96,6 +114,7 @@ Z. Ni, <b>X. Xiu</b>, and Y. Yang<br>
 <b>X. Xiu</b>, Y. Yang, L. Kong, and W. Liu<br>
 <i>IEEE Transactions on Circuits and Systems II: Express Briefs</i><br>
 
+
 * <a href="https://ieeexplore.ieee.org/abstract/document/9381237" class="textlink" target="_blank">Fault Detection Using Structured Joint Sparse Nonnegative Matrix Factorization</a> <br>
 <b>X. Xiu</b>, Y. Yang, L. Kong, and W. Liu <br>
 <i>IEEE Transactions on Instrumentation and Measurement</i><br>
@@ -108,6 +127,7 @@ Z. Ni, <b>X. Xiu</b>, and Y. Yang<br>
 <b>X. Xiu</b>, Y. Yang, L. Kong, and W. Liu <br>
 <i>Journal of Process Control</i><br>
 
+
 * <a href="https://www.sciencedirect.com/science/article/abs/pii/S0096300320302411" class="textlink" target="_blank">tSSNALM: A Fast Two-Stage Semi-Smooth Newton Augmented Lagrangian Method for Sparse CCA</a>  <br>
 <b>X. Xiu</b>, Y. Yang, L. Kong, and W. Liu<br>
 <i>Applied Mathematics and Computation</i><br>
@@ -116,7 +136,7 @@ Z. Ni, <b>X. Xiu</b>, and Y. Yang<br>
 
 ### 2019
 
-* <a href="https://www.sciencedirect.com/science/article/abs/pii/S0167947319300039" class="textlink" target="_blank">Alternating direction method of multipliers for nonconvex fused regression problems</a>  <br>
+* <a href="https://www.sciencedirect.com/science/article/abs/pii/S0167947319300039" class="textlink" target="_blank">Alternating Direction Method of Multipliers for Nonconvex Fused Regression Problems</a>  <br>
 <b>X. Xiu</b>, W. Liu, L. Li, and L. Kong<br>
 <i>Computational Statistics & Data Analysis</i><br>
 
