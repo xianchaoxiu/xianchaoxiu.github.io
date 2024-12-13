@@ -13,14 +13,6 @@ You can also browse my <a href="https://www.researchgate.net/profile/Xianchao-Xi
 
 
 
-### Feature Selection
-
-* <b>X. Xiu</b>, C. Huang, P. Shang*, W. Liu, Bi-Sparse Unsupervised Feature Selection, 2024 <br>
-* J. Fan, A. Yan, <b>X. Xiu*</b>, W. Liu, Robust Sparse Phase Retrieval: Model, Theoretical Guarantee and Efficient Algorithm, 2024 <br>
-* S. Zhou*, <b>X. Xiu</b>, D. Peng, Y. Wang, Revisiting Lq (0 <= q < 1) Norm Regularized Optimization, 2023
-
-
-
 ### 2024
 * <a href="https://ieeexplore.ieee.org/document/9887978" class="textlink" target="_blank">Efficient and Fast Joint Sparse Constrained Canonical Correlation Analysis for Fault Detection</a><br>
 <b>X. Xiu</b>, L. Pan, Y. Yang, W. Liu<br>
