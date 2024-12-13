@@ -14,8 +14,6 @@ I am recruiting self-motivated students with certain mathematical abilities and 
 
 
   
-### Ph.D Students
-* TBA
         
 ### Graduate Students
 * Long Chen (2024.09 - )  <br>
