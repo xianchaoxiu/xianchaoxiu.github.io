@@ -69,19 +69,10 @@ Y. Li, <b>X. Xiu</b>, and W. Liu<br>
 <i>IEEE Transactions on Circuits and Systems II: Express Briefs</i><br>
 
 
-* <a href="https://www.sciencedirect.com/science/article/abs/pii/S0377042722006057" class="textlink" target="_blank">An Efficient Semi-Proximal ADMM Algorithm for Low-Rank and Sparse Regularized Matrix Minimization Problems with Real-World Applications</a><br>
-W. Qu, <b>X. Xiu</b>, H. Zhang, and J. Fan<br>
-<i>Journal of Computational and Applied Mathematics</i><br>
-
-
 * <a href="https://ieeexplore.ieee.org/abstract/document/10091146" class="textlink" target="_blank">Learning High-Order Multi-View Representation by New Tensor Canonical Correlation Analysis</a><br>
 J. Sun, <b>X. Xiu</b>, Z. Luo, and W. Liu<br>
 <i>IEEE Transactions on Circuits and Systems for Video Technology</i><br>
 
-
-* <a href="https://ieeexplore.ieee.org/abstract/document/10036023" class="textlink" target="_blank">Structured Joint Sparse Orthogonal Nonnegative Matrix Factorization for Fault Detection</a><br>
-X Zhang, <b>X. Xiu</b>, and C Zhang<br>
-<i>IEEE Transactions on Instrumentation and Measurement</i><br>
 
 
 
@@ -95,7 +86,6 @@ X Zhang, <b>X. Xiu</b>, and C Zhang<br>
 * <a href="https://ieeexplore.ieee.org/abstract/document/9619966" class="textlink" target="_blank">An Efficient Newton-Based Method for Sparse Generalized Canonical Correlation Analysis</a><br>
 X. Li, <b>X. Xiu</b>, W. Liu, and Z. Miao<br>
 <i>IEEE Signal Processing Letters</i><br>
-
 
 
 * <a href="https://www.sciencedirect.com/science/article/abs/pii/S0360544222013184" class="textlink" target="_blank">Towards Efficient State of Charge Estimation of Lithium-ion Batteries Using Canonical Correlation Analysis</a><br>
