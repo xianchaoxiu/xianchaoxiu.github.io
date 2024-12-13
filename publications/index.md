@@ -33,7 +33,7 @@ You can also browse my <a href="https://www.researchgate.net/profile/Xianchao-Xi
 
 * <a href="https://ieeexplore.ieee.org/abstract/document/9381237" class="textlink" target="_blank">Fault Detection Using Structured Joint Sparse Nonnegative Matrix Factorization</a> <br>
 <b>X. Xiu</b>, Y. Yang*, L. Kong, W. Liu <br>
-<i>IEEE Transactions on Instrumentation and Measurement</i>
+<i>IEEE Transactions on Instrumentation and Measurement</i><br>
 
 
 
