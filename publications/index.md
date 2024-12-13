@@ -83,11 +83,6 @@ X. Li, <b>X. Xiu</b>, W. Liu, and Z. Miao<br>
 <i>IEEE Signal Processing Letters</i><br>
 
 
-* <a href="https://www.sciencedirect.com/science/article/abs/pii/S0360544222013184" class="textlink" target="_blank">Towards Efficient State of Charge Estimation of Lithium-ion Batteries Using Canonical Correlation Analysis</a><br>
-Z. Ni, <b>X. Xiu</b>, and Y. Yang<br>
-<i>Energy</i><br>
-
-
 
 ### 2021
 
