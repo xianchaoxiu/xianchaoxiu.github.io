@@ -15,10 +15,6 @@ You can also browse my <a href="https://www.researchgate.net/profile/Xianchao-Xi
 
 ### 2025
 
-* <a href="https://www.sciencedirect.com/science/article/abs/pii/S095741742402712X" class="textlink" target="_blank">Joint Sparse Subspace Clustering via Fast L2,0-Norm Constrained Optimization</a><br>
-Y. Zhu, <b>X. Xiu</b>, W. Liu, and C. Yin<br>
-<i>Expert Systems with Applications</i><br>
-
 * <a href="https://ieeexplore.ieee.org/abstract/document/10542504" class="textlink" target="_blank">Efficient and Robust Sparse Linear Discriminant Analysis for Data Classification</a><br>
 J. Liu, M. Feng, <b>X. Xiu</b>, W. Liu, and X. Zeng<br>
 <i>IEEE Transactions on Emerging Topics in Computational Intelligence</i><br>
@@ -50,25 +46,14 @@ W. Qu, H. Chen, <b>X. Xiu</b>, and W. Liu<br>
 <b>X. Xiu</b>, Z. Miao, W. Liu<br>
 <i>IEEE Transactions on Industrial Informatics</i><br>
 
-* <a href="https://ieeexplore.ieee.org/abstract/document/10091146" class="textlink" target="_blank">Learning High-Order Multi-View Representation by New Tensor Canonical Correlation Analysis</a><br>
-J. Sun, <b>X. Xiu</b>, Z. Luo, W. Liu<br>
-<i>IEEE Transactions on Circuits and Systems for Video Technology</i><br>
 
 * <a href="https://ieeexplore.ieee.org/abstract/document/10252040" class="textlink" target="_blank">An Enhanced Regularized Clustering Method With Adaptive Spurious Connection Detection</a><br>
 H. Chen, L. Kong, W Qu, and <b>X. Xiu</b><br>
 <i>IEEE Signal Processing Letters</i><br>
 
-* <a href="https://www.sciencedirect.com/science/article/abs/pii/S0377042722006057" class="textlink" target="_blank">An Efficient Semi-Proximal ADMM Algorithm for Low-Rank and Sparse Regularized Matrix Minimization Problems with Real-World Applications</a><br>
-W. Qu, <b>X. Xiu</b>, H. Zhang, and J. Fan<br>
-<i>Journal of Computational and Applied Mathematics</i><br>
-
 * <a href="https://ieeexplore.ieee.org/abstract/document/10050438" class="textlink" target="_blank">Learning Sparse Kernel CCA with Graph Priors for Nonlinear Process Monitoring</a><br>
 <b>X. Xiu</b> and Y. Li<br>
 <i>IEEE Sensors Journal</i><br>
-
-* <a href="https://ieeexplore.ieee.org/abstract/document/10036023" class="textlink" target="_blank">Structured Joint Sparse Orthogonal Nonnegative Matrix Factorization for Fault Detection</a><br>
-X. Zhang, <b>X. Xiu</b>, and C. Zhang<br>
-<i>IEEE Transactions on Instrumentation and Measurement</i><br>
 
 * <a href="https://ieeexplore.ieee.org/abstract/document/9765518" class="textlink" target="_blank">Toward Efficient Process Monitoring Using Spatiotemporal PCA</a><br>
 Y. Li, <b>X. Xiu</b>, and W. Liu<br>
@@ -81,17 +66,9 @@ Y. Li, <b>X. Xiu</b>, and W. Liu<br>
 <b>X. Xiu</b>, Z. Miao, Y. Yang, and W. Liu<br>
 <i>IEEE Transactions on Industrial Informatics</i><br>
 
-* <a href="https://www.sciencedirect.com/science/article/abs/pii/S0360544222013184" class="textlink" target="_blank">Towards Efficient State of Charge Estimation of Lithium-ion Batteries Using Canonical Correlation Analysis</a><br>
-Z. Ni, <b>X. Xiu</b>, and Y. Yang<br>
-<i>Energy</i><br>
-
 * <a href="https://ieeexplore.ieee.org/abstract/document/9619966" class="textlink" target="_blank">An Efficient Newton-Based Method for Sparse Generalized Canonical Correlation Analysis</a><br>
 X. Li, <b>X. Xiu</b>, W. Liu, and Z. Miao<br>
 <i>IEEE Signal Processing Letters</i><br>
-
-* <a href="https://ieeexplore.ieee.org/abstract/document/9419678" class="textlink" target="_blank">A Data-Driven Modeling Method for Stochastic Nonlinear Degradation Process With Application to RUL Estimation</a><br>
-Y. Zhang, Y. Yang, H. Li, <b>X. Xiu</b>, and W. Liu<br>
-<i>IEEE Transactions on Systems, Man, and Cybernetics: Systems</i><br>
 
 
 
