@@ -18,7 +18,7 @@ You can also browse my <a href="https://www.researchgate.net/profile/Xianchao-Xi
 * <b>X. Xiu</b>, C. Huang, P. Shang*, W. Liu, Bi-Sparse Unsupervised Feature Selection, 2024 <br>
 * J. Fan, A. Yan, <b>X. Xiu*</b>, W. Liu, Robust Sparse Phase Retrieval: Model, Theoretical Guarantee and Efficient Algorithm, 2024 <br>
 * S. Zhou*, <b>X. Xiu</b>, D. Peng, Y. Wang, Revisiting Lq (0 <= q < 1) Norm Regularized Optimization, 2023
-* J. Sun, <b>X. Xiu</b>, Z. Luo*, W. Liu, <a href="https://ieeexplore.ieee.org/abstract/document/10091146" class="textlink" target="_blank">Learning High-Order Multi-View Representation by New Tensor Canonical Correlation Analysis</a>, <i>IEEE Transactions on Circuits and Systems for Video Technology</i>, 2023<br>
+
 
 
 ### 2024
@@ -30,6 +30,13 @@ You can also browse my <a href="https://www.researchgate.net/profile/Xianchao-Xi
 * <a href="https://ieeexplore.ieee.org/abstract/document/10091146" class="textlink" target="_blank">A Sparsity-Aware Fault Diagnosis Framework Focusing on Accurate Isolation</a><br>
 <b>X. Xiu</b>, Z. Miao, W. Liu<br>
 <i>IEEE Transactions on Industrial Informatics</i><br>
+
+* <a href="https://ieeexplore.ieee.org/abstract/document/10091146" class="textlink" target="_blank">Learning High-Order Multi-View Representation by New Tensor Canonical Correlation Analysis</a><br>
+J. Sun, <b>X. Xiu</b>, Z. Luo, W. Liu<br>
+<i>IEEE Transactions on Circuits and Systems for Video Technology</i><br>
+
+
+
 
 ### 2022
 * <a href="https://ieeexplore.ieee.org/document/9583864" class="textlink" target="_blank">Deep Canonical Correlation Analysis Using Sparsity-Constrained Optimization for Nonlinear Process Monitoring</a><br>
