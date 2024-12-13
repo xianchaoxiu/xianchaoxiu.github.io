@@ -27,7 +27,7 @@ W. Qu, H. Chen, <b>X. Xiu</b>, and W. Liu<br>
 W. Qu, H. Chen, <b>X. Xiu</b>, and W. Liu<br>
 <i>Pattern Recognition</i><br>
 
-* <a href="https://ieeexplore.ieee.org/document/9887978" class="textlink" target="_blank">A New End-to-End Monitoring Framework for Nonlinear Dynamic Processes With Unknown Noise Statistics</a><br>
+* <a href="https://ieeexplore.ieee.org/abstract/document/10464356" class="textlink" target="_blank">A New End-to-End Monitoring Framework for Nonlinear Dynamic Processes With Unknown Noise Statistics</a><br>
 <b>X. Xiu</b>, Y. Zhang, Y. Guo, X. Liu, and Y. Yang<br>
 <i>IEEE Transactions on Instrumentation and Measurement</i><br>
 
