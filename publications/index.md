@@ -26,9 +26,9 @@ Y. Zhu, <b>X. Xiu</b>, W. Liu, and C. Yin<br>
 <i>IEEE Transactions on Neural Networks and Learning Systems</i><br>
 
 
-* <a href="https://www.sciencedirect.com/science/article/abs/pii/S0925231224010385" class="textlink" target="_blank">Distributed Sparsity Constrained Optimization over the Stiefel Manifold</a><br>
-W. Qu, H. Chen, <b>X. Xiu</b>, and W. Liu<br>
-<i>Neurocomputing</i><br>
+* <a href="https://ieeexplore.ieee.org/abstract/document/10464356" class="textlink" target="_blank">A New End-to-End Monitoring Framework for Nonlinear Dynamic Processes With Unknown Noise Statistics</a><br>
+<b>X. Xiu</b>, Y. Zhang, Y. Guo, X. Liu, and Y. Yang<br>
+<i>IEEE Transactions on Instrumentation and Measurement</i><br>
 
 
 * <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320324002632" class="textlink" target="_blank">Towards Robust and Sparse Linear Discriminant Analysis for Image Classification</a><br>
@@ -36,9 +36,9 @@ W. Qu, H. Chen, <b>X. Xiu</b>, and W. Liu<br>
 <i>Pattern Recognition</i><br>
 
 
-* <a href="https://ieeexplore.ieee.org/abstract/document/10464356" class="textlink" target="_blank">A New End-to-End Monitoring Framework for Nonlinear Dynamic Processes With Unknown Noise Statistics</a><br>
-<b>X. Xiu</b>, Y. Zhang, Y. Guo, X. Liu, and Y. Yang<br>
-<i>IEEE Transactions on Instrumentation and Measurement</i><br>
+* <a href="https://www.sciencedirect.com/science/article/abs/pii/S0925231224010385" class="textlink" target="_blank">Distributed Sparsity Constrained Optimization over the Stiefel Manifold</a><br>
+W. Qu, H. Chen, <b>X. Xiu</b>, and W. Liu<br>
+<i>Neurocomputing</i><br>
 
 
 
