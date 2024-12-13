@@ -56,8 +56,8 @@ X. Xiu, Z. Miao, Y. Yang, W. Liu<br>
 
 ### 2020
 * <a href="https://www.sciencedirect.com/science/article/abs/pii/S095915242030247X" class="textlink" target="_blank">Laplacian Regularized Robust Principal Component Analysis for Process Monitoring</a>  <br>
-<b>X. Xiu</b>, Y. Yang, L. Kong, W. Liu <br>
-Journal of Process Control
+X. Xiu, Y. Yang, L. Kong, and W. Liu <br>
+<i>Journal of Process Control</i><br>
 
 
 
