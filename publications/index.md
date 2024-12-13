@@ -34,7 +34,7 @@ W. Qu, H. Chen, <b>X. Xiu</b>, and W. Liu<br>
 
 ### 2023
 
-* <a href="https://ieeexplore.ieee.org/abstract/document/10091146" class="textlink" target="_blank">A Sparsity-Aware Fault Diagnosis Framework Focusing on Accurate Isolation</a><br>
+* <a href="https://ieeexplore.ieee.org/abstract/document/9788040" class="textlink" target="_blank">A Sparsity-Aware Fault Diagnosis Framework Focusing on Accurate Isolation</a><br>
 <b>X. Xiu</b>, Z. Miao, W. Liu<br>
 <i>IEEE Transactions on Industrial Informatics</i><br>
 
