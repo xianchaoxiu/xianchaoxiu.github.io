@@ -9,7 +9,7 @@ share: false
 
 
 
-### 现代优化方法
+### Optimization Methods (2024 Fall)
 
 - 第一部分: 经典最优化  <br>
   - <a href="../teaching/现代优化方法/绪论.pdf" class="textlink" target="_blank">绪论 </a> <br>
@@ -30,7 +30,7 @@ share: false
 
 
 
-### 运筹学
+### Operations Research (2024 Fall)
 
 - <a href="../teaching/运筹学/引言.pdf" class="textlink" target="_blank">引言 </a> <br>
 - <a href="../teaching/运筹学/线性规划.pdf" class="textlink" target="_blank">线性规划  </a> <br>
