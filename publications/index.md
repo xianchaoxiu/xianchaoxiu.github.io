@@ -21,18 +21,28 @@ You can also browse my <a href="https://www.researchgate.net/profile/Xianchao-Xi
 * J. Sun, <b>X. Xiu</b>, Z. Luo*, W. Liu, <a href="https://ieeexplore.ieee.org/abstract/document/10091146" class="textlink" target="_blank">Learning High-Order Multi-View Representation by New Tensor Canonical Correlation Analysis</a>, <i>IEEE Transactions on Circuits and Systems for Video Technology</i>, 2023<br>
 
 
-### Fault Diagnosis
-* <b>X. Xiu</b>, L. Pan, Y. Yang*, W. Liu, <a href="https://ieeexplore.ieee.org/document/9887978" class="textlink" target="_blank">Efficient and Fast Joint Sparse Constrained Canonical Correlation Analysis for Fault Detection</a>, <i>IEEE Transactions on Neural Networks and Learning Systems</i>, 2024<br>
-* <b>X. Xiu</b>, Z. Miao, W. Liu*, <a href="https://ieeexplore.ieee.org/abstract/document/10091146" class="textlink" target="_blank">A Sparsity-Aware Fault Diagnosis Framework Focusing on Accurate Isolation</a>, <i>IEEE Transactions on Industrial Informatics</i>, 2023<br>
-* <b>X. Xiu</b>, Z. Miao, Y. Yang*, W. Liu, <a href="https://ieeexplore.ieee.org/document/9583864" class="textlink" target="_blank">Deep Canonical Correlation Analysis Using Sparsity-Constrained Optimization for Nonlinear Process Monitoring</a>, <i>IEEE Transactions on Industrial Informatics</i>, 2022<br>
+### 2024
+* <a href="https://ieeexplore.ieee.org/document/9887978" class="textlink" target="_blank">Efficient and Fast Joint Sparse Constrained Canonical Correlation Analysis for Fault Detection</a><br>
+<b>X. Xiu</b>, L. Pan, Y. Yang, W. Liu<br>
+<i>IEEE Transactions on Neural Networks and Learning Systems</i><br>
+
+### 2023
+* <a href="https://ieeexplore.ieee.org/abstract/document/10091146" class="textlink" target="_blank">A Sparsity-Aware Fault Diagnosis Framework Focusing on Accurate Isolation</a><br>
+<b>X. Xiu</b>, Z. Miao, W. Liu<br>
+<i>IEEE Transactions on Industrial Informatics</i><br>
+
+### 2022
+* <a href="https://ieeexplore.ieee.org/document/9583864" class="textlink" target="_blank">Deep Canonical Correlation Analysis Using Sparsity-Constrained Optimization for Nonlinear Process Monitoring</a><br>
+X. Xiu, Z. Miao, Y. Yang, W. Liu<br>
+<i>IEEE Transactions on Industrial Informatics</i><br>
 
 ### 2021
 * <a href="https://ieeexplore.ieee.org/abstract/document/9068308/" class="textlink" target="_blank">Data-Driven Process Monitoring Using Structured Joint Sparse Canonical Correlation Analysis</a><br>
-<b>X. Xiu</b>, Y. Yang*, L. Kong, W. Liu<br>
+<b>X. Xiu</b>, Y. Yang, L. Kong, W. Liu<br>
 <i>IEEE Transactions on Circuits and Systems II: Express Briefs</i><br>
 
 * <a href="https://ieeexplore.ieee.org/abstract/document/9381237" class="textlink" target="_blank">Fault Detection Using Structured Joint Sparse Nonnegative Matrix Factorization</a> <br>
-<b>X. Xiu</b>, Y. Yang*, L. Kong, W. Liu <br>
+<b>X. Xiu</b>, Y. Yang, L. Kong, W. Liu <br>
 <i>IEEE Transactions on Instrumentation and Measurement</i><br>
 
 
