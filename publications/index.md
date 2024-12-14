@@ -26,7 +26,7 @@ You can also browse my <a href="https://www.researchgate.net/profile/Xianchao-Xi
 
 
 * <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320324002632" class="textlink" target="_blank">Towards Robust and Sparse Linear Discriminant Analysis for Image Classification</a><br>
-W. Qu, H. Chen, <b>X. Xiu</b>, and W. Liu<br>
+J. Liu, M. Feng, <b>X. Xiu</b>, and W. Liu<br>
 <i>Pattern Recognition</i><br>
 
 
