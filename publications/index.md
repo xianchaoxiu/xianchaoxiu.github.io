@@ -48,14 +48,14 @@ Y. Zhu, <b>X. Xiu</b>, W. Liu, and C. Yin<br>
 <i>IEEE Transactions on Industrial Informatics</i><br>
 
 
-* <a href="https://ieeexplore.ieee.org/abstract/document/10252040" class="textlink" target="_blank">An Enhanced Regularized Clustering Method With Adaptive Spurious Connection Detection</a><br>
-H. Chen, L. Kong, W Qu, and <b>X. Xiu</b><br>
-<i>IEEE Signal Processing Letters</i><br>
-
-
 * <a href="https://ieeexplore.ieee.org/abstract/document/10050438" class="textlink" target="_blank">Learning Sparse Kernel CCA with Graph Priors for Nonlinear Process Monitoring</a><br>
 <b>X. Xiu</b> and Y. Li<br>
 <i>IEEE Sensors Journal</i><br>
+
+
+* <a href="https://ieeexplore.ieee.org/abstract/document/10252040" class="textlink" target="_blank">An Enhanced Regularized Clustering Method With Adaptive Spurious Connection Detection</a><br>
+H. Chen, L. Kong, W Qu, and <b>X. Xiu</b><br>
+<i>IEEE Signal Processing Letters</i><br>
 
 
 * <a href="https://ieeexplore.ieee.org/abstract/document/10091146" class="textlink" target="_blank">Learning High-Order Multi-View Representation by New Tensor Canonical Correlation Analysis</a><br>
@@ -113,19 +113,19 @@ X. Li, <b>X. Xiu</b>, W. Liu, and Z. Miao<br>
 
 ### 2020
 
-* <a href="https://www.sciencedirect.com/science/article/abs/pii/S095915242030247X" class="textlink" target="_blank">Laplacian Regularized Robust Principal Component Analysis for Process Monitoring</a>  <br>
-<b>X. Xiu</b>, Y. Yang, L. Kong, and W. Liu <br>
-<i>Journal of Process Control</i><br>
-
-
 * <a href="https://www.sciencedirect.com/science/article/abs/pii/S0096300320302411" class="textlink" target="_blank">tSSNALM: A Fast Two-Stage Semi-Smooth Newton Augmented Lagrangian Method for Sparse CCA</a>  <br>
 <b>X. Xiu</b>, Y. Yang, L. Kong, and W. Liu<br>
 <i>Applied Mathematics and Computation</i><br>
 
 
+* <a href="https://www.sciencedirect.com/science/article/abs/pii/S095915242030247X" class="textlink" target="_blank">Laplacian Regularized Robust Principal Component Analysis for Process Monitoring</a>  <br>
+<b>X. Xiu</b>, Y. Yang, L. Kong, and W. Liu <br>
+<i>Journal of Process Control</i><br>
+
+
 * <a href="https://ieeexplore.ieee.org/abstract/document/9275063/" class="textlink" target="_blank">A Highly Efficient Joint Sparsity Constrained Robust Principal Component Analysis for Fault Diagnosis</a>  <br>
 <b>X. Xiu</b>, Y. Yang, L. Kong, and W. Liu<br>
-<i>IEEE 9th Data Driven Control and Learning Systems Conference (<font color='red'><b>Best Paper Nomination</b></font>)</i> <br>
+<i>IEEE 9th Data-Driven Control and Learning Systems Conference (<font color='red'><b>Best Paper Nomination</b></font>)</i> <br>
 
 
 
