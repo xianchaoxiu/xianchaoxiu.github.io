@@ -11,21 +11,17 @@ share: false
 
 ### 现代优化方法 (秋季学期)
 
-- 第一部分: 经典最优化  <br>
-  - <a href="../teaching/现代优化方法/绪论.pdf" class="textlink" target="_blank">绪论 </a> <br>
-  - <a href="../teaching/现代优化方法/最优化理论.pdf" class="textlink" target="_blank">最优性理论 </a> <br>
-  - <a href="../teaching/现代优化方法/无约束优化算法.pdf" class="textlink" target="_blank">无约束优化算法 </a> <br>
-  - <a href="../teaching/现代优化方法/约束优化算法.pdf" class="textlink" target="_blank">约束优化算法 </a> <br>
-  - <a href="../teaching/现代优化方法/复合优化算法.pdf" class="textlink" target="_blank">复合优化算法 </a> <br><br>
-
-      
-- 第二部分: 数据驱动最优化<br>
-  - <a href="../teaching/现代优化方法/神经网络基础.pdf" class="textlink" target="_blank">神经网络基础 </a> <br>
-  - <a href="../teaching/现代优化方法/神经网络优化.pdf" class="textlink" target="_blank">神经网络优化 </a>  <br>
-  - <a href="../teaching/现代优化方法/即插即用框架.pdf" class="textlink" target="_blank">即插即用框架 </a> <br>
-  - 深度展开网络 <br>
-  - 深度均衡模型 <br>
-  - 大模型辅助设计<br><br>
+- <a href="../teaching/现代优化方法/绪论.pdf" class="textlink" target="_blank">绪论 </a> <br>
+- <a href="../teaching/现代优化方法/最优化理论.pdf" class="textlink" target="_blank">最优性理论 </a> <br>
+- <a href="../teaching/现代优化方法/无约束优化算法.pdf" class="textlink" target="_blank">无约束优化算法 </a> <br>
+- <a href="../teaching/现代优化方法/约束优化算法.pdf" class="textlink" target="_blank">约束优化算法 </a> <br>
+- <a href="../teaching/现代优化方法/复合优化算法.pdf" class="textlink" target="_blank">复合优化算法 </a> <br><br>
+- <a href="../teaching/现代优化方法/神经网络基础.pdf" class="textlink" target="_blank">神经网络基础 </a> <br>
+- <a href="../teaching/现代优化方法/神经网络优化.pdf" class="textlink" target="_blank">神经网络优化 </a>  <br>
+- <a href="../teaching/现代优化方法/即插即用框架.pdf" class="textlink" target="_blank">即插即用框架 </a> <br>
+- 深度展开网络 <br>
+- 深度均衡模型 <br>
+- 大模型辅助设计<br><br>
 
 
 
