@@ -15,7 +15,7 @@ share: false
 - <a href="../teaching/现代优化方法/最优化理论.pdf" class="textlink" target="_blank">最优性理论 </a> <br>
 - <a href="../teaching/现代优化方法/无约束优化算法.pdf" class="textlink" target="_blank">无约束优化算法 </a> <br>
 - <a href="../teaching/现代优化方法/约束优化算法.pdf" class="textlink" target="_blank">约束优化算法 </a> <br>
-- <a href="../teaching/现代优化方法/复合优化算法.pdf" class="textlink" target="_blank">复合优化算法 </a> <br><br>
+- <a href="../teaching/现代优化方法/复合优化算法.pdf" class="textlink" target="_blank">复合优化算法 </a> <br>
 - <a href="../teaching/现代优化方法/神经网络基础.pdf" class="textlink" target="_blank">神经网络基础 </a> <br>
 - <a href="../teaching/现代优化方法/神经网络优化.pdf" class="textlink" target="_blank">神经网络优化 </a>  <br>
 - <a href="../teaching/现代优化方法/即插即用框架.pdf" class="textlink" target="_blank">即插即用框架 </a> <br>
