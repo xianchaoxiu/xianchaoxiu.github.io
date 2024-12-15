@@ -58,15 +58,14 @@ H. Chen, L. Kong, W Qu, and <b>X. Xiu</b><br>
 <i>IEEE Sensors Journal</i><br>
 
 
-* <a href="https://ieeexplore.ieee.org/abstract/document/9765518" class="textlink" target="_blank">Toward Efficient Process Monitoring Using Spatiotemporal PCA</a><br>
-Y. Li, <b>X. Xiu</b>, and W. Liu<br>
-<i>IEEE Transactions on Circuits and Systems II: Express Briefs</i><br>
-
-
 * <a href="https://ieeexplore.ieee.org/abstract/document/10091146" class="textlink" target="_blank">Learning High-Order Multi-View Representation by New Tensor Canonical Correlation Analysis</a><br>
 J. Sun, <b>X. Xiu</b>, Z. Luo, and W. Liu<br>
 <i>IEEE Transactions on Circuits and Systems for Video Technology</i><br>
 
+
+* <a href="https://ieeexplore.ieee.org/abstract/document/10036023" class="textlink" target="_blank">Structured Joint Sparse Orthogonal Nonnegative Matrix Factorization for Fault Detection</a><br>
+X. Zhang, <b>X. Xiu</b>, and C. Zhang<br>
+<i>IEEE Transactions on Instrumentation and Measurement</i><br>
 
 
 
@@ -77,9 +76,14 @@ J. Sun, <b>X. Xiu</b>, Z. Luo, and W. Liu<br>
 <i>IEEE Transactions on Industrial Informatics</i><br>
 
 
-* <a href="https://ieeexplore.ieee.org/abstract/document/9619966" class="textlink" target="_blank">An Efficient Newton-Based Method for Sparse Generalized Canonical Correlation Analysis</a><br>
-X. Li, <b>X. Xiu</b>, W. Liu, and Z. Miao<br>
-<i>IEEE Signal Processing Letters</i><br>
+* <a href="https://ieeexplore.ieee.org/abstract/document/9765518" class="textlink" target="_blank">Toward Efficient Process Monitoring Using Spatiotemporal PCA</a><br>
+Y. Li, <b>X. Xiu</b>, and W. Liu<br>
+<i>IEEE Transactions on Circuits and Systems II: Express Briefs</i><br>
+
+
+* <a href="https://www.sciencedirect.com/science/article/abs/pii/S0360544222013184" class="textlink" target="_blank">Towards Efficient State of Charge Estimation of Lithium-ion Batteries Using Canonical Correlation Analysis</a><br>
+Z. Ni, <b>X. Xiu</b>, and Y. Yang<br>
+<i>Energy</i><br>
 
 
 * <a href="https://www.mdpi.com/2227-7390/10/19/3619" class="textlink" target="_blank">A Survey on Deep Transfer Learning and Beyond</a><br>
@@ -101,6 +105,11 @@ F. Yu, <b>X. Xiu</b>, and Y. Li<br>
 <b>X. Xiu</b>, Y. Yang, L. Kong, and W. Liu<br>
 <i>IEEE Transactions on Circuits and Systems II: Express Briefs</i><br>
 
+* <a href="https://ieeexplore.ieee.org/abstract/document/9619966" class="textlink" target="_blank">An Efficient Newton-Based Method for Sparse Generalized Canonical Correlation Analysis</a><br>
+X. Li, <b>X. Xiu</b>, W. Liu, and Z. Miao<br>
+<i>IEEE Signal Processing Letters</i><br>
+
+
 
 ### 2020
 
@@ -117,6 +126,8 @@ F. Yu, <b>X. Xiu</b>, and Y. Li<br>
 * <a href="https://ieeexplore.ieee.org/abstract/document/9275063/" class="textlink" target="_blank">A Highly Efficient Joint Sparsity Constrained Robust Principal Component Analysis for Fault Diagnosis</a>  <br>
 <b>X. Xiu</b>, Y. Yang, L. Kong, and W. Liu<br>
 <i>IEEE 9th Data Driven Control and Learning Systems Conference (<font color='red'><b>Best Paper Nomination</b></font>)</i> <br>
+
+
 
 
 ### 2019
