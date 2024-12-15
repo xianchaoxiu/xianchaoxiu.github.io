@@ -9,7 +9,7 @@ share: false
 
 
 
-### Optimization Methods (2024 Fall)
+### 现代优化方法 (秋季学期)
 
 - <a href="../teaching/现代优化方法/绪论.pdf" class="textlink" target="_blank">绪论 </a> <br>
 - <a href="../teaching/现代优化方法/最优化理论.pdf" class="textlink" target="_blank">最优性理论 </a> <br>
@@ -26,7 +26,7 @@ share: false
 
 
 
-### Operations Research (2024 Fall)
+### 运筹学基础 (秋季学期)
 
 - <a href="../teaching/运筹学/引言.pdf" class="textlink" target="_blank">引言 </a> <br>
 - <a href="../teaching/运筹学/线性规划.pdf" class="textlink" target="_blank">线性规划  </a> <br>
@@ -36,7 +36,7 @@ share: false
 - <a href="../teaching/运筹学/对策论.pdf" class="textlink" target="_blank">对策论 </a> <br><br>
 
 
-### Machine Vision (2024 Fall)
+### 机器视觉 (秋季学期)
 
 - 机器视觉概述 <br>
 - 数字图像基础 <br>
