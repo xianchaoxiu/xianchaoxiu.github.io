@@ -12,6 +12,6 @@ share: false
 
 ### 2025
 
-* <a href="../talks/2024-CDC.pdf" class="textlink" target="_blank">Unsupervised Feature Selection: From Sparse Representation to Adaptive Learning</a><br>
-MOS 2025 <br>
-<i>Shanghai, China</i><br>
+* <a href="../talks/2024-ORSC.pdf" class="textlink" target="_blank">Bi-Sparse Unsupervised Feature Selection</a><br>
+ORSC 2024 <br>
+<i>Guiyang, China</i><br>
