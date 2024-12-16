@@ -13,5 +13,5 @@ share: false
 ### 2025
 
 * <a href="../talks/2024-CDC.pdf" class="textlink" target="_blank">Bi-Sparse Unsupervised Feature Selection</a><br>
-The NUS-PKU-SJTU Workshop on Data Science and Machine Learning<br>
+The Workshop on Data Science and Machine Learning<br>
 <i>National University of Singapore, Singapore</i><br>
