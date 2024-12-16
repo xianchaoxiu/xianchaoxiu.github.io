@@ -26,14 +26,5 @@ share: false
 
 
 ### Undergraduate Students
-* <a href="../group/2024-Yu.pdf" class="textlink" target="_blank"> Fuchao Yu (2021.09 - 2024.06)  <br>
-* <a href="../group/2024-Yu.pdf" class="textlink" target="_blank"> Fuchao Yu (2021.09 - 2024.06)  <br>
-* <a href="../group/2024-Yu.pdf" class="textlink" target="_blank"> Fuchao Yu (2021.09 - 2024.06)  <br>
-* <a href="../group/2024-Yu.pdf" class="textlink" target="_blank"> Fuchao Yu (2021.09 - 2024.06)  <br>
-* <a href="../group/2024-Yu.pdf" class="textlink" target="_blank"> Fuchao Yu (2021.09 - 2024.06)  <br>
-* <a href="../group/2024-Yu.pdf" class="textlink" target="_blank"> Fuchao Yu (2021.09 - 2024.06)  <br>
-* <a href="../group/2024-Yu.pdf" class="textlink" target="_blank"> Fuchao Yu (2021.09 - 2024.06)  <br>
-* <a href="../group/2024-Yu.pdf" class="textlink" target="_blank"> Fuchao Yu (2021.09 - 2024.06)  <br>
-* <a href="../group/2024-Yu.pdf" class="textlink" target="_blank"> Fuchao Yu (2021.09 - 2024.06)  <br>
-* <a href="../group/2024-Yu.pdf" class="textlink" target="_blank"> Fuchao Yu (2021.09 - 2024.06)  <br>
-* <a href="../group/2024-Yu.pdf" class="textlink" target="_blank"> Fuchao Yu (2021.09 - 2024.06)  <br>
+* <a href="../group/2024-Wu.pdf" class="textlink" target="_blank"> Naiqiong Wu (2024.01 - 2024.05)  <br>
+* <a href="../group/2023-Wen.pdf" class="textlink" target="_blank"> Chunhui Wen (2023.01 - 2023.05)  <br>
