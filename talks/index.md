@@ -12,6 +12,6 @@ share: false
 
 ### 2025
 
-* <a href="https://ieeexplore.ieee.org/document/9887978" class="textlink" target="_blank">Subspace Optimization for Large Language Models with Convergence Guarantees</a><br>
+* <a href="../talks/2024-CDC.pdf" class="textlink" target="_blank">Bi-Sparse Unsupervised Feature Selection</a><br>
 The NUS-PKU-SJTU Workshop on Data Science and Machine Learning<br>
 <i>National University of Singapore, Singapore</i><br>
