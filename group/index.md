@@ -28,3 +28,15 @@ I am recruiting self-motivated students with strong interests in optimization an
 * Shenghao Sun (2023.09 - ) <br>
 
 
+### Undergraduate Students
+* <a href="../group/2024-Yu.pdf" class="textlink" target="_blank"> Fuchao Yu (2021.09 - 2024.06)  <br>
+* <a href="../group/2024-Yu.pdf" class="textlink" target="_blank"> Fuchao Yu (2021.09 - 2024.06)  <br>
+* <a href="../group/2024-Yu.pdf" class="textlink" target="_blank"> Fuchao Yu (2021.09 - 2024.06)  <br>
+* <a href="../group/2024-Yu.pdf" class="textlink" target="_blank"> Fuchao Yu (2021.09 - 2024.06)  <br>
+* <a href="../group/2024-Yu.pdf" class="textlink" target="_blank"> Fuchao Yu (2021.09 - 2024.06)  <br>
+* <a href="../group/2024-Yu.pdf" class="textlink" target="_blank"> Fuchao Yu (2021.09 - 2024.06)  <br>
+* <a href="../group/2024-Yu.pdf" class="textlink" target="_blank"> Fuchao Yu (2021.09 - 2024.06)  <br>
+* <a href="../group/2024-Yu.pdf" class="textlink" target="_blank"> Fuchao Yu (2021.09 - 2024.06)  <br>
+* <a href="../group/2024-Yu.pdf" class="textlink" target="_blank"> Fuchao Yu (2021.09 - 2024.06)  <br>
+* <a href="../group/2024-Yu.pdf" class="textlink" target="_blank"> Fuchao Yu (2021.09 - 2024.06)  <br>
+* <a href="../group/2024-Yu.pdf" class="textlink" target="_blank"> Fuchao Yu (2021.09 - 2024.06)  <br>
