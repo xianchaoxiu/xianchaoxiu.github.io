@@ -10,8 +10,14 @@ share: false
 
 
 
-### 2025
+### 2024
 
-* <a href="../talks/2025-MOS.pdf" class="textlink" target="_blank">Unsupervised Feature Selection: From Sparse Representation to Adaptive Learning </a> <br>
-Mathematical Optimization Society <br>
+* Bi-Sparse Unsupervised Feature Selection <br>
+Operations Research Society of China <br>
+<i>Guizhou, China</i><br>
+
+
+* Hyperspectral Image Denoising: From Model-Driven to Model-Data-Driven <br>
+International Conference on Optimization and Statistics with Applications <br>
 <i>Shanghai, China</i><br>
+
