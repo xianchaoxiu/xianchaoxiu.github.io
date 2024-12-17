@@ -12,4 +12,6 @@ share: false
 
 ### 2025
 
-TBA
+* Unsupervised Feature Selection: From Sparse Representation to Adaptive Learning<br>
+Mathematical Optimization Society <br>
+<i>Shanghai, China</i><br>
