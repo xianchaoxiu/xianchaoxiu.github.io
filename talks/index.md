@@ -12,12 +12,11 @@ share: false
 
 ### 2024
 
-* Bi-Sparse Unsupervised Feature Selection <br>
+* <a href="../group/2024-Yu.pdf" class="textlink" target="_blank"> Bi-Sparse Unsupervised Feature Selection </a> <br>
 Operations Research Society of China <br>
 <i>Guizhou, China</i><br>
 
-
-* Hyperspectral Image Denoising: From Model-Driven to Model-Data-Driven <br>
+* <a href="../group/2024-Yu.pdf" class="textlink" target="_blank"> Hyperspectral Image Denoising: From Model-Driven to Model-Data-Driven </a>  <br>
 International Conference on Optimization and Statistics with Applications <br>
 <i>Shanghai, China</i><br>
 
