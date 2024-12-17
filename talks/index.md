@@ -12,6 +12,11 @@ share: false
 
 ### 2024
 
-* <a href="../talks/2024-ORSC.pdf" class="textlink" target="_blank">Bi-Sparse Unsupervised Feature Selection</a><br>
+* Bi-Sparse Unsupervised Feature Selection<br>
 ORSC 2024 <br>
 <i>Guiyang, China</i><br>
+
+
+* When Nonlocal Meets Nonconvex: A New Paradigm for Hyperspectral Image Denoising <br>
+China Control Conference 2024 <br>
+<i>Kunming, China</i><br>
