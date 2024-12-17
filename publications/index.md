@@ -9,11 +9,6 @@ share: false
 ---
 
 
-### 2025
-
-TBA <br>
-
-
 ### 2024
 
 * <a href="https://ieeexplore.ieee.org/document/9887978" class="textlink" target="_blank">Efficient and Fast Joint Sparse Constrained Canonical Correlation Analysis for Fault Detection</a><br>
