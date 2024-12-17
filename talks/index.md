@@ -12,6 +12,6 @@ share: false
 
 ### 2025
 
-* <a href="../talks/2025-MOS.pdf" class="textlink" target="_blank">Unsupervised Feature Selection: From Sparse Representation to Adaptive Learning <br>
+* <a href="../talks/2025-MOS.pdf" class="textlink" target="_blank">Unsupervised Feature Selection: From Sparse Representation to Adaptive Learning </a> <br>
 Mathematical Optimization Society <br>
 <i>Shanghai, China</i><br>
