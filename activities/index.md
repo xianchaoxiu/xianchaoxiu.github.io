@@ -15,7 +15,7 @@ share: false
 
 
 ### Conference Committee of
-* <a href="https://2025.ieeeigarss.org/" class="textlink" target="_blank">IEEE/GRSS International Geoscience and Remote Sensing Symposium (IGARSS), 2025 </a> <br>
+* <a href="https://2025.ieeeigarss.org/" class="textlink" target="_blank">IEEE/GRSS International Geoscience and Remote Sensing Symposium (IGARSS) 2025 </a> <br>
 
 
 ### Reviewer for
