@@ -14,9 +14,9 @@ share: false
 * <a href="https://www.ams.org/mr-database" class="textlink" target="_blank">Mathematical Reviews</a> <br>
 
 
-### Editor of
-* TBA
-  
+### Conference Committee of
+* <a href="https://2025.ieeeigarss.org/" class="textlink" target="_blank">IEEE/GRSS International Geoscience and Remote Sensing Symposium (IGARSS), 2025 </a> <br>
+
 
 ### Reviewer for
 * <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34" class="textlink" target="_blank">IEEE Transactions on Pattern Analysis and Machine Intelligence </a> <br>
