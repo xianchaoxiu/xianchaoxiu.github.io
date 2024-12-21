@@ -13,8 +13,11 @@ share: false
 * <a href="https://www.ieee.org/" class="textlink" target="_blank">Institute of Electrical and Electronics Engineer </a> <br>
 * <a href="https://www.ams.org/mr-database" class="textlink" target="_blank">Mathematical Reviews</a> <br>
 
+### Editor of
+* TBA
 
-### Journal Reviewer of
+
+### Reviewer of
 * <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34" class="textlink" target="_blank">IEEE Transactions on Pattern Analysis and Machine Intelligence </a> <br>
 * <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385" class="textlink" target="_blank">IEEE Transactions on Neural Networks and Learning Systems</a> <br>
 * <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69" class="textlink" target="_blank">IEEE Transactions on Knowledge and Data Engineering</a> <br>
@@ -37,10 +40,4 @@ share: false
 * <a href="https://iopscience.iop.org/journal/0266-5611" class="textlink" target="_blank">Inverse Problems</a> <br>
 * <a href="https://www.sciencedirect.com/journal/neural-networks" class="textlink" target="_blank">Neural Networks</a> <br>
 * <a href="https://www.sciencedirect.com/journal/automatica" class="textlink" target="_blank">Automatica</a> <br>
-
-
-### Conference Committee of
-* <a href="https://2025.ieeeigarss.org/" class="textlink" target="_blank">IEEE/GRSS International Geoscience and Remote Sensing Symposium (IGARSS) 2025 </a> <br>
-* <a href="https://www.ceect.org/" class="textlink" target="_blank">IEEE International Conference on Electrical Engineering and Control Technologies (CEECT) 2024 </a> <br>
-
 
