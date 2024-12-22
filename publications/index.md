@@ -9,6 +9,18 @@ share: false
 ---
 
 
+### Preprint
+
+* <a href="https://ieeexplore.ieee.org/document/9887978" class="textlink" target="_blank">Bi-Sparse Unsupervised Feature Selection </a><br>
+<b>X. Xiu</b>, H. Chen, P. Shang, and W. Liu<br>
+<i>Under Review</i><br>
+
+* <a href="https://arxiv.org/abs/2306.14394" class="textlink" target="_blank">Revisiting Lq(0≤q<1) Norm Regularized Optimization </a><br>
+S. Zhou, <b>X. Xiu</b>, Y. Wang, and D. Peng<br>
+<i>Under Review</i><br>
+
+
+
 ### 2024
 
 * <a href="https://ieeexplore.ieee.org/document/9887978" class="textlink" target="_blank">Efficient and Fast Joint Sparse Constrained Canonical Correlation Analysis for Fault Detection</a><br>
