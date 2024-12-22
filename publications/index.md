@@ -11,7 +11,11 @@ share: false
 
 ### Preprint
 
-* <a href="https://ieeexplore.ieee.org/document/9887978" class="textlink" target="_blank">Bi-Sparse Unsupervised Feature Selection </a><br>
+* Robust Sparse Phase Retrieval: Model, Theoretical Guarantee and Efficient Algorithm <br>
+J. Fan, A. Yan, <b>X. Xiu</b>, and W. Liu<br>
+<i>Under Review</i><br>
+
+* Bi-Sparse Unsupervised Feature Selection <br>
 <b>X. Xiu</b>, H. Chen, P. Shang, and W. Liu<br>
 <i>Under Review</i><br>
 
