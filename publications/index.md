@@ -20,12 +20,13 @@ share: false
 J. Fan, A. Yan, <b>X. Xiu</b>, and W. Liu<br>
 <i>Under Review</i><br>
 
-* Bi-Sparse Unsupervised Feature Selection <br>
-<b>X. Xiu</b>, H. Chen, P. Shang, and W. Liu<br>
-<i>Under Review</i><br>
 
 * <a href="https://arxiv.org/abs/2306.14394" class="textlink" target="_blank">Revisiting Lq(0≤q<1) Norm Regularized Optimization </a><br>
 S. Zhou, <b>X. Xiu</b>, Y. Wang, and D. Peng<br>
+<i>Under Review</i><br>
+
+* Bi-Sparse Unsupervised Feature Selection <br>
+<b>X. Xiu</b>, H. Chen, P. Shang, and W. Liu<br>
 <i>Under Review</i><br>
 
 
