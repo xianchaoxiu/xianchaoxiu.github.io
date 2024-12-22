@@ -20,7 +20,6 @@ S. Zhou, <b>X. Xiu</b>, Y. Wang, and D. Peng<br>
 <i>Under Review</i><br>
 
 
-
 ### 2024
 
 * <a href="https://ieeexplore.ieee.org/document/9887978" class="textlink" target="_blank">Efficient and Fast Joint Sparse Constrained Canonical Correlation Analysis for Fault Detection</a><br>
