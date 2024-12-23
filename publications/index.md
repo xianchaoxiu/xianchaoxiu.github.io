@@ -12,7 +12,7 @@ share: false
 ### Preprint
 
 * Enhancing Unsupervised Feature Selection via Double Sparsity Constrained Optimization<br>
-<b>X. Xiu</b>, A. Yang, H. Chen, X. Li, and W. Liu<br>
+<b>X. Xiu</b>, A. Yang, C. Huang, X. Li, and W. Liu<br>
 <i>Under Review</i><br>
 
 
@@ -26,7 +26,7 @@ S. Zhou, <b>X. Xiu</b>, Y. Wang, and D. Peng<br>
 <i>Under Review</i><br>
 
 * Bi-Sparse Unsupervised Feature Selection <br>
-<b>X. Xiu</b>, H. Chen, P. Shang, and W. Liu<br>
+<b>X. Xiu</b>, C. Huang, P. Shang, and W. Liu<br>
 <i>Under Review</i><br>
 
 
