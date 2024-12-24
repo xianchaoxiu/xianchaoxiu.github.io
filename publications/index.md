@@ -21,7 +21,7 @@ J. Fan, A. Yan, <b>X. Xiu</b>, and W. Liu<br>
 <i>Under Review</i><br>
 
 
-* <a href="https://arxiv.org/abs/2412.16819" class="textlink" target="_blank">Bi-Sparse Unsupervised Feature Selection <br>
+* <a href="https://arxiv.org/abs/2412.16819" class="textlink" target="_blank">Bi-Sparse Unsupervised Feature Selection </a><br>
 <b>X. Xiu</b>, C. Huang, P. Shang, and W. Liu<br>
 <i>Under Review</i><br>
 
