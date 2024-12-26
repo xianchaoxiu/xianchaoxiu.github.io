@@ -32,8 +32,8 @@ share: false
 * <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424" class="textlink" target="_blank">IEEE Transactions on Industrial Informatics  (TII)</a> <br>
 * <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9078688" class="textlink" target="_blank">IEEE Transactions on Artificial Intelligence  (TAI)</a> <br>
 * <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9" class="textlink" target="_blank">IEEE Transactions on Automatic Control  (TAC)</a> <br>
-* <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83" class="textlink" target="_blank">IEEE Transactions on Image Processing  (TIP)</a> <br>
 * <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=78" class="textlink" target="_blank">IEEE Transactions on Signal Processing  (TSP)</a> <br>
+* <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83" class="textlink" target="_blank">IEEE Transactions on Image Processing  (TIP)</a> <br>
 * <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046" class="textlink" target="_blank">IEEE Transactions on Multimedia  (TMM)</a> <br>
 * <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036" class="textlink" target="_blank">IEEE Transactions on Cybernetics  (TC)</a> <br>
 * <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6687317" class="textlink" target="_blank">IEEE Transactions on Big Data  (TBD)</a> <br>
