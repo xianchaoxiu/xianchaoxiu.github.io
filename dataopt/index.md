@@ -1,14 +1,14 @@
 ---
 layout: page
 permalink: /dataopt/
-title: 数据驱动最优化
+title: DataOpt
 tags: [dataopt]
 comments: false
 share: false
 ---
 
 
-### 本书简介
+### 数据驱动最优化
 本教材旨在面向工程、信息、数学等相关学科的高年级本科生和研究生讲授如何借助于人工智能方法求解运筹优化问题。计划2025年10月左右完成草稿，2026年初左右完成校稿。
 
 
