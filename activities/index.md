@@ -47,6 +47,5 @@ share: false
 * <a href="https://link.springer.com/journal/10994" class="textlink" target="_blank">Machine Learning (ML)</a> <br>
 * <a href="https://www.sciencedirect.com/journal/neural-networks" class="textlink" target="_blank">Neural Networks (NN)</a> <br>
 * <a href="https://iopscience.iop.org/journal/0266-5611" class="textlink" target="_blank">Inverse Problems (IP)</a> <br>
-* ......
 
 
