@@ -8,17 +8,24 @@ share: false
 ---
 
 
-### Member of
+### Editor
+* TBA
+
+
+### Membership
 * <a href="http://www.shorsc.org.cn/" class="textlink" target="_blank">Committee of Operations Research Society of Shanghai </a> <br>
 * <a href="https://www.ieee.org/" class="textlink" target="_blank">Institute of Electrical and Electronics Engineer </a> <br>
 * <a href="https://www.ams.org/mr-database" class="textlink" target="_blank">Mathematical Reviews</a> <br>
 
 
-### Editor of
-* TBA
-  
+### Conference Organization
+* Scientific Committee, <a href="https://2025.ieeeigarss.org/" class="textlink" target="_blank">International Geoscience and Remote Sensing Symposium (IGARSS) </a>, 2025
+* Session Chair, <a href="https://ccc2024en.kust.edu.cn/" class="textlink" target="_blank">The 43rdChinese Control Conference (CCC) </a>, 2024
 
-### Reviewer for
+
+
+
+### Journal Reviewer
 * <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34" class="textlink" target="_blank">IEEE Transactions on Pattern Analysis and Machine Intelligence </a> <br>
 * <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385" class="textlink" target="_blank">IEEE Transactions on Neural Networks and Learning Systems</a> <br>
 * <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69" class="textlink" target="_blank">IEEE Transactions on Knowledge and Data Engineering</a> <br>
