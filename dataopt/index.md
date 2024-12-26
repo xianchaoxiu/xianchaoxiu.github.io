@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /activities/
-title: Activities
-tags: [activities]
+permalink: /dataopt/
+title: DataOpt
+tags: [dataopt]
 comments: false
 share: false
 ---
