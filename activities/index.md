@@ -19,8 +19,8 @@ share: false
 
 
 ### Conference Organization
-* Scientific Committee, <a href="https://2025.ieeeigarss.org/" class="textlink" target="_blank">International Geoscience and Remote Sensing Symposium (IGARSS) </a>, 2025
-* Session Chair, <a href="https://ccc2024en.kust.edu.cn/" class="textlink" target="_blank">The 43rdChinese Control Conference (CCC) </a>, 2024
+* <a href="https://2025.ieeeigarss.org/" class="textlink" target="_blank">The 45th International Geoscience and Remote Sensing Symposium (IGARSS 2025) </a>, Scientific Committee
+* <a href="https://ccc2024en.kust.edu.cn/" class="textlink" target="_blank">The 43rdChinese Control Conference (CCC 2024) </a>, Session Chair
 
 
 
