@@ -106,12 +106,6 @@ Z. Ni, <b>X. Xiu</b>, and Y. Yang<br>
 <i>Energy</i><br>
 
 
-* <a href="https://www.mdpi.com/2227-7390/10/19/3619" class="textlink" target="_blank">A Survey on Deep Transfer Learning and Beyond</a><br>
-F. Yu, <b>X. Xiu</b>, and Y. Li<br>
-<i>Mathematics (<font color='red'><b>ESI Highly Cited Paper</b></font>)</i> <br>
-
-
-
 
 
 ### 2021
