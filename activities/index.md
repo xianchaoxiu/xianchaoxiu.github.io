@@ -15,8 +15,8 @@ share: false
 
 ### Member
 * <a href="http://www.shorsc.org.cn/" class="textlink" target="_blank">Committee of Operations Research Society of Shanghai (ORSS)</a> <br>
-* <a href="https://www.ieee.org/" class="textlink" target="_blank">Institute of Electrical and Electronics Engineer (IEEE)</a> <br>
 * <a href="https://www.siam.org/" class="textlink" target="_blank">Society for Industrial and Applied Mathematics (SIAM)</a> <br>
+* <a href="https://www.ieee.org/" class="textlink" target="_blank">Institute of Electrical and Electronics Engineer (IEEE)</a> <br>
 * <a href="https://www.ams.org/mr-database" class="textlink" target="_blank">Mathematical Reviews (MR)</a> <br>
 
 
