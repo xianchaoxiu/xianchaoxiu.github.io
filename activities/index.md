@@ -20,6 +20,7 @@ share: false
 
 ### Conference Committee
 * <a href="https://2025.ieeeigarss.org/" class="textlink" target="_blank">The 45th International Geoscience and Remote Sensing Symposium (IGARSS 2025) </a>
+* <a href="https://www.ceect.org/" class="textlink" target="_blank">The 6th International Conference on Electrical Engineering and Control Technologies (CEECT 2024) </a>
 
 
 
