@@ -18,9 +18,8 @@ share: false
 * <a href="https://www.ams.org/mr-database" class="textlink" target="_blank">Mathematical Reviews (MR)</a> <br>
 
 
-### Conference Organization
-* <a href="https://2025.ieeeigarss.org/" class="textlink" target="_blank">The 45th International Geoscience and Remote Sensing Symposium (IGARSS 2025) </a>, Scientific Committee
-* <a href="https://ccc2024en.kust.edu.cn/" class="textlink" target="_blank">The 43rd Chinese Control Conference (CCC 2024) </a>, Session Chair
+### Conference Committee
+* <a href="https://2025.ieeeigarss.org/" class="textlink" target="_blank">The 45th International Geoscience and Remote Sensing Symposium (IGARSS 2025) </a>
 
 
 
