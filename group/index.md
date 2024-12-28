@@ -26,11 +26,6 @@ share: false
 
 
 ### Undergraduate Students
-* Qiuwen Zhou (2025.01 -  ) <br>
-* Mingwei Su (2025.01 -  ) <br>
-* Changhao Li (2025.01 -  ) <br>
-* Chuchu Chen (2025.01 -  ) <br>
-* Wanying Deng (2025.01 -  ) <br>
 * <a href="../group/2024-Wu.pdf" class="textlink" target="_blank"> Naiqiong Wu (2024.01 - 2024.06)  </a><br>
 * <a href="../group/2024-Zhang.pdf" class="textlink" target="_blank"> Jingyi Zhang (2024.01 - 2024.06)  </a><br>
 * <a href="../group/2023-Ding.pdf" class="textlink" target="_blank"> Yiping Ding (2023.01 - 2023.06)  </a><br>
