@@ -11,13 +11,8 @@ share: false
 
 ### Preprint
 
-* Enhancing Unsupervised Feature Selection via Double Sparsity Constrained Optimization<br>
+* <a href="https://arxiv.org/abs/2412.16819" class="textlink" target="_blank">Enhancing Unsupervised Feature Selection via Double Sparsity Constrained Optimization</a><br>
 <b>X. Xiu</b>, A. Yang, C. Huang, X. Li, and W. Liu<br>
-<i>Under Review</i><br>
-
-
-* Robust Sparse Phase Retrieval: Model, Theoretical Guarantee and Efficient Algorithm <br>
-J. Fan, A. Yan, <b>X. Xiu</b>, and W. Liu<br>
 <i>Under Review</i><br>
 
 
