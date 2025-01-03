@@ -11,7 +11,7 @@ share: false
 
 ### Preprint
 
-* <a href="https://arxiv.org/abs/2412.16819" class="textlink" target="_blank">Enhancing Unsupervised Feature Selection via Double Sparsity Constrained Optimization</a><br>
+* <a href="http://arxiv.org/abs/2501.00726" class="textlink" target="_blank">Enhancing Unsupervised Feature Selection via Double Sparsity Constrained Optimization</a><br>
 <b>X. Xiu</b>, A. Yang, C. Huang, X. Li, and W. Liu<br>
 <i>Under Review</i><br>
 
