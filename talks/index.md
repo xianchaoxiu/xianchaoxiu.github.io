@@ -13,12 +13,14 @@ share: false
 
 ### 2025
 
-* TBA<br>
+* Unsupervised Feature Selection: From Sparse Representation to Adaptive Learning </a> <br>
+Mathematical Optimization Society (MOS) <br>
+<i>Shanghai, China</i><br>
 
 
 ### 2024
 
 * <a href="../talks/2024-ORSC.pdf" class="textlink" target="_blank"> Bi-Sparse Unsupervised Feature Selection </a> <br>
-Operations Research Society of China <br>
+Operations Research Society of China (ORSC) <br>
 <i>Guizhou, China</i><br>
 
