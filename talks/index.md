@@ -11,16 +11,12 @@ share: false
 
 
 
-### 2025
-
-* Unsupervised Feature Selection: From Sparse Representation to Adaptive Learning <br>
-Mathematical Optimization Society (MOS) <br>
-<i>Shanghai, China</i><br>
-
-
 ### 2024
 
 * <a href="../talks/2024-ORSC.pdf" class="textlink" target="_blank"> Bi-Sparse Unsupervised Feature Selection </a> <br>
 Operations Research Society of China (ORSC) <br>
 <i>Guizhou, China</i><br>
 
+* <a href="../talks/2024-ICOSA.pdf" class="textlink" target="_blank"> STAR-Net: An Interpretable Tensor Representation Network for Hyperspectral Image Denoising </a> <br>
+International Conference on Optimization and Statistics with Applications (ICOSA) <br>
+<i>Shanghai, China</i><br>
