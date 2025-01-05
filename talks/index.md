@@ -13,7 +13,7 @@ share: false
 
 ### 2025
 
-* Unsupervised Feature Selection: From Sparse Representation to Adaptive Learning </a> <br>
+* Unsupervised Feature Selection: From Sparse Representation to Adaptive Learning <br>
 Mathematical Optimization Society (MOS) <br>
 <i>Shanghai, China</i><br>
 
