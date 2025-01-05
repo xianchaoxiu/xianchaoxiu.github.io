@@ -17,3 +17,6 @@ share: false
 Operations Research Society of China (ORSC) <br>
 <i>Guizhou, China</i><br>
 
+* <a href="../talks/2024-PKU.pdf" class="textlink" target="_blank"> Data-Driven Fault Detection: From Sparse CCA to Deep Learning </a> <br>
+Peking University <br>
+<i>Beijing, China</i><br>
