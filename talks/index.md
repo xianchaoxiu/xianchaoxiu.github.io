@@ -21,3 +21,10 @@ Operations Research Society of China (ORSC) <br>
 * <a href="../talks/2024-ICOSA.pdf" class="textlink" target="_blank"> STAR-Net: An Interpretable Tensor Representation Network for Hyperspectral Image Denoising </a> <br>
 International Conference on Optimization and Statistics with Applications (ICOSA) <br>
 <i>Shanghai, China</i><br>
+
+
+* <a href="../talks/2024-PKU.pdf" class="textlink" target="_blank"> Data-Driven Fault Detection: From Sparse CCA to Deep Learning </a> <br>
+Peking University <br>
+<i>Shanghai, China</i><br>
+
+
