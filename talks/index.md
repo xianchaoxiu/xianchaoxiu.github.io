@@ -11,6 +11,7 @@ share: false
 
 
 
+
 ### 2024
 
 * <a href="../talks/2024-ORSC.pdf" class="textlink" target="_blank"> Bi-Sparse Unsupervised Feature Selection </a> <br>
@@ -22,9 +23,9 @@ Operations Research Society of China (ORSC) <br>
 International Conference on Optimization and Statistics with Applications (ICOSA) <br>
 <i>Shanghai, China</i><br>
 
-
-* <a href="../talks/2024-PKU.pdf" class="textlink" target="_blank"> Data-Driven Fault Detection and Diagnosis: From Sparse CCA to Deep Learning </a> <br>
+* <a href="../talks/2024-PKU.pdf" class="textlink" target="_blank"> Data-Driven Fault Diagnosis: From Sparse CCA to Deep Learning </a> <br>
 Peking University <br>
 <i>Shanghai, China</i><br>
+
 
 
