@@ -23,7 +23,7 @@ International Conference on Optimization and Statistics with Applications (ICOSA
 <i>Shanghai, China</i><br>
 
 
-* <a href="../talks/2024-PKU.pdf" class="textlink" target="_blank"> Data-Driven Fault Detection: From Sparse CCA to Deep Learning </a> <br>
+* <a href="../talks/2024-PKU.pdf" class="textlink" target="_blank"> Data-Driven Fault Detection and Diagnosis: From Sparse CCA to Deep Learning </a> <br>
 Peking University <br>
 <i>Shanghai, China</i><br>
 
