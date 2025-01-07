@@ -9,7 +9,11 @@ share: false
 ---
 
 
+### 2025
 
+* <a href="../talks/2024-PKU.pdf" class="textlink" target="_blank"> Data-Driven Fault Diagnosis: From Sparse CCA to Deep Learning </a> <br>
+Peking University Workshop <br>
+<i>Beijing, China</i><br>
 
 
 ### 2024
@@ -23,9 +27,6 @@ Operations Research Society of China (ORSC) <br>
 International Conference on Optimization and Statistics with Applications (ICOSA) <br>
 <i>Shanghai, China</i><br>
 
-* <a href="../talks/2024-PKU.pdf" class="textlink" target="_blank"> Data-Driven Fault Diagnosis: From Sparse CCA to Deep Learning </a> <br>
-Peking University Workshop <br>
-<i>Beijing, China</i><br>
 
 
 
