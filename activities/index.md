@@ -16,12 +16,6 @@ share: false
 * <a href="https://www.ams.org/mr-database" class="textlink" target="_blank">Mathematical Reviews </a> <br>
 
 
-### Conference Committee
-* <a href="https://2025.ieeeigarss.org/" class="textlink" target="_blank">The 45th International Geoscience and Remote Sensing Symposium </a>
-* <a href="https://www.ceect.org/" class="textlink" target="_blank">The 6th International Conference on Electrical Engineering and Control Technologies </a>
-
-
-
 
 ### Journal Reviewer
 * <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34" class="textlink" target="_blank">IEEE Transactions on Pattern Analysis and Machine Intelligence </a> <br>
@@ -36,7 +30,7 @@ share: false
 * <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036" class="textlink" target="_blank">IEEE Transactions on Cybernetics </a> <br>
 * <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6687317" class="textlink" target="_blank">IEEE Transactions on Big Data  </a> <br>
 * <a href="https://link.springer.com/journal/11263" class="textlink" target="_blank">International Journal of Computer Vision  </a> <br>
-* <a href="https://www.jmlr.org" class="textlink" target="_blank">Journal of Machine Learning Research  </a> <br>
+* <a href="https://www.jmlr.org" class="textlink" target="_blank">Journal of Machine Learning Research </a><br>
 * <a href="https://www.siam.org/publications/siam-journals/siam-journal-on-optimization/" class="textlink" target="_blank">SIAM Journal on Optimization </a> <br>
 * <a href="https://link.springer.com/journal/10107" class="textlink" target="_blank">Mathematical Programming </a> <br>
 * <a href="https://pubsonline.informs.org/journal/opre" class="textlink" target="_blank">Operations Research </a> <br>
