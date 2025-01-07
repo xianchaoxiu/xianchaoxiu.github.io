@@ -8,10 +8,6 @@ share: false
 ---
 
 
-### Editor
-* TBA
-
-
 
 ### Member
 * <a href="http://www.shorsc.org.cn/" class="textlink" target="_blank">Committee of Operations Research Society of Shanghai</a> <br>
