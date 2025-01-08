@@ -21,7 +21,7 @@ International Conference on Optimization and Statistics with Application <br>
 <i>Shanghai, China</i><br>
 
 
-* <a href="../talks/2024-CAS.pdf" class="textlink" target="_blank"> Data-Driven Fault Diagnosis: From Sparse Optimization to Deep Learning </a> <br>
+* <a href="../talks/2024-CAS.pdf" class="textlink" target="_blank"> Data-Driven Fault Diagnosis: From Sparse Representation to Deep Learning </a> <br>
 Chinese Academy of Sciences <br>
 <i>Beijing, China</i><br>
 
