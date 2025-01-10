@@ -25,7 +25,11 @@ share: false
 S. Zhou, <b>X. Xiu</b>, Y. Wang, and D. Peng<br>
 <i>Under Review</i><br>
 
+### 2025
 
+* <a href="https://www.sciencedirect.com/science/article/abs/pii/S095741742402712X" class="textlink" target="_blank">Joint Sparse Subspace Clustering via Fast L2,0-Norm Constrained Optimization</a><br>
+Y. Zhu, <b>X. Xiu</b>, W. Liu, and C. Yin<br>
+<i>Expert Systems with Applications</i><br>
 
 
 
@@ -52,10 +56,6 @@ W. Qu, H. Chen, <b>X. Xiu</b>, and W. Liu<br>
 <i>Neurocomputing</i><br>
 
 
-* <a href="https://www.sciencedirect.com/science/article/abs/pii/S095741742402712X" class="textlink" target="_blank">Joint Sparse Subspace Clustering via Fast L2,0-Norm Constrained Optimization</a><br>
-Y. Zhu, <b>X. Xiu</b>, W. Liu, and C. Yin<br>
-<i>Expert Systems with Applications</i><br>
-
 
 
 ### 2023
@@ -79,10 +79,6 @@ H. Chen, L. Kong, W Qu, and <b>X. Xiu</b><br>
 J. Sun, <b>X. Xiu</b>, Z. Luo, and W. Liu<br>
 <i>IEEE Transactions on Circuits and Systems for Video Technology</i><br>
 
-
-* <a href="https://ieeexplore.ieee.org/abstract/document/10036023" class="textlink" target="_blank">Structured Joint Sparse Orthogonal Nonnegative Matrix Factorization for Fault Detection</a><br>
-X. Zhang, <b>X. Xiu</b>, and C. Zhang<br>
-<i>IEEE Transactions on Instrumentation and Measurement</i><br>
 
 
 
