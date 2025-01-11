@@ -25,11 +25,6 @@ share: false
 S. Zhou, <b>X. Xiu</b>, Y. Wang, and D. Peng<br>
 <i>Under Review</i><br>
 
-### 2025
-
-* <a href="https://www.sciencedirect.com/science/article/abs/pii/S095741742402712X" class="textlink" target="_blank">Joint Sparse Subspace Clustering via Fast L2,0-Norm Constrained Optimization</a><br>
-Y. Zhu, <b>X. Xiu</b>, W. Liu, and C. Yin<br>
-<i>Expert Systems with Applications</i><br>
 
 
 
