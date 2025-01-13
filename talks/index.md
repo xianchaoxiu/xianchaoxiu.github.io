@@ -10,6 +10,16 @@ share: false
 
 
 
+
+
+### 2025
+
+*  Nonconvex Sparse Optimization: Theory and Algorithms <br>
+Chinese Academy of Sciences <br>
+<i>Beijing, China</i><br>
+
+
+
 ### 2024
 
 * <a href="../talks/2024-ORSC.pdf" class="textlink" target="_blank"> Bi-Sparse Unsupervised Feature Selection </a> <br>
@@ -19,6 +29,7 @@ Operations Research Society of China <br>
 * <a href="../talks/2024-ICOSA.pdf" class="textlink" target="_blank"> STAR-Net: An Interpretable Tensor Representation Network for Hyperspectral Image Denoising </a> <br>
 International Conference on Optimization and Statistics with Application <br>
 <i>Shanghai, China</i><br>
+
 
 ### 2023
 
