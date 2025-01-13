@@ -14,7 +14,7 @@ share: false
 
 ### 2025
 
-*  Nonconvex Sparse Optimization: Theory and Algorithms <br>
+*  Nonconvex Sparse Optimization <br>
 Chinese Academy of Sciences <br>
 <i>Beijing, China</i><br>
 
