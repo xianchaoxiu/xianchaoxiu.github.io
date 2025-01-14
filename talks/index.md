@@ -14,7 +14,7 @@ share: false
 
 ### 2025
 
-* <a href="../talks/2024-ORSC.pdf" class="textlink" target="_blank">Nonconvex Sparse Optimization Methods and Applications</a> <br>
+* Nonconvex Sparse Optimization Methods and Applications<br>
 Chinese Academy of Sciences <br>
 <i>Beijing, China</i><br>
 
