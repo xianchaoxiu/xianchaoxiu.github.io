@@ -14,7 +14,7 @@ share: false
 
 ### 2025
 
-* <a href="../talks/2024-ORSC.pdf" class="textlink" target="_blank"> Sparse Optimization: Theory and Algorithms </a> <br>
+* <a href="../talks/2024-ORSC.pdf" class="textlink" target="_blank"> Nonconvex Sparse Optimization Algorithms </a> <br>
 Chinese Academy of Sciences <br>
 <i>Beijing, China</i><br>
 
