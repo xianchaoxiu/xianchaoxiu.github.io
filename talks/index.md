@@ -14,7 +14,7 @@ share: false
 
 ### 2025
 
-* <a href="../talks/2025-CAS.pdf" class="textlink" target="_blank"> Nonconvex Sparse Optimization and Applications</a> <br>
+* <a href="../talks/2025-CAS.pdf" class="textlink" target="_blank"> Nonconvex Sparse Optimization and Algorithms</a> <br>
 Chinese Academy of Sciences <br>
 <i>Beijing, China</i><br>
 
