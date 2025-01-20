@@ -11,7 +11,7 @@ share: false
 
 ### Preprint
 
-* Multi-View Clustering Meets High-Dimensional Mixed Data: A Fusion Regularized Method</a><br>
+* Multi-View Clustering Meets High-Dimensional Mixed Data: A Fusion Regularized Method<br>
 X. Xing, Y. Li, X. Wang, H. Chen, and <b>X. Xiu</b><br>
 <i>Under Review</i><br>
 
