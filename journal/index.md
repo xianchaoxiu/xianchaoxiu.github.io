@@ -11,10 +11,6 @@ share: false
 
 ### Preprint
 
-* Multi-View Clustering Meets High-Dimensional Mixed Data: A Fusion Regularized Method<br>
-X. Xing, Y. Li, X. Wang, H. Chen, and <b>X. Xiu</b><br>
-<i>Under Review</i><br>
-
 
 * <a href="http://arxiv.org/abs/2501.00726" class="textlink" target="_blank">Enhancing Unsupervised Feature Selection via Double Sparsity Constrained Optimization</a><br>
 <b>X. Xiu</b>, A. Yang, C. Huang, X. Li, and W. Liu<br>
