@@ -13,22 +13,21 @@ share: false
 
 
 
+### 2024
 
-### 2025
+* <a href="https://ieeexplore.ieee.org/abstract/document/10661810" class="textlink" target="_blank">Sparse PCA via L2,0-Norm Constrained Optimization for Unsupervised Feature Selection</a><br>
+A. Yang, X. Li, and <b>X. Xiu*</b><br>
+<i>Chinese Control Conference</i><br>
 
 
-* TBA
+* <a href="https://ieeexplore.ieee.org/abstract/document/10662067" class="textlink" target="_blank">When Nonlocal Meets Nonconvex: A New Paradigm for Hyperspectral Image Denoising</a><br>
+S. Sun, Y. Lei, and <b>X. Xiu*</b><br>
+<i>Chinese Control Conference</i><br>
 
 
-### 2024-Present
+* <a href="https://ieeexplore.ieee.org/abstract/document/10661785" class="textlink" target="_blank">A Riemannian Augmented Lagrangian Method for Structured Sparse PCA</a><br>
+C. Huang, P. Shang, and <b>X. Xiu*</b><br>
+<i>Chinese Control Conference</i><br>
 
-* A. Yang, X. Li, <b>X. Xiu*</b>, Sparse PCA via L2,0-Norm Constrained Optimization for Unsupervised Feature Selection, <i> Chinese Control Conference (CCC)</i>, 2024 <a href="https://github.com/yan921" class="textlink" target="_blank">[Code]</a> <br>
-* S. Sun, Y. Lei, <b>X. Xiu*</b>, When Nonlocal Meets Nonconvex: A New Paradigm for Hyperspectral Image Denoising, <i> Chinese Control Conference (CCC)</i>, 2024 <a href="https://github.com/EdSun0" class="textlink" target="_blank">[Code]</a> <br>
-* C. Huang, P. Shang, <b>X. Xiu*</b>, A Riemannian Augmented Lagrangian Method for Structured Sparse PCA, <i> Chinese Control Conference (CCC)</i>, 2024 <a href="https://github.com/ChenyiHuang23/ROFS" class="textlink" target="_blank">[Code]</a> <br>
 
-### 2018-2023
-
-* F. Yu, <b>X. Xiu*</b>, Robust Transfer Subspace Learning: A Novel Data-Driven Scheme for Fault Diagnosis, <i> CAA Symposium on Fault Detection, Supervision and Safety for Technical Processes (SAFEPROCESS)</i>, 2023 <a href="https://ieeexplore.ieee.org/abstract/document/10295777" class="textlink" target="_blank">[Paper]</a> <br>
-* <b>X. Xiu*</b>, R. Liu, Z. Miao, A Sparse Semismooth Newton-Based Manifold Algorithm for Partial Least Squares, <i> China Automation Congress (CAC)</i>, 2022 <a href="https://ieeexplore.ieee.org/abstract/document/10055654" class="textlink" target="_blank">[Paper]</a> <br>
-* <b>X. Xiu</b>, Y. Yang*, K. Kong, W. Liu, A Highly Efficient Joint Sparsity Constrained Robust Principal Component Analysis for Fault Diagnosis, <i>IEEE 9th Data Driven Control and Learning Systems Conference (DDCLS)</i>, 2020 <a href="https://ieeexplore.ieee.org/abstract/document/9275063" class="textlink" target="_blank">[Paper]</a> <br>
 
