@@ -22,11 +22,6 @@ share: false
 <i>Under Review</i><br>
 
 
-### 2025
-
-* <a href="https://ieeexplore.ieee.org/abstract/document/10542504" class="textlink" target="_blank">Efficient and Robust Sparse Linear Discriminant Analysis for Data Classification</a><br>
-J. Liu, M. Feng, <b>X. Xiu</b>, W. Liu, and X. Zeng<br>
-<i>IEEE Transactions on Emerging Topics in Computational Intelligence</i><br>
 
 
 
