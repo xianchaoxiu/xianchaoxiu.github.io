@@ -15,7 +15,7 @@ share: false
 
 ### 2025
 
-* Federated Bi-Sparse PCA for Anomaly Detection in IoT Networks<br>
+* Federated Bi-Sparse PCA via Riemannian ADMM<br>
 <b>X. Xiu</b>, C. Huang, and W. Qu<br>
 <i>Working in Process</i><br>
 
