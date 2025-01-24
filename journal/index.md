@@ -9,7 +9,7 @@ share: false
 ---
 
 
-### Preprint
+### 2025
 
 
 * <a href="http://arxiv.org/abs/2501.00726" class="textlink" target="_blank">Enhancing Unsupervised Feature Selection via Double Sparsity Constrained Optimization</a><br>
