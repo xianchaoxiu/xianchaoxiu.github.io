@@ -10,6 +10,13 @@ share: false
 
 
 
+### 2025
+
+* Unsupervised Feature Selection: From Deep Learning to Large Language Models <br>
+Mathematical Optimization Society <br>
+<i>Shanghai, China</i><br>
+
+
 
 
 ### 2024
@@ -18,15 +25,14 @@ share: false
 Chinese Academy of Sciences <br>
 <i>Beijing, China</i><br>
 
-
 * <a href="../talk/2024-ORSC.pdf" class="textlink" target="_blank"> Bi-Sparse Unsupervised Feature Selection </a> <br>
 Operations Research Society of China <br>
 <i>Guizhou, China</i><br>
 
-
 * <a href="../talk/2024-ICOSA.pdf" class="textlink" target="_blank"> STAR-Net: An Interpretable Tensor Representation Network for Hyperspectral Image Denoising </a> <br>
 International Conference on Optimization and Statistics with Application <br>
 <i>Shanghai, China</i><br>
+
 
 
 ### 2023
