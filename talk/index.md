@@ -30,6 +30,11 @@ International Conference on Optimization and Statistics with Application <br>
 
 ### 2023
 
+* Plug-and-Play Tensor Low-Rank Approximation for Hyperspectral Anomaly Detection </a> <br>
+Algorithm Software and Applications<br>
+<i>Tianjin, China</i><br>
+
+
 * <a href="../talk/2023-MOS.pdf" class="textlink" target="_blank"> Data-Driven Fault Diagnosis: From Sparse Representation to Deep Learning </a> <br>
 Mathematical Optimization Society <br>
 <i>Chengdu, China</i><br>
