@@ -10,15 +10,6 @@ share: false
 
 
 
-### 2025
-
-* Unsupervised Feature Selection: From Deep Learning to Large Language Models <br>
-Mathematical Optimization Society <br>
-<i>Shanghai, China</i><br>
-
-
-
-
 ### 2024
 
 * <a href="../talk/2024-CAS.pdf" class="textlink" target="_blank"> Nonconvex Sparse Optimization and Algorithms</a> <br>
