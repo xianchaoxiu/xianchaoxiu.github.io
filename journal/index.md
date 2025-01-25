@@ -21,12 +21,18 @@ share: false
 <i>Under Review</i><br>
 
 
+### 2025
+
+* <a href="https://ieeexplore.ieee.org/abstract/document/105425" class="textlink" target="_blank">Efficient and Robust Sparse Linear Discriminant Analysis for Data Classification</a><br>
+J. Liu, M. Feng, <b>X. Xiu</b>, W. Liu, X. Zeng<br>
+<i>IEEE Transactions on Emerging Topics in Computational Intelligence </i><br>
+
 
 
 ### 2024
 
 * <a href="https://ieeexplore.ieee.org/document/9887978" class="textlink" target="_blank">Efficient and Fast Joint Sparse Constrained Canonical Correlation Analysis for Fault Detection</a><br>
-<b>X. Xiu</b>, L. Pan, Y. Yang, W. Liu<br>
+J. Liu, M. Feng, <b>X. Xiu</b>, W. Liu<br>
 <i>IEEE Transactions on Neural Networks and Learning Systems</i><br>
 
 
