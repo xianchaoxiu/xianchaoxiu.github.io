@@ -30,7 +30,7 @@ International Conference on Optimization and Statistics with Application <br>
 
 ### 2023
 
-* Plug-and-Play Tensor Low-Rank Approximation for Hyperspectral Anomaly Detection </a> <br>
+* Plug-and-Play Tensor Low-Rank Approximation for Hyperspectral Anomaly Detection <br>
 Algorithm Software and Applications <br>
 <i>Tianjin, China</i><br>
 
