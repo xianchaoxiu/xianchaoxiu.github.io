@@ -26,7 +26,7 @@ share: false
 ### 2024
 
 * <a href="https://ieeexplore.ieee.org/document/9887978" class="textlink" target="_blank">Efficient and Fast Joint Sparse Constrained Canonical Correlation Analysis for Fault Detection</a><br>
-J. Liu, M. Feng, <b>X. Xiu</b>, W. Liu<br>
+<b>X. Xiu</b>, L. Pan, Y. Yang, W. Liu<br>
 <i>IEEE Transactions on Neural Networks and Learning Systems</i><br>
 
 
