@@ -20,4 +20,10 @@ share: false
 <i>Working in Process</i><br>
 
 
+* Solving Tensor CCA via Riemannian Optimization<br>
+Y. Zhu, H. Chen, <b>X. Xiu</b><br>
+<i>Working in Process</i><br>
+
+
+
 
