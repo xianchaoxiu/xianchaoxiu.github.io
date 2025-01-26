@@ -21,7 +21,7 @@ share: false
 
 
 * Riemannian Optimization for Tensor CCA<br>
-Y. Zhu, H. Chen, <b>X. Xiu</b><br>
+Y. Zhu, <b>X. Xiu</b><br>
 <i>Working in Process</i><br>
 
 
