@@ -15,11 +15,14 @@ share: false
 
 ### 2025
 
-* Federated Sparse PCA via Riemannian ADMM<br>
-<b>X. Xiu</b>, C. Huang, W. Qu<br>
+* Federated Sparse PCA via Riemannian ADMM <br>
+C. Huang, <b>X. Xiu</b> <br>
 <i>Working in Process</i><br>
 
 
+* Learning to Select Features <br>
+L. Chen, <b>X. Xiu</b> <br>
+<i>Working in Process</i><br>
 
 
 
