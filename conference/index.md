@@ -20,6 +20,6 @@ C. Huang, <b>X. Xiu</b> <br>
 <i>Working in Process</i><br>
 
 
-* Riemannian Optimization for Sparse Tensor CCA <br><b>
+* Riemannian Optimization for Sparse Tensor CCA <br>
 Y. Zhu, <b>X. Xiu</b> <br>
 <i>Working in Process</i><br>
