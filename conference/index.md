@@ -16,10 +16,10 @@ share: false
 ### 2025
 
 * Federated Sparse PCA via Riemannian ADMM <br>
-C. Huang, <b>X. Xiu</b> <br>
+<b>X. Xiu</b>, C. Huang, W. Qu <br>
 <i>Working in Process</i><br>
 
 
 * Riemannian Optimization for Sparse Tensor CCA <br>
-Y. Zhu, <b>X. Xiu</b> <br>
+Y. Zhu, <b>X. Xiu</b>, W. Liu <br>
 <i>Working in Process</i><br>
