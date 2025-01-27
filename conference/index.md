@@ -16,7 +16,7 @@ share: false
 ### 2025
 
 * Federated Sparse PCA via Riemannian ADMM <br>
-<b>X. Xiu</b>, C. Huang, W. Qu <br>
+C. Huang, <b>X. Xiu</b><br>
 <i>Working in Process</i><br>
 
 
@@ -26,5 +26,5 @@ Y. Zhu, <b>X. Xiu</b>, W. Liu <br>
 
 
 * Learned Bi-Sparse PCA for Unsupervised Feature Selection <br>
-<b>X. Xiu</b>, L. Chen, H. Chen <br>
+L. Chen, <b>X. Xiu</b> <br>
 <i>Working in Process</i><br>
