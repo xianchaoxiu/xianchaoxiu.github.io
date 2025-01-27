@@ -24,7 +24,7 @@ share: false
 Y. Zhu, <b>X. Xiu</b>, W. Liu <br>
 <i>Working in Process</i><br>
 
-* Learned Sparse PCA for 
-* SPCANet: Deep Unfolding SPCA for  <br>
+
+* Learned Bi-Sparse PCA for Unsupervised Feature Selection <br>
 <b>X. Xiu</b>, L. Chen, H. Chen <br>
 <i>Working in Process</i><br>
