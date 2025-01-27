@@ -21,7 +21,7 @@ share: false
 <i>Under Review</i><br>
 
 
-* Robust Sparse Phase Retrieval: : New Model, Theoretical Guarantee and Efficient Algorithm <br>
+* Robust Sparse Phase Retrieval: New Model, Theoretical Guarantee and Efficient Algorithm <br>
 J. Fan, A. Yan, <b>X. Xiu</b>, W. Liu<br>
 <i>Under Review</i><br>
 
