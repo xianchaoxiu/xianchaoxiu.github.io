@@ -15,7 +15,7 @@ share: false
 
 ### 2025
 
-* Federated Sparse PCA via Riemannian ADMM <br>
+* Federated Bi-Sparse PCA via Riemannian ADMM <br>
 C. Huang, <b>X. Xiu</b><br>
 <i>Working in Process</i><br>
 
