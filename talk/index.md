@@ -12,7 +12,7 @@ share: false
 
 ### 2025
 
-* Learning to Select Features <br>
+* Unsupervised Feature Selection: From Sparse PCA to Deep Learning <br>
 Mathematical Optimization Society <br>
 <i>Shanghai, China</i><br>
 
