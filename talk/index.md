@@ -10,11 +10,6 @@ share: false
 
 
 
-### 2025
-
-* Unsupervised Feature Selection: From Sparse PCA to Adaptive Learning <br>
-Mathematical Optimization Society <br>
-<i>Shanghai, China</i><br>
 
 
 ### 2024
