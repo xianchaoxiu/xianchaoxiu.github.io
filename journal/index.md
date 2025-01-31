@@ -27,6 +27,11 @@ J. Fan, A. Yan, <b>X. Xiu</b>, W. Liu<br>
 
 
 
+* Tensor Low-Rank Approximation via Plug-and-Play Priors for Anomaly Detection in Remote Sensing Images <br>
+J. Liu, M. Feng, <b>X. Xiu</b>, X. Zeng, J. Zhang<br>
+<i>Under Review</i><br>
+
+
 
 
 ### 2024
