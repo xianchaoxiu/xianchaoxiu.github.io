@@ -9,7 +9,11 @@ share: false
 ---
 
 
+### 2025
 
+Unsupervised Feature Selection: From Adaptive Learning and Large Language Models
+Mathematical Optimization Society
+Shanghai, China
 
 
 ### 2024
