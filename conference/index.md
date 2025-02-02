@@ -29,10 +29,11 @@ Y. Zhu, <b>X. Xiu</b> <br>
 
 
 ### 2024
-* A Riemannian Augmented Lagrangian Method for Structured Sparse PCA <br>
+* <a href="https://ieeexplore.ieee.org/document/10661785" class="textlink" target="_blank">A Riemannian Augmented Lagrangian Method for Structured Sparse PCA</a><br>
 C. Huang, P. Shang, <b>X. Xiu</b><br>
 <i>Chinese Control Conference (CCC)</i><br>
 
-* When Nonlocal Meets Nonconvex: A New Paradigm for Hyperspectral Image Denoising <br>
+
+* <a href="https://ieeexplore.ieee.org/document/10662067" class="textlink" target="_blank">When Nonlocal Meets Nonconvex: A New Paradigm for Hyperspectral Image Denoising</a><br>
 S. Sun, Y. Lei, <b>X. Xiu</b><br>
 <i>Chinese Control Conference (CCC)</i><br>
