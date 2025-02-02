@@ -17,16 +17,8 @@ share: false
 * <a href="https://www.smartchair.org/hp/MOS2021" class="textlink" target="_blank"> Mathematical Optimization Society (MOS 2021)</a>, Section Chair <br>
 
 
-### Membership
-* <a href="http://www.shorsc.org.cn/" class="textlink" target="_blank">Committee of Operations Research Society of Shanghai</a> <br>
-* <a href="https://www.siam.org/" class="textlink" target="_blank">Society for Industrial and Applied Mathematics </a> <br>
-* <a href="https://www.ieee.org/" class="textlink" target="_blank">Institute of Electrical and Electronics Engineer </a> <br>
-* <a href="https://www.ams.org/mr-database" class="textlink" target="_blank">Mathematical Reviews </a> <br>
-
-
 ### Editorial Board
 * <a href="https://www.smartchair.org/hp/MOS2021" class="textlink" target="_blank"> Mathematics</a>, Guest Editor <br>
-
 
 
 
