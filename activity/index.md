@@ -16,10 +16,6 @@ share: false
 * <a href="https://www.ams.org/mr-database" class="textlink" target="_blank">Mathematical Reviews </a> <br>
 
 
-### Conference Service
-
-
-
 ### Journal Reviewer
 * <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34" class="textlink" target="_blank">IEEE Transactions on Pattern Analysis and Machine Intelligence </a> <br>
 * <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385" class="textlink" target="_blank">IEEE Transactions on Neural Networks and Learning Systems </a> <br>
@@ -42,5 +38,11 @@ share: false
 * <a href="https://link.springer.com/journal/10994" class="textlink" target="_blank">Machine Learning </a> <br>
 * <a href="https://www.sciencedirect.com/journal/neural-networks" class="textlink" target="_blank">Neural Networks </a> <br>
 * <a href="https://iopscience.iop.org/journal/0266-5611" class="textlink" target="_blank">Inverse Problems </a> <br>
+
+
+  
+### Conference Service
+
+* <a href="https://ccc2024.kust.edu.cn/" class="textlink" target="_blank">2024 43st Chinese Control Conference (CCC) </a>, Section Chair <br>
 
 
