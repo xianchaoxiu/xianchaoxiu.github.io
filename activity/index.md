@@ -43,6 +43,6 @@ share: false
   
 ### Conference Service
 
-* <a href="https://ccc2024.kust.edu.cn/" class="textlink" target="_blank">2024 43st Chinese Control Conference (CCC) </a>, Section Chair <br>
+* <a href="https://ccc2024.kust.edu.cn/" class="textlink" target="_blank">The 43st Chinese Control Conference (CCC 2024) </a>, Section Chair <br>
 
 
