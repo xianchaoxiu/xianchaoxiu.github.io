@@ -28,4 +28,11 @@ Y. Zhu, <b>X. Xiu</b> <br>
 <i>Working in Process</i><br>
 
 
+### 2024
+* A Riemannian Augmented Lagrangian Method for Structured Sparse PCA <br>
+C. Huang, P. Shang, <b>X. Xiu</b><br>
+<i>Chinese Control Conference (CCC)</i><br>
 
+* When Nonlocal Meets Nonconvex: A New Paradigm for Hyperspectral Image Denoising <br>
+S. Sun, Y. Lei, <b>X. Xiu</b><br>
+<i>Chinese Control Conference (CCC)</i><br>
