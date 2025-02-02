@@ -18,6 +18,7 @@ share: false
 
 ### Conference Organization
 
+* <a href="https://ccc2024.kust.edu.cn/" class="textlink" target="_blank">The International Geoscience and Remote Sensing Symposium (IGARSS 2025)</a>, Review Committee <br> 
 * <a href="https://ccc2024.kust.edu.cn/" class="textlink" target="_blank">The 43st Chinese Control Conference (CCC 2024) </a>, Section Chair <br>
 
 
