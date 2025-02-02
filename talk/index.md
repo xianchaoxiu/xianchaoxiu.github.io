@@ -21,7 +21,7 @@ Chinese Academy of Sciences <br>
 Operations Research Society of China<br>
 <i>Guizhou, China</i><br>
 
-* STAR-Net: An Interpretable Tensor Representation Network for Hyperspectral Image Denoising <br>
+* <a href="../talk/2024-ICOSA.pdf" class="textlink" target="_blank"> STAR-Net: An Interpretable Tensor Representation Network for Hyperspectral Image Denoising </a> <br>
 International Conference on Optimization and Statistics with Application <br>
 <i>Shanghai, China</i><br>
 
