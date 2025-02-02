@@ -22,7 +22,7 @@ Mathematical Optimization Society<br>
 Chinese Academy of Sciences <br>
 <i>Beijing, China</i><br>
 
-* <a href="../talk/2024-ORSC.pdf" class="textlink" target="_blank"> Bi-Sparse Unsupervised Feature Selection </a> <br>
+* Bi-Sparse Unsupervised Feature Selection <br>
 Operations Research Society of China<br>
 <i>Guizhou, China</i><br>
 
