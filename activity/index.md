@@ -20,9 +20,7 @@ share: false
 
 * <a href="https://ccc2024.kust.edu.cn/" class="textlink" target="_blank">The International Geoscience and Remote Sensing Symposium (IGARSS 2025)</a>, Review Committee <br> 
 * <a href="https://ccc2024.kust.edu.cn/" class="textlink" target="_blank">The 43st Chinese Control Conference (CCC 2024) </a>, Section Chair <br>
-
-
-
+* <a href="https://www.smartchair.org/hp/MOS2021" class="textlink" target="_blank"> Mathematical Optimization Society (MOS 2021) </a>, Section Chair <br>
 
 
 ### Editorial Board
