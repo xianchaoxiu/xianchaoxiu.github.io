@@ -9,11 +9,24 @@ share: false
 
 
 
-### Member
+### Membership
 * <a href="http://www.shorsc.org.cn/" class="textlink" target="_blank">Committee of Operations Research Society of Shanghai</a> <br>
 * <a href="https://www.siam.org/" class="textlink" target="_blank">Society for Industrial and Applied Mathematics </a> <br>
 * <a href="https://www.ieee.org/" class="textlink" target="_blank">Institute of Electrical and Electronics Engineer </a> <br>
 * <a href="https://www.ams.org/mr-database" class="textlink" target="_blank">Mathematical Reviews </a> <br>
+
+
+### Conference Organization
+
+* <a href="https://ccc2024.kust.edu.cn/" class="textlink" target="_blank">The 43st Chinese Control Conference (CCC 2024) </a>, Section Chair <br>
+
+
+
+
+
+### Editorial Board
+* TBA
+
 
 
 ### Journal Reviewer
@@ -41,8 +54,5 @@ share: false
 
 
   
-### Conference Service
-
-* <a href="https://ccc2024.kust.edu.cn/" class="textlink" target="_blank">The 43st Chinese Control Conference (CCC 2024) </a>, Section Chair <br>
 
 
