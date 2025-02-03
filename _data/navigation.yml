@@ -7,21 +7,25 @@
   
  #{{ site.url }}
 
+
 - title: Journal
   url: /journal
 
 
 - title: Conference
   url: /conference
-  
+
 
 - title: Talk
   url: /talk
 
 
+- title: Teaching
+  url: /teaching
+
+  
 - title: Group
   url: /group
 
 
-- title: Teaching
-  url: /teaching
+
