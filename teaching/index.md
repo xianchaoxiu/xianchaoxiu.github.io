@@ -16,11 +16,8 @@ share: false
 - <a href="../teaching/现代优化方法/无约束优化算法.pdf" class="textlink" target="_blank">无约束优化算法 </a> <br>
 - <a href="../teaching/现代优化方法/约束优化算法.pdf" class="textlink" target="_blank">约束优化算法 </a> <br>
 - <a href="../teaching/现代优化方法/复合优化算法.pdf" class="textlink" target="_blank">复合优化算法 </a> <br>
-- <a href="../teaching/现代优化方法/神经网络基础.pdf" class="textlink" target="_blank">神经网络基础 </a> <br>
-- <a href="../teaching/现代优化方法/神经网络优化.pdf" class="textlink" target="_blank">神经网络优化 </a>  <br>
 - <a href="../teaching/现代优化方法/即插即用框架.pdf" class="textlink" target="_blank">即插即用框架 </a> <br>
 - <a href="../teaching/现代优化方法/深度展开网络.pdf" class="textlink" target="_blank">深度展开网络 </a> <br>
-- <a href="../teaching/现代优化方法/深度均衡模型.pdf" class="textlink" target="_blank">深度均衡模型 </a> <br>
 - <a href="../teaching/现代优化方法/大模型辅助设计.pdf" class="textlink" target="_blank">大模型辅助设计 </a> <br>
 
 
