@@ -119,6 +119,12 @@ X. Li, <b>X. Xiu</b>, W. Liu, Z. Miao<br>
 <i>Journal of Process Control</i><br>
 
 
+* <a href="https://ieeexplore.ieee.org/abstract/document/9275063/" class="textlink" target="_blank">A Highly Efficient Joint Sparsity Constrained Robust Principal Component Analysis for Fault Diagnosis</a>  <br>
+<b>X. Xiu</b>, Y. Yang, L. Kong, and W. Liu<br>
+<i>IEEE 9th Data-Driven Control and Learning Systems Conference (<font color='red'><b>Best Paper Nomination</b></font>)</i> <br>
+
+
+
 ### 2019
 
 * <a href="https://www.sciencedirect.com/science/article/abs/pii/S0167947319300039" class="textlink" target="_blank">Alternating Direction Method of Multipliers for Nonconvex Fused Regression Problems</a>  <br>
