@@ -8,12 +8,8 @@
  #{{ site.url }}
 
 
-- title: Journal
-  url: /journal
-
-
-- title: Conference
-  url: /conference
+- title: Publication
+  url: /publication
 
 
 - title: Talk
