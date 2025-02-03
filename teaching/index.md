@@ -9,7 +9,7 @@ share: false
 
 
 
-### 现代优化方法 (秋季学期)
+### 现代优化方法 
 
 - <a href="../teaching/现代优化方法/绪论.pdf" class="textlink" target="_blank">绪论 </a> <br>
 - <a href="../teaching/现代优化方法/最优化理论.pdf" class="textlink" target="_blank">最优性理论 </a> <br>
@@ -24,7 +24,7 @@ share: false
 
 
 
-### 运筹学基础 (秋季学期)
+### 运筹学基础 
 
 - <a href="../teaching/运筹学/引言.pdf" class="textlink" target="_blank">引言 </a> <br>
 - <a href="../teaching/运筹学/线性规划.pdf" class="textlink" target="_blank">线性规划  </a> <br>
