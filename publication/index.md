@@ -27,8 +27,8 @@ J. Fan, A. Yan, <b>X. Xiu</b>, W. Liu<br>
 
 
 
-* Tensor Low-Rank Approximation via Plug-and-Play Priors for Anomaly Detection in Remote Sensing Images <br>
-J. Liu, M. Feng, <b>X. Xiu</b>, X. Zeng, J. Zhang<br>
+* A Fast and Convergent Algorithm for Unassigned Distance Geometry Problems <br>
+J. Fan, X. Shan, <b>X. Xiu</b><br>
 <i>Under Review</i><br>
 
 
