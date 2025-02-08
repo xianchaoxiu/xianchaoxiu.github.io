@@ -11,22 +11,22 @@ share: false
 
 ### Preprint
 
-* <a href="http://arxiv.org/abs/2501.00726" class="textlink" target="_blank">Enhancing Unsupervised Feature Selection via Double Sparsity Constrained Optimization</a><br>
+* <a href="http://arxiv.org/abs/2501.00726" class="textlink" target="_blank"> Enhancing Unsupervised Feature Selection via Double Sparsity Constrained Optimization </a><br>
 <b>X. Xiu</b>, A. Yang, C. Huang, X. Li, W. Liu<br>
 <i>Under Review</i><br>
 
 
-* <a href="https://arxiv.org/abs/2412.16819" class="textlink" target="_blank">Bi-Sparse Unsupervised Feature Selection </a><br>
+* <a href="https://arxiv.org/abs/2412.16819" class="textlink" target="_blank"> Bi-Sparse Unsupervised Feature Selection </a><br>
 <b>X. Xiu</b>, C. Huang, P. Shang, W. Liu<br>
 <i>Under Review</i><br>
 
 
-* Solving Robust Sparse Phase Retrieval via Linearly Convergent Majorization-Minimization Algorithm <br>
+* <a href="https://arxiv.org/abs/2502.02280" class="textlink" target="_blank"> Solving Robust Sparse Phase Retrieval via Linearly Convergent Majorization-Minimization Algorithm </a><br>
 J. Fan, A. Yan, <b>X. Xiu</b>, W. Liu<br>
 <i>Under Review</i><br>
 
 
-* <a href="https://arxiv.org/abs/2502.02280" class="textlink" target="_blank">A Fast and Convergent Algorithm for Unassigned Distance Geometry Problems</a><br>
+* <a href="https://arxiv.org/abs/2502.02280" class="textlink" target="_blank"> A Fast and Convergent Algorithm for Unassigned Distance Geometry Problems </a><br>
 J. Fan, X. Shan, <b>X. Xiu</b><br>
 <i>Under Review</i><br>
 
