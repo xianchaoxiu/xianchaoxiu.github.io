@@ -21,7 +21,7 @@ share: false
 <i>Under Review</i><br>
 
 
-* <a href="https://arxiv.org/abs/2502.02280" class="textlink" target="_blank"> Solving Robust Sparse Phase Retrieval via Linearly Convergent Majorization-Minimization Algorithm </a><br>
+* Solving Robust Sparse Phase Retrieval via Linearly Convergent Majorization-Minimization Algorithm <br>
 J. Fan, A. Yan, <b>X. Xiu</b>, W. Liu<br>
 <i>Under Review</i><br>
 
