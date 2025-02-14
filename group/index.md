@@ -21,8 +21,6 @@ share: false
 
 
 ### Cooperant Students
-* Xinjie Wang (2024.09 - ) <br>
-* Liangyu Liu (2023.09 - ) <br>
 * Shiqi Fei (2023.09 - ) <br>
 * Shenghao Sun (2023.09 - ) <br>
 
