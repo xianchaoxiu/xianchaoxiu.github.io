@@ -28,6 +28,8 @@ L. Chen, <b>X. Xiu</b> <br>
 
 
 
+### 2025
+
 * <a href="http://arxiv.org/abs/2501.00726" class="textlink" target="_blank"> Enhancing Unsupervised Feature Selection via Double Sparsity Constrained Optimization </a><br>
 <b>X. Xiu</b>, A. Yang, C. Huang, X. Li, W. Liu<br>
 <i>Under Review</i><br>
@@ -41,7 +43,6 @@ L. Chen, <b>X. Xiu</b> <br>
 * <a href="https://arxiv.org/abs/2502.02280" class="textlink" target="_blank"> A Fast and Convergent Algorithm for Unassigned Distance Geometry Problems </a><br>
 J. Fan, X. Shan, <b>X. Xiu</b><br>
 <i>Under Review</i><br>
-
 
 
 
