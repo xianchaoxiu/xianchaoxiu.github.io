@@ -11,6 +11,23 @@ share: false
 
 ### Preprint
 
+* Federated Sparse PCA for Anomaly Detection in IoT Networks <br>
+J. Li, <b>X. Xiu</b> <br>
+<i>Working in Process </i><br>
+
+
+* Federated Sparse PCA for Anomaly Detection in IoT Networks <br>
+C. Huang, <b>X. Xiu</b> <br>
+<i>Working in Process </i><br>
+
+
+* Revisiting Structured Sparse PCA via Deep Unfolding Networks <br>
+L. Chen, <b>X. Xiu</b> <br>
+<i>Working in Process </i><br>
+
+
+
+
 * <a href="http://arxiv.org/abs/2501.00726" class="textlink" target="_blank"> Enhancing Unsupervised Feature Selection via Double Sparsity Constrained Optimization </a><br>
 <b>X. Xiu</b>, A. Yang, C. Huang, X. Li, W. Liu<br>
 <i>Under Review</i><br>
