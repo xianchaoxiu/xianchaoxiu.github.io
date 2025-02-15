@@ -8,6 +8,12 @@ comments: false
 share: false
 ---
 
+### 2023
+
+
+* Unsupervised Feature Selection: From Sparse Learning to Large Language Models <br>
+Mathematical Optimization Society <br>
+<i>Shanghai, China</i><br>
 
 
 
