@@ -36,10 +36,6 @@ L. Chen, <b>X. Xiu</b> <br>
 <i>Under Review</i><br>
 
 
-* <a href="https://arxiv.org/abs/2502.02280" class="textlink" target="_blank"> A Fast and Convergent Algorithm for Unassigned Distance Geometry Problems </a><br>
-J. Fan, X. Shan, <b>X. Xiu</b><br>
-<i>Under Review</i><br>
-
 
 
 ### 2024
