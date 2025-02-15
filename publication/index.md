@@ -21,7 +21,7 @@ C. Huang, <b>X. Xiu</b> <br>
 <i>Working in Process </i><br>
 
 
-* Revisiting Structured Sparse PCA via Deep Unfolding Networks <br>
+* Tuning-Free Structured Sparse PCA via Deep Unfolding Networks <br>
 L. Chen, <b>X. Xiu</b> <br>
 <i>Working in Process </i><br>
 
