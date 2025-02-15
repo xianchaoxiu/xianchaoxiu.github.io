@@ -11,7 +11,7 @@ share: false
 
 ### Preprint
 
-* Federated Sparse PCA for Anomaly Detection in IoT Networks <br>
+* Leveraging DeepSeek for Feature Selection <br>
 J. Li, <b>X. Xiu</b> <br>
 <i>Working in Process </i><br>
 
