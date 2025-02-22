@@ -33,3 +33,4 @@ share: false
 - <a href="../teaching/运筹学/动态规划.pdf" class="textlink" target="_blank">Dynamic Programming </a><br>
 - <a href="../teaching/运筹学/对策论.pdf" class="textlink" target="_blank">Game Theory </a><br><br>
 
+### Large Language Models
