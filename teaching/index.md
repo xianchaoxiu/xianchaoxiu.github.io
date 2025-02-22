@@ -18,7 +18,7 @@ share: false
 - <a href="../teaching/现代优化方法/复合优化算法.pdf" class="textlink" target="_blank">Composite Optimization </a> <br>
 - <a href="../teaching/现代优化方法/即插即用框架.pdf" class="textlink" target="_blank">Plug-and-Play Framework</a> <br>
 - <a href="../teaching/现代优化方法/深度展开网络.pdf" class="textlink" target="_blank">Deep Unfolding Networks</a> <br>
-- <a href="../teaching/现代优化方法/大模型辅助设计.pdf" class="textlink" target="_blank">Large Language Models</a> <br>
+- <a href="../teaching/现代优化方法/大模型辅助设计.pdf" class="textlink" target="_blank">Large Language Models</a> <br><br>
 
 
 
