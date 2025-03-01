@@ -21,6 +21,12 @@ share: false
 <i>Under Review</i><br>
 
 
+### 2025
+* Tensor Low-Rank Approximation via Plug-and-Play Priors for Anomaly Detection in Remote Sensing Images <br>
+J. Liu, M. Feng, <b>X. Xiu</b>, X. Zeng, J. Zhang<br>
+<i>IEEE Transactions on Instrumentation and Measurement</i><br>
+
+
 
 ### 2024
 
