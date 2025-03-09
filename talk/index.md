@@ -11,7 +11,7 @@ share: false
 
 ### 2025
 
-* Learning to Select Features <br>
+* Learning to Feature Select <br>
 Mathematical Optimization Society <br>
 <i>Shanghai, China</i><br>
 
