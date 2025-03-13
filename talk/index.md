@@ -10,6 +10,10 @@ share: false
 
 
 ### 2025
+* Optimization-Inspired Unfolding Network with Transformer <br>
+Mathematical Optimization Society <br>
+<i>Shanghai, China</i><br>
+
 
 * Learning to Feature Select <br>
 The Hong Kong Polytechnic University <br>
