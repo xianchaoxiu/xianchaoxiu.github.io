@@ -12,8 +12,8 @@ share: false
 ### 2025
 
 * Learning to Feature Select <br>
-Mathematical Optimization Society <br>
-<i>Shanghai, China</i><br>
+The Hong Kong Polytechnic University <br>
+<i>Hongkong, China</i><br>
 
 
 ### 2024
