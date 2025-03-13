@@ -13,7 +13,7 @@ share: false
 
 * Learning to Feature Select <br>
 The Hong Kong Polytechnic University <br>
-<i>Hong Kong, China</i><br>
+<i>Hongkong, China</i><br>
 
 
 ### 2024
