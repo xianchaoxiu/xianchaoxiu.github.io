@@ -12,7 +12,7 @@ share: false
 ### 2025
 
 
-* Leveraging Large Language Models for Feature Selection <br>
+* Exploring Mathematical Optimization with Large Language Models <br>
 Mathematical Optimization Society <br>
 <i>Shanghai, China</i><br>
 
