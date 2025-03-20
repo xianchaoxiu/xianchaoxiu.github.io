@@ -16,7 +16,7 @@ Mathematical Optimization Society <br>
 <i>Shanghai, China</i><br>
 
 
-* Learning to Feature Select <br>
+* <a href="../talk/2025-POLYU.pdf" class="textlink" target="_blank"> Learning to Feature Select </a> <br>
 The Hong Kong Polytechnic University <br>
 <i>Hong Kong, China</i><br>
 
