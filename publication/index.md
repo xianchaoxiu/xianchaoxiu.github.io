@@ -51,7 +51,7 @@ W. Qu, H. Chen, <b>X. Xiu*</b>, W. Liu<br>
 
 
 * <a href="https://ieeexplore.ieee.org/abstract/document/10050438" class="textlink" target="_blank">Learning Sparse Kernel CCA with Graph Priors for Nonlinear Process Monitoring</a><br>
-<b>X. Xiu*</b>, Y. Li<br>
+<b>X. Xiu</b>, Y. Li*<br>
 <i>IEEE Sensors Journal</i><br>
 
 
@@ -105,7 +105,7 @@ X. Li, <b>X. Xiu*</b>, W. Liu, Z. Miao<br>
 
 
 * <a href="https://ieeexplore.ieee.org/abstract/document/9275063/" class="textlink" target="_blank">A Highly Efficient Joint Sparsity Constrained Robust Principal Component Analysis for Fault Diagnosis</a>  <br>
-<b>X. Xiu</b>, Y. Yang*, L. Kong, and W. Liu<br>
+<b>X. Xiu*</b>, Y. Yang, L. Kong, and W. Liu<br>
 <i>IEEE 9th Data-Driven Control and Learning Systems Conference (<font color='red'><b>Best Paper Nomination</b></font>)</i> <br>
 
 
