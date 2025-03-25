@@ -8,7 +8,19 @@ comments: false
 share: false
 ---
 
+### Preprint
 
+* Adaptive Multi-Order Graph Regularized NMF with Dual Sparsity for Hyperspectral Unmixing <br>
+H. Chen, L. Liu, <b>X. Xiu*</b>, W. Liu<br>
+<i>	arXiv:2501.00726 </i><br>
+
+* Enhancing Unsupervised Feature Selection via Double Sparsity Constrained Optimization <br>
+X. Xiu, A. Yang, C. Huang, X. Li*, W. Liu <br>
+<i>	arXiv:2501.00726 </i><br>
+
+* Bi-Sparse Unsupervised Feature Selection <br>
+X. Xiu, C. Huang, P. Shang*, W. Liu <br>
+<i>		arXiv:2412.16819 </i><br>
 
 
 ### 2025
