@@ -8,7 +8,7 @@ share: false
 ---
 
 
-
+I am now recruiting self-motivated graduate students with great interests in optimization and artificial intelligence. Email me for details.
 
   
         
