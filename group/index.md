@@ -7,10 +7,6 @@ comments: false
 share: false
 ---
 
-
-I am now recruiting self-motivated graduate students with great interests in optimization and artificial intelligence. Email me for details.
-
-  
         
 ### Graduate Students
 * Long Chen (2024.09 - )  <br>
