@@ -9,7 +9,7 @@ share: false
 ---
 
 
-Click <a href="https://arxiv.org/search/?query=xiu%2C+xianchao&searchtype=all&abstracts=show&order=-announced_date_first&size=50" class="textlink" target="_blank"> here </a> for my preprints 🔥🔥🔥
+🆕 Click <a href="https://arxiv.org/search/?query=xiu%2C+xianchao&searchtype=all&abstracts=show&order=-announced_date_first&size=50" class="textlink" target="_blank"> here </a> for my preprints 🔥 🇨🇳
 
 
 ### 2025
