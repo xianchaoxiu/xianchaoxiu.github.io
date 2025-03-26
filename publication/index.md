@@ -8,8 +8,19 @@ comments: false
 share: false
 ---
 
-Click <a href="https://arxiv.org/search/?query=xiu%2C+xianchao&searchtype=all&abstracts=show&order=-announced_date_first&size=50" class="textlink" target="_blank"> here </a> for my preprints
 
+### Preprints
+
+* <a href="https://arxiv.org/abs/2503.19258" class="textlink" target="_blank"> Adaptive Multi-Order Graph Regularized NMF with Dual Sparsity for Hyperspectral Unmixing </a><br>
+H. Chen, L. Liu, <b>X. Xiu*</b>, W. Liu <br>
+
+
+* <a href="https://arxiv.org/abs/2501.00726" class="textlink" target="_blank"> Enhancing Unsupervised Feature Selection via Double Sparsity Constrained Optimization </a><br>
+X. Xiu, A. Yang, C. Huang, <b>P. Shang*</b>, W. Liu <br>
+
+
+* <a href="https://arxiv.org/abs/2412.16819" class="textlink" target="_blank"> Bi-Sparse Unsupervised Feature Selection </a><br>
+X. Xiu, C. Huang, <b>X. Li*</b>, W. Liu <br>
 
 
 
