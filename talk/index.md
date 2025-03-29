@@ -11,6 +11,10 @@ share: false
 
 ### 2025
 
+* Structured Sparse Pruning for Large Language Models <br>
+ORSC Youth Conference <br>
+<i>Taiyuan, China</i><br>
+
 
 * Exploring Mathematical Optimization with Large Language Models <br>
 Mathematical Optimization Society <br>
