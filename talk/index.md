@@ -11,7 +11,7 @@ share: false
 
 ### 2025
 
-* Structured Sparse Pruning for Large Language Models <br>
+* PASS: Accurate and Structured Sparse Pruning for Large Language Models <br>
 ORSC Youth Conference <br>
 <i>Taiyuan, China</i><br>
 
