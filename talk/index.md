@@ -11,33 +11,28 @@ share: false
 
 ### 2025
 
-* Exploring Mathematical Optimization with Large Language Models <br>
-ORSC Youth Conference (OYC)<br>
-<i>Taiyuan, China</i><br>
-
-
 * Pruning Large Language Models with Strucutured Sparse Optimization<br>
-Mathematical Optimization Society (MOS)<br>
+Mathematical Optimization Society <br>
 <i>Shanghai, China</i><br>
 
 
 * <a href="../talk/2025-POLYU.pdf" class="textlink" target="_blank"> Learning to Select Features </a> <br>
-The Hong Kong Polytechnic University (POLYU)<br>
+The Hong Kong Polytechnic University <br>
 <i>Hong Kong, China</i><br>
 
 
 ### 2024
 
 * <a href="../talk/2024-CAS.pdf" class="textlink" target="_blank"> Nonconvex Sparse Optimization and Algorithms</a> <br>
-Chinese Academy of Sciences  (CAS)<br>
+Chinese Academy of Sciences <br>
 <i>Beijing, China</i><br>
 
 * <a href="../talk/2024-ORSC.pdf" class="textlink" target="_blank"> Bi-Sparse Unsupervised Feature Selection </a> <br>
-Operations Research Society of China (ORSC)<br>
+Operations Research Society of China <br>
 <i>Guizhou, China</i><br>
 
 * <a href="../talk/2024-ICOSA.pdf" class="textlink" target="_blank"> STAR-Net: An Interpretable Tensor Representation Network for Hyperspectral Image Denoising </a> <br>
-International Conference on Optimization and Statistics with Application  (ICOSA)<br>
+International Conference on Optimization and Statistics with Application <br>
 <i>Shanghai, China</i><br>
 
 
@@ -45,7 +40,7 @@ International Conference on Optimization and Statistics with Application  (ICOSA
 ### 2023
 
 * <a href="../talk/2023-ASA.pdf" class="textlink" target="_blank"> Plug-and-Play Tensor Low-Rank Approximation for Hyperspectral Anomaly Detection </a> <br>
-Algorithm Software and Applications (ASA) <br>
+Algorithm Software and Applications <br>
 <i>Tianjin, China</i><br>
 
 
