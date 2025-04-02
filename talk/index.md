@@ -11,7 +11,7 @@ share: false
 
 ### 2025
 
-* Pruning Large Language Models with Strucutured Sparse Optimization<br>
+* Pruning Large Language Models with Structured Sparse Optimization<br>
 Mathematical Optimization Society <br>
 <i>Shanghai, China</i><br>
 
