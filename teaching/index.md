@@ -9,15 +9,15 @@ share: false
 
 ### Optimization
 
-- <a href="../teaching/现代优化方法/最优化简介.pdf" class="textlink" target="_blank"> Introduction </a> <br>
-- <a href="../teaching/现代优化方法/基础知识.pdf" class="textlink" target="_blank"> Basic Knowledge </a> <br>
-- <a href="../teaching/现代优化方法/典型优化问题.pdf" class="textlink" target="_blank"> Classic Problems </a> <br>
-- <a href="../teaching/现代优化方法/最优性理论.pdf" class="textlink" target="_blank"> Optimality Theory </a> <br>
-- <a href="../teaching/现代优化方法/无约束优化算法.pdf" class="textlink" target="_blank"> Unconstrained Optimization </a> <br>
-- <a href="../teaching/现代优化方法/约束优化算法.pdf" class="textlink" target="_blank"> Constrained Optimization </a> <br>
-- <a href="../teaching/现代优化方法/复合优化算法.pdf" class="textlink" target="_blank"> Composite Optimization </a> <br>
-- <a href="../teaching/现代优化方法/深度展开网络.pdf" class="textlink" target="_blank"> Deep Unfolding Networks </a> <br>
-- <a href="../teaching/现代优化方法/大语言模型.pdf" class="textlink" target="_blank"> Large Language Models </a> <br>
+- <a href="../teaching/最优化/最优化简介.pdf" class="textlink" target="_blank"> Introduction </a> <br>
+- <a href="../teaching/最优化/基础知识.pdf" class="textlink" target="_blank"> Basic Knowledge </a> <br>
+- <a href="../teaching/最优化/典型优化问题.pdf" class="textlink" target="_blank"> Classic Problems </a> <br>
+- <a href="../teaching/最优化/最优性理论.pdf" class="textlink" target="_blank"> Optimality Theory </a> <br>
+- <a href="../teaching/最优化/无约束优化算法.pdf" class="textlink" target="_blank"> Unconstrained Optimization </a> <br>
+- <a href="../teaching/最优化/约束优化算法.pdf" class="textlink" target="_blank"> Constrained Optimization </a> <br>
+- <a href="../teaching/最优化/复合优化算法.pdf" class="textlink" target="_blank"> Composite Optimization </a> <br>
+- <a href="../teaching/最优化/深度展开网络.pdf" class="textlink" target="_blank"> Deep Unfolding Networks </a> <br>
+- <a href="../teaching/最优化/大语言模型.pdf" class="textlink" target="_blank"> Large Language Models </a> <br>
 
 
 ### Operations Research 
