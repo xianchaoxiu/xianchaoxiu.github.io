@@ -12,7 +12,7 @@ share: false
 ### Optimization
 
 - <a href="../teaching/现代优化方法/最优化简介.pdf" class="textlink" target="_blank"> Introduction </a> <br>
-- <a href="../teaching/现代优化方法/基础知识.pdf" class="textlink" target="_blank"> Optimization Basics </a> <br>
+- <a href="../teaching/现代优化方法/基础知识.pdf" class="textlink" target="_blank"> Basics </a> <br>
 - <a href="../teaching/现代优化方法/典型优化问题.pdf" class="textlink" target="_blank"> Optimization Problems </a> <br>
 - <a href="../teaching/现代优化方法/最优性理论.pdf" class="textlink" target="_blank"> Optimality Theory </a> <br>
 - <a href="../teaching/现代优化方法/无约束优化算法.pdf" class="textlink" target="_blank"> Unconstrained Optimization </a> <br>
