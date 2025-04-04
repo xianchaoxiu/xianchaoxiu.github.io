@@ -29,7 +29,7 @@ share: false
 - <a href="../teaching/运筹学/对策论.pdf" class="textlink" target="_blank"> Game Theory </a><br><br>
 
 
-### Optimization
+### 现代优化方法
 
 - <a href="../teaching/现代优化方法/最优化简介.pdf" class="textlink" target="_blank"> 最优化简介 </a> <br>
 - <a href="../teaching/现代优化方法/基础知识.pdf" class="textlink" target="_blank"> 基础知识</a> <br>
@@ -41,7 +41,7 @@ share: false
 - <a href="../teaching/现代优化方法/大语言模型.pdf" class="textlink" target="_blank"> 大语言模型 </a> <br>
 
 
-### Operations Research 
+### 运筹学基础
 
 - <a href="../teaching/运筹学/引言.pdf" class="textlink" target="_blank"> 引言 </a> <br>
 - <a href="../teaching/运筹学/线性规划.pdf" class="textlink" target="_blank"> 线性规划 </a> <br>
@@ -51,5 +51,9 @@ share: false
 - <a href="../teaching/运筹学/对策论.pdf" class="textlink" target="_blank"> 对策论 </a><br><br>
 
 
+### 概率论与数理统计
+- TBA
+
+- 
 ### Probability Theory and Mathematical Statistics
 - TBA
