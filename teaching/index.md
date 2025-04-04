@@ -21,9 +21,6 @@ share: false
 - <a href="../teaching/现代优化方法/大模型辅助设计.pdf" class="textlink" target="_blank">Large Language Models</a> <br><br>
 
 
-
-
-
 ### Operations Research 
 
 - <a href="../teaching/运筹学/引言.pdf" class="textlink" target="_blank">Introduction </a> <br>
@@ -32,9 +29,6 @@ share: false
 - <a href="../teaching/运筹学/非线性规划.pdf" class="textlink" target="_blank">Nonlinear Programming </a> <br>
 - <a href="../teaching/运筹学/动态规划.pdf" class="textlink" target="_blank">Dynamic Programming </a><br>
 - <a href="../teaching/运筹学/对策论.pdf" class="textlink" target="_blank">Game Theory </a><br><br>
-
-### Large Models and Embodied Intelligence
-- TBA
 
 
 ### Probability Theory and Mathematical Statistics
