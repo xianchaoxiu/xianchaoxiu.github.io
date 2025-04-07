@@ -30,5 +30,5 @@ share: false
 - <a href="../teaching/运筹学/对策论.pdf" class="textlink" target="_blank"> Game Theory </a><br><br>
 
 
-### Probability Theory and Mathematical Statistics
+### Probability and Mathematical Statistics
 - TBA
