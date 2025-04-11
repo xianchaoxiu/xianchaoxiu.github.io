@@ -11,10 +11,6 @@ share: false
 
 ### 2025
 
-* One-Shot Structured Sparse Pruning for Large Language Models <br>
-Mathematical Optimization Society <br>
-<i>Shanghai, China</i><br>
-
 
 * <a href="../talk/2025-POLYU.pdf" class="textlink" target="_blank"> Learning to Select Features </a> <br>
 The Hong Kong Polytechnic University <br>
