@@ -11,6 +11,10 @@ share: false
 
 ### 2025
 
+* Lightweight Deep Unfolding Network with Enhanced Robustness for Infrared Small Target Detection <br>
+Mathematical Optimization Society <br>
+<i>Shanghai, China</i><br>
+
 
 * <a href="../talk/2025-POLYU.pdf" class="textlink" target="_blank"> Learning to Select Features </a> <br>
 The Hong Kong Polytechnic University <br>
@@ -41,6 +45,6 @@ Algorithm Software and Applications <br>
 
 
 * <a href="../talk/2023-MOS.pdf" class="textlink" target="_blank"> Data-Driven Fault Diagnosis: From Sparse Representation to Deep Learning </a> <br>
-Mathematical Optimization Society (MOS)<br>
+Mathematical Optimization Society <br>
 <i>Chengdu, China</i><br>
 
