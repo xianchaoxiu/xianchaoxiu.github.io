@@ -28,4 +28,13 @@ share: false
 - <a href="../teaching/运筹学/对策论.pdf" class="textlink" target="_blank"> Game Theory </a><br><br>
 
 
+### Probability and Mathematical Statistics
+- Basic Concepts<br>
+- Random Variables<br>
+- Multidimensional Random Variables <br>
+- Characteristics of Random Variables<br>
+- Law of Large Numbers and Central Limit Theorem<br>
+- Samples and Sampling Analysis<br>
+- Parameter Estimation<br>
+
 
