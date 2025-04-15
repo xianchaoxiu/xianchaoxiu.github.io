@@ -10,8 +10,7 @@ share: false
 
 
 ### 2025
-
-* Lightweight Deep Unfolding Network with Enhanced Robustness for Infrared Small Target Detection <br>
+* <a href="../talk/2025-MOS.pdf" class="textlink" target="_blank"> Lightweight Deep Unfolding Network with Enhanced Robustness for Infrared Small Target Detection  </a> <br>
 Mathematical Optimization Society <br>
 <i>Shanghai, China</i><br>
 
