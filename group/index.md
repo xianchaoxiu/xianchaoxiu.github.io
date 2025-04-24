@@ -20,9 +20,3 @@ share: false
 * Shiqi Fei (2023.09 - ) <br>
 * Shenghao Sun (2023.09 - ) <br>
 
-
-### Undergraduate Students
-* <a href="../group/2024-Wu.pdf" class="textlink" target="_blank"> Naiqiong Wu (2024.01 - 2024.06)  </a><br>
-* <a href="../group/2024-Zhang.pdf" class="textlink" target="_blank"> Jingyi Zhang (2024.01 - 2024.06)  </a><br>
-* <a href="../group/2023-Ding.pdf" class="textlink" target="_blank"> Yiping Ding (2023.01 - 2023.06)  </a><br>
-* <a href="../group/2023-Wen.pdf" class="textlink" target="_blank"> Chunhui Wen (2023.01 - 2023.06)  </a><br>
