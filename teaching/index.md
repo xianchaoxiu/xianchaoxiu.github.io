@@ -28,12 +28,5 @@ share: false
 - <a href="../teaching/运筹学/对策论.pdf" class="textlink" target="_blank"> Game Theory </a><br><br>
 
 
-### Probability Theory
-- <a href="../teaching/概率论/概率论的基本概念.pdf" class="textlink" target="_blank"> Basic Concepts </a> <br>
-- <a href="../teaching/概率论/随机变量及其分布.pdf" class="textlink" target="_blank"> Random Variables </a> <br>
-- <a href="../teaching/概率论/多维随机变量及其分布.pdf" class="textlink" target="_blank"> Multidimensional Random Variables </a> <br>
-- <a href="../teaching/概率论/随机变量的数字特征.pdf" class="textlink" target="_blank"> Characteristics of Random Variables </a> <br>
-- <a href="../teaching/概率论/大数定律及中心极限定理.pdf" class="textlink" target="_blank"> Law of Large Numbers and Central Limit Theorem </a> <br>
-
 
 
