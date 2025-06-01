@@ -8,16 +8,16 @@
  #{{ site.url }}
 
 
-- title: Publication
-  url: /publication
+- title: Publications
+  url: /publications
 
 
-- title: Talk
-  url: /talk
+- title: Talks
+  url: /talks
 
 
-- title: Teaching
-  url: /teaching
+- title: Services
+  url: /services
 
   
 - title: Group
