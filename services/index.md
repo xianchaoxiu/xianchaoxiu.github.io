@@ -10,12 +10,12 @@ share: false
 
 
 ### Committee Member
-* Operations Research Society of Shanghai (ORSS) <br>
-* CSIAM  on Big Data and Artificial Intelligence
+* Operations Research Society of Shanghai  <br>
+* CSIAM  on Big Data and Artificial Intelligence <br>
   
 
 ###  Editorial Board
-* Mathematics, Guest Editor (Special Issue: Trends and Prospects in Hyperspectral Remote Sensing Images Processing and Analysis)
+* Mathematics, Guest Editor (Special Issue: <a href="https://www.mdpi.com/journal/mathematics/special_issues/N224UT9E55" class="textlink" target="_blank">Optimization Problems: Methods and Applications </a>)
 
 
 ### Journal Reviewer
