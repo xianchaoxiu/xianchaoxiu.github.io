@@ -37,7 +37,6 @@ share: false
 * <a href="https://www.jmlr.org" class="textlink" target="_blank">Journal of Machine Learning Research </a><br>
 * <a href="https://link.springer.com/journal/10915" class="textlink" target="_blank">Journal of Scientific Computing </a><br>
 * <a href="https://link.springer.com/journal/10107" class="textlink" target="_blank">Mathematical Programming </a> <br>
-* <a href="https://pubsonline.informs.org/journal/opre" class="textlink" target="_blank">Operations Research </a> <br>
 * <a href="https://www.sciencedirect.com/journal/artificial-intelligence" class="textlink" target="_blank">Artificial Intelligence </a> <br>
 * <a href="https://www.sciencedirect.com/journal/pattern-recognition" class="textlink" target="_blank">Pattern Recognition </a> <br>
 * <a href="https://iopscience.iop.org/journal/0266-5611" class="textlink" target="_blank">Inverse Problems </a> <br>
