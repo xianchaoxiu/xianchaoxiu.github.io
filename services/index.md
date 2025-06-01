@@ -10,8 +10,8 @@ share: false
 
 
 ### Committee Member
-* Operations Research Society of Shanghai  <br>
-* CSIAM  on Big Data and Artificial Intelligence <br>
+*  <a href="http://www.shorsc.org.cn/" class="textlink" target="_blank">Operations Research Society of Shanghai </a> <br>
+*  <a href="http://bdai2025.icrp.xjtu.edu.cn/123227712/index?pageId=123227769" class="textlink" target="_blank">Big Data and Artificial Intelligence of CSIAM  </a> <br>
   
 
 ###  Editorial Board
@@ -37,6 +37,6 @@ share: false
 * <a href="https://pubsonline.informs.org/journal/opre" class="textlink" target="_blank">Operations Research </a> <br>
 * <a href="https://www.sciencedirect.com/journal/artificial-intelligence" class="textlink" target="_blank">Artificial Intelligence </a> <br>
 * <a href="https://www.sciencedirect.com/journal/pattern-recognition" class="textlink" target="_blank">Pattern Recognition </a> <br>
-* <a href="https://link.springer.com/journal/10994" class="textlink" target="_blank">Machine Learning </a> <br>
-* <a href="https://www.sciencedirect.com/journal/neural-networks" class="textlink" target="_blank">Neural Networks </a> <br>
 * <a href="https://iopscience.iop.org/journal/0266-5611" class="textlink" target="_blank">Inverse Problems </a> <br>
+* <a href="https://www.sciencedirect.com/journal/neural-networks" class="textlink" target="_blank">Neural Networks </a> <br>
+
