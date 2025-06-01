@@ -15,7 +15,7 @@ share: false
   
 
 ###  Editorial Board
-* Mathematics, Guest Editor (Special Issue: <a href="https://www.mdpi.com/journal/mathematics/special_issues/N224UT9E55" class="textlink" target="_blank">Optimization Problems: Methods and Applications </a>)
+*  <a href="https://www.mdpi.com/journal/mathematics/special_issues/N224UT9E55" class="textlink" target="_blank">Mathematics, Guest Editor (Special Issue: Optimization Problems: Methods and Applications) </a><br>
 
 
 ### Journal Reviewer
