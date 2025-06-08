@@ -12,7 +12,7 @@ share: false
 
 
 ### 2025
-* <b>X. Xiu</b>, Y. Zhang, Y. Guo, X. Liu, Y. Yang*, A New End-to-End Monitoring Framework for Nonlinear Dynamic Processes with Unknown Noise Statistics, <i>IEEE Transactions on Instrumentation and Measurement</i>, 2024 <a href="https://github.com/xianchaoxiu/IEEE_TIM_DRNN" class="textlink" target="_blank">[Code]</a> <br>
+
 * <a href="https://ieeexplore.ieee.org/document/10935754" class="textlink" target="_blank"> Tensor Low-Rank Approximation via Plug-and-Play Priors for Anomaly Detection in Remote Sensing Images </a><br>
 J. Liu, M. Feng, <b>X. Xiu*</b>, X. Zeng, J. Zhang<br>
 <i>IEEE Transactions on Instrumentation and Measurement</i><br>
