@@ -19,12 +19,6 @@ share: false
 * 大模型与具身导航 <br>
 
 
-### 社会兼职
-* CSIAM大数据与人工智能专业委员会 <br>
-* 上海市运筹学会青年委员 <br>
-* 美国《数学评论》评论员 <br>
-
-
 ### 代表性论文
  * 修贤超, L. Pan, Y. Yang, W. Liu, Efficient and fast joint sparse constrained canonical correlation analysis for fault detection, IEEE Transactions on Neural Networks and Learning Systems, 35(3): 4153-4163, 2024 <br>
  * J. Liu, M. Feng, 修贤超, W. Liu, Towards Robust and Sparse Linear Discriminant Analysis for Image Classification, Pattern Recognition, 153: 110512, 2024 (通讯作者)<br>
@@ -40,4 +34,7 @@ share: false
 
 
 
-
+### 社会兼职
+* CSIAM大数据与人工智能专业委员会 <br>
+* 上海市运筹学会青年委员 <br>
+* 美国《数学评论》评论员 <br>
