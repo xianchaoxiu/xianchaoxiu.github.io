@@ -33,8 +33,8 @@ share: false
 
 
 ### 代表性论文
-* 修贤超, L. Pan, Y. Yang*, W. Liu, Efficient and fast joint sparse constrained canonical correlation analysis for fault detection, IEEE Transactions on Neural Networks and Learning Systems, 35(3): 4153-4163, 2024 <br>
-* J. Liu, M. Feng, 修贤超*, W. Liu, Towards Robust and Sparse Linear Discriminant Analysis for Image Classification, Pattern Recognition, 153: 110512, 2024 <br>
+* 修贤超, L. Pan, Y. Yang, W. Liu, Efficient and fast joint sparse constrained canonical correlation analysis for fault detection, IEEE Transactions on Neural Networks and Learning Systems, 35(3): 4153-4163, 2024 (第一作者)<br>
+* J. Liu, M. Feng, 修贤超, W. Liu, Towards Robust and Sparse Linear Discriminant Analysis for Image Classification, Pattern Recognition, 153: 110512, 2024 <br>
 * 修贤超, Z. Miao, W. Liu, A sparsity-aware fault diagnosis framework focusing on accurate isolation, IEEE Transactions on Industrial Informatics, 19(2): 1356-1365, 2023 <br>
 * 修贤超, Z. Miao, Y. Yang, W. Liu, Deep canonical correlation analysis using sparsity constrained optimization for nonlinear process monitoring, IEEE Transactions on Industrial Informatics, 18(10): 6690-6699, 2022 <br>
 
