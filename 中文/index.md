@@ -8,11 +8,11 @@ share: false
 ---
 
 
-### Statistical Machine Learning
+### 工作经历
 
-* Sparse Optimization <a href="https://github.com/xianchaoxiu/Sparse-Optimization" class="textlink" target="_blank">[link]</a>
-* Manifold Optimization <a href="https://github.com/xianchaoxiu/Manifold-Optimization" class="textlink" target="_blank">[link]</a>
-* Distributed Optimization <a href="https://github.com/xianchaoxiu/Distributed-Optimization" class="textlink" target="_blank">[link]</a>
+* 2015.03-2015.05 香港理工大学 Research Associate
+2012.06--2014.12 北京交通大学 讲师
+2010.07--2012.06 北京交通大学 系统科学 博士后
 
 	
 ### Large-Scale Pattern Recognition
