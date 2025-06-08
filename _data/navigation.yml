@@ -8,8 +8,8 @@
  #{{ site.url }}
 
 
-- title: 中文主页
-  url: /中文主页
+- title: 中文简介
+  url: /中文简介
 
   
 - title: Publications
