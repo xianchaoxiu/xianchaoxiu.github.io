@@ -1,8 +1,5 @@
 ---
 layout: page
-permalink: /OPT/
-title: 现代优化方法
-tags: [OPT]
 comments: false
 share: false
 ---
