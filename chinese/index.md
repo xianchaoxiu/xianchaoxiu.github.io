@@ -40,10 +40,17 @@ share: false
 
 
 ### 代表性论文
-* J. Liu, M. Feng, 修贤超, W. Liu, Towards Robust and Sparse Linear Discriminant Analysis for Image Classification, Pattern Recognition, 2024（通讯作者） <br>
-* 修贤超, L. Pan, Y. Yang, W. Liu, Efficient and Fast Joint Sparse Constrained Canonical Correlation Analysis for Fault Detection, IEEE Transactions on Neural Networks and Learning Systems, 2024 <br>
-* 修贤超, Z. Miao, W. Liu, A Sparsity-Aware Fault Diagnosis Framework Focusing on Accurate Isolation, IEEE Transactions on Industrial Informatics, 2023 <br>
-* 修贤超, Z. Miao, Y. Yang, W. Liu, Deep Canonical Correlation Analysis Using Sparsity-Constrained Optimization for Nonlinear Process Monitoring, IEEE Transactions on Industrial Informatics, 2022<br>
+* <a href="https://ieeexplore.ieee.org/document/9887978" class="textlink" target="_blank">Efficient and Fast Joint Sparse Constrained Canonical Correlation Analysis for Fault Detection</a><br>
+<b>X. Xiu</b>, L. Pan, Y. Yang*, W. Liu<br>
+<i>IEEE Transactions on Neural Networks and Learning Systems</i><br>
+
+* <a href="https://ieeexplore.ieee.org/abstract/document/9788040" class="textlink" target="_blank">A Sparsity-Aware Fault Diagnosis Framework Focusing on Accurate Isolation</a><br>
+<b>X. Xiu</b>, Z. Miao, W. Liu*<br>
+<i>IEEE Transactions on Industrial Informatics</i><br>
+
+* <a href="https://ieeexplore.ieee.org/document/9583864" class="textlink" target="_blank">Deep Canonical Correlation Analysis Using Sparsity-Constrained Optimization for Nonlinear Process Monitoring</a><br>
+<b>X. Xiu</b>, Z. Miao, Y. Yang*, W. Liu<br>
+<i>IEEE Transactions on Industrial Informatics</i><br>
 
 
 
