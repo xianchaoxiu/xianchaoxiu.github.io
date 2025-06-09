@@ -1,11 +1,12 @@
 ---
 layout: page
+title: 运筹学
 share: false
 ---
 
 ### 教材
 * <a href="https://item.jd.com/14020941.html" class="textlink" target="_blank"> 胡运权, 郭耀煌, 运筹学教程（第5版） </a><br>
-* 修贤超, 运筹学基础（草稿）<br>
+* 修贤超, 欧芳, 苗中华, 运筹学基础（草稿）<br>
 
 
 
