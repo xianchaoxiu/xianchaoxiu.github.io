@@ -29,10 +29,9 @@ share: false
 
 
 ### 社会兼职
-* CSIAM大数据与人工智能专业委员会委员 <br>
 * 上海市运筹学会青年委员 <br>
+* CSIAM大数据与人工智能专业委员会委员 <br>
 * 美国Mathematical Reviews评论员 <br>
-* 教育部学位中心硕士学位论文评议专家 <br>
 
 
 
