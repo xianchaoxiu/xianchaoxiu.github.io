@@ -43,8 +43,7 @@ owner:
     ad-slot:
   bing-verify:
   github: xianchaoxiu
-  researchgate: "https://www.researchgate.net/profile/Xianchao-Xiu"
-  orcid            : "https://orcid.org/0000-0001-9658-209X"
+  researchgate: #username
   xing: #username
   instagram: #username
   lastfm: #username
