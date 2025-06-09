@@ -8,9 +8,9 @@ share: false
 
 
 ### 教材
-* <a href="http://faculty.bicmr.pku.edu.cn/~wenzw/optbook.html" class="textlink" target="_blank"> 最优化方法与理论, 文再文, 袁亚湘 </a><br>
-* <a href="https://nndl.github.io/" class="textlink" target="_blank"> 神经网络与深度学习, 邱锡鹏 </a><br>
-* <a href="https://llmbook-zh.github.io/" class="textlink" target="_blank">  大语言模型, 赵鑫, 李军毅, 周昆, 唐天一, 文继荣 </a><br>
+* <a href="http://faculty.bicmr.pku.edu.cn/~wenzw/optbook.html" class="textlink" target="_blank"> 《最优化方法与理论》, 文再文, 袁亚湘 </a><br>
+* <a href="https://nndl.github.io/" class="textlink" target="_blank"> 《神经网络与深度学习》, 邱锡鹏 </a><br>
+* <a href="https://llmbook-zh.github.io/" class="textlink" target="_blank"> 《大语言模型》, 赵鑫, 李军毅, 周昆, 唐天一, 文继荣 </a><br>
 
 
 
