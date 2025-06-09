@@ -1,4 +1,11 @@
-
+---
+layout: page
+permalink: /chinese/
+title: 中文
+tags: [chinese]
+comments: false
+share: false
+---
 
 ### 教材
 * <a href="https://item.jd.com/14020941.html" class="textlink" target="_blank"> 胡运权, 郭耀煌, 运筹学教程（第5版） </a><br>
