@@ -23,15 +23,17 @@ share: false
 
 
 ### 讲授课程
-* <a href="https://xianchaoxiu.github.io/cn/OR/" class="textlink" target="_blank"> 本科生《运筹学》 </a><br>
-* <a href="https://xianchaoxiu.github.io/cn/OPT/" class="textlink" target="_blank"> 研究生《现代优化方法》 </a><br>
+* <a href="https://xianchaoxiu.github.io/cn/OR/" class="textlink" target="_blank"> 运筹学 </a><br>
+* <a href="https://xianchaoxiu.github.io/cn/OPT/" class="textlink" target="_blank"> 现代优化方法 </a><br>
 
 
 
 ### 社会兼职
-* CSIAM大数据与人工智能专业委员会 <br>
 * 上海市运筹学会青年委员 <br>
-* 美国《数学评论》评论员 <br>
+* CSIAM大数据与人工智能专业委员会 <br>
+* 美国Mathematical Reviews评论员 <br>
+* 教育部学位中心硕士学位论文评议专家 <br>
+
 
 
 
