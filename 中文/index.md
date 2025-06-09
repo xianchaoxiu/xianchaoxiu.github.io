@@ -37,7 +37,7 @@ share: false
 
 
 ### 代表性论文
-* J. Liu, M. Feng, 修贤超, W. Liu, Towards Robust and Sparse Linear Discriminant Analysis for Image Classification, Pattern Recognition, 2024 (通讯作者) <br>
+* J. Liu, M. Feng, 修贤超, W. Liu, Towards Robust and Sparse Linear Discriminant Analysis for Image Classification, Pattern Recognition, 2024（通讯作者） <br>
 * 修贤超, L. Pan, Y. Yang, W. Liu, Efficient and Fast Joint Sparse Constrained Canonical Correlation Analysis for Fault Detection, IEEE Transactions on Neural Networks and Learning Systems, 2024 <br>
 * 修贤超, Z. Miao, W. Liu, A Sparsity-Aware Fault Diagnosis Framework Focusing on Accurate Isolation, IEEE Transactions on Industrial Informatics, 2023 <br>
 * 修贤超, Z. Miao, Y. Yang, W. Liu, Deep Canonical Correlation Analysis Using Sparsity-Constrained Optimization for Nonlinear Process Monitoring, IEEE Transactions on Industrial Informatics, 2022<br>
@@ -51,6 +51,6 @@ share: false
 
 
 ### 获奖与荣誉
-* 2023年, 上海大学优秀毕业论文 (设计) 指导教师奖 <br>
+* 2023年, 上海大学优秀毕业论文（设计）指导教师奖 <br>
 * 2020年, IEEE DDCLS最佳论文提名奖 <br>
 
