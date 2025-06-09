@@ -6,8 +6,8 @@ share: false
 ---
 
 ### 教材
-* <a href="https://item.jd.com/14020941.html" class="textlink" target="_blank"> 胡运权, 郭耀煌, 运筹学教程（第5版） </a><br>
-* 修贤超, 欧芳, 苗中华, 运筹学基础（草稿）<br>
+* <a href="https://item.jd.com/14020941.html" class="textlink" target="_blank"> 运筹学教程, 胡运权, 郭耀煌 </a><br>
+* 运筹学基础, 修贤超, 欧芳, 苗中华<br>
 
 
 
