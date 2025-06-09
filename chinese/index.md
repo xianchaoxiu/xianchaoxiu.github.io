@@ -44,10 +44,6 @@ share: false
 <b>X. Xiu</b>, L. Pan, Y. Yang*, W. Liu<br>
 <i>IEEE Transactions on Neural Networks and Learning Systems</i><br>
 
-* <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320324002632" class="textlink" target="_blank">Towards Robust and Sparse Linear Discriminant Analysis for Image Classification</a><br>
-J. Liu, M. Feng, <b>X. Xiu*</b>, W. Liu<br>
-<i>Pattern Recognition</i><br>
-
 * <a href="https://ieeexplore.ieee.org/abstract/document/9788040" class="textlink" target="_blank">A Sparsity-Aware Fault Diagnosis Framework Focusing on Accurate Isolation</a><br>
 <b>X. Xiu</b>, Z. Miao, W. Liu*<br>
 <i>IEEE Transactions on Industrial Informatics</i><br>
@@ -56,6 +52,9 @@ J. Liu, M. Feng, <b>X. Xiu*</b>, W. Liu<br>
 <b>X. Xiu</b>, Z. Miao, Y. Yang*, W. Liu<br>
 <i>IEEE Transactions on Industrial Informatics</i><br>
 
+* <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320324002632" class="textlink" target="_blank">Towards Robust and Sparse Linear Discriminant Analysis for Image Classification</a><br>
+J. Liu, M. Feng, <b>X. Xiu*</b>, W. Liu<br>
+<i>Pattern Recognition</i><br>
 
 
 ### 科研项目
