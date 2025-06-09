@@ -7,10 +7,6 @@
   
  #{{ site.url }}
 
-
-- title: 中文
-  url: /中文 
-
   
 - title: Publications
   url: /publications
@@ -23,5 +19,7 @@
 - title: Group
   url: /group
 
+- title: 中文
+  url: /中文 
 
 
