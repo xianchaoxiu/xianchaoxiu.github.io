@@ -26,6 +26,9 @@ share: false
 * 本科生《运筹学》 <br>
 * 研究生《现代优化方法》 <br>
 
+* <a href="https://ieeexplore.ieee.org/document/10935754" class="textlink" target="_blank"> 研究生《现代优化方法》 </a><br>
+
+
 
 ### 社会兼职
 * CSIAM大数据与人工智能专业委员会 <br>
