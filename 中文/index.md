@@ -25,7 +25,7 @@ share: false
 ### 讲授课程
 * 本科生《运筹学》 <br>
 * 研究生《现代优化方法》 <br>
-* <a href="https://ieeexplore.ieee.org/document/10935754" class="textlink" target="_blank"> 研究生《现代优化方法》 </a><br>
+* <a href="https://github.com/xianchaoxiu/xianchaoxiu.github.io/blob/main/talks/index.md" class="textlink" target="_blank"> 研究生《现代优化方法》 </a><br>
 
 
 
