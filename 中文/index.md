@@ -23,9 +23,8 @@ share: false
 
 
 ### 讲授课程
-* 本科生《运筹学》 <br>
-* 研究生《现代优化方法》 <br>
-* <a href="https://xianchaoxiu.github.io/talks/" class="textlink" target="_blank"> 研究生《现代优化方法》 </a><br>
+* <a href="https://xianchaoxiu.github.io/cn/OR/" class="textlink" target="_blank"> 本科生《运筹学》 </a><br>
+* <a href="https://xianchaoxiu.github.io/cn/OPT/" class="textlink" target="_blank"> 研究生《现代优化方法》 </a><br>
 
 
 
