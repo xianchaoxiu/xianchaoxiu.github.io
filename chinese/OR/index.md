@@ -1,9 +1,5 @@
 ---
 layout: page
-permalink: /chinese/
-title: 中文
-tags: [chinese]
-comments: false
 share: false
 ---
 
