@@ -1,12 +1,3 @@
-----
-layout: page
-permalink: /OR/
-title: 运筹学
-tags: [OR]
-comments: false
-share: false
----
-
 
 
 ### 教材
