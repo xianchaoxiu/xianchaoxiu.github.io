@@ -23,8 +23,8 @@ share: false
 
 
 ### 讲授课程
-* <a href="https://xianchaoxiu.github.io/cn/OR/" class="textlink" target="_blank"> 运筹学 </a><br>
-* <a href="https://xianchaoxiu.github.io/cn/OPT/" class="textlink" target="_blank"> 现代优化方法 </a><br>
+* <a href="https://xianchaoxiu.github.io/chinese/OR/" class="textlink" target="_blank"> 运筹学 </a><br>
+* <a href="https://xianchaoxiu.github.io/chinese/OPT/" class="textlink" target="_blank"> 现代优化方法 </a><br>
 
 
 
