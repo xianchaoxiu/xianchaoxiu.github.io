@@ -27,12 +27,6 @@ share: false
 * 修贤超, Z. Miao, Y. Yang, W. Liu, Deep Canonical Correlation Analysis Using Sparsity-Constrained Optimization for Nonlinear Process Monitoring, IEEE Transactions on Industrial Informatics, 2022<br>
 
 
-### 知识产权
-* 修贤超, 杨安宁, 柳春, 基于RNN的互补双残差生成器的故障监测方法和系统, ZL202311165435.7 <br>
-* 修贤超, 杨安宁, 孙腾, 基于典型相关分析快速算法的多视角数据分类方法和系统, ZL202311280342.9 <br>
-* 修贤超, 孙圣豪, 苗中华, 基于改进的鲁棒稀疏线性判别分析的图像分类方法和系统, ZL202311424234.4 <br>
-* 修贤超, 费士祺, 苗中华, 基于即插即用张量低秩近似的高光谱异常检测方法和系统, ZL202311444704.3 <br>
-
 
 ### 科研项目
 * 2024.01-2027.12, 国家自然科学基金面上项目, 大规模黎曼流形稀疏优化算法及应用 <br>
