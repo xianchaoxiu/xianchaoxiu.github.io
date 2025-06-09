@@ -29,9 +29,14 @@ share: false
 
 
 ### 社会兼职
-* CSIAM大数据与人工智能专业委员会委员 <br>
-* 上海市运筹学会青年委员<br>
-* 美国《数学评论》评论员<br>
+* <a href="https://m.csiam.org.cn/1103/index.html" class="textlink" target="_blank"> CSIAM大数据与人工智能专业委员会委员 </a><br>
+* <a href="http://www.shorsc.org.cn/" class="textlink" target="_blank"> 上海市运筹学会青年委员 </a><br>
+* <a href="https://www.ams.org/mr-database" class="textlink" target="_blank"> 美国《数学评论》评论员 </a><br>
+
+
+
+
+
 
 
 ### 代表性论文
