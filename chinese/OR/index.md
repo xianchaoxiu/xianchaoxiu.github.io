@@ -6,8 +6,8 @@ share: false
 ---
 
 ### 教材
-* <a href="https://item.jd.com/14020941.html" class="textlink" target="_blank"> 运筹学教程, 胡运权, 郭耀煌 </a><br>
-* <a href="https://item.jd.com/12755179.html" class="textlink" target="_blank"> 最优化理论与算法, 陈宝林</a><br>
+* <a href="https://item.jd.com/14020941.html" class="textlink" target="_blank"> 胡运权, 郭耀煌《运筹学教程,》</a><br>
+* <a href="https://item.jd.com/12755179.html" class="textlink" target="_blank"> 陈宝林 《最优化理论与算法》</a><br>
 
 ### 课程信息
 * <a href="../chinese/OR/引言.pdf" class="textlink" target="_blank">  第一章 &nbsp;  引言<br>
