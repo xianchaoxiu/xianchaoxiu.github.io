@@ -15,7 +15,7 @@ share: false
 * <a href="https://ieeexplore.ieee.org/document/10935754" class="textlink" target="_blank"> Tensor Low-Rank Approximation via Plug-and-Play Priors for Anomaly Detection in Remote Sensing Images </a><br>
 J. Liu, M. Feng, <b>X. Xiu*</b>, X. Zeng, J. Zhang<br>
 <i>IEEE Transactions on Instrumentation and Measurement</i><br>
- [[Code](https://github.com/xianchaoxiu/PnP-TLRA)]
+<a href="https://github.com/xianchaoxiu/PnP-TLRA" class="textlink" target="_blank"> [Code] </a>
 
 
 ### 2024
@@ -28,12 +28,13 @@ J. Liu, M. Feng, <b>X. Xiu*</b>, X. Zeng, J. Zhang<br>
 * <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320324002632" class="textlink" target="_blank">Towards Robust and Sparse Linear Discriminant Analysis for Image Classification</a><br>
 J. Liu, M. Feng, <b>X. Xiu*</b>, W. Liu<br>
 <i>Pattern Recognition</i><br>
- [[Code](https://github.com/EMXlight/RSLDAplus)]
+<a href="https://github.com/EMXlight/RSLDAplus" class="textlink" target="_blank"> [Code] </a>
 
 * <a href="https://www.sciencedirect.com/science/article/abs/pii/S0925231224010385" class="textlink" target="_blank">Distributed Sparsity Constrained Optimization over the Stiefel Manifold</a><br>
 W. Qu, H. Chen, <b>X. Xiu*</b>, W. Liu<br>
 <i>Neurocomputing</i><br>
- [[Code](https://github.com/wtqu/DREAM)]
+<a href="https://github.com/wtqu/DREAM" class="textlink" target="_blank"> [Code] </a>
+
 
 
 ### 2023
