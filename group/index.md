@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /group/
-title: Group
+title: My Group
 tags: [group]
 comments: false
 share: false
