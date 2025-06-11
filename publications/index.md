@@ -33,7 +33,7 @@ J. Liu, M. Feng, <b>X. Xiu*</b>, W. Liu<br>
 * <a href="https://www.sciencedirect.com/science/article/abs/pii/S0925231224010385" class="textlink" target="_blank">Distributed Sparsity Constrained Optimization over the Stiefel Manifold</a><br>
 W. Qu, H. Chen, <b>X. Xiu*</b>, W. Liu<br>
 <i>Neurocomputing</i><br>
-[<a href="https://github.com/wtqu/DREAM" class="textlink" target="_blank"> Code </a>]
+[<a href="https://github.com/wtqu/DREAM" class="textlink" target="_blank">Code</a>]
 
 
 
