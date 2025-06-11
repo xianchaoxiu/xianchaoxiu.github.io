@@ -15,38 +15,30 @@ share: false
 * <a href="https://ieeexplore.ieee.org/document/10935754" class="textlink" target="_blank"> Tensor Low-Rank Approximation via Plug-and-Play Priors for Anomaly Detection in Remote Sensing Images </a><br>
 J. Liu, M. Feng, <b>X. Xiu*</b>, X. Zeng, J. Zhang<br>
 <i>IEEE Transactions on Instrumentation and Measurement</i><br>
-
+ [[Code](https://github.com/weAIDB/awesome-data-llm)]
 
 
 ### 2024
-
-* <a href="https://ieeexplore.ieee.org/document/9887978" class="textlink" target="_blank">Efficient and Fast Joint Sparse Constrained Canonical Correlation Analysis for Fault Detection</a><br>
-<b>X. Xiu</b>, L. Pan, Y. Yang*, W. Liu<br>
-<i>IEEE Transactions on Neural Networks and Learning Systems</i><br>
 
 
 * <a href="https://ieeexplore.ieee.org/abstract/document/10464356" class="textlink" target="_blank">A New End-to-End Monitoring Framework for Nonlinear Dynamic Processes With Unknown Noise Statistics</a><br>
 <b>X. Xiu</b>, Y. Zhang, Y. Guo, X. Liu, Y. Yang*<br>
 <i>IEEE Transactions on Instrumentation and Measurement</i><br>
-
+ [[Code](https://github.com/weAIDB/awesome-data-llm)]
 
 * <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320324002632" class="textlink" target="_blank">Towards Robust and Sparse Linear Discriminant Analysis for Image Classification</a><br>
 J. Liu, M. Feng, <b>X. Xiu*</b>, W. Liu<br>
 <i>Pattern Recognition</i><br>
-
+ [[Code](https://github.com/weAIDB/awesome-data-llm)]
 
 * <a href="https://www.sciencedirect.com/science/article/abs/pii/S0925231224010385" class="textlink" target="_blank">Distributed Sparsity Constrained Optimization over the Stiefel Manifold</a><br>
 W. Qu, H. Chen, <b>X. Xiu*</b>, W. Liu<br>
 <i>Neurocomputing</i><br>
-
+ [[Code](https://github.com/weAIDB/awesome-data-llm)]
 
 
 
 ### 2023
-
-* <a href="https://ieeexplore.ieee.org/abstract/document/9788040" class="textlink" target="_blank">A Sparsity-Aware Fault Diagnosis Framework Focusing on Accurate Isolation</a><br>
-<b>X. Xiu</b>, Z. Miao, W. Liu*<br>
-<i>IEEE Transactions on Industrial Informatics</i><br>
 
 
 * <a href="https://ieeexplore.ieee.org/abstract/document/10050438" class="textlink" target="_blank">Learning Sparse Kernel CCA with Graph Priors for Nonlinear Process Monitoring</a><br>
@@ -63,8 +55,13 @@ H. Chen, L. Kong, W Qu, <b>X. Xiu*</b><br>
 
 ### 2022
 
-* <a href="https://ieeexplore.ieee.org/document/9583864" class="textlink" target="_blank">Deep Canonical Correlation Analysis Using Sparsity-Constrained Optimization for Nonlinear Process Monitoring</a><br>
-<b>X. Xiu</b>, Z. Miao, Y. Yang*, W. Liu<br>
+* <a href="https://ieeexplore.ieee.org/document/9887978" class="textlink" target="_blank">Efficient and Fast Joint Sparse Constrained Canonical Correlation Analysis for Fault Detection</a><br>
+<b>X. Xiu</b>, L. Pan, Y. Yang*, W. Liu<br>
+<i>IEEE Transactions on Neural Networks and Learning Systems</i><br>
+
+
+* <a href="https://ieeexplore.ieee.org/abstract/document/9788040" class="textlink" target="_blank">A Sparsity-Aware Fault Diagnosis Framework Focusing on Accurate Isolation</a><br>
+<b>X. Xiu</b>, Z. Miao, W. Liu*<br>
 <i>IEEE Transactions on Industrial Informatics</i><br>
 
 
@@ -73,21 +70,21 @@ Y. Li, <b>X. Xiu*</b>, W. Liu<br>
 <i>IEEE Transactions on Circuits and Systems II: Express Briefs</i><br>
 
 
-* <a href="https://ieeexplore.ieee.org/abstract/document/9619966" class="textlink" target="_blank">An Efficient Newton-Based Method for Sparse Generalized Canonical Correlation Analysis</a><br>
-X. Li, <b>X. Xiu*</b>, W. Liu, Z. Miao<br>
-<i>IEEE Signal Processing Letters</i><br>
-
-
 
 ### 2021
+
+* <a href="https://ieeexplore.ieee.org/document/9583864" class="textlink" target="_blank">Deep Canonical Correlation Analysis Using Sparsity-Constrained Optimization for Nonlinear Process Monitoring</a><br>
+<b>X. Xiu</b>, Z. Miao, Y. Yang*, W. Liu<br>
+<i>IEEE Transactions on Industrial Informatics</i><br>
 
 * <a href="https://ieeexplore.ieee.org/abstract/document/9381237" class="textlink" target="_blank">Fault Detection Using Structured Joint Sparse Nonnegative Matrix Factorization</a> <br>
 <b>X. Xiu</b>, Y. Yang*, L. Kong, W. Liu <br>
 <i>IEEE Transactions on Instrumentation and Measurement</i><br>
 
-* <a href="https://ieeexplore.ieee.org/abstract/document/9068308/" class="textlink" target="_blank">Data-Driven Process Monitoring Using Structured Joint Sparse Canonical Correlation Analysis</a><br>
-<b>X. Xiu</b>, Y. Yang*, L. Kong, W. Liu<br>
-<i>IEEE Transactions on Circuits and Systems II: Express Briefs</i><br>
+
+* <a href="https://ieeexplore.ieee.org/abstract/document/9619966" class="textlink" target="_blank">An Efficient Newton-Based Method for Sparse Generalized Canonical Correlation Analysis</a><br>
+X. Li, <b>X. Xiu*</b>, W. Liu, Z. Miao<br>
+<i>IEEE Signal Processing Letters</i><br>
 
 
 
@@ -97,6 +94,9 @@ X. Li, <b>X. Xiu*</b>, W. Liu, Z. Miao<br>
 <b>X. Xiu</b>, Y. Yang*, L. Kong, W. Liu<br>
 <i>Applied Mathematics and Computation</i><br>
 
+* <a href="https://ieeexplore.ieee.org/abstract/document/9068308/" class="textlink" target="_blank">Data-Driven Process Monitoring Using Structured Joint Sparse Canonical Correlation Analysis</a><br>
+<b>X. Xiu</b>, Y. Yang*, L. Kong, W. Liu<br>
+<i>IEEE Transactions on Circuits and Systems II: Express Briefs</i><br>
 
 * <a href="https://www.sciencedirect.com/science/article/abs/pii/S095915242030247X" class="textlink" target="_blank">Laplacian Regularized Robust Principal Component Analysis for Process Monitoring</a>  <br>
 <b>X. Xiu</b>, Y. Yang*, L. Kong, W. Liu <br>
