@@ -21,8 +21,7 @@ share: false
   
 * J. Liu, M. Feng, <b>X. Xiu*</b>, W. Liu, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320324002632" class="textlink" target="_blank">Towards Robust and Sparse Linear Discriminant Analysis for Image Classification</a>, Pattern Recognition, 153: 110512, 2024 [<a href="https://github.com/EMXlight/RSLDAplus" class="textlink" target="_blank" style="color: red;">Code</a>]
   
-* W. Qu, H. Chen, <b>X. Xiu*</b>, W. Liu, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0925231224010385" class="textlink" target="_blank">Distributed Sparsity Constrained Optimization over the Stiefel Manifold</a>, Neurocomputing, 153: 110512, 2024 [<a href="https://github.com/wtqu/DREAM" class="textlink" target="_blank" style="color: red;">Code</a>]
-
+* W. Qu, H. Chen, <b>X. Xiu*</b>, W. Liu, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0925231224010385" class="textlink" target="_blank">Distributed Sparsity Constrained Optimization over the Stiefel Manifold</a>, Neurocomputing, 602: 128267, 2024 [<a href="https://github.com/wtqu/DREAM" class="textlink" target="_blank" style="color: red;">Code</a>]
 
 
 ### 2023
