@@ -36,10 +36,10 @@ share: false
 
 
 ### 代表性论文
-* J. Liu, M. Feng, <b>X. Xiu*</b>, W. Liu, Towards Robust and Sparse Linear Discriminant Analysis for Image Classification, Pattern Recognition, 153: 110512, 2024
-* <b>X. Xiu</b>, L. Pan, Y. Yang*, W. Liu, Efficient and Fast Joint Sparse Constrained Canonical Correlation Analysis for Fault Detection, IEEE Transactions on Neural Networks and Learning Systems, 35(3): 4153-4163, 2024 
-* <b>X. Xiu</b>, Z. Miao, W. Liu*, A Sparsity-Aware Fault Diagnosis Framework Focusing on Accurate Isolation, IEEE Transactions on Industrial Informatics, 19(2): 1356-1365, 2023 
-* <b>X. Xiu</b>, Z. Miao, Y. Yang*, W. Liu, Deep Canonical Correlation Analysis Using Sparsity-Constrained Optimization for Nonlinear Process Monitoring, IEEE Transactions on Industrial Informatics, 18(10): 6690-6699, 2022 
+* J. Liu, M. Feng, <b>X. Xiu*</b>, W. Liu, Towards Robust and Sparse Linear Discriminant Analysis for Image Classification, <i>Pattern Recognition</i>, 153: 110512, 2024
+* <b>X. Xiu</b>, L. Pan, Y. Yang*, W. Liu, Efficient and Fast Joint Sparse Constrained Canonical Correlation Analysis for Fault Detection, <i>IEEE Transactions on Neural Networks and Learning Systems</i>, 35(3): 4153-4163, 2024 
+* <b>X. Xiu</b>, Z. Miao, W. Liu*, A Sparsity-Aware Fault Diagnosis Framework Focusing on Accurate Isolation, <i>IEEE Transactions on Industrial Informatics</i>, 19(2): 1356-1365, 2023 
+* <b>X. Xiu</b>, Z. Miao, Y. Yang*, W. Liu, Deep Canonical Correlation Analysis Using Sparsity-Constrained Optimization for Nonlinear Process Monitoring, <i>IEEE Transactions on Industrial Informatics</i>, 18(10): 6690-6699, 2022 
 
 
 
