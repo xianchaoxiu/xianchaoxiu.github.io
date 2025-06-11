@@ -18,19 +18,19 @@ share: false
 
 ### 2024
 
-* <b>X. Xiu</b>, Y. Zhang, Y. Guo, X. Liu, Y. Yang*, A New End-to-End Monitoring Framework for Nonlinear Dynamic Processes With Unknown Noise Statistics, <i>IEEE Transactions on Instrumentation and Measurement</i>, 70: 3513011, 2024 [<a href="https://ieeexplore.ieee.org/abstract/document/10464356" class="textlink" target="_blank">Paper</a>] [<a href="https://github.com/xianchaoxiu/DRNN" class="textlink" target="_blank">Code</a>]
+* <b>X. Xiu</b>, Y. Zhang, Y. Guo, X. Liu, Y. Yang*, <a href="https://ieeexplore.ieee.org/abstract/document/10464356" class="textlink" target="_blank">A New End-to-End Monitoring Framework for Nonlinear Dynamic Processes With Unknown Noise Statistics</a>, <i>IEEE Transactions on Instrumentation and Measurement</i>, 70: 3513011, 2024[<a href="https://github.com/xianchaoxiu/DRNN" class="textlink" target="_blank">Code</a>]
   
-* J. Liu, M. Feng, <b>X. Xiu*</b>, W. Liu, Towards Robust and Sparse Linear Discriminant Analysis for Image Classification, <i>Pattern Recognition</i>, 153: 110512, 2024 [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320324002632" class="textlink" target="_blank">Paper</a>] [<a href="https://github.com/EMXlight/RSLDAplus" class="textlink" target="_blank">Code</a>]
+* J. Liu, M. Feng, <b>X. Xiu*</b>, W. Liu, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320324002632" class="textlink" target="_blank">Towards Robust and Sparse Linear Discriminant Analysis for Image Classification</a>, <i>Pattern Recognition</i>, 153: 110512, 2024 [<a href="https://github.com/EMXlight/RSLDAplus" class="textlink" target="_blank">Code</a>]
   
-* W. Qu, H. Chen, <b>X. Xiu*</b>, W. Liu, Distributed Sparsity Constrained Optimization over the Stiefel Manifold, <i>Neurocomputing</i>, 153: 110512, 2024 [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0925231224010385" class="textlink" target="_blank">Paper</a>] [<a href="https://github.com/wtqu/DREAM" class="textlink" target="_blank">Code</a>]
+* W. Qu, H. Chen, <b>X. Xiu*</b>, W. Liu, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0925231224010385" class="textlink" target="_blank">Distributed Sparsity Constrained Optimization over the Stiefel Manifold</a>, <i>Neurocomputing</i>, 153: 110512, 2024 [<a href="https://github.com/wtqu/DREAM" class="textlink" target="_blank">Code</a>]
 
 
 
 ### 2023
 
-* <b>X. Xiu</b>, Y. Li*, Learning Sparse Kernel CCA with Graph Priors for Nonlinear Process Monitoring, <i>IEEE Sensors Journal</i>, 23(7): 7381-7389, 2023 [<a href="https://ieeexplore.ieee.org/abstract/document/10050438" class="textlink" target="_blank">Paper</a>]
+* <b>X. Xiu</b>, Y. Li*, <a href="https://ieeexplore.ieee.org/abstract/document/10050438" class="textlink" target="_blank">Learning Sparse Kernel CCA with Graph Priors for Nonlinear Process Monitoring</a>, <i>IEEE Sensors Journal</i>, 23(7): 7381-7389, 2023  
 
-* H. Chen, L. Kong, W Qu, <b>X. Xiu*</b>, <i>An Enhanced Regularized Clustering Method With Adaptive Spurious Connection Detection</i>, <i>IEEE Signal Processing Letters</i>, 30: 1332-1336, 2023 [<a href="https://ieeexplore.ieee.org/abstract/document/10252040" class="textlink" target="_blank">Paper</a>]
+* H. Chen, L. Kong, W Qu, <b>X. Xiu*</b>, <a href="https://ieeexplore.ieee.org/abstract/document/10252040" class="textlink" target="_blank">An Enhanced Regularized Clustering Method With Adaptive Spurious Connection Detection</a>, <i>IEEE Signal Processing Letters</i>, 30: 1332-1336, 2023 
 
 
 ### 2022
