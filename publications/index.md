@@ -28,8 +28,6 @@ share: false
 
 ### 2023
 
-* J. Sun, <b>X. Xiu</b>, Z. Luo*, W. Liu, <i>Learning High-Order Multi-View Representation by New Tensor Canonical Correlation Analysis</i>, IEEE Transactions on Circuits and Systems for Video Technology [<a href="https://ieeexplore.ieee.org/abstract/document/10091146" class="textlink" target="_blank">Paper</a>]
-
 * <b>X. Xiu</b>, Y. Li*, <i>Learning Sparse Kernel CCA with Graph Priors for Nonlinear Process Monitoring</i>, IEEE Sensors Journal [<a href="https://ieeexplore.ieee.org/abstract/document/10050438" class="textlink" target="_blank">Paper</a>]
 
 * H. Chen, L. Kong, W Qu, <b>X. Xiu*</b>, <i>An Enhanced Regularized Clustering Method With Adaptive Spurious Connection Detection</i>, IEEE Signal Processing Letters [<a href="https://ieeexplore.ieee.org/abstract/document/10252040" class="textlink" target="_blank">Paper</a>]
