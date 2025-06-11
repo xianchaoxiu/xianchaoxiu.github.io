@@ -24,6 +24,7 @@ share: false
 
 ### 讲授课程
 * <a href="https://xianchaoxiu.github.io/chinese/OR/" class="textlink" target="_blank"> 本科生《运筹学基础》 </a><br>
+* <a href="https://xianchaoxiu.github.io/chinese/OR/" class="textlink" target="_blank"> 本科生《大语言模型》 </a><br>
 * <a href="https://xianchaoxiu.github.io/chinese/OPT/" class="textlink" target="_blank"> 研究生《最优化方法》 </a><br>
 
 
