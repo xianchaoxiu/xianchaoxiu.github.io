@@ -27,7 +27,7 @@ J. Liu, M. Feng, <b>X. Xiu*</b>, X. Zeng, J. Zhang<br>
 
 * <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320324002632" class="textlink" target="_blank">Towards Robust and Sparse Linear Discriminant Analysis for Image Classification</a><br>
 J. Liu, M. Feng, <b>X. Xiu*</b>, W. Liu<br>
-<i>Pattern Recognition</i><br>
+<i>Pattern Recognition</i> [<a href="https://github.com/EMXlight/RSLDAplus" class="textlink" target="_blank">Code</a>] <br>
 <a href="https://github.com/EMXlight/RSLDAplus" class="textlink" target="_blank"> Code </a>
 
 * <a href="https://www.sciencedirect.com/science/article/abs/pii/S0925231224010385" class="textlink" target="_blank">Distributed Sparsity Constrained Optimization over the Stiefel Manifold</a><br>
