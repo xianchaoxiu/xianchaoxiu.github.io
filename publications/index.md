@@ -23,7 +23,7 @@ J. Liu, M. Feng, <b>X. Xiu*</b>, X. Zeng, J. Zhang<br>
 * <a href="https://ieeexplore.ieee.org/abstract/document/10464356" class="textlink" target="_blank">A New End-to-End Monitoring Framework for Nonlinear Dynamic Processes With Unknown Noise Statistics</a><br>
 <b>X. Xiu</b>, Y. Zhang, Y. Guo, X. Liu, Y. Yang*<br>
 <i>IEEE Transactions on Instrumentation and Measurement</i><br>
- [[Code](https://github.com/xianchaoxiu/DRNN)]
+<a href="https://github.com/xianchaoxiu/DRNN" class="textlink" target="_blank"> [Code] </a>
 
 * <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320324002632" class="textlink" target="_blank">Towards Robust and Sparse Linear Discriminant Analysis for Image Classification</a><br>
 J. Liu, M. Feng, <b>X. Xiu*</b>, W. Liu<br>
@@ -36,8 +36,11 @@ W. Qu, H. Chen, <b>X. Xiu*</b>, W. Liu<br>
  [[Code](https://github.com/wtqu/DREAM)]
 
 
-
 ### 2023
+
+* <a href="https://ieeexplore.ieee.org/abstract/document/10091146" class="textlink" target="_blank"> Learning High-Order Multi-View Representation by New Tensor Canonical Correlation Analysis </a><br>
+J. Sun, <b>X. Xiu</b>, Z. Luo*, W. Liu<br>
+<i>IEEE Transactions on Circuits and Systems for Video Technology</i><br>
 
 * <a href="https://ieeexplore.ieee.org/abstract/document/10050438" class="textlink" target="_blank">Learning Sparse Kernel CCA with Graph Priors for Nonlinear Process Monitoring</a><br>
 <b>X. Xiu</b>, Y. Li*<br>
@@ -46,8 +49,6 @@ W. Qu, H. Chen, <b>X. Xiu*</b>, W. Liu<br>
 * <a href="https://ieeexplore.ieee.org/abstract/document/10252040" class="textlink" target="_blank">An Enhanced Regularized Clustering Method With Adaptive Spurious Connection Detection</a><br>
 H. Chen, L. Kong, W Qu, <b>X. Xiu*</b><br>
 <i>IEEE Signal Processing Letters</i><br>
-
-
 
 
 ### 2022
@@ -65,7 +66,6 @@ Y. Li, <b>X. Xiu*</b>, W. Liu<br>
 <i>IEEE Transactions on Circuits and Systems II: Express Briefs</i><br>
 
 
-
 ### 2021
 
 * <a href="https://ieeexplore.ieee.org/document/9583864" class="textlink" target="_blank">Deep Canonical Correlation Analysis Using Sparsity-Constrained Optimization for Nonlinear Process Monitoring</a><br>
@@ -79,7 +79,6 @@ Y. Li, <b>X. Xiu*</b>, W. Liu<br>
 * <a href="https://ieeexplore.ieee.org/abstract/document/9619966" class="textlink" target="_blank">An Efficient Newton-Based Method for Sparse Generalized Canonical Correlation Analysis</a><br>
 X. Li, <b>X. Xiu*</b>, W. Liu, Z. Miao<br>
 <i>IEEE Signal Processing Letters</i><br>
-
 
 
 ### 2020
@@ -97,14 +96,11 @@ X. Li, <b>X. Xiu*</b>, W. Liu, Z. Miao<br>
 <i>IEEE Transactions on Circuits and Systems II: Express Briefs</i><br>
 
 
-
-
 ### 2019
 
 * <a href="https://www.sciencedirect.com/science/article/abs/pii/S0167947319300039" class="textlink" target="_blank">Alternating Direction Method of Multipliers for Nonconvex Fused Regression Problems</a>  <br>
 <b>X. Xiu*</b>, W. Liu, L. Li, L. Kong<br>
 <i>Computational Statistics & Data Analysis</i><br>
-
 
 
 ### 2018
