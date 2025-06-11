@@ -40,8 +40,8 @@ share: false
 
 
 ### 代表性论文
-* J. Liu, M. Feng, <b>X. Xiu*</b>, W. Liu, <i>Towards Robust and Sparse Linear Discriminant Analysis for Image Classification</i>, Pattern Recognition, 2024
 * <b>X. Xiu</b>, L. Pan, Y. Yang*, W. Liu, <i>Efficient and Fast Joint Sparse Constrained Canonical Correlation Analysis for Fault Detection</i>, IEEE Transactions on Neural Networks and Learning Systems, 2024
+* J. Liu, M. Feng, <b>X. Xiu*</b>, W. Liu, <i>Towards Robust and Sparse Linear Discriminant Analysis for Image Classification</i>, Pattern Recognition, 2024
 * <b>X. Xiu</b>, Z. Miao, W. Liu*, <i>A Sparsity-Aware Fault Diagnosis Framework Focusing on Accurate Isolation</i>, IEEE Transactions on Industrial Informatics, 2023
 * <b>X. Xiu</b>, Z. Miao, Y. Yang*, W. Liu, <i>Deep Canonical Correlation Analysis Using Sparsity-Constrained Optimization for Nonlinear Process Monitoring</i>, IEEE Transactions on Industrial Informatics, 2022
 
