@@ -18,9 +18,9 @@ share: false
 
 ### 2024
 
-* X. Xiu</b>, Y. Zhang, Y. Guo, X. Liu, Y. Yang*, <i>A New End-to-End Monitoring Framework for Nonlinear Dynamic Processes With Unknown Noise Statistics</i>, IEEE Transactions on Instrumentation and Measurement [<a href="https://ieeexplore.ieee.org/abstract/document/10464356" class="textlink" target="_blank">Paper</a>] [<a href="https://github.com/xianchaoxiu/DRNN" class="textlink" target="_blank">Code</a>]
-
 * J. Liu, M. Feng, <b>X. Xiu*</b>, W. Liu, <i>Towards Robust and Sparse Linear Discriminant Analysis for Image Classification</i>, Pattern Recognition [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320324002632" class="textlink" target="_blank">Paper</a>] [<a href="https://github.com/EMXlight/RSLDAplus" class="textlink" target="_blank">Code</a>]
+  
+* X. Xiu</b>, Y. Zhang, Y. Guo, X. Liu, Y. Yang*, <i>A New End-to-End Monitoring Framework for Nonlinear Dynamic Processes With Unknown Noise Statistics</i>, IEEE Transactions on Instrumentation and Measurement [<a href="https://ieeexplore.ieee.org/abstract/document/10464356" class="textlink" target="_blank">Paper</a>] [<a href="https://github.com/xianchaoxiu/DRNN" class="textlink" target="_blank">Code</a>]
 
 * W. Qu, H. Chen, <b>X. Xiu*</b>, W. Liu, <i>Distributed Sparsity Constrained Optimization over the Stiefel Manifold</i>, Neurocomputing [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0925231224010385" class="textlink" target="_blank">Paper</a>] [<a href="https://github.com/wtqu/DREAM" class="textlink" target="_blank">Code</a>]
 
