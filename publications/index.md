@@ -15,7 +15,8 @@ share: false
 * <a href="https://ieeexplore.ieee.org/document/10935754" class="textlink" target="_blank"> Tensor Low-Rank Approximation via Plug-and-Play Priors for Anomaly Detection in Remote Sensing Images </a><br>
 J. Liu, M. Feng, <b>X. Xiu*</b>, X. Zeng, J. Zhang<br>
 <i>IEEE Transactions on Instrumentation and Measurement</i><br>
-<a href="https://github.com/xianchaoxiu/PnP-TLRA" class="textlink" target="_blank"> Code </a>
+[<a href="https://github.com/xianchaoxiu/PnP-TLRA" class="textlink" target="_blank">Code</a>]
+
 
 
 ### 2024
@@ -23,12 +24,13 @@ J. Liu, M. Feng, <b>X. Xiu*</b>, X. Zeng, J. Zhang<br>
 * <a href="https://ieeexplore.ieee.org/abstract/document/10464356" class="textlink" target="_blank">A New End-to-End Monitoring Framework for Nonlinear Dynamic Processes With Unknown Noise Statistics</a><br>
 <b>X. Xiu</b>, Y. Zhang, Y. Guo, X. Liu, Y. Yang*<br>
 <i>IEEE Transactions on Instrumentation and Measurement</i><br>
-<a href="https://github.com/xianchaoxiu/DRNN" class="textlink" target="_blank"> Code </a>
+[<a href="https://github.com/xianchaoxiu/DRNN" class="textlink" target="_blank">Code</a>]
 
 * <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320324002632" class="textlink" target="_blank">Towards Robust and Sparse Linear Discriminant Analysis for Image Classification</a><br>
 J. Liu, M. Feng, <b>X. Xiu*</b>, W. Liu<br>
-<i>Pattern Recognition</i> [<a href="https://github.com/EMXlight/RSLDAplus" class="textlink" target="_blank">Code</a>] <br>
-<a href="https://github.com/EMXlight/RSLDAplus" class="textlink" target="_blank"> Code </a>
+<i>Pattern Recognition</i> <br>
+[<a href="https://github.com/EMXlight/RSLDAplus" class="textlink" target="_blank">Code</a>]
+
 
 * <a href="https://www.sciencedirect.com/science/article/abs/pii/S0925231224010385" class="textlink" target="_blank">Distributed Sparsity Constrained Optimization over the Stiefel Manifold</a><br>
 W. Qu, H. Chen, <b>X. Xiu*</b>, W. Liu<br>
