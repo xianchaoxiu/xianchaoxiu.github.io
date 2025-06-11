@@ -17,7 +17,7 @@ share: false
 
 ### 2024
 
-* <b>X. Xiu</b>, Y. Zhang, Y. Guo, X. Liu, Y. Yang*, <a href="https://ieeexplore.ieee.org/abstract/document/10464356" class="textlink" target="_blank">A New End-to-End Monitoring Framework for Nonlinear Dynamic Processes With Unknown Noise Statistics</a>, IEEE Transactions on Instrumentation and Measurement, 70: 3513011, 2024 [<a href="https://github.com/xianchaoxiu/DRNN" class="textlink" target="_blank" style="color: red;">Code</a>]
+* <b>X. Xiu</b>, Y. Zhang, Y. Guo, X. Liu, Y. Yang*, <a href="https://ieeexplore.ieee.org/abstract/document/10464356" class="textlink" target="_blank">A New End-to-End Monitoring Framework for Nonlinear Dynamic Processes With Unknown Noise Statistics</a>, IEEE Transactions on Instrumentation and Measurement, 70: 3513011, 2024 <a href="https://github.com/xianchaoxiu/DRNN" class="textlink" target="_blank" style="color: red;">[Code]</a>
   
 * J. Liu, M. Feng, <b>X. Xiu*</b>, W. Liu, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320324002632" class="textlink" target="_blank">Towards Robust and Sparse Linear Discriminant Analysis for Image Classification</a>, Pattern Recognition, 153: 110512, 2024 [<a href="https://github.com/EMXlight/RSLDAplus" class="textlink" target="_blank" style="color: red;">Code</a>]
   
