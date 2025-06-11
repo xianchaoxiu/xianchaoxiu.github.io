@@ -12,7 +12,7 @@ share: false
 
 ### 2025
 
-* J. Liu, M. Feng, <b>X. Xiu*</b>, X. Zeng, J. Zhang, Tensor Low-Rank Approximation via Plug-and-Play Priors for Anomaly Detection in Remote Sensing Images, IEEE Transactions on Instrumentation and Measurement<br>
+* J. Liu, M. Feng, <b>X. Xiu*</b>, X. Zeng, J. Zhang, <i>Tensor Low-Rank Approximation via Plug-and-Play Priors for Anomaly Detection in Remote Sensing Images</i>, IEEE Transactions on Instrumentation and Measurement<br>
 [<a href="https://ieeexplore.ieee.org/document/10935754" class="textlink" target="_blank">Paper</a>] [<a href="https://github.com/xianchaoxiu/PnP-TLRA" class="textlink" target="_blank">Code</a>]
 
 
