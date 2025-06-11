@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications
-title: Publications
+title: Selected Publications
 tags: [publications]
 comments: false
 share: false
