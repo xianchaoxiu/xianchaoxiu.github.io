@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /talks/
-title: Talks
+title: Selected Talks
 tags: [talks]
 comments: false
 share: false
