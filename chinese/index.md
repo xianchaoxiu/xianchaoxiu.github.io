@@ -23,18 +23,15 @@ share: false
 
 
 ### 讲授课程
-* <a href="https://xianchaoxiu.github.io/chinese/OPT/" class="textlink" target="_blank"> 研究生《最优化方法》 </a><br>
-* <a href="https://xianchaoxiu.github.io/chinese/OR/" class="textlink" target="_blank"> 本科生《运筹学基础》 </a><br>
 * 本科生《大模型与具身智能》 <br>
-
-
-
+* <a href="https://xianchaoxiu.github.io/chinese/OR/" class="textlink" target="_blank"> 本科生《运筹学基础》 </a><br>
+* <a href="https://xianchaoxiu.github.io/chinese/OPT/" class="textlink" target="_blank"> 研究生《最优化方法》 </a><br>
 
 
 ### 社会兼职
-* 美国《数学评论》评论员 <br>
-* 上海市运筹学会青年委员 <br>
 * CSIAM大数据与人工智能专业委员会委员 <br>
+* 上海市运筹学会青年委员 <br>
+* 美国《数学评论》评论员 <br>
 
 
 ### 代表性论文
