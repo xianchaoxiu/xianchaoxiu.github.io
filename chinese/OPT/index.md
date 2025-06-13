@@ -23,7 +23,3 @@ share: false
 * <a href="../OPT/学习优化.pdf" class="textlink" target="_blank">  第六章 &nbsp;  学习优化<br>
 * <a href="../OPT/大模型辅助优化.pdf" class="textlink" target="_blank">  第七章 &nbsp;  大模型辅助优化<br>
 
-
-### 阅读文献
-* S. Boyd, N. Parikh, E. Chu, et al, <a href="https://www.nowpublishers.com/article/Details/MAL-016" class="textlink" target="_blank">Distributed Optimization and Statistical Learning via the Alternating Direction Method of Multipliers</a>, Foundations and Trends® in Machine Learning, 3(1): 1-122, 2011
-* T. Chen, X. Chen, W. Chen, et al, <a href="https://www.jmlr.org/papers/v23/21-0308.html" class="textlink" target="_blank">Learning to Optimize: A Primer and A Benchmark</a>, Journal of Machine Learning Research, 23(189): 1-59, 2022
