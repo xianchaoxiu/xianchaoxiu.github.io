@@ -5,7 +5,7 @@ comments: false
 share: false
 ---
 
-### 教材
+### 参考教材
 * <a href="https://item.jd.com/14020941.html" class="textlink" target="_blank"> 胡运权, 郭耀煌《运筹学教程》</a><br>
 * <a href="https://item.jd.com/12755179.html" class="textlink" target="_blank"> 陈宝林《最优化理论与算法》</a><br>
 
