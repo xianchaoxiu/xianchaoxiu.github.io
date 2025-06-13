@@ -23,8 +23,8 @@ share: false
 
 
 ### 讲授课程
+* 本科生《大模型与具身智能》 <br>
 * <a href="https://xianchaoxiu.github.io/chinese/OR/" class="textlink" target="_blank"> 本科生《运筹学基础》 </a><br>
-* <a href="https://xianchaoxiu.github.io/chinese/LLM/" class="textlink" target="_blank"> 本科生《大语言模型》 </a><br>
 * <a href="https://xianchaoxiu.github.io/chinese/OPT/" class="textlink" target="_blank"> 研究生《最优化方法》 </a><br>
 
 
