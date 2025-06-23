@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 最优化方法
+title: 数据驱动最优化
 comments: false
 share: false
 ---
