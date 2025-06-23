@@ -21,5 +21,5 @@ share: false
 * <a href="../OPT/约束优化算法.pdf" class="textlink" target="_blank">  第四章 &nbsp;  约束优化算法<br>
 * <a href="../OPT/复合优化算法.pdf" class="textlink" target="_blank">  第五章 &nbsp;  复合优化算法<br>
 * <a href="../OPT/学习优化.pdf" class="textlink" target="_blank">  第六章 &nbsp;  学习优化<br>
-* <a href="../OPT/大模型辅助优化.pdf" class="textlink" target="_blank">  第七章 &nbsp;  大模型辅助优化<br>
+* <a href="../OPT/大模型辅助优化.pdf" class="textlink" target="_blank">  第七章 &nbsp;  大模型优化<br>
 
