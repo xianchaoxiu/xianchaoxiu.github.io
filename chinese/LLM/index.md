@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 大语言模型
+title: 大模型与具身智能
 comments: false
 share: false
 ---
