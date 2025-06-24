@@ -24,7 +24,7 @@ share: false
 
 ### 讲授课程
 * <a href="https://xianchaoxiu.github.io/chinese/OR/" class="textlink" target="_blank"> 运筹学基础 </a><br>
-* <a href="https://xianchaoxiu.github.io/chinese/OPT/" class="textlink" target="_blank"> 数据驱动最优化 </a><br>
+* <a href="https://xianchaoxiu.github.io/chinese/OPT/" class="textlink" target="_blank"> 现代优化方法 </a><br>
 * <a href="https://xianchaoxiu.github.io/chinese/LLM/" class="textlink" target="_blank"> 大模型与具身智能 </a><br>
 
 ### 社会兼职
