@@ -31,7 +31,7 @@ share: false
 * 美国数学评论评论员 <br>
 * 上海市运筹学会青年委员 <br>
 * CSIAM大数据与人工智能专业委员会委员 <br>
-
+* 教育部学位中心博士硕士学位论文评议专家 <br>
 
 ### 代表性论文
 * J. Liu, M. Feng, <b>X. Xiu*</b>, W. Liu, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320324002632" class="textlink" target="_blank">Towards Robust and Sparse Linear Discriminant Analysis for Image Classification</a>, Pattern Recognition, 153: 110512, 2024 <br>
