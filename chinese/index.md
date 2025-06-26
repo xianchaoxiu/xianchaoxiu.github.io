@@ -27,11 +27,7 @@ share: false
 * <a href="https://xianchaoxiu.github.io/chinese/OPT/" class="textlink" target="_blank"> 现代优化方法 </a><br>
 * <a href="https://xianchaoxiu.github.io/chinese/LLM/" class="textlink" target="_blank"> 大模型与具身智能 </a><br>
 
-### 社会兼职
-* 美国数学评论评论员 <br>
-* 上海市运筹学会青年委员 <br>
-* CSIAM大数据与人工智能专业委员会委员 <br>
-* 教育部学位中心博士硕士学位论文评议专家 <br>
+
 
 ### 代表性论文
 * J. Liu, M. Feng, <b>X. Xiu*</b>, W. Liu, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320324002632" class="textlink" target="_blank">Towards Robust and Sparse Linear Discriminant Analysis for Image Classification</a>, Pattern Recognition, 153: 110512, 2024 <br>
@@ -45,7 +41,8 @@ share: false
 * 2021.01-2023.12, 国家自然科学基金青年项目, 稀疏典型相关分析的理论与算法研究 <br>
 
 
-### 获奖与荣誉
-* 2023年, 上海大学优秀毕业论文指导教师奖 <br>
-* 2020年, IEEE DDCLS最佳论文提名奖 <br>
-
+### 社会兼职
+* 美国数学评论评论员 <br>
+* 上海市运筹学会青年委员 <br>
+* CSIAM大数据与人工智能专业委员会委员 <br>
+* 教育部学位中心博士硕士学位论文评议专家 <br>
