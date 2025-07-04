@@ -15,8 +15,8 @@ share: false
 
 
 ### 课程信息 
-- 第一部分：基础篇<br>
-  -  <a href="../OPT/绪论.pdf" class="textlink" target="_blank">  第一章 &nbsp;  绪论<br><br>
+- 第一部分：基础篇<br><br>
+  -  <a href="../OPT/绪论.pdf" class="textlink" target="_blank">  第一章 &nbsp;  绪论<br>
   -  <a href="../OPT/最优化理论.pdf" class="textlink" target="_blank">  第二章 &nbsp;  最优化理论<br>
   -  <a href="../OPT/无约束优化算法.pdf" class="textlink" target="_blank">  第三章 &nbsp;  无约束优化算法<br>
   -  <a href="../OPT/约束优化算法.pdf" class="textlink" target="_blank">  第四章 &nbsp;  约束优化算法<br>
@@ -26,5 +26,5 @@ share: false
 - 第二部分：进阶篇<br><br>
   -  <a href="../OPT/学习优化.pdf" class="textlink" target="_blank">  第六章 &nbsp;  学习优化<br>
   -  <a href="../OPT/大模型辅助优化.pdf" class="textlink" target="_blank">  第七章 &nbsp;  大模型辅助优化<br>
-  -  <a href="../OPT/学习优化.pdf" class="textlink" target="_blank">  第八章 &nbsp;  大模型高效压缩<br>
-  -  <a href="../OPT/大模型辅助优化.pdf" class="textlink" target="_blank">  第九章 &nbsp;  机器人具身导航<br>
+  -  <a href="../OPT/大模型高效压缩.pdf" class="textlink" target="_blank">  第八章 &nbsp;  大模型高效压缩<br>
+  -  <a href="../OPT/机器人具身导航.pdf" class="textlink" target="_blank">  第九章 &nbsp;  机器人具身导航<br>
