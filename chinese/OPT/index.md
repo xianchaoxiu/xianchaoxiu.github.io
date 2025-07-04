@@ -16,7 +16,7 @@ share: false
 
 ### 课程信息 
 * 第一部分：基础篇
- * <a href="../OPT/绪论.pdf" class="textlink" target="_blank">  第一章 &nbsp;  绪论<br>
+- <a href="../OPT/绪论.pdf" class="textlink" target="_blank">  第一章 &nbsp;  绪论<br>
  * <a href="../OPT/最优化理论.pdf" class="textlink" target="_blank">  第二章 &nbsp;  最优化理论<br>
  * <a href="../OPT/无约束优化算法.pdf" class="textlink" target="_blank">  第三章 &nbsp;  无约束优化算法<br>
  * <a href="../OPT/约束优化算法.pdf" class="textlink" target="_blank">  第四章 &nbsp;  约束优化算法<br>
