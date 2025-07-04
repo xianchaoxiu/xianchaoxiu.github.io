@@ -26,5 +26,5 @@ share: false
 - 第二部分：进阶篇<br>
   -  <a href="../OPT/学习优化.pdf" class="textlink" target="_blank">  第六章 &nbsp;  学习优化<br>
   -  <a href="../OPT/大模型辅助优化.pdf" class="textlink" target="_blank">  第七章 &nbsp;  大模型辅助优化<br>
-  -  <a href="../OPT/学习优化.pdf" class="textlink" target="_blank">  第八章 &nbsp;  大模型压缩与轻量化<br>
+  -  <a href="../OPT/学习优化.pdf" class="textlink" target="_blank">  第八章 &nbsp;  大模型高效压缩<br>
   -  <a href="../OPT/大模型辅助优化.pdf" class="textlink" target="_blank">  第九章 &nbsp;  机器人具身导航<br>
