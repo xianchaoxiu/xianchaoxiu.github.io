@@ -44,4 +44,4 @@ share: false
 * 上海市运筹学会青年委员 <br>
 * CSIAM大数据与人工智能专业委员会委员 <br>
 * 教育部学位中心博士硕士学位论文评议专家 <br>
-* Big Data and Information Analytics 期刊编委<br>
+* Big Data and Information Analytics 青年编委<br>
