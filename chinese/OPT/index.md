@@ -8,6 +8,7 @@ share: false
 
 
 ### 参考教材
+
 * <a href="http://faculty.bicmr.pku.edu.cn/~wenzw/optbook.html" class="textlink" target="_blank"> 文再文, 袁亚湘, 最优化方法与理论</a><br>
 * <a href="https://nndl.github.io/" class="textlink" target="_blank"> 邱锡鹏, 神经网络与深度学习 </a><br>
 
@@ -30,3 +31,7 @@ share: false
   - 第九章 &nbsp;  大模型强化学习 <br>
   - 第十章 &nbsp;  大模型高效压缩 <br>
 
+
+### 参考文献
+
+  -  
