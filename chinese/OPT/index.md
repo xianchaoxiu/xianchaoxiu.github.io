@@ -28,5 +28,5 @@ share: false
   - 第七章 &nbsp;  大模型辅助优化 <br>
   - 第八章 &nbsp;  大模型具身导航 <br>
   - 第九章 &nbsp;  大模型强化学习 <br>
-  - 第十章 &nbsp;  大模型压缩 <br>
+  - 第十章 &nbsp;  大模型高效压缩 <br>
 
