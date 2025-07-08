@@ -27,7 +27,7 @@ share: false
 - 第二部分 &nbsp;  进阶篇<br>
   - 第六章 &nbsp;  学习优化 <br>
   - 第七章 &nbsp;  大模型辅助优化 <br>
-  - 第八章 &nbsp;  大模型具身导航 <br>
+  - 第八章 &nbsp;  大模型具身智能 <br>
   - 第九章 &nbsp;  大模型强化学习 <br>
   - 第十章 &nbsp;  大模型压缩与轻量化 <br>
 
