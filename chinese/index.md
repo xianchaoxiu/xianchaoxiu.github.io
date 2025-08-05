@@ -31,8 +31,6 @@ share: false
 * <a href="https://xianchaoxiu.github.io/chinese/OR/" class="textlink" target="_blank"> 运筹学基础 </a><br>
 * <a href="https://xianchaoxiu.github.io/chinese/OPT/" class="textlink" target="_blank"> 现代优化方法 </a><br>
 
-https://www.sciencedirect.com/science/article/pii/S0168169925009287
-
  
 ### 学术论文
 * W. Zhang, T. Sun, Y. Li, C. He, <b>X. Xiu*</b>, Z. Miao, <a href="https://www.sciencedirect.com/science/article/pii/S0168169925009287" class="textlink" target="_blank">Optimal Motion Planning and Navigation for Nonholonomic Agricultural Robots in Multi-Constraint and Multi-Task Environments</a>, Computers and Electronics in Agriculture, 238: 110822, 2025 <br>
