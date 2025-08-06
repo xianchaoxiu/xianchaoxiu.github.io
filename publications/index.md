@@ -33,7 +33,7 @@ share: false
 * H. Chen, L. Kong, W Qu, <b>X. Xiu*</b>, <a href="https://ieeexplore.ieee.org/abstract/document/10252040" class="textlink" target="_blank">An Enhanced Regularized Clustering Method With Adaptive Spurious Connection Detection</a>, IEEE Signal Processing Letters, 30: 1332-1336, 2023 <a href="https://github.com/xianchaoxiu/ERC" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
 
-### 2028-2022
+### 2018-2022
 
 * <b>X. Xiu</b>, L. Pan, Y. Yang*, W. Liu, <a href="https://ieeexplore.ieee.org/document/9887978" class="textlink" target="_blank">Efficient and Fast Joint Sparse Constrained Canonical Correlation Analysis for Fault Detection</a>, IEEE Transactions on Neural Networks and Learning Systems, 35(3): 4153-4163, 2024
 
@@ -41,13 +41,9 @@ share: false
 
 * <b>X. Xiu</b>, Z. Miao, Y. Yang*, W. Liu, <a href="https://ieeexplore.ieee.org/document/9583864" class="textlink" target="_blank">Deep Canonical Correlation Analysis Using Sparsity-Constrained Optimization for Nonlinear Process Monitoring</a>, IEEE Transactions on Industrial Informatics, 18(10): 6690-6699, 2022
 
-* <b>X. Xiu</b>, Y. Yang*, L. Kong, W. Liu, <a href="https://ieeexplore.ieee.org/abstract/document/9381237" class="textlink" target="_blank">Fault Detection Using Structured Joint Sparse Nonnegative Matrix Factorization</a>, IEEE Transactions on Instrumentation and Measurement, 70: 3513011, 2021 
+* <b>X. Xiu</b>, Y. Yang*, L. Kong, W. Liu, <a href="https://ieeexplore.ieee.org/abstract/document/9068308/" class="textlink" target="_blank">Data-Driven Process Monitoring Using Structured Joint Sparse Canonical Correlation Analysis</a>, IEEE Transactions on Circuits and Systems II: Express Briefs, 68(1): 361-365, 2021
 
 * <b>X. Xiu</b>, Y. Yang*, L. Kong, W. Liu, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0096300320302411" class="textlink" target="_blank">tSSNALM: A Fast Two-Stage Semi-Smooth Newton Augmented Lagrangian Method for Sparse CCA</a>, Applied Mathematics and Computation, 383(15): 125272, 2020 
-
-* <b>X. Xiu</b>, Y. Yang*, L. Kong, W. Liu, <a href="https://www.sciencedirect.com/science/article/abs/pii/S095915242030247X" class="textlink" target="_blank">Laplacian Regularized Robust Principal Component Analysis for Process Monitoring</a>, Journal of Process Control, 92: 212-219, 2020
-
-* <b>X. Xiu</b>, Y. Yang*, L. Kong, W. Liu, <a href="https://ieeexplore.ieee.org/abstract/document/9068308/" class="textlink" target="_blank">Data-Driven Process Monitoring Using Structured Joint Sparse Canonical Correlation Analysis</a>, IEEE Transactions on Circuits and Systems II: Express Briefs, 68(1): 361-365, 2021
 
 * <b>X. Xiu*</b>, W. Liu, L. Li, L. Kong, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0167947319300039" class="textlink" target="_blank">Alternating Direction Method of Multipliers for Nonconvex Fused Regression Problems</a>, Computational Statistics & Data Analysis, 136: 59-71, 2019 
 
