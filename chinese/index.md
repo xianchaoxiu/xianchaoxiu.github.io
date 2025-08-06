@@ -7,9 +7,9 @@ comments: false
 share: false
 ---
 
-聚焦最优化理论方法，攻关大模型核心技术，突破具身智能关键科学问题。<br>
 
-<span style="background-color: yellow;">这是黄色背景的文本</span>
+<span style="background-color: yellow;">聚焦最优化理论方法，攻关大模型核心技术，突破具身智能关键科学问题。</span>
+
 
 ### 工作经历
 * 2024.04-至今, 上海大学, 副教授 <br>
