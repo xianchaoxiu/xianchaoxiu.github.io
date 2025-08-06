@@ -8,7 +8,7 @@ share: false
 ---
 
 
-<span style="background-color: yellow;">聚焦最优化理论方法，攻关大模型核心技术，突破具身智能关键科学问题。</span>
+<span style="background-color: yellow;">聚焦最优化理论方法, 攻关大模型核心技术, 突破具身智能关键科学问题! </span>
 
 
 ### 工作经历
