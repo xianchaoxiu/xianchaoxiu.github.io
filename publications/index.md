@@ -12,7 +12,7 @@ share: false
 
 ### 2025
 
-* W. Zhang, T. Sun, Y. Li, C. He, <b>X. Xiu*</b>, Z. Miao, Optimal Motion Planning and Navigation for Nonholonomic Agricultural Robots in Multi-Constraint and Multi-Task Environments, <a href="https://doi.org/10.1016/j.compag.2025.110822" class="textlink" target="_blank">Computers and Electronics in Agriculture</a>, 238: 110822, 2025 <a href="https://github.com/xianchaoxiu/MPAR" class="textlink" target="_blank" style="color: red;">[Code]</a>
+* W. Zhang, T. Sun, Y. Li, C. He, <b>X. Xiu*</b>, Z. Miao, Optimal Motion Planning and Navigation for Nonholonomic Agricultural Robots in Multi-Constraint and Multi-Task Environments, <i><a href="https://doi.org/10.1016/j.compag.2025.110822" class="textlink" target="_blank">Computers and Electronics in Agriculture</a></i>, 238: 110822, 2025 <a href="https://github.com/xianchaoxiu/MPAR" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
 * J. Liu, M. Feng, <b>X. Xiu*</b>, X. Zeng, J. Zhang, Tensor Low-Rank Approximation via Plug-and-Play Priors for Anomaly Detection in Remote Sensing Images, <a href="https://ieeexplore.ieee.org/document/10935754" class="textlink" target="_blank">IEEE Transactions on Instrumentation and Measurement</a>, 74: 5503014, 2025 <a href="https://github.com/xianchaoxiu/PnP-TLRA" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
