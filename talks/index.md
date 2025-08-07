@@ -33,5 +33,5 @@ share: false
 <i><a href="../talks/2023-ASA.pdf" class="textlink" target="_blank"> ASA 2023 </a> </i><br>
 
 * Data-Driven Fault Diagnosis: From Sparse Representation to Deep Learning  <br>
-<i><a href="../talks/2023-MOS.pdf" class="textlink" target="_blank"> MOS 2023 <</a> </i><br>
+<i><a href="../talks/2023-MOS.pdf" class="textlink" target="_blank"> MOS 2023 </a> </i><br>
 
