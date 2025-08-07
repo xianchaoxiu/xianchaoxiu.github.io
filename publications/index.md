@@ -39,7 +39,7 @@ share: false
 
 * H. Chen, L. Kong, W Qu, <b>X. Xiu*</b>, An Enhanced Regularized Clustering Method With Adaptive Spurious Connection Detection, <a href="https://ieeexplore.ieee.org/abstract/document/10252040" class="textlink" target="_blank">IEEE Signal Processing Letters</a>, 30: 1332-1336, 2023 <a href="https://github.com/xianchaoxiu/ERC" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
-* W. Qu, <b>X. Xiu</b>, H. Zhang, J. Fan*, An efficient semi-proximal ADMM algorithm for low-rank and sparse regularized matrix minimization problems with real-world applications, <a href="https://doi.org/10.1016/j.cam.2022.115007" class="textlink" target="_blank">Journal of Computational and Applied Mathematics</a>, 424: 115007, 2023 <a href="https://github.com/wtqu/DREAM" class="textlink" target="_blank" style="color: red;">[Code]</a>
+* W. Qu, <b>X. Xiu</b>, H. Zhang, J. Fan*, An Efficient Semi-Proximal ADMM Algorithm for Low-Rank and Sparse Regularized Matrix Minimization Problems with Real-World Applications, <a href="https://doi.org/10.1016/j.cam.2022.115007" class="textlink" target="_blank">Journal of Computational and Applied Mathematics</a>, 424: 115007, 2023 <a href="https://github.com/wtqu/DREAM" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
 
 ### 2018-2022
