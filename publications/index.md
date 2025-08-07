@@ -17,7 +17,7 @@ share: false
 
 * J. Liu, M. Feng, <b>X. Xiu*</b>, X. Zeng, J. Zhang, <a href="https://ieeexplore.ieee.org/document/10935754" class="textlink" target="_blank">Tensor Low-Rank Approximation via Plug-and-Play Priors for Anomaly Detection in Remote Sensing Images</a>, IEEE Transactions on Instrumentation and Measurement, 74: 5503014, 2025 <a href="https://github.com/xianchaoxiu/PnP-TLRA" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
-* Y. Zhu, <b>X. Xiu*</b>, W. Liu, C. Yin, <a href="https://doi.org/10.1016/j.eswa.2024.125845" class="textlink" target="_blank">Joint Sparse Subspace Clustering via Fast L2,0-Norm Constrained Optimization</a>, Expert Systems with Applications, 265: 125845, 2025 <a href="https://github.com/zhudafa/JSSC" class="textlink" target="_blank" style="color: red;">[Code]</a>
+* Y. Zhu, <b>X. Xiu</b>, W. Liu, C. Yin, <a href="https://doi.org/10.1016/j.eswa.2024.125845" class="textlink" target="_blank">Joint Sparse Subspace Clustering via Fast L2,0-Norm Constrained Optimization</a>, Expert Systems with Applications, 265: 125845, 2025 <a href="https://github.com/zhudafa/JSSC" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
 
 ### 2024
