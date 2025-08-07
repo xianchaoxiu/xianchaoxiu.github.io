@@ -10,7 +10,7 @@ share: false
 
 ### 2025
 * Lightweight Deep Unrolling Network with Enhanced Robustness for Infrared Small Target Detection  <br>
-<i><a href="../talks/2025-MOS.pdf" class="textlink" target="_blank"> Mathematical Optimization Society </a> </i><br>
+<i><a href="../talks/2025-MOS.pdf" class="textlink" target="_blank"> MOS 2025 </a> </i><br>
 
 * Learning to Select Features <br>
 <i><a href="../talks/2025-POLYU.pdf" class="textlink" target="_blank"> The Hong Kong Polytechnic University </a> </i><br>
@@ -30,8 +30,8 @@ share: false
 ### 2023
 
 * Plug-and-Play Tensor Low-Rank Approximation for Hyperspectral Anomaly Detection  <br>
-<i><a href="../talks/2023-ASA.pdf" class="textlink" target="_blank"> Algorithm Software and Applications </a> </i><br>
+<i><a href="../talks/2023-ASA.pdf" class="textlink" target="_blank"> ASA 2023 </a> </i><br>
 
 * Data-Driven Fault Diagnosis: From Sparse Representation to Deep Learning  <br>
-<i><a href="../talks/2023-MOS.pdf" class="textlink" target="_blank"> Mathematical Optimization Society <</a> </i><br>
+<i><a href="../talks/2023-MOS.pdf" class="textlink" target="_blank"> MOS 2023 <</a> </i><br>
 
