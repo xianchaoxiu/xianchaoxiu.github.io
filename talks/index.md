@@ -13,13 +13,13 @@ share: false
 <i><a href="../talks/2025-MOS.pdf" class="textlink" target="_blank"> MOS 2025 </a> </i><br>
 
 * Learning to Select Features <br>
-<i><a href="../talks/2025-POLYU.pdf" class="textlink" target="_blank"> The Hong Kong Polytechnic University </a> </i><br>
+<i><a href="../talks/2025-POLYU.pdf" class="textlink" target="_blank"> POLYU 2025 </a> </i><br>
 
 
 ### 2024
 
 * Nonconvex Sparse Optimization and Algorithms <br>
-<i><a href="../talks/2024-CAS.pdf" class="textlink" target="_blank"> Chinese Academy of Sciences </a> </i><br>
+<i><a href="../talks/2024-CAS.pdf" class="textlink" target="_blank"> CAS 2024 </a> </i><br>
 
 * Bi-Sparse Unsupervised Feature Selection <br>
 <i><a href="../talks/2024-ORSC.pdf" class="textlink" target="_blank"> ORSC 2024 </a> </i><br>
