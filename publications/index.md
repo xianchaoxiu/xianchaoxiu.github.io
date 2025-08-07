@@ -16,6 +16,8 @@ share: false
 
 * J. Liu, M. Feng, <b>X. Xiu*</b>, X. Zeng, J. Zhang, Tensor Low-Rank Approximation via Plug-and-Play Priors for Anomaly Detection in Remote Sensing Images, <a href="https://ieeexplore.ieee.org/document/10935754" class="textlink" target="_blank">IEEE Transactions on Instrumentation and Measurement</a>, 74: 5503014, 2025 <a href="https://github.com/xianchaoxiu/PnP-TLRA" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
+* Y. Zhu, <b>X. Xiu</b>, W. Liu*, C. Yin, Joint Sparse Subspace Clustering via Fast L2,0-Norm Constrained Optimization, <a href="https://doi.org/10.1016/j.eswa.2024.125845" class="textlink" target="_blank">Expert Systems with Applications</a>, 265: 125845, 2025 <a href="https://github.com/zhudafa/JSSC" class="textlink" target="_blank" style="color: red;">[Code]</a>
+
 
 ### 2024
 
@@ -25,7 +27,7 @@ share: false
 
 * W. Qu, H. Chen, <b>X. Xiu*</b>, W. Liu, Distributed Sparsity Constrained Optimization over the Stiefel Manifold, <a href="https://doi.org/10.1016/j.neucom.2024.128267" class="textlink" target="_blank">Neurocomputing</a>, 602: 128267, 2024 <a href="https://github.com/wtqu/DREAM" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
-* Y. Zhu, <b>X. Xiu</b>, W. Liu*, C. Yin, Joint Sparse Subspace Clustering via Fast L2,0-Norm Constrained Optimization, <a href="https://doi.org/10.1016/j.eswa.2024.125845" class="textlink" target="_blank">Expert Systems with Applications</a>, 265: 125845, 2025 <a href="https://github.com/zhudafa/JSSC" class="textlink" target="_blank" style="color: red;">[Code]</a>
+
 
 
 
