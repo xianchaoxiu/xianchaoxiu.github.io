@@ -21,6 +21,8 @@ share: false
 * <b>X. Xiu</b>, Y. Zhang, Y. Guo, X. Liu, Y. Yang*, A New End-to-End Monitoring Framework for Nonlinear Dynamic Processes With Unknown Noise Statistics, <a href="https://ieeexplore.ieee.org/abstract/document/10464356" class="textlink" target="_blank">IEEE Transactions on Instrumentation and Measurement</a>, 70: 3513011, 2024 <a href="https://github.com/xianchaoxiu/DRNN" class="textlink" target="_blank" style="color: red;">[Code]</a>
 * J. Liu, M. Feng, <b>X. Xiu*</b>, W. Liu, Towards Robust and Sparse Linear Discriminant Analysis for Image Classification, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320324002632" class="textlink" target="_blank">Pattern Recognition</a>, 153: 110512, 2024 <a href="https://github.com/EMXlight/RSLDAplus" class="textlink" target="_blank" style="color: red;">[Code]</a>
 * W. Qu, H. Chen, <b>X. Xiu*</b>, W. Liu, Distributed Sparsity Constrained Optimization over the Stiefel Manifold, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0925231224010385" class="textlink" target="_blank">Neurocomputing</a>, 602: 128267, 2024 <a href="https://github.com/wtqu/DREAM" class="textlink" target="_blank" style="color: red;">[Code]</a>
+* Y. Zhu, <b>X. Xiu*</b>, W. Liu, C. Yin, Joint Sparse Subspace Clustering via Fast L2,0-Norm Constrained Optimization, <a href="https://doi.org/10.1016/j.eswa.2024.125845" class="textlink" target="_blank">Expert Systems with Applications</a>, 265: 125845, 2025 <a href="https://github.com/zhudafa/JSSC" class="textlink" target="_blank" style="color: red;">[Code]</a>
+
 
 
 ### 2023
