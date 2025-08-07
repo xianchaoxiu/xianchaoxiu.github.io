@@ -11,9 +11,6 @@ share: false
 
 
 
-<a href="https://arxiv.org/search/?query=xiu%2C+xianchao&searchtype=all&abstracts=show&order=-announced_date_first&size=50" class="textlink" target="_blank"> Click for my preprints </a> <br>
-
-
 ### 2025
 
 * W. Zhang, T. Sun, Y. Li, C. He, <b>X. Xiu*</b>, Z. Miao, Optimal Motion Planning and Navigation for Nonholonomic Agricultural Robots in Multi-Constraint and Multi-Task Environments, <i><a href="https://doi.org/10.1016/j.compag.2025.110822" class="textlink" target="_blank">Computers and Electronics in Agriculture</a></i>, 238: 110822, 2025 <a href="https://github.com/xianchaoxiu/MPAR" class="textlink" target="_blank" style="color: red;">[Code]</a>
