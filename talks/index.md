@@ -10,7 +10,7 @@ share: false
 
 ### 2025
 * Lightweight Deep Unrolling Network with Enhanced Robustness for Infrared Small Target Detection  <br>
-<a href="../talks/2025-MOS.pdf" class="textlink" target="_blank"> Mathematical Optimization Society </a> <br>
+<a href="../talks/2025-MOS.pdf" class="textlink" target="_blank"> Mathematical Optimization Society, Shanghai </a> <br>
 <i>Shanghai, China</i><br>
 
 * Learning to Select Features <br>
