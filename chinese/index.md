@@ -33,9 +33,7 @@ share: false
 * <b>X. Xiu</b>, Z. Miao, W. Liu*, A Sparsity-Aware Fault Diagnosis Framework Focusing on Accurate Isolation, <i><a href="https://ieeexplore.ieee.org/abstract/document/9788040" class="textlink" target="_blank">IEEE Transactions on Industrial Informatics</a></i>, 19(2): 1356-1365, 2023  
 * <b>X. Xiu</b>, Z. Miao, Y. Yang*, W. Liu, Deep Canonical Correlation Analysis Using Sparsity-Constrained Optimization for Nonlinear Process Monitoring, <i><a href="https://ieeexplore.ieee.org/document/9583864" class="textlink" target="_blank">IEEE Transactions on Industrial Informatics</a></i>, 18(10): 6690-6699, 2022
 * <b>X. Xiu</b>, Y. Yang*, L. Kong, W. Liu, Data-Driven Process Monitoring Using Structured Joint Sparse Canonical Correlation Analysis, <i><a href="https://ieeexplore.ieee.org/abstract/document/9068308/" class="textlink" target="_blank">IEEE Transactions on Circuits and Systems II: Express Briefs</a></i>, 68(1): 361-365, 2021
-* <b>X. Xiu</b>, Y. Yang*, L. Kong, W. Liu, tSSNALM: A Fast Two-Stage Semi-Smooth Newton Augmented Lagrangian Method for Sparse CCA, <i><a href="https://doi.org/10.1016/j.amc.2020.125272" class="textlink" target="_blank">Applied Mathematics and Computation</a></i>, 383(15): 125272, 2020
-* <b>X. Xiu*</b>, W. Liu, L. Li, L. Kong, Alternating Direction Method of Multipliers for Nonconvex Fused Regression Problems, <i><a href="https://doi.org/10.1016/j.csda.2019.01.002" class="textlink" target="_blank">Computational Statistics & Data Analysis</a></i>, 136: 59-71, 2019
-* <b>X. Xiu*</b>, L. Kong, Y. Li, H. Qi, Iterative Reweighted Methods for L1-Lp Minimization, <i><a href="https://link.springer.com/article/10.1007/s10589-017-9977-7" class="textlink" target="_blank">Computational Optimization and Applications</a></i>, 70(1): 201-219, 2018
+
   
 
 ### 科研项目
