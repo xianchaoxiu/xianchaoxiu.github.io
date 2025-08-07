@@ -29,7 +29,6 @@ share: false
 
  
 ### 学术论文
-* W. Zhang, T. Sun, Y. Li, C. He, <b>X. Xiu*</b>, Z. Miao, <a href="https://www.sciencedirect.com/science/article/pii/S0168169925009287" class="textlink" target="_blank">Optimal Motion Planning and Navigation for Nonholonomic Agricultural Robots in Multi-Constraint and Multi-Task Environments</a>, Computers and Electronics in Agriculture, 238: 110822, 2025 <br>
 * J. Liu, M. Feng, <b>X. Xiu*</b>, W. Liu, <a href="https://www.sciencedirect.com/science/article/abs/pii/S0031320324002632" class="textlink" target="_blank">Towards Robust and Sparse Linear Discriminant Analysis for Image Classification</a>, Pattern Recognition, 153: 110512, 2024 <br>
 * <b>X. Xiu</b>, L. Pan, Y. Yang*, W. Liu, <a href="https://ieeexplore.ieee.org/document/9887978" class="textlink" target="_blank">Efficient and Fast Joint Sparse Constrained Canonical Correlation Analysis for Fault Detection</a>, IEEE Transactions on Neural Networks and Learning Systems, 35(3): 4153-4163, 2024 <br>
 * <b>X. Xiu</b>, Z. Miao, W. Liu*, <a href="https://ieeexplore.ieee.org/abstract/document/9788040" class="textlink" target="_blank">A Sparsity-Aware Fault Diagnosis Framework Focusing on Accurate Isolation</a>, IEEE Transactions on Industrial Informatics, 19(2): 1356-1365, 2023 <br>
