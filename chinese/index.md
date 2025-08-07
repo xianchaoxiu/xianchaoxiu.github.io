@@ -29,9 +29,9 @@ share: false
 
  
 ### 学术论文
-* <b>X. Xiu</b>, L. Pan, Y. Yang*, W. Liu, <a href="https://ieeexplore.ieee.org/document/9887978" class="textlink" target="_blank">Efficient and Fast Joint Sparse Constrained Canonical Correlation Analysis for Fault Detection</a>, IEEE Transactions on Neural Networks and Learning Systems, 35(3): 4153-4163, 2024 <br>
-* <b>X. Xiu</b>, Z. Miao, Y. Yang*, W. Liu, <a href="https://ieeexplore.ieee.org/document/9583864" class="textlink" target="_blank">Deep Canonical Correlation Analysis Using Sparsity-Constrained Optimization for Nonlinear Process Monitoring</a>, IEEE Transactions on Industrial Informatics, 18(10): 6690-6699, 2022
-* <b>X. Xiu*</b>, L. Kong, Y. Li, H. Qi, <a href="https://link.springer.com/article/10.1007/s10589-017-9977-7" class="textlink" target="_blank">Iterative Reweighted Methods for L1-Lp Minimization</a>, Computational Optimization and Applications, 70(1): 201-219, 2018
+* <b>X. Xiu</b>, L. Pan, Y. Yang*, W. Liu, Efficient and Fast Joint Sparse Constrained Canonical Correlation Analysis for Fault Detection, <a href="https://ieeexplore.ieee.org/document/9887978" class="textlink" target="_blank">IEEE Transactions on Neural Networks and Learning Systems</a>, 35(3): 4153-4163, 2024 <br>
+* <b>X. Xiu</b>, Z. Miao, Y. Yang*, W. Liu, Deep Canonical Correlation Analysis Using Sparsity-Constrained Optimization for Nonlinear Process Monitoring, <a href="https://ieeexplore.ieee.org/document/9583864" class="textlink" target="_blank">IEEE Transactions on Industrial Informatics</a>, 18(10): 6690-6699, 2022
+* <b>X. Xiu*</b>, L. Kong, Y. Li, H. Qi, Iterative Reweighted Methods for L1-Lp Minimization, <a href="https://link.springer.com/article/10.1007/s10589-017-9977-7" class="textlink" target="_blank">Computational Optimization and Applications</a>, 70(1): 201-219, 2018
   
 
 ### 科研项目
