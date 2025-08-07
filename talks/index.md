@@ -12,7 +12,7 @@ share: false
 * Lightweight Deep Unrolling Network with Enhanced Robustness for Infrared Small Target Detection  <br>
 <i><a href="../talks/2025-MOS.pdf" class="textlink" target="_blank"> Mathematical Optimization Society </a> </i><br>
 
-* Learning to Select Features <br>
+* Learning to Select Features in the Era of AI <br>
 <i><a href="../talks/2025-POLYU.pdf" class="textlink" target="_blank"> The Hong Kong Polytechnic University </a> </i><br>
 
 
