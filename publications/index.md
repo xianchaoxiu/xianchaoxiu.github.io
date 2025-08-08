@@ -22,28 +22,27 @@ share: false
 
 ### 2024
 
-* J. Liu, M. Feng, <b>X. Xiu*</b>, W. Liu, <a href="https://doi.org/10.1016/j.patcog.2024.110512" class="textlink" target="_blank">Towards Robust and Sparse Linear Discriminant Analysis for Image Classification</a>, Pattern Recognition, 153: 110512, 2024 <a href="https://github.com/EMXlight/RSLDAplus" class="textlink" target="_blank" style="color: red;">[Code]</a>
-
 * <b>X. Xiu</b>, Y. Zhang, Y. Guo, X. Liu, Y. Yang*, <a href="https://ieeexplore.ieee.org/abstract/document/10464356" class="textlink" target="_blank">A New End-to-End Monitoring Framework for Nonlinear Dynamic Processes With Unknown Noise Statistics</a>, IEEE Transactions on Instrumentation and Measurement, 70: 3513011, 2024 <a href="https://github.com/xianchaoxiu/DRNN" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
-* J. Liu, M. Feng, <b>X. Xiu*</b>, W. Liu, X. Zeng, <a href="https://doi.org/10.1016/j.patcog.2024.110512" class="textlink" target="_blank">Efficient and Robust Sparse Linear Discriminant Analysis for Data Classification</a>, IEEE Transactions on Emerging Topics in Computational Intelligence, 9(1): 617-629, 2024, <a href="https://github.com/EMXlight/ERSLDA" class="textlink" target="_blank" style="color: red;">[Code]</a>
+* J. Liu, M. Feng, <b>X. Xiu*</b>, W. Liu, <a href="https://doi.org/10.1016/j.patcog.2024.110512" class="textlink" target="_blank">Towards Robust and Sparse Linear Discriminant Analysis for Image Classification</a>, Pattern Recognition, 153: 110512, 2024 <a href="https://github.com/EMXlight/RSLDAplus" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
 * W. Qu, H. Chen, <b>X. Xiu*</b>, W. Liu, <a href="https://doi.org/10.1016/j.neucom.2024.128267" class="textlink" target="_blank">Distributed Sparsity Constrained Optimization over the Stiefel Manifold</a>, Neurocomputing, 602: 128267, 2024 <a href="https://github.com/wtqu/DREAM" class="textlink" target="_blank" style="color: red;">[Code]</a>
+
+* J. Liu, M. Feng, <b>X. Xiu*</b>, W. Liu, X. Zeng, <a href="https://doi.org/10.1016/j.patcog.2024.110512" class="textlink" target="_blank">Efficient and Robust Sparse Linear Discriminant Analysis for Data Classification</a>, IEEE Transactions on Emerging Topics in Computational Intelligence, 9(1): 617-629, 2024, <a href="https://github.com/EMXlight/ERSLDA" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
 * Y. Zhu, <b>X. Xiu</b>, W. Liu, C. Yin, <a href="https://doi.org/10.1016/j.eswa.2024.125845" class="textlink" target="_blank">Joint Sparse Subspace Clustering via Fast L2,0-Norm Constrained Optimization</a>, Expert Systems with Applications, 265: 125845, 2024 <a href="https://github.com/zhudafa/JSSC" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
 
 ### 2023
 
+* <b>X. Xiu</b>, Y. Li*, <a href="https://ieeexplore.ieee.org/abstract/document/10050438" class="textlink" target="_blank">Learning Sparse Kernel CCA With Graph Priors for Nonlinear Process Monitoring</a>, IEEE Sensors Journal, 23(7): 7381-7389, 2023  <a href="https://github.com/xianchaoxiu/JSKCCA-GL" class="textlink" target="_blank" style="color: red;">[Code]</a>
+
+* H. Chen, L. Kong, W Qu, <b>X. Xiu*</b>, <a href="https://ieeexplore.ieee.org/abstract/document/10252040" class="textlink" target="_blank">An Enhanced Regularized Clustering Method With Adaptive Spurious Connection Detection</a>, IEEE Signal Processing Letters, 30: 1332-1336, 2023 <a href="https://github.com/xianchaoxiu/ERC" class="textlink" target="_blank" style="color: red;">[Code]</a>
+
 * J. Sun, <b>X. Xiu</b>, Z. Luo*, W. Liu, <a href="https://ieeexplore.ieee.org/abstract/document/10091146" class="textlink" target="_blank">Learning High-Order Multi-View Representation by New Tensor Canonical Correlation Analysis</a>, IEEE Transactions on Circuits and Systems for Video Technology, 33(10): 5645-5654, 2023  <a href="https://github.com/xianchaoxiu/TCCA" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
 * X. Zhang, <b>X. Xiu</b>, C. Zhang*, <a href="https://ieeexplore.ieee.org/abstract/document/10036023" class="textlink" target="_blank">Structured Joint Sparse Orthogonal Nonnegative Matrix Factorization for Fault Detection</a>, IEEE Transactions on Instrumentation and Measurement, 72: 2506015, 2023  <a href="https://github.com/xianchaoxiu/SJSONMF" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
-* H. Chen, L. Kong, W Qu, <b>X. Xiu*</b>, <a href="https://ieeexplore.ieee.org/abstract/document/10252040" class="textlink" target="_blank">An Enhanced Regularized Clustering Method With Adaptive Spurious Connection Detection</a>, IEEE Signal Processing Letters, 30: 1332-1336, 2023 <a href="https://github.com/xianchaoxiu/ERC" class="textlink" target="_blank" style="color: red;">[Code]</a>
-
-* <b>X. Xiu</b>, Y. Li*, <a href="https://ieeexplore.ieee.org/abstract/document/10050438" class="textlink" target="_blank">Learning Sparse Kernel CCA With Graph Priors for Nonlinear Process Monitoring</a>, IEEE Sensors Journal, 23(7): 7381-7389, 2023 
-
-* W. Qu, <b>X. Xiu</b>, H. Zhang, J. Fan*, <a href="https://doi.org/10.1016/j.cam.2022.115007" class="textlink" target="_blank">An Efficient Semi-Proximal ADMM Algorithm for Low-Rank and Sparse Regularized Matrix Minimization Problems with Real-World Applications</a>, Journal of Computational and Applied Mathematics, 424: 115007, 2023
 
 
 ### 2018-2022
