@@ -36,6 +36,8 @@ share: false
 
 * X. Zhang, <b>X. Xiu</b>, C. Zhang*, <a href="https://ieeexplore.ieee.org/abstract/document/10036023" class="textlink" target="_blank">Structured Joint Sparse Orthogonal Nonnegative Matrix Factorization for Fault Detection</a>, IEEE Transactions on Instrumentation and Measurement, 72: 2506015, 2023  <a href="https://github.com/xianchaoxiu/SJSONMF" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
+* <b>X. Xiu</b>, Y. Li*, <a href="https://ieeexplore.ieee.org/abstract/document/10050438" class="textlink" target="_blank">Learning Sparse Kernel CCA With Graph Priors for Nonlinear Process Monitoring</a>, IEEE Sensors Journal, 23(7): 7381-7389, 2023 <a href="https://github.com/xianchaoxiu/ERC" class="textlink" target="_blank" style="color: red;">[Code]</a>
+
 * H. Chen, L. Kong, W Qu, <b>X. Xiu*</b>, <a href="https://ieeexplore.ieee.org/abstract/document/10252040" class="textlink" target="_blank">An Enhanced Regularized Clustering Method With Adaptive Spurious Connection Detection</a>, IEEE Signal Processing Letters, 30: 1332-1336, 2023 <a href="https://github.com/xianchaoxiu/ERC" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
 
@@ -49,6 +51,10 @@ share: false
 * <b>X. Xiu</b>, Z. Miao, Y. Yang*, W. Liu, <a href="https://ieeexplore.ieee.org/document/9583864" class="textlink" target="_blank">Deep Canonical Correlation Analysis Using Sparsity-Constrained Optimization for Nonlinear Process Monitoring</a>, IEEE Transactions on Industrial Informatics, 18(10): 6690-6699, 2022
   
 * <b>X. Xiu</b>, Y. Yang*, L. Kong, W. Liu, <a href="https://ieeexplore.ieee.org/abstract/document/9068308/" class="textlink" target="_blank">Data-Driven Process Monitoring Using Structured Joint Sparse Canonical Correlation Analysis</a>, IEEE Transactions on Circuits and Systems II: Express Briefs, 68(1): 361-365, 2021
+
+* <b>X. Xiu</b>, J. Fan, Y. Yang*, W. Liu, <a href="https://ieeexplore.ieee.org/abstract/document/9381237" class="textlink" target="_blank">Fault Detection Using Structured Joint Sparse Nonnegative Matrix Factorization</a>, EEE Transactions on Instrumentation and Measurement, 70: 3513011, 2021
+
+* <b>X. Xiu</b>, Y. Yang*, L. Kong, W. Liu, <a href="https://doi.org/10.1016/j.jprocont.2020.06.011" class="textlink" target="_blank">Laplacian regularized robust principal component analysis for process monitoring</a>, Journal of Process Control, 92: 212-219, 2020
   
 * <b>X. Xiu</b>, Y. Yang*, L. Kong, W. Liu, <a href="https://doi.org/10.1016/j.amc.2020.125272" class="textlink" target="_blank">tSSNALM: A Fast Two-Stage Semi-Smooth Newton Augmented Lagrangian Method for Sparse CCA</a>, Applied Mathematics and Computation, 383(15): 125272, 2020
   
