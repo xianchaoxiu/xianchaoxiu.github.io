@@ -28,7 +28,7 @@ share: false
 
 * W. Qu, H. Chen, <b>X. Xiu*</b>, W. Liu, <a href="https://doi.org/10.1016/j.neucom.2024.128267" class="textlink" target="_blank">Distributed Sparsity Constrained Optimization over the Stiefel Manifold</a>, Neurocomputing, 602: 128267, 2024 <a href="https://github.com/wtqu/DREAM" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
-* J. Liu, M. Feng, <b>X. Xiu*</b>, W. Liu, X. Zeng, <a href="https://ieeexplore.ieee.org/abstract/document/10542504" class="textlink" target="_blank">Efficient and Robust Sparse Linear Discriminant Analysis for Data Classification</a>, IEEE Transactions on Emerging Topics in Computational Intelligence, 9(1): 617-629, 2024 <a href="https://github.com/EMXlight/ERSLDA" class="textlink" target="_blank" style="color: red;">[Code]</a>
+* J. Liu, M. Feng, <b>X. Xiu*</b>, W. Liu, X. Zeng, <a href="https://ieeexplore.ieee.org/abstract/document/10542504" class="textlink" target="_blank">Efficient and Robust Sparse Linear Discriminant Analysis for Data Classification</a>, IEEE Transactions on Emerging Topics in Computational Intelligence, 9(1): 617-629, 2024 <a href="https://github.com/xianchaoxiu/ERSLDA" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
 * Y. Zhu, <b>X. Xiu</b>, W. Liu, C. Yin, <a href="https://doi.org/10.1016/j.eswa.2024.125845" class="textlink" target="_blank">Joint Sparse Subspace Clustering via Fast L2,0-Norm Constrained Optimization</a>, Expert Systems with Applications, 265: 125845, 2024 <a href="https://github.com/zhudafa/JSSC" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
