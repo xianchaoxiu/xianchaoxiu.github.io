@@ -37,10 +37,9 @@ share: false
 
 * <b>X. Xiu</b>, Y. Li*, <a href="https://ieeexplore.ieee.org/abstract/document/10050438" class="textlink" target="_blank">Learning Sparse Kernel CCA With Graph Priors for Nonlinear Process Monitoring</a>, IEEE Sensors Journal, 23(7): 7381-7389, 2023  <a href="https://github.com/xianchaoxiu/JSKCCA-GL" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
-* Y. Li, <b>X. Xiu*</b>, W. Liu, <a href="https://ieeexplore.ieee.org/abstract/document/9765518" class="textlink" target="_blank">Toward Efficient Process Monitoring Using Spatiotemporal PCA</a>, IEEE Transactions on Circuits and Systems II: Express Briefs, 70(2): 551-555, 2023  <a href="https://github.com/xianchaoxiu/STPCA" class="textlink" target="_blank" style="color: red;">[Code]</a>
-
-
 * H. Chen, L. Kong, W Qu, <b>X. Xiu*</b>, <a href="https://ieeexplore.ieee.org/abstract/document/10252040" class="textlink" target="_blank">An Enhanced Regularized Clustering Method With Adaptive Spurious Connection Detection</a>, IEEE Signal Processing Letters, 30: 1332-1336, 2023 <a href="https://github.com/xianchaoxiu/ERC" class="textlink" target="_blank" style="color: red;">[Code]</a>
+
+* Y. Li, <b>X. Xiu*</b>, W. Liu, <a href="https://ieeexplore.ieee.org/abstract/document/9765518" class="textlink" target="_blank">Toward Efficient Process Monitoring Using Spatiotemporal PCA</a>, IEEE Transactions on Circuits and Systems II: Express Briefs, 70(2): 551-555, 2023  <a href="https://github.com/xianchaoxiu/STPCA" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
 * J. Sun, <b>X. Xiu</b>, Z. Luo*, W. Liu, <a href="https://ieeexplore.ieee.org/abstract/document/10091146" class="textlink" target="_blank">Learning High-Order Multi-View Representation by New Tensor Canonical Correlation Analysis</a>, IEEE Transactions on Circuits and Systems for Video Technology, 33(10): 5645-5654, 2023  <a href="https://github.com/xianchaoxiu/TCCA" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
