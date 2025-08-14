@@ -29,7 +29,6 @@ share: false
 
  
 ### 学术论文
-* J. Fan, A. Yan, <b>X. Xiu*</b>, W. Liu, <a href="https://arxiv.org/abs/2505.23273" class="textlink" target="_blank">Robust Sparse Phase Retrieval: Statistical Guarantee, Optimality Theory and Convergent Algorithm</a>, arXiv:2505.23273
 * <b>X. Xiu</b>, L. Pan, Y. Yang*, W. Liu, <a href="https://ieeexplore.ieee.org/document/9887978" class="textlink" target="_blank">Efficient and Fast Joint Sparse Constrained Canonical Correlation Analysis for Fault Detection</a>, IEEE Transactions on Neural Networks and Learning Systems, 35(3): 4153-4163, 2024
 * <b>X. Xiu</b>, Z. Miao, Y. Yang*, W. Liu, <a href="https://ieeexplore.ieee.org/document/9583864" class="textlink" target="_blank">Deep Canonical Correlation Analysis Using Sparsity-Constrained Optimization for Nonlinear Process Monitoring</a>, IEEE Transactions on Industrial Informatics, 18(10): 6690-6699, 2022
 * <b>X. Xiu*</b>, L. Kong, Y. Li, H. Qi, <a href="https://link.springer.com/article/10.1007/s10589-017-9977-7" class="textlink" target="_blank">Iterative Reweighted Methods for L1-Lp Minimization</a>, Computational Optimization and Applications, 70(1): 201-219, 2018
