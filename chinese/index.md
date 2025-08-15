@@ -42,4 +42,5 @@ share: false
 * 美国数学评论评论员 <br>
 * 上海市运筹学会青年委员 <br>
 * CSIAM大数据与人工智能专业委员会委员 <br>
+* 中国自动化学会人工智能与安全专业委员会委员 <br>
 * Big Data and Information Analytics 青年编委<br>
