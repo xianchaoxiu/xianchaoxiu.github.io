@@ -9,26 +9,17 @@ share: false
 
 ### 参考教材
 
-* <a href="http://faculty.bicmr.pku.edu.cn/~wenzw/optbook.html" class="textlink" target="_blank"> 文再文, 袁亚湘, 最优化方法与理论</a><br>
-* <a href="https://nndl.github.io/" class="textlink" target="_blank"> 邱锡鹏, 神经网络与深度学习 </a><br>
+* <a href="https://item.jd.com/13536130.html" class="textlink" target="_blank"> 盛骤, 谢式千, 潘承毅, 概率论与数理统计</a><br>
+* <a href="https://item.jd.com/12112157.html" class="textlink" target="_blank"> 陈希孺, 概率论与数理统计 </a><br>
 
 
 
 ### 课程信息 
 
-- 第一部分 &nbsp;  基础篇<br>
-  -  <a href="../OPT/绪论.pdf" class="textlink" target="_blank">  第一章 &nbsp;  绪论<br>
-  -  <a href="../OPT/最优化理论.pdf" class="textlink" target="_blank">  第二章 &nbsp;  最优化理论<br>
-  -  <a href="../OPT/无约束优化算法.pdf" class="textlink" target="_blank">  第三章 &nbsp;  无约束优化算法<br>
-  -  <a href="../OPT/约束优化算法.pdf" class="textlink" target="_blank">  第四章 &nbsp;  约束优化算法<br>
-  -  <a href="../OPT/复合优化算法.pdf" class="textlink" target="_blank">  第五章 &nbsp;  复合优化算法<br><br>
-
-
-- 第二部分 &nbsp;  进阶篇<br>
-  - 第六章 &nbsp;  学习优化 <br>
-  - 第七章 &nbsp;  大模型智能决策 <br>
-  - 第八章 &nbsp;  大模型具身智能 <br>
-  - 第九章 &nbsp;  大模型强化学习 <br>
-  - 第十章 &nbsp;  大模型压缩与轻量化 <br>
+-  <a href="../PRO/基本概念.pdf" class="textlink" target="_blank">  第一章 &nbsp;  基本概念<br>
+-  <a href="../PRO/随机变量及其分布.pdf" class="textlink" target="_blank">  第二章 &nbsp;  随机变量及其分布<br>
+-  <a href="../PRO/多维随机变量及其分布.pdf" class="textlink" target="_blank">  第三章 &nbsp;  多维随机变量及其分布<br>
+-  <a href="../PRO/随机变量的数字特征.pdf" class="textlink" target="_blank">  第四章 &nbsp;  随机变量的数字特征<br>
+-  <a href="../PRO/大数定律及中心极限定理.pdf" class="textlink" target="_blank">  第五章 &nbsp;  大数定律及中心极限定理<br><br>
 
 
