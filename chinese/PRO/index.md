@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 现代优化方法
+title: 概率论
 comments: false
 share: false
 ---
