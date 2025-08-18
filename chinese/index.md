@@ -24,6 +24,7 @@ share: false
 
 
 ### 讲授课程
+* <a href="https://xianchaoxiu.github.io/chinese/PRO/" class="textlink" target="_blank"> 概率论 </a><br>
 * <a href="https://xianchaoxiu.github.io/chinese/OR/" class="textlink" target="_blank"> 运筹学基础 </a><br>
 * <a href="https://xianchaoxiu.github.io/chinese/OPT/" class="textlink" target="_blank"> 现代优化方法 </a><br>
 
