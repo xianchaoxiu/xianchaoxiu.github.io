@@ -39,8 +39,8 @@ share: false
 * <b>X. Xiu</b>, Z. Miao, Y. Yang*, W. Liu, <a href="https://ieeexplore.ieee.org/document/9583864" class="textlink" target="_blank">Deep Canonical Correlation Analysis Using Sparsity-Constrained Optimization for Nonlinear Process Monitoring</a>, IEEE Transactions on Industrial Informatics, 18(10): 6690-6699, 2022
   
 ### 科研项目
-* 2024.01-2027.12, 国家自然科学基金面上项目 
-* 2021.01-2023.12, 国家自然科学基金青年项目 
+* 2024.01-2027.12, 国家自然科学基金面上项目, 主持
+* 2021.01-2023.12, 国家自然科学基金青年项目, 主持 
 
 
 ### 社会兼职
