@@ -19,7 +19,7 @@ share: false
 
 ### 学术交流
 * 2025.03-2025.09, 香港理工大学, 访问学者 (合作者: 戚厚铎) <br>
-* 2016.12-2017.12, 澳大利亚科廷大学, 联合培养 (合作者: 刘万泉)  <br>
+* 2016.12-2017.12, 澳大利亚科廷大学, 联合培养 (合作者: <a href="https://ise.sysu.edu.cn/teacher/LiuWanquan" class="textlink" target="_blank">刘万泉</a>)  <br>
 
 
 ### 研究兴趣
