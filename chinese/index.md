@@ -14,12 +14,12 @@ share: false
 ### 工作经历
 * 2024.04-至今, 上海大学, 副教授 <br>
 * 2021.05-2024.04, 上海大学, 讲师 <br>
-* 2019.02-2021.05, 北京大学, 博士后 (合作者: <a href="https://www.coe.pku.edu.cn/teaching/all_time/7262.html" class="textlink" target="_blank">杨莹</a>) <br>
+* 2019.02-2021.05, 北京大学, 博士后 (导师: <a href="https://www.coe.pku.edu.cn/teaching/all_time/7262.html" class="textlink" target="_blank">杨莹</a>) <br>
 * 2014.09-2012.02, 北京交通大学, 博士 (导师: <a href="https://faculty.bjtu.edu.cn/8316/" class="textlink" target="_blank">孔令臣</a>)<br>
 
 ### 学术交流
-* 2025.03-2025.09, 香港理工大学, 访问学者 (合作者: <a href="https://www.polyu.edu.hk/ama/people/academic-staff/prof-qi-houduo/" class="textlink" target="_blank">戚厚铎</a>) <br>
-* 2016.12-2017.12, 澳大利亚科廷大学, 联合培养 (合作者: <a href="https://ise.sysu.edu.cn/teacher/LiuWanquan" class="textlink" target="_blank">刘万泉</a>)  <br>
+* 2025.03-2025.09, 香港理工大学, 访问学者 (导师: <a href="https://www.polyu.edu.hk/ama/people/academic-staff/prof-qi-houduo/" class="textlink" target="_blank">戚厚铎</a>) <br>
+* 2016.12-2017.12, 澳大利亚科廷大学, 联合培养 (导师: <a href="https://ise.sysu.edu.cn/teacher/LiuWanquan" class="textlink" target="_blank">刘万泉</a>)  <br>
 
 
 ### 研究兴趣
