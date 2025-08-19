@@ -12,8 +12,8 @@ share: false
 
 
 ### 工作经历
-* 2024.04-至&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;今, 上海大学, 副教授 <br>
-* 2021.05-2024.04, 上海大学, 助理教授 <br>
+* 2024.04-至今, 上海大学, 副教授 <br>
+* 2021.05-2024.04, 上海大学, 讲师 <br>
 * 2019.02-2021.05, 北京大学, 博士后 (合作者: <a href="https://www.coe.pku.edu.cn/teaching/all_time/7262.html" class="textlink" target="_blank">杨莹</a>) <br>
 * 2014.09-2012.02, 北京交通大学, 博士 (导师: <a href="https://faculty.bjtu.edu.cn/8316/" class="textlink" target="_blank">孔令臣</a>)<br>
 
