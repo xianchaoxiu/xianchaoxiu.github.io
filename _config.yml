@@ -57,5 +57,7 @@ owner:
   weibo: #username
   flickr: #username
   codepen: #username
+	
+   <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=006db0&w=250&t=tt&d=HPcu2PQQVqpyclUxmAqbL9iwvLM8SXHaoaSE5UQQZL4&co=ffffff&ct=006db0'></script>
 
 include: [".htaccess", "lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
