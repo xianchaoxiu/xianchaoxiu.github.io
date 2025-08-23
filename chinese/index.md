@@ -53,7 +53,7 @@ share: false
 
 <div align="center">
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=jingyaogong/minimind)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=xianchaoxiu)
 [![GitHub Repo stars](https://img.shields.io/github/stars/jingyaogong/minimind?style=social)](https://github.com/jingyaogong/minimind/stargazers)
 [![GitHub Code License](https://img.shields.io/github/license/jingyaogong/minimind)](LICENSE)
 [![GitHub last commit](https://img.shields.io/github/last-commit/jingyaogong/minimind)](https://github.com/jingyaogong/minimind/commits/master)
