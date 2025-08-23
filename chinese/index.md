@@ -49,12 +49,4 @@ share: false
 * CSIAM大数据与人工智能专业委员会委员 <br>
 * 中国自动化学会人工智能与安全专业委员会委员 <br> <br> <br>
 
-</div>
 
-<div align="center">
- 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=xianchaoxiu)
-
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_text=MyPageVisitors)
-
-</div>
