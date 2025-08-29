@@ -15,11 +15,9 @@ share: false
 
 * H. Chen, L. Liu, <b>X. Xiu*</b>, W. Liu, <a href="https://ieeexplore.ieee.org/document/11141691" class="textlink" target="_blank">Adaptive Multi-Order Graph Regularized NMF with Dual Sparsity for Hyperspectral Unmixing</a>, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2025 <a href="https://github.com/xianchaoxiu/MOGNMF" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
-* W. Zhang, T. Sun, Y. Li, C. He, <b>X. Xiu*</b>, Z. Miao, <a href="https://doi.org/10.1016/j.compag.2025.110822" class="textlink" target="_blank">Optimal Motion Planning and Navigation for Nonholonomic Agricultural Robots in Multi-Constraint and Multi-Task Environments</a>, Computers and Electronics in Agriculture, 238: 110822, 2025 <a href="https://github.com/xianchaoxiu/MPAR" class="textlink" target="_blank" style="color: red;">[Code]</a>
-
 * J. Liu, M. Feng, <b>X. Xiu*</b>, X. Zeng, J. Zhang, <a href="https://ieeexplore.ieee.org/document/10935754" class="textlink" target="_blank">Tensor Low-Rank Approximation via Plug-and-Play Priors for Anomaly Detection in Remote Sensing Images</a>, IEEE Transactions on Instrumentation and Measurement, 74: 5503014, 2025 <a href="https://github.com/xianchaoxiu/PnP-TLRA" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
-
+* W. Zhang, T. Sun, Y. Li, C. He, <b>X. Xiu*</b>, Z. Miao, <a href="https://doi.org/10.1016/j.compag.2025.110822" class="textlink" target="_blank">Optimal Motion Planning and Navigation for Nonholonomic Agricultural Robots in Multi-Constraint and Multi-Task Environments</a>, Computers and Electronics in Agriculture, 238: 110822, 2025 <a href="https://github.com/xianchaoxiu/MPAR" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
 
 
