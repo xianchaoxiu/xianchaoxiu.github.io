@@ -13,7 +13,7 @@ share: false
 
 ### 2025
 
-* H. Chen, L. Liu, <b>X. Xiu*</b>, W. Liu, <a href="https://doi.org/10.1016/10.1109/JSTARS.2025.3602505" class="textlink" target="_blank">Adaptive Multi-Order Graph Regularized NMF with Dual Sparsity for Hyperspectral Unmixing</a>, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2025 <a href="https://github.com/xianchaoxiu/MOGNMF" class="textlink" target="_blank" style="color: red;">[Code]</a>
+* H. Chen, L. Liu, <b>X. Xiu*</b>, W. Liu, <a href="https://doi.org/10.1109/JSTARS.2025.3602505" class="textlink" target="_blank">Adaptive Multi-Order Graph Regularized NMF with Dual Sparsity for Hyperspectral Unmixing</a>, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2025 <a href="https://github.com/xianchaoxiu/MOGNMF" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
 * J. Liu, M. Feng, <b>X. Xiu*</b>, X. Zeng, J. Zhang, <a href="https://ieeexplore.ieee.org/document/10935754" class="textlink" target="_blank">Tensor Low-Rank Approximation via Plug-and-Play Priors for Anomaly Detection in Remote Sensing Images</a>, IEEE Transactions on Instrumentation and Measurement, 74: 5503014, 2025 <a href="https://github.com/xianchaoxiu/PnP-TLRA" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
