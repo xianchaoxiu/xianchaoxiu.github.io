@@ -13,7 +13,7 @@ share: false
 
 ### 2025
 
-* <b>修贤超</b>, 杨安宁, 李鑫荣*, 基于对比学习的稀疏低秩无监督特征选择方法, 运筹学学报(中英文), 2025 <a href="https://github.com/xianchaoxiu/DSCOFS-CL" class="textlink" target="_blank" style="color: red;">[Code]</a>
+* <b>X. Xiu</b>, Anning Yang, Xinrong Li*, Unsupervised Feature Selection via Sparse and Low-Rank Contrastive Learning, Operations Research Transactions, 2025 <a href="https://github.com/xianchaoxiu/DSCOFS-CL" class="textlink" target="_blank" style="color: red;">[Code]</a>
 * H. Chen, L. Liu, <b>X. Xiu*</b>, W. Liu, <a href="https://doi.org/10.1109/JSTARS.2025.3602505" class="textlink" target="_blank">Adaptive Multi-Order Graph Regularized NMF with Dual Sparsity for Hyperspectral Unmixing</a>, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 18: 22121-22136, 2025 <a href="https://github.com/xianchaoxiu/MOGNMF" class="textlink" target="_blank" style="color: red;">[Code]</a>
 * H. Chen, L. Liu, <b>X. Xiu*</b>, W. Liu, <a href="https://doi.org/10.1109/JSTARS.2025.3602505" class="textlink" target="_blank">Adaptive Multi-Order Graph Regularized NMF with Dual Sparsity for Hyperspectral Unmixing</a>, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 18: 22121-22136, 2025 <a href="https://github.com/xianchaoxiu/MOGNMF" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
