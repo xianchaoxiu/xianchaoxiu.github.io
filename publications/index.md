@@ -13,7 +13,7 @@ share: false
 
 ### 2025
 
-* <b>X. Xiu</b>, A. Yang, X. Li*, Unsupervised Feature Selection via Sparse and Low-Rank Contrastive Learning, Operations Research Transactions, 2025 <a href="https://github.com/xianchaoxiu/DSCOFS-CL" class="textlink" target="_blank" style="color: red;">[Code]</a>
+* <b>修贤超</b>, 杨安宁, 李鑫荣*, 基于对比学习的稀疏低秩无监督特征选择方法, 运筹学学报, 2025 <a href="https://github.com/xianchaoxiu/DSCOFS-CL" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
 * J. Liu, J. Jin, <b>X. Xiu*</b>, J. Zhang, W. Liu, STAR-Net: An Interpretable Model-Aided Network for Remote Sensing Image Denoising, Pattern Recognition, 2025 <a href="https://github.com/xianchaoxiu/STAR-Net" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
