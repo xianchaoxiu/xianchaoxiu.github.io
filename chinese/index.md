@@ -31,7 +31,7 @@ share: false
 * <a href="https://xianchaoxiu.github.io/chinese/PRO/" class="textlink" target="_blank"> 概率论 </a><br>
 * <a href="https://xianchaoxiu.github.io/chinese/OR/" class="textlink" target="_blank"> 运筹学基础 </a><br>
 * <a href="https://xianchaoxiu.github.io/chinese/OPT/" class="textlink" target="_blank"> 现代优化方法 </a><br>
-* 学术英语写作 <br>
+* <a href="https://xianchaoxiu.github.io/chinese/SW/" class="textlink" target="_blank"> 学术英语写作 <br>
  
 ### 学术论文
 * J. Liu, J. Jin, <b>X. Xiu*</b>, J. Zhang, W. Liu, STAR-Net: An Interpretable Model-Aided Network for Remote Sensing Image Denoising, Pattern Recognition, 2025
