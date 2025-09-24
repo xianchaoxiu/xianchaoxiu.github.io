@@ -31,7 +31,7 @@ share: false
 * <a href="https://xianchaoxiu.github.io/chinese/PRO/" class="textlink" target="_blank"> 概率论 </a><br>
 * <a href="https://xianchaoxiu.github.io/chinese/OR/" class="textlink" target="_blank"> 运筹学基础 </a><br>
 * <a href="https://xianchaoxiu.github.io/chinese/OPT/" class="textlink" target="_blank"> 现代优化方法 </a><br>
-
+* 学术英语写作 <br>
  
 ### 学术论文
 * J. Liu, M. Feng, <b>X. Xiu*</b>, W. Liu, <a href="https://doi.org/10.1016/j.patcog.2024.110512" class="textlink" target="_blank">Towards Robust and Sparse Linear Discriminant Analysis for Image Classification</a>, Pattern Recognition, 153: 110512, 2024 
