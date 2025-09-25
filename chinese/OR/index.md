@@ -11,8 +11,8 @@ share: false
 
 ### 课程信息
 * <a href="../OR/引言.pdf" class="textlink" target="_blank">  第一章 &nbsp;  引言<br>
-* <a href="../OR/线性规划.pdf" class="textlink" target="_blank">  第二章 &nbsp;  线性规划<br>
-* <a href="../OR/整数规划.pdf" class="textlink" target="_blank">  第三章 &nbsp;  整数规划<br>
-* <a href="../OR/非线性规划.pdf" class="textlink" target="_blank">  第四章 &nbsp;  非线性规划<br>
-* <a href="../OR/动态规划.pdf" class="textlink" target="_blank">  第五章 &nbsp;  动态规划<br>
-* <a href="../OR/对策论.pdf" class="textlink" target="_blank">  第六章 &nbsp;  对策论<br>
+*  第二章 &nbsp;  线性规划<br>
+*  第三章 &nbsp;  整数规划<br>
+*  第四章 &nbsp;  非线性规划<br>
+*  第五章 &nbsp;  动态规划<br>
+*  第六章 &nbsp;  对策论<br>
