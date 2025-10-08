@@ -35,7 +35,7 @@ share: false
 
  
 ### 学术论文
-* J. Liu, J. Jin, <b>X. Xiu*</b>, J. Zhang, W. Liu, STAR-Net: An Interpretable Model-Aided Network for Remote Sensing Image Denoising, Pattern Recognition, 173: 112496, 2025
+* J. Liu, J. Jin, <b>X. Xiu*</b>, J. Zhang, W. Liu, STAR-Net: An Interpretable Model-Aided Network for Remote Sensing Image Denoising, Pattern Recognition, 172: 112496, 2025
 * J. Liu, M. Feng, <b>X. Xiu*</b>, W. Liu, Towards Robust and Sparse Linear Discriminant Analysis for Image Classification, Pattern Recognition, 153: 110512, 2024
 * <b>X. Xiu</b>, L. Pan, Y. Yang*, W. Liu, Efficient and Fast Joint Sparse Constrained Canonical Correlation Analysis for Fault Detection, IEEE Transactions on Neural Networks and Learning Systems, 35(3): 4153-4163, 2024
 * <b>X. Xiu</b>, Z. Miao, W. Liu*, A Sparsity-Aware Fault Diagnosis Framework Focusing on Accurate Isolation, IEEE Transactions on Industrial Informatics, 19(2): 1356-1365, 2023
