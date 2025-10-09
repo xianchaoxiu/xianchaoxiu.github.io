@@ -42,7 +42,8 @@ share: false
 * <b>X. Xiu</b>, Z. Miao, Y. Yang*, W. Liu, Deep Canonical Correlation Analysis Using Sparsity-Constrained Optimization for Nonlinear Process Monitoring, IEEE Transactions on Industrial Informatics, 18(10): 6690-6699, 2022
   
 ### 科研项目
-* 2024.01-2027.12, 国家自然科学基金面上项目, 大规模黎曼流形稀疏优化算法及应用 
+* 2025.01-2025.12, 企业横向项目, 生成式人工智能驱动的轴承缺陷检测技术研究
+* 2024.01-2027.12, 国家自然科学基金面上项目, 大规模黎曼流形稀疏优化算法及应用
 * 2021.01-2023.12, 国家自然科学基金青年项目, 稀疏典型相关分析的理论与算法研究
 
 
