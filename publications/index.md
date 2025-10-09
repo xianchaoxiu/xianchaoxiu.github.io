@@ -15,6 +15,8 @@ share: false
 
 * <b>修贤超</b>, 杨安宁, 李鑫荣*, 基于对比学习的稀疏低秩无监督特征选择方法, 运筹学学报, 2025 <a href="https://github.com/xianchaoxiu/DSCOFS-CL" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
+* <b>X. Xiu</b>, C. Huang, P. Shang*, W. Liu, Bi-Sparse Unsupervised Feature Selection, IEEE Transactions on Image Processing, 2025 <a href="https://github.com/xianchaoxiu/BSUFS" class="textlink" target="_blank" style="color: red;">[Code]</a>
+
 * J. Liu, J. Jin, <b>X. Xiu*</b>, J. Zhang, W. Liu, <a href="https://doi.org/10.1016/j.patcog.2025.112496" class="textlink" target="_blank">STAR-Net: An Interpretable Model-Aided Network for Remote Sensing Image Denoising</a>, Pattern Recognition, 172: 112496, 2025 <a href="https://github.com/xianchaoxiu/STAR-Net" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
 * H. Chen, L. Liu, <b>X. Xiu*</b>, W. Liu, <a href="https://doi.org/10.1109/JSTARS.2025.3602505" class="textlink" target="_blank">Adaptive Multi-Order Graph Regularized NMF with Dual Sparsity for Hyperspectral Unmixing</a>, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 18: 22121-22136, 2025 <a href="https://github.com/xianchaoxiu/MOGNMF" class="textlink" target="_blank" style="color: red;">[Code]</a>
@@ -22,9 +24,6 @@ share: false
 * J. Liu, M. Feng, <b>X. Xiu*</b>, X. Zeng, J. Zhang, <a href="https://doi.org/10.1109/TIM.2025.3553235" class="textlink" target="_blank">Tensor Low-Rank Approximation via Plug-and-Play Priors for Anomaly Detection in Remote Sensing Images</a>, IEEE Transactions on Instrumentation and Measurement, 74: 5503014, 2025 <a href="https://github.com/xianchaoxiu/PnP-TLRA" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
 * W. Zhang, T. Sun, Y. Li, C. He, <b>X. Xiu*</b>, Z. Miao, <a href="https://doi.org/10.1016/j.compag.2025.110822" class="textlink" target="_blank">Optimal Motion Planning and Navigation for Nonholonomic Agricultural Robots in Multi-Constraint and Multi-Task Environments</a>, Computers and Electronics in Agriculture, 238: 110822, 2025 <a href="https://github.com/xianchaoxiu/MPAR" class="textlink" target="_blank" style="color: red;">[Code]</a>
-
-
-
 
    
 ### 2024
