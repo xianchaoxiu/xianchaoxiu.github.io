@@ -13,7 +13,7 @@ share: false
 
 ### 2025
 
-* <b>修贤超</b>, 杨安宁, 李鑫荣*, 基于对比学习的稀疏低秩无监督特征选择方法, 运筹学学报, Accepted <a href="https://github.com/xianchaoxiu/DSCOFS-CL" class="textlink" target="_blank" style="color: red;">[Code]</a>
+* <b>修贤超</b>, 杨安宁, 李鑫荣*, 基于对比学习的稀疏低秩无监督特征选择方法, 运筹学学报, 已接收 <a href="https://github.com/xianchaoxiu/DSCOFS-CL" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
 * <b>X. Xiu</b>, C. Huang, P. Shang*, W. Liu, Bi-Sparse Unsupervised Feature Selection, IEEE Transactions on Image Processing, Accepted <a href="https://github.com/xianchaoxiu/BSUFS" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
