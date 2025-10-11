@@ -66,7 +66,7 @@ share: false
 
 * <b>X. Xiu</b>, J. Fan, Y. Yang*, W. Liu, <a href="https://doi.org/10.1109/TIM.2021.3067218" class="textlink" target="_blank">Fault Detection Using Structured Joint Sparse Nonnegative Matrix Factorization</a>, EEE Transactions on Instrumentation and Measurement, 70: 3513011, 2021
 
-* <b>X. Xiu</b>, Y. Yang*, L. Kong, W. Liu, <a href="https://doi.org/10.1016/j.jprocont.2020.06.011" class="textlink" target="_blank">Laplacian regularized robust principal component analysis for process monitoring</a>, Journal of Process Control, 92: 212-219, 2020
+* <b>X. Xiu</b>, Y. Yang*, L. Kong, W. Liu, <a href="https://doi.org/10.1016/j.jprocont.2020.06.011" class="textlink" target="_blank">Laplacian Regularized Robust Principal Component Analysis for Process Monitoring</a>, Journal of Process Control, 92: 212-219, 2020
   
 * <b>X. Xiu</b>, Y. Yang*, L. Kong, W. Liu, <a href="https://doi.org/10.1016/j.amc.2020.125272" class="textlink" target="_blank">tSSNALM: A Fast Two-Stage Semi-Smooth Newton Augmented Lagrangian Method for Sparse CCA</a>, Applied Mathematics and Computation, 383(15): 125272, 2020
   
