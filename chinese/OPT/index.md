@@ -25,7 +25,7 @@ share: false
 
 
 - 第二部分 &nbsp;  进阶篇<br>
-  - 第六章 &nbsp;  学习优化算法 <br>
+  - 第六章 &nbsp;  学习最优化算法 <br>
   - 第七章 &nbsp;  大模型智能决策 <br>
   - 第八章 &nbsp;  大模型具身智能 <br>
   - 第九章 &nbsp;  大模型强化学习 <br>
