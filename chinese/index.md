@@ -41,6 +41,7 @@ share: false
 * <b>X. Xiu</b>, L. Pan, Y. Yang*, W. Liu, Efficient and Fast Joint Sparse Constrained Canonical Correlation Analysis for Fault Detection, IEEE Transactions on Neural Networks and Learning Systems, 35(3): 4153-4163, 2024 <br>
 * <b>X. Xiu</b>, Z. Miao, W. Liu*, A Sparsity-Aware Fault Diagnosis Framework Focusing on Accurate Isolation, IEEE Transactions on Industrial Informatics, 19(2): 1356-1365, 2023 <br>
 * <b>X. Xiu</b>, Z. Miao, Y. Yang*, W. Liu, Deep Canonical Correlation Analysis Using Sparsity-Constrained Optimization for Nonlinear Process Monitoring, IEEE Transactions on Industrial Informatics, 18(10): 6690-6699, 2022 <br>
+
   
 ### 科研项目
 * 2024.01-2027.12, 国家自然科学基金面上项目, 大规模黎曼流形稀疏优化算法及应用, 主持<br>
