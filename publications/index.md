@@ -17,6 +17,8 @@ share: false
 
 * <b>X. Xiu</b>, C. Huang, P. Shang*, W. Liu, Bi-Sparse Unsupervised Feature Selection, IEEE Transactions on Image Processing, Accepted <a href="https://github.com/xianchaoxiu/BSUFS" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
+* J. Fan, A. Yan, <b>X. Xiu*</b>, W. Liu, Robust Sparse Phase Retrieval: Statistical Guarantee, Optimality Theory and Convergent Algorithm, Inverse Problems, Accepted
+
 * J. Liu, J. Jin, <b>X. Xiu*</b>, J. Zhang, W. Liu, <a href="https://doi.org/10.1016/j.patcog.2025.112496" class="textlink" target="_blank">STAR-Net: An Interpretable Model-Aided Network for Remote Sensing Image Denoising</a>, Pattern Recognition, 172: 112496, 2025 <a href="https://github.com/xianchaoxiu/STAR-Net" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
 * H. Chen, L. Liu, <b>X. Xiu*</b>, W. Liu, <a href="https://doi.org/10.1109/JSTARS.2025.3602505" class="textlink" target="_blank">Adaptive Multi-Order Graph Regularized NMF with Dual Sparsity for Hyperspectral Unmixing</a>, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 18: 22121-22136, 2025 <a href="https://github.com/xianchaoxiu/MOGNMF" class="textlink" target="_blank" style="color: red;">[Code]</a>
