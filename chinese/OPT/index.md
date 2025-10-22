@@ -25,7 +25,7 @@ share: false
 
 
 - 第二部分 &nbsp;  进阶篇<br>
-  <a href="../OPT/学习最优化.pdf" class="textlink" target="_blank"> 第六章 &nbsp;  学习最优化 <br>
+  - <a href="../OPT/学习最优化.pdf" class="textlink" target="_blank"> 第六章 &nbsp;  学习最优化 <br>
   - 第七章 &nbsp;  大模型智能决策 <br>
   - 第八章 &nbsp;  大模型具身智能 <br>
   - 第九章 &nbsp;  大模型强化学习 <br>
