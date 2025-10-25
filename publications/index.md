@@ -38,8 +38,6 @@ share: false
 
 * J. Liu, M. Feng, <b>X. Xiu*</b>, W. Liu, X. Zeng, <a href="https://doi.org/10.1109/TETCI.2024.3403912" class="textlink" target="_blank">Efficient and Robust Sparse Linear Discriminant Analysis for Data Classification</a>, IEEE Transactions on Emerging Topics in Computational Intelligence, 9(1): 617-629, 2024 <a href="https://github.com/xianchaoxiu/ERSLDA" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
-* Y. Zhu, <b>X. Xiu</b>, W. Liu, C. Yin, <a href="https://doi.org/10.1016/j.eswa.2024.125845" class="textlink" target="_blank">Joint Sparse Subspace Clustering via Fast L2,0-Norm Constrained Optimization</a>, Expert Systems with Applications, 265: 125845, 2024 <a href="https://github.com/zhudafa/JSSC" class="textlink" target="_blank" style="color: red;">[Code]</a>
-
 
 
 ### 2023
@@ -49,8 +47,6 @@ share: false
 * H. Chen, L. Kong, W Qu, <b>X. Xiu*</b>, <a href="https://doi.org/10.1109/LSP.2023.3316023" class="textlink" target="_blank">An Enhanced Regularized Clustering Method With Adaptive Spurious Connection Detection</a>, IEEE Signal Processing Letters, 30: 1332-1336, 2023 <a href="https://github.com/xianchaoxiu/ERC" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
 * J. Sun, <b>X. Xiu</b>, Z. Luo*, W. Liu, <a href="https://doi.org/10.1109/TCSVT.2023.3263853" class="textlink" target="_blank">Learning High-Order Multi-View Representation by New Tensor Canonical Correlation Analysis</a>, IEEE Transactions on Circuits and Systems for Video Technology, 33(10): 5645-5654, 2023  <a href="https://github.com/xianchaoxiu/TCCA" class="textlink" target="_blank" style="color: red;">[Code]</a>
-
-* X. Zhang, <b>X. Xiu</b>, C. Zhang*, <a href="https://doi.org/10.1109/TIM.2023.3241990" class="textlink" target="_blank">Structured Joint Sparse Orthogonal Nonnegative Matrix Factorization for Fault Detection</a>, IEEE Transactions on Instrumentation and Measurement, 72: 2506015, 2023  <a href="https://github.com/xianchaoxiu/SJSONMF" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
 
 
