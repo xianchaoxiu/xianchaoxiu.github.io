@@ -48,8 +48,6 @@ share: false
 
 * H. Chen, L. Kong, W Qu, <b>X. Xiu*</b>, <a href="https://doi.org/10.1109/LSP.2023.3316023" class="textlink" target="_blank">An Enhanced Regularized Clustering Method With Adaptive Spurious Connection Detection</a>, IEEE Signal Processing Letters, 30: 1332-1336, 2023 <a href="https://github.com/xianchaoxiu/ERC" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
-* Y. Li, <b>X. Xiu*</b>, W. Liu, <a href="https://doi.org/10.1109/TCSII.2022.3171205" class="textlink" target="_blank">Toward Efficient Process Monitoring Using Spatiotemporal PCA</a>, IEEE Transactions on Circuits and Systems II: Express Briefs, 70(2): 551-555, 2023  <a href="https://github.com/xianchaoxiu/STPCA" class="textlink" target="_blank" style="color: red;">[Code]</a>
-
 * J. Sun, <b>X. Xiu</b>, Z. Luo*, W. Liu, <a href="https://doi.org/10.1109/TCSVT.2023.3263853" class="textlink" target="_blank">Learning High-Order Multi-View Representation by New Tensor Canonical Correlation Analysis</a>, IEEE Transactions on Circuits and Systems for Video Technology, 33(10): 5645-5654, 2023  <a href="https://github.com/xianchaoxiu/TCCA" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
 * X. Zhang, <b>X. Xiu</b>, C. Zhang*, <a href="https://doi.org/10.1109/TIM.2023.3241990" class="textlink" target="_blank">Structured Joint Sparse Orthogonal Nonnegative Matrix Factorization for Fault Detection</a>, IEEE Transactions on Instrumentation and Measurement, 72: 2506015, 2023  <a href="https://github.com/xianchaoxiu/SJSONMF" class="textlink" target="_blank" style="color: red;">[Code]</a>
