@@ -23,7 +23,7 @@ share: false
 * <b>X. Xiu</b>, Y. Yang*, L. Kong, W. Liu, Data-Driven Process Monitoring Using Structured Joint Sparse Canonical Correlation Analysis, IEEE Transactions on Circuits and Systems II: Express Briefs, 68(1): 361-365, 2021 <br>
 
 
-### 学习最优化方法与应用 
+### 学习优化方法与应用 
 
 * J. Liu, J. Jin, <b>X. Xiu*</b>, J. Zhang, W. Liu, STAR-Net: An Interpretable Model-Aided Network for Remote Sensing Image Denoising, Pattern Recognition, 172: 112496, 2026 <br>
 
