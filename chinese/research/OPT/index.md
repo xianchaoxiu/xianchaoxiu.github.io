@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 现代优化方法
+title: 最优化方法
 comments: false
 share: false
 ---
