@@ -7,28 +7,29 @@ share: false
 
 
 
-### 参考教材
+### 稀疏优化理论与算法
 
-* <a href="http://faculty.bicmr.pku.edu.cn/~wenzw/optbook.html" class="textlink" target="_blank"> 文再文, 袁亚湘, 最优化方法与理论</a><br>
-* <a href="https://nndl.github.io/" class="textlink" target="_blank"> 邱锡鹏, 神经网络与深度学习 </a><br>
-* <a href="https://github.com/ZJU-LLMs/Foundations-of-LLMs" class="textlink" target="_blank"> 毛玉仁, 高云君, 大模型基础 </a><br>
-
-
-### 课程信息 
-
-- 第一部分 &nbsp;  基础篇<br>
-  -  <a href="../OPT/绪论.pdf" class="textlink" target="_blank">  第一章 &nbsp;  绪论<br>
-  -  <a href="../OPT/最优化理论.pdf" class="textlink" target="_blank">  第二章 &nbsp;  最优化理论<br>
-  -  <a href="../OPT/无约束优化算法.pdf" class="textlink" target="_blank">  第三章 &nbsp;  无约束优化算法<br>
-  -  <a href="../OPT/约束优化算法.pdf" class="textlink" target="_blank"> 第四章 &nbsp;  约束优化算法<br>
-  -  <a href="../OPT/复合优化算法.pdf" class="textlink" target="_blank"> 第五章 &nbsp;  复合优化算法<br><br>
+* <b>X. Xiu</b>, C. Huang, P. Shang*, W. Liu, Bi-Sparse Unsupervised Feature Selection, IEEE Transactions on Image Processing, 2025  <br>
+* J. Fan, A. Yan, <b>X. Xiu*</b>, W. Liu, Robust Sparse Phase Retrieval: Statistical Guarantee, Optimality Theory and Convergent Algorithm, Inverse Problems, 2025 <br>
+* J. Liu, M. Feng, <b>X. Xiu*</b>, W. Liu, Towards Robust and Sparse Linear Discriminant Analysis for Image Classification, Pattern Recognition, 153: 110512, 2024 <br>
+* <b>X. Xiu*</b>, W. Liu, L. Li, L. Kong, Alternating Direction Method of Multipliers for Nonconvex Fused Regression Problems, Computational Statistics & Data Analysis, 136: 59-71, 2019 <br>
+* <b>X. Xiu*</b>, L. Kong, Y. Li, H. Qi, Iterative Reweighted Methods for L1-Lp Minimization, Computational Optimization and Applications, 70(1): 201-219, 2018 <br>
 
 
-- 第二部分 &nbsp;  进阶篇<br>
-  - <a href="../OPT/学习最优化.pdf" class="textlink" target="_blank"> 第六章 &nbsp;  学习最优化 <br>
-  - 第七章 &nbsp;  大模型智能决策 <br>
-  - 第八章 &nbsp;  大模型具身智能 <br>
-  - 第九章 &nbsp;  大模型强化学习 <br>
-  - 第十章 &nbsp;  大模型轻量化部署 <br>
+### 工业数据解析与优化
+
+* <b>X. Xiu</b>, L. Pan, Y. Yang*, W. Liu, Efficient and Fast Joint Sparse Constrained Canonical Correlation Analysis for Fault Detection, IEEE Transactions on Neural Networks and Learning Systems, 35(3): 4153-4163, 2024 <br>
+* <b>X. Xiu</b>, Z. Miao, W. Liu*, A Sparsity-Aware Fault Diagnosis Framework Focusing on Accurate Isolation, IEEE Transactions on Industrial Informatics, 19(2): 1356-1365, 2023 <br>
+* <b>X. Xiu</b>, Z. Miao, Y. Yang*, W. Liu, Deep Canonical Correlation Analysis Using Sparsity-Constrained Optimization for Nonlinear Process Monitoring, IEEE Transactions on Industrial Informatics, 18(10): 6690-6699, 2022 <br>
+* <b>X. Xiu</b>, Y. Yang*, L. Kong, W. Liu, Data-Driven Process Monitoring Using Structured Joint Sparse Canonical Correlation Analysis, IEEE Transactions on Circuits and Systems II: Express Briefs, 68(1): 361-365, 2021 <br>
+* <b>X. Xiu</b>, Y. Yang*, L. Kong, W. Liu, Laplacian Regularized Robust Principal Component Analysis for Process Monitoring, Journal of Process Control, 92: 212-219, 2020 <br>
+
+
+
+### 学习最优化方法与应用 
+
+* 修贤超, 杨安宁, 李鑫荣*, 基于对比学习的稀疏低秩无监督特征选择方法, 运筹学学报, 2025 <br>
+* J. Liu, J. Jin, <b>X. Xiu*</b>, J. Zhang, W. Liu, STAR-Net: An Interpretable Model-Aided Network for Remote Sensing Image Denoising, Pattern Recognition, 172: 112496, 2026 <br>
+* J. Liu, M. Feng, <b>X. Xiu*</b>, X. Zeng, J. Zhang, Tensor Low-Rank Approximation via Plug-and-Play Priors for Anomaly Detection in Remote Sensing Images, IEEE Transactions on Instrumentation and Measurement, 74: 5503014, 2025 <br>
 
 
