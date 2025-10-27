@@ -24,7 +24,7 @@ share: false
 
 
 ### 研究兴趣
-* <a href="https://xianchaoxiu.github.io/chinese/research/LLM/" class="textlink" target="_blank"> 具身智能 </a><br>
+* <a href="https://xianchaoxiu.github.io/chinese/research/EAI/" class="textlink" target="_blank"> 具身智能 </a><br>
 * <a href="https://xianchaoxiu.github.io/chinese/research/OPT/" class="textlink" target="_blank"> 最优化方法</a><br>
 
 
