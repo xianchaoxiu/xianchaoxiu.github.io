@@ -7,7 +7,6 @@ share: false
 
 ### 学习优化方法与应用 
 
-* 修贤超, 杨安宁, 李鑫荣*, 基于对比学习的稀疏低秩无监督特征选择方法, 运筹学学报, 2026 <br>
 * J. Liu, J. Jin, <b>X. Xiu*</b>, J. Zhang, W. Liu, STAR-Net: An Interpretable Model-Aided Network for Remote Sensing Image Denoising, Pattern Recognition, 172: 112496, 2026 <br>
 
 
