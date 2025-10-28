@@ -10,7 +10,6 @@ share: false
 
 ### Graduate Students
 
-* Yewen Hu (2026.09 - )  <br>
 * Li Xu (2025.09 - )  <br>
 * Pengfei Zhang (2025.09 - ) <br>
 * Long Chen (2024.09 - )  <br>
