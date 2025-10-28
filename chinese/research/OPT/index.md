@@ -7,8 +7,8 @@ share: false
 
 ### 学习优化方法与应用 
 
+* Y. Zhu, W. Liu, <b>X. Xiu*</b>, J. Sun, Sparse Tensor CCA via Manifold Optimization for Multi-View Learning, 2026 <br>
 * J. Liu, J. Jin, <b>X. Xiu*</b>, J. Zhang, W. Liu, STAR-Net: An Interpretable Model-Aided Network for Remote Sensing Image Denoising, Pattern Recognition, 172: 112496, 2026 <br>
-
 
 
 
