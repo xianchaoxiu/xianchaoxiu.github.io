@@ -8,7 +8,7 @@ share: false
 ### 学习优化方法与应用 
 
 * J. Liu, J. Jin, <b>X. Xiu*</b>, J. Zhang, W. Liu, STAR-Net: An Interpretable Model-Aided Network for Remote Sensing Image Denoising, Pattern Recognition, 172: 112496, 2026 <br>
-* J. Liu, M. Feng, <b>X. Xiu*</b>, X. Zeng, J. Zhang, Tensor Low-Rank Approximation via Plug-and-Play Priors for Anomaly Detection in Remote Sensing Images, IEEE Transactions on Instrumentation and Measurement, 74: 5503014, 2025
+* J. Liu, M. Feng, <b>X. Xiu*</b>, W. Liu, Towards Robust and Sparse Linear Discriminant Analysis for Image Classification, Pattern Recognition, 153: 110512, 2024 <br>
 
 
 ### 稀疏优化理论与算法
