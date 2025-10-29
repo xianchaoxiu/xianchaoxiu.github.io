@@ -25,7 +25,6 @@ share: false
 ### 高维张量优化与应用
 
 * J. Liu, J. Jin, <b>X. Xiu*</b>, J. Zhang, W. Liu, STAR-Net: An Interpretable Model-Aided Network for Remote Sensing Image Denoising, Pattern Recognition, 172: 112496, 2026 <br>
-* J. Liu, M. Feng, <b>X. Xiu*</b>, X. Zeng, J. Zhang, Tensor Low-Rank Approximation via Plug-and-Play Priors for Anomaly Detection in Remote Sensing Images, IEEE Transactions on Instrumentation and Measurement, 74: 5503014, 2025
 * J. Sun, <b>X. Xiu</b>, Z. Luo*, W. Liu, Learning High-Order Multi-View Representation by New Tensor Canonical Correlation Analysis, IEEE Transactions on Circuits and Systems for Video Technology, 33(10): 5645-5654, 2023 <br>
 
 
