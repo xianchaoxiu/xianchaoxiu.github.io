@@ -21,8 +21,8 @@ share: false
 
 
 ### 研究兴趣
-* <a href="https://xianchaoxiu.github.io/chinese/research/OPT/" class="textlink" target="_blank"> 最优化方法 </a><br>
-* <a href="https://xianchaoxiu.github.io/chinese/research/LLM/" class="textlink" target="_blank"> 大模型基础 </a><br>
+* <a href="https://xianchaoxiu.github.io/chinese/research/OPT/" class="textlink" target="_blank"> 最优化与人工智能 </a><br>
+* <a href="https://xianchaoxiu.github.io/chinese/research/LLM/" class="textlink" target="_blank"> 大模型与具身智能 </a><br>
 
 
 ### 讲授课程
