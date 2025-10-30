@@ -9,7 +9,7 @@ share: false
 ### 大模型智能决策
 
 * J. Li, <b>X. Xiu*</b>, LLM4FS: Leveraging Large Language Models for Feature Selection, 2025 <br>
-
+* <b>X. Xiu</b>, J. Li, <b>P. Zhang*</b>, Large Language Models Meets Optimization: A Comprehensive Survey, 2025 <br>
 
 ### 大模型具身智能
 
