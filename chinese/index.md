@@ -21,12 +21,11 @@ share: false
 
 
 ### 研究兴趣
-* <a href="https://xianchaoxiu.github.io/chinese/research/OPT/" class="textlink" target="_blank"> 最优化</a><br>
+* <a href="https://xianchaoxiu.github.io/chinese/research/OPT/" class="textlink" target="_blank"> 最优化 </a><br>
 * <a href="https://xianchaoxiu.github.io/chinese/research/EAI/" class="textlink" target="_blank"> 具身智能 </a><br>
 
 
 ### 讲授课程
-* <a href="https://xianchaoxiu.github.io/chinese/course/PRO/" class="textlink" target="_blank"> 概率论 </a><br>
 * <a href="https://xianchaoxiu.github.io/chinese/course/OR/" class="textlink" target="_blank"> 运筹学基础 </a><br>
 * <a href="https://xianchaoxiu.github.io/chinese/course/OPT/" class="textlink" target="_blank"> 现代优化方法 </a><br>
 
