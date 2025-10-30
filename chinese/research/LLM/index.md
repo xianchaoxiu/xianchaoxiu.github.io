@@ -21,4 +21,4 @@ share: false
 
 ### 大模型轻量化部署
 
-* L. Xu, <b>X. Xiu*</b>, GoPrune: Accelerated Structured Pruning with $\ell_{2,p}$-Norm Optimization, 2025 <br>
+* L. Xu, <b>X. Xiu*</b>, GoPrune: Accelerated Structured Pruning with L2,p-Norm Optimization, 2025 <br>
