@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 大模型基础
+title: 大模型与具身智能
 comments: false
 share: false
 ---
@@ -9,11 +9,10 @@ share: false
 ### 大模型智能决策
 
 * J. Li, <b>X. Xiu*</b>, LLM4FS: Leveraging Large Language Models for Feature Selection, 2025 <br>
-* <b>X. Xiu</b>, J. Li, P. Zhang*, Large Language Models Meets Optimization: A Comprehensive Survey, 2025 <br>
 
 ### 大模型具身智能
 
-* To be updated.
+* L. Chrn, <b>X. Xiu*</b>, Fast-VLA: Exploring Fast Reasoning for Vision-Language-Action Models, 2025 <br>
 
 ### 大模型强化学习
 
