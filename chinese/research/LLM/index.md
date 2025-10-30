@@ -17,7 +17,7 @@ share: false
 
 ### 大模型强化学习
 
-* To be updated.
+* P. Zhang, <b>X. Xiu*</b>, Discovering Path Planning with Large Language Models and Reinforcement Learning, 2025 <br>
 
 ### 大模型轻量化部署
 
