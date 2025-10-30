@@ -17,7 +17,7 @@ share: false
 
 ### 大模型强化学习
 
-* To be updated.
+* P. Zhang, <b>X. Xiu*</b>, Reinforcement Learning-Guided LLM Meets A-star, 2025 <br>
 
 ### 大模型轻量化部署
 
