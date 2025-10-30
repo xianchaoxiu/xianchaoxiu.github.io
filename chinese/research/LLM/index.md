@@ -12,7 +12,7 @@ share: false
 
 ### 大模型具身智能
 
-* L. Chrn, <b>X. Xiu*</b>, Fast-VLA: Exploring Fast Reasoning for Vision-Language-Action Models, 2025 <br>
+* L. Chen, <b>X. Xiu*</b>, Fast-VLA: Exploring Fast Reasoning for Vision-Language-Action Models, 2025 <br>
 
 ### 大模型强化学习
 
