@@ -50,4 +50,3 @@ share: false
 * CAA具身智能专业委员会委员 <br> 
 * CSIAM大数据与人工智能专业委员会委员 <br>
 
-
