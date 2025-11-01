@@ -49,6 +49,5 @@ share: false
 * 上海市运筹学会青年委员 <br>
 * CAA具身智能专业委员会委员 <br> 
 * CSIAM大数据与人工智能专业委员会委员 <br>
-* Big Data and Information Analytics青年编委 <br>
 
 
