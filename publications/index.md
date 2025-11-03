@@ -35,8 +35,6 @@ share: false
 ### 2023
 
 
-* H. Chen, L. Kong, W Qu, <b>X. Xiu*</b>, <a href="https://doi.org/10.1109/LSP.2023.3316023" class="textlink" target="_blank">An Enhanced Regularized Clustering Method With Adaptive Spurious Connection Detection</a>, IEEE Signal Processing Letters, 30: 1332-1336, 2023 <a href="https://github.com/xianchaoxiu/ERC" class="textlink" target="_blank" style="color: red;">[Code]</a>
-
 * J. Sun, <b>X. Xiu</b>, Z. Luo*, W. Liu, <a href="https://doi.org/10.1109/TCSVT.2023.3263853" class="textlink" target="_blank">Learning High-Order Multi-View Representation by New Tensor Canonical Correlation Analysis</a>, IEEE Transactions on Circuits and Systems for Video Technology, 33(10): 5645-5654, 2023  <a href="https://github.com/xianchaoxiu/TCCA" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
 
@@ -54,8 +52,6 @@ share: false
 * <b>X. Xiu</b>, J. Fan, Y. Yang*, W. Liu, <a href="https://doi.org/10.1109/TIM.2021.3067218" class="textlink" target="_blank">Fault Detection Using Structured Joint Sparse Nonnegative Matrix Factorization</a>, EEE Transactions on Instrumentation and Measurement, 70: 3513011, 2021
 
 * <b>X. Xiu</b>, Y. Yang*, L. Kong, W. Liu, <a href="https://doi.org/10.1016/j.jprocont.2020.06.011" class="textlink" target="_blank">Laplacian Regularized Robust Principal Component Analysis for Process Monitoring</a>, Journal of Process Control, 92: 212-219, 2020
-  
-* <b>X. Xiu</b>, Y. Yang*, L. Kong, W. Liu, <a href="https://doi.org/10.1016/j.amc.2020.125272" class="textlink" target="_blank">tSSNALM: A Fast Two-Stage Semi-Smooth Newton Augmented Lagrangian Method for Sparse CCA</a>, Applied Mathematics and Computation, 383(15): 125272, 2020
   
 * <b>X. Xiu*</b>, W. Liu, L. Li, L. Kong, <a href="https://doi.org/10.1016/j.csda.2019.01.002" class="textlink" target="_blank">Alternating Direction Method of Multipliers for Nonconvex Fused Regression Problems</a>, Computational Statistics & Data Analysis, 136: 59-71, 2019
   
