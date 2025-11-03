@@ -34,7 +34,6 @@ share: false
 
 ### 2023
 
-* <b>X. Xiu</b>, Y. Li*, <a href="https://doi.org/10.1109/JSEN.2023.3245832" class="textlink" target="_blank">Learning Sparse Kernel CCA With Graph Priors for Nonlinear Process Monitoring</a>, IEEE Sensors Journal, 23(7): 7381-7389, 2023  <a href="https://github.com/xianchaoxiu/JSKCCA-GL" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
 * H. Chen, L. Kong, W Qu, <b>X. Xiu*</b>, <a href="https://doi.org/10.1109/LSP.2023.3316023" class="textlink" target="_blank">An Enhanced Regularized Clustering Method With Adaptive Spurious Connection Detection</a>, IEEE Signal Processing Letters, 30: 1332-1336, 2023 <a href="https://github.com/xianchaoxiu/ERC" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
