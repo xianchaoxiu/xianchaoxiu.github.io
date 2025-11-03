@@ -33,8 +33,6 @@ share: false
 
 * W. Qu, H. Chen, <b>X. Xiu*</b>, W. Liu, <a href="https://doi.org/10.1016/j.neucom.2024.128267" class="textlink" target="_blank">Distributed Sparsity Constrained Optimization over the Stiefel Manifold</a>, Neurocomputing, 602: 128267, 2024 <a href="https://github.com/wtqu/DREAM" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
-* J. Liu, M. Feng, <b>X. Xiu*</b>, W. Liu, X. Zeng, <a href="https://doi.org/10.1109/TETCI.2024.3403912" class="textlink" target="_blank">Efficient and Robust Sparse Linear Discriminant Analysis for Data Classification</a>, IEEE Transactions on Emerging Topics in Computational Intelligence, 9(1): 617-629, 2024 <a href="https://github.com/xianchaoxiu/ERSLDA" class="textlink" target="_blank" style="color: red;">[Code]</a>
-
 
 
 ### 2023
