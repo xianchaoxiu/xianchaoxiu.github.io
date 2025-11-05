@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 现代优化方法2024
+title: 最优化2024
 comments: false
 share: false
 ---
