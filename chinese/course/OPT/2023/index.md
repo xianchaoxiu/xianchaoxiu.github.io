@@ -14,10 +14,10 @@ share: false
 
 
 ### 课程信息
-* <a href="../OPT2023/最优化简介.pdf" class="textlink" target="_blank">  第一章 &nbsp;  最优化简介<br>
-* <a href="../OPT2023/基础知识.pdf" class="textlink" target="_blank">  第二章 &nbsp;  基础知识<br>
-* <a href="../OPT2023/典型优化问题.pdf" class="textlink" target="_blank">  第三章 &nbsp;  典型优化问题<br>
-* <a href="../OPT2023/最优性理论.pdf" class="textlink" target="_blank"> 第四章 &nbsp;  最优性理论<br>
-* <a href="../OPT2023/无约束优化算法.pdf" class="textlink" target="_blank"> 第五章 &nbsp;  无约束优化算法<br>
-* <a href="../OPT2023/约束优化算法.pdf" class="textlink" target="_blank"> 第六章 &nbsp;  约束优化算法<br>
-* <a href="../OPT2023/复合优化算法.pdf" class="textlink" target="_blank"> 第七章 &nbsp;  复合优化算法<br>
+* <a href="../OPT/2023/最优化简介.pdf" class="textlink" target="_blank">  第一章 &nbsp;  最优化简介<br>
+* <a href="../OPT/2023/基础知识.pdf" class="textlink" target="_blank">  第二章 &nbsp;  基础知识<br>
+* <a href="../OPT/2023/典型优化问题.pdf" class="textlink" target="_blank">  第三章 &nbsp;  典型优化问题<br>
+* <a href="../OPT/2023/最优性理论.pdf" class="textlink" target="_blank"> 第四章 &nbsp;  最优性理论<br>
+* <a href="../OPT/2023/无约束优化算法.pdf" class="textlink" target="_blank"> 第五章 &nbsp;  无约束优化算法<br>
+* <a href="../OPT/2023/约束优化算法.pdf" class="textlink" target="_blank"> 第六章 &nbsp;  约束优化算法<br>
+* <a href="../OPT/2023/复合优化算法.pdf" class="textlink" target="_blank"> 第七章 &nbsp;  复合优化算法<br>
