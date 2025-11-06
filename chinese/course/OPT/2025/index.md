@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 最优化2025
+title: 最优化 2025
 comments: false
 share: false
 ---
