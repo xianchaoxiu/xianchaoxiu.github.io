@@ -9,7 +9,7 @@ share: false
 
 ### 参考教材
 
-* <a href="http://faculty.bicmr.pku.edu.cn/~wenzw/optbook.html" class="textlink" target="_blank"> 刘浩洋, 户将, 李勇锋, 文再文, 最优化：建模、算法与理论</a><br>
+* <a href="http://faculty.bicmr.pku.edu.cn/~wenzw/optbook.html" class="textlink" target="_blank"> 文再文, 袁亚湘, 最优化方法与理论</a><br>
 * <a href="https://item.jd.com/12755179.html" class="textlink" target="_blank"> 陈宝林, 最优化理论与算法 </a><br>
 
 
