@@ -9,7 +9,7 @@ share: false
 
 ### 参考教材
 
-* <a href="http://faculty.bicmr.pku.edu.cn/~wenzw/optbook.html" class="textlink" target="_blank"> 刘浩洋, 户将, 李勇锋, 文再文, 最优化：建模、算法与理论 </a><br>
+* <a href="http://faculty.bicmr.pku.edu.cn/~wenzw/optbook.html" class="textlink" target="_blank"> 文再文, 袁亚湘, 最优化方法与理论</a><br>
 * <a href="https://nndl.github.io/" class="textlink" target="_blank"> 邱锡鹏, 神经网络与深度学习 </a><br>
 
 
