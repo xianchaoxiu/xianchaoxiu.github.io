@@ -15,7 +15,7 @@ share: false
 * 2019.02-2021.05, 北京大学, 工学院, 博士后, 导师: <a href="https://www.coe.pku.edu.cn/teaching/all_time/7262.html" class="textlink" target="_blank">杨莹</a> <br>
 * 2014.09-2019.02, 北京交通大学, 理学院, 博士, 导师: <a href="https://faculty.bjtu.edu.cn/8316/" class="textlink" target="_blank">孔令臣</a> <br>
 
-### 学术交流
+### 访学交流
 * 2025.03-2025.09, 香港理工大学, 访问学者, 导师: <a href="https://www.polyu.edu.hk/ama/people/academic-staff/prof-qi-houduo/" class="textlink" target="_blank">戚厚铎</a> <br>
 * 2016.12-2017.12, 澳大利亚科廷大学, 联合培养, 导师: <a href="https://ise.sysu.edu.cn/teacher/LiuWanquan" class="textlink" target="_blank">刘万泉</a> <br>
 
@@ -35,8 +35,16 @@ share: false
 * <b>X. Xiu</b>, L. Pan, Y. Yang*, W. Liu, Efficient and Fast Joint Sparse Constrained Canonical Correlation Analysis for Fault Detection, IEEE Transactions on Neural Networks and Learning Systems, 35(3): 4153-4163, 2024 <br>
 * <b>X. Xiu</b>, Z. Miao, W. Liu*, A Sparsity-Aware Fault Diagnosis Framework Focusing on Accurate Isolation, IEEE Transactions on Industrial Informatics, 19(2): 1356-1365, 2023 <br>
 * <b>X. Xiu</b>, Z. Miao, Y. Yang*, W. Liu, Deep Canonical Correlation Analysis Using Sparsity-Constrained Optimization for Nonlinear Process Monitoring, IEEE Transactions on Industrial Informatics, 18(10): 6690-6699, 2022 <br>
-* <b>X. Xiu*</b>, L. Kong, Y. Li, H. Qi, Iterative Reweighted Methods for L1-Lp Minimization, Computational Optimization and Applications, 70(1): 201-219, 2018
+* <b>X. Xiu*</b>, L. Kong, Y. Li, H. Qi, Iterative Reweighted Methods for L1-Lp Minimization, Computational Optimization and Applications, 70(1): 201-219, 2018  <br>
 
+
+
+### 学术著作
+
+* 双稀疏优化及其应用
+* 学习最优化方法与应用
+
+  
 ### 科研项目
 * 自然科学横向科研项目, 生成式人工智能驱动的路径规划, 2026.01-2026.12, 主持 <br>
 * 自然科学横向科研项目, 面向智能制造的缺陷检测方法研究, 2025.01-2025.12, 主持<br>
