@@ -26,9 +26,9 @@ share: false
 
 
 ### 讲授课程
-* <a href="https://xianchaoxiu.github.io/chinese/course/OPT/" class="textlink" target="_blank"> 最优化 </a><br>
-* <a href="https://xianchaoxiu.github.io/chinese/course/OR/" class="textlink" target="_blank"> 运筹学基础 </a><br>
-
+* <a href="https://xianchaoxiu.github.io/chinese/course/PRO/" class="textlink" target="_blank"> 概率论 </a><br>
+* <a href="https://xianchaoxiu.github.io/chinese/course/OR/" class="textlink" target="_blank">  运筹学基础 </a><br>
+* <a href="https://xianchaoxiu.github.io/chinese/course/OPT/" class="textlink" target="_blank">  最优化方法 </a><br>
 
 ### 学术论文
 * <b>X. Xiu</b>, C. Huang, P. Shang*, W. Liu, Bi-Sparse Unsupervised Feature Selection, IEEE Transactions on Image Processing, 2025 <br>
