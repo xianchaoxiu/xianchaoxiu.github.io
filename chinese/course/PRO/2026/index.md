@@ -1,17 +1,17 @@
 ---
 layout: page
-title: 运筹学基础
+title: 概率论
 comments: false
 share: false
 ---
 
 ### 参考教材
-* <a href="https://item.jd.com/14020941.html" class="textlink" target="_blank"> 胡运权, 郭耀煌, 运筹学教程 </a><br>
-* <a href="https://item.jd.com/14485981.html" class="textlink" target="_blank"> 黄丽娟, 运筹学精讲精练 </a><br>
+* <a href="https://item.jd.com/13536130.html" class="textlink" target="_blank"> 盛骤, 谢式千, 潘承毅, 概率论与数理统计 </a><br>
+* <a href="https://item.jd.com/12112157.html" class="textlink" target="_blank"> 陈希孺, 概率论与数理统计 </a><br>
 
 ### 课程信息
-* <a href="../2025/引言.pdf" class="textlink" target="_blank">  第一章 &nbsp;  引言<br>
-* <a href="../2025/线性规划.pdf" class="textlink" target="_blank">  第二章 &nbsp;  线性规划<br>
-* <a href="../2025/整数规划.pdf" class="textlink" target="_blank">  第三章 &nbsp;  整数规划<br>
-* <a href="../2025/动态规划.pdf" class="textlink" target="_blank"> 第四章 &nbsp;  动态规划<br>
-* <a href="../2025/对策论.pdf" class="textlink" target="_blank"> 第五章 &nbsp;  对策论<br>
+* <a href="../2026/基本概念.pdf" class="textlink" target="_blank">  第一章 &nbsp;  基本概念<br>
+* <a href="../2026/随机变量及其分布.pdf" class="textlink" target="_blank">  第二章 &nbsp;  随机变量及其分布<br>
+* <a href="../2026/多维随机变量及其分布.pdf" class="textlink" target="_blank">  第三章 &nbsp;  多维随机变量及其分布<br>
+* <a href="../2026/随机变量的数字特征.pdf" class="textlink" target="_blank"> 第四章 &nbsp;  随机变量的数字特征 <br>
+* <a href="../2026/大数定律及中心极限定理.pdf" class="textlink" target="_blank"> 第五章 &nbsp;  大数定律及中心极限定理<br>
