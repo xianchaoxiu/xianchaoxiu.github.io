@@ -27,7 +27,6 @@ share: false
 
 
 ### 讲授课程
-* <a href="https://xianchaoxiu.github.io/chinese/course/PRO/" class="textlink" target="_blank"> 概率论 </a><br>
 * <a href="https://xianchaoxiu.github.io/chinese/course/OR/" class="textlink" target="_blank">  运筹学基础 </a><br>
 * <a href="https://xianchaoxiu.github.io/chinese/course/OPT/" class="textlink" target="_blank">  最优化方法 </a><br>
 
@@ -42,8 +41,8 @@ share: false
   
 ### 学术著作
 
-* <a href="https://xianchaoxiu.github.io/chinese/book/OR/" class="textlink" target="_blank">  运筹学基础 </a><br>
 * <a href="https://xianchaoxiu.github.io/chinese/book/DSO/" class="textlink" target="_blank"> 双稀疏优化及其应用 </a><br>
+* <a href="https://xianchaoxiu.github.io/chinese/book/AIO/" class="textlink" target="_blank"> Artificial Intelligence for Optimization </a><br>
 
   
 ### 科研项目
