@@ -5,5 +5,13 @@ comments: false
 share: false
 ---
 
-* <a href="https://xianchaoxiu.github.io/chinese/course/OR/2025" class="textlink" target="_blank"> 运筹学基础 2025 </a><br>
-* <a href="https://xianchaoxiu.github.io/chinese/course/OR/2024" class="textlink" target="_blank"> 运筹学基础 2024 </a><br>
+### 参考教材
+* <a href="https://item.jd.com/14020941.html" class="textlink" target="_blank"> 胡运权, 郭耀煌, 运筹学教程 </a><br>
+* <a href="https://item.jd.com/14485981.html" class="textlink" target="_blank"> 黄丽娟, 运筹学精讲精练 </a><br>
+
+### 课程信息
+* <a href="../2025/引言.pdf" class="textlink" target="_blank">  第一章 &nbsp;  引言<br>
+* <a href="../2025/线性规划.pdf" class="textlink" target="_blank">  第二章 &nbsp;  线性规划<br>
+* <a href="../2025/整数规划.pdf" class="textlink" target="_blank">  第三章 &nbsp;  整数规划<br>
+* <a href="../2025/动态规划.pdf" class="textlink" target="_blank"> 第四章 &nbsp;  动态规划<br>
+* <a href="../2025/对策论.pdf" class="textlink" target="_blank"> 第五章 &nbsp;  对策论<br>
