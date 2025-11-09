@@ -9,6 +9,10 @@ share: false
 
 
 ### 2025
+
+* <a href="../talks/2025-GXU.pdf" class="textlink" target="_blank"> Data-Driven Optimization and Applications </a> <br>
+Guangxi University <br>
+
 * <a href="../talks/2025-MOS.pdf" class="textlink" target="_blank"> Lightweight Deep Unfolding Network with Enhanced Robustness for Infrared Small Target Detection </a> <br>
 Mathematical Optimization Society <br>
 
