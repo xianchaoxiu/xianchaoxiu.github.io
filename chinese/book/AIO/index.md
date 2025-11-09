@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 双稀疏优化及其应用
+title:  Artificial Intelligence for Optimization
 comments: false
 share: false
 ---
