@@ -27,8 +27,8 @@ share: false
 
 
 ### 讲授课程
-* <a href="https://xianchaoxiu.github.io/chinese/course/OR/" class="textlink" target="_blank">  运筹学基础 </a><br>
 * <a href="https://xianchaoxiu.github.io/chinese/course/OPT/" class="textlink" target="_blank">  最优化方法 </a><br>
+* <a href="https://xianchaoxiu.github.io/chinese/course/OR/" class="textlink" target="_blank">  运筹学基础 </a><br>
 
 
 ### 学术论文
