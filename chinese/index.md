@@ -40,10 +40,8 @@ share: false
 
   
 ### 学术著作
-
+* <a href="https://xianchaoxiu.github.io/chinese/book/OR/" class="textlink" target="_blank"> 运筹学基础 </a><br>
 * <a href="https://xianchaoxiu.github.io/chinese/book/DSO/" class="textlink" target="_blank"> 双稀疏优化及其应用 </a><br>
-* <a href="https://xianchaoxiu.github.io/chinese/book/AIO/" class="textlink" target="_blank"> Artificial Intelligence for Optimization </a><br>
-
   
 ### 科研项目
 * 自然科学横向科研项目, 生成式人工智能驱动的路径规划, 2026.01-2026.12, 主持 <br>
