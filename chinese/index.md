@@ -42,7 +42,7 @@ share: false
 ### 学术著作
 * <a href="https://xianchaoxiu.github.io/chinese/book/OR/" class="textlink" target="_blank"> 运筹学基础 </a><br>
 * <a href="https://xianchaoxiu.github.io/chinese/book/DSO/" class="textlink" target="_blank"> 双稀疏优化及其应用 </a><br>
-* <a href="https://xianchaoxiu.github.io/chinese/book/DOA/" class="textlink" target="_blank"> Data-Driven Optimization with Applications </a><br>
+* <a href="https://xianchaoxiu.github.io/chinese/book/DOA/" class="textlink" target="_blank"> Data-driven Optimization with Applications </a><br>
 
 
 ### 科研项目
