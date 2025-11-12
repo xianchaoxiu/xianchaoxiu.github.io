@@ -17,8 +17,8 @@ share: false
 
 
 ### 访学交流
-* 2025.03-2025.09, 香港理工大学, 访问学者, 导师: <a href="https://www.polyu.edu.hk/ama/people/academic-staff/prof-qi-houduo/" class="textlink" target="_blank">戚厚铎</a> <br>
-* 2016.12-2017.12, 澳大利亚科廷大学, 联合培养, 导师: <a href="https://ise.sysu.edu.cn/teacher/LiuWanquan" class="textlink" target="_blank">刘万泉</a> <br>
+* 2025.03-2025.09, 香港理工大学, 访问学者, 导师: <a href="https://www.polyu.edu.hk/ama/people/academic-staff/prof-qi-houduo/" class="textlink" target="_blank">Houduo Qi</a> <br>
+* 2016.12-2017.12, 澳大利亚科廷大学, 联合培养, 导师: <a href="https://ise.sysu.edu.cn/teacher/LiuWanquan" class="textlink" target="_blank">Wanquan Liu</a> <br>
 
 
 ### 研究兴趣
