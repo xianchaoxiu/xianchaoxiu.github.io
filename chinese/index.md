@@ -40,9 +40,7 @@ share: false
 
   
 ### 学术著作
-* <a href="https://xianchaoxiu.github.io/chinese/book/OR/" class="textlink" target="_blank"> 运筹学基础 </a><br>
-* <a href="https://xianchaoxiu.github.io/chinese/book/SSO/" class="textlink" target="_blank"> Structured Sparse Optimization
-with Applications </a><br>
+* <a href="../chinese/book/SSO.pdf" class="textlink" target="_blank"> Structured Sparse Optimization with Applications </a><br>
 
 
 ### 科研项目
