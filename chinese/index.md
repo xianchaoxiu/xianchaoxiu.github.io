@@ -41,7 +41,7 @@ share: false
   
 ### 学术著作
 * <a href="https://xianchaoxiu.github.io/chinese/book/OR/" class="textlink" target="_blank"> 运筹学基础 </a><br>
-* <a href="https://xianchaoxiu.github.io/chinese/book/DSO/" class="textlink" target="_blank"> 结构稀疏优化及其应用 </a><br>
+* <a href="https://xianchaoxiu.github.io/chinese/book/SSO/" class="textlink" target="_blank"> 结构稀疏优化及其应用 </a><br>
 
 
 ### 科研项目
