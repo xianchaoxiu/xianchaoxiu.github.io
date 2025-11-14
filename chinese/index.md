@@ -40,7 +40,7 @@ share: false
 
   
 ### 学术著作
-* <a href="../chinese/book/SSO.pdf" class="textlink" target="_blank"> Structured Sparse Optimization with Applications </a><br>
+* Structured Sparse Optimization with Applications <br>
 
 
 ### 科研项目
