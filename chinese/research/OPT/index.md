@@ -7,9 +7,8 @@ share: false
 
 
 ### 稀疏优化理论与算法
-
-* <b>X. Xiu</b>, C. Huang, P. Shang*, W. Liu, <a href="https://ieeexplore.ieee.org/document/11207158" class="textlink" target="_blank">Bi-Sparse Unsupervised Feature Selection</a>, IEEE Transactions on Image Processing, 2026  <br>
 * J. Fan, A. Yan, <b>X. Xiu*</b>, W. Liu, Robust Sparse Phase Retrieval: Statistical Guarantee, Optimality Theory and Convergent Algorithm, Inverse Problems, 2026 <br>
+* <b>X. Xiu</b>, C. Huang, P. Shang*, W. Liu, <a href="https://ieeexplore.ieee.org/document/11207158" class="textlink" target="_blank">Bi-Sparse Unsupervised Feature Selection</a>, IEEE Transactions on Image Processing, 34: 7407-7421, 2025  <br>
 * <b>X. Xiu*</b>, W. Liu, L. Li, L. Kong, <a href="https://doi.org/10.1016/j.csda.2019.01.002" class="textlink" target="_blank">Alternating Direction Method of Multipliers for Nonconvex Fused Regression Problems</a>, Computational Statistics & Data Analysis, 136: 59-71, 2019 <br>
 * <b>X. Xiu*</b>, L. Kong, Y. Li, H. Qi, <a href="https://doi.org/10.1007/s10589-017-9977-7" class="textlink" target="_blank">Iterative Reweighted Methods for L1-Lp Minimization</a>, Computational Optimization and Applications, 70(1): 201-219, 2018 <br>
 
