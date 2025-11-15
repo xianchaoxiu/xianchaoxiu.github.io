@@ -11,5 +11,5 @@ share: false
 * Chapter 4 &nbsp;  Sparse Nonnegative Matrix Factorization for Hyperspectral Unmixing<br>
 * Chapter 5 &nbsp;  Sparse Canonical Correlation Analysis for Image Clustering<br>
 * Chapter 6 &nbsp;  Sparse Low-Rank Representation for Image Denoising<br>
-* Chapter 8 &nbsp;  Sparse Deep Principal Component Analysis for Target Detection<br>
+* Chapter 7 &nbsp;  Sparse Deep Principal Component Analysis for Target Detection<br>
 
