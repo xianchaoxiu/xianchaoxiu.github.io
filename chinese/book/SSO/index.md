@@ -12,5 +12,5 @@ share: false
 * Chapter 5 &nbsp;  Nonnegative Matrix Factorization for Hyperspectral Unmixing<br>
 * Chapter 6 &nbsp;  Tensor Canonical Correlation Analysis for Image Clustering<br>
 * Chapter 7 &nbsp;  Deep Tensor Low-Rank Representation for Image Denoising<br>
-* Chapter 8 &nbsp;  Deep Low-Rank and Sparse Representation for Target Detection<br>
+* Chapter 8 &nbsp;  Deep Robust Principal Component Analysis for Target Detection<br>
 
