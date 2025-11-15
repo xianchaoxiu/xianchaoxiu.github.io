@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Structured Sparse Optimization with Applications
+title: Sparse Optimization and Pattern Recognition
 comments: false
 share: false
 ---
