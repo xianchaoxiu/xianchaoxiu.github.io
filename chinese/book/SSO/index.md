@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SSO 
+title: Structured Sparse Optimization with Applications
 comments: false
 share: false
 ---
