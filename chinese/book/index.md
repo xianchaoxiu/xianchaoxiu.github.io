@@ -7,7 +7,8 @@ share: false
 
 
 ### 基本信息
-* Xianchhao Xiu, Structured Sparse Optimization with Applications: From Machine Learning to Deep Learning
+* 计划于2026年初完成
+
 
 ### 章节安排
 * Chapter 1 &nbsp;  Introduction<br>
