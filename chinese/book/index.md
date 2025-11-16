@@ -5,6 +5,11 @@ comments: false
 share: false
 ---
 
+
+### 基本信息
+* Xianchhao Xiu, Structured Sparse Optimization with Applications: From Machine Learning to Deep Learning
+
+### 章节安排
 * Chapter 1 &nbsp;  Introduction<br>
 * Chapter 2 &nbsp;  Principal Component Analysis for Feature Selection<br>
 * Chapter 3 &nbsp;  Linear Discriminant Analysis for Image Classification<br>
