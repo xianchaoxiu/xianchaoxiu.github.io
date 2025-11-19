@@ -7,7 +7,7 @@ comments: false
 share: false
 ---
 
-➡️ Recruit self-motivated students with great interest in <a href="https://xianchaoxiu.github.io/chinese/research/OPT/" class="textlink" target="_blank"> Optimization</a> and <a href="https://xianchaoxiu.github.io/chinese/research/LLM/" class="textlink" target="_blank"> LLMs </a>
+➡️ Recruit self-motivated students with interest in <a href="https://xianchaoxiu.github.io/chinese/research/OPT/" class="textlink" target="_blank"> Optimization</a> and <a href="https://xianchaoxiu.github.io/chinese/research/LLM/" class="textlink" target="_blank"> LLMs </a>
 
 
 
