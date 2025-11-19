@@ -7,6 +7,8 @@ comments: false
 share: false
 ---
 
+➡️ <a href="https://arxiv.org/search/?query=xiu%2C+xianchao&searchtype=all&abstracts=show&order=-announced_date_first&size=50" class="textlink" target="_blank"> Recruit self-motivated students with great interest in optimization and large language models </a> 
+
 
 ### Graduate Students
 
