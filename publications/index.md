@@ -7,7 +7,7 @@ comments: false
 share: false
 ---
 
-➡️  Click for my <a href="https://arxiv.org/search/?query=xiu%2C+xianchao&searchtype=all&abstracts=show&order=-announced_date_first&size=50" class="textlink" target="_blank">preprints </a> 
+➡️  Click for <a href="https://arxiv.org/search/?query=xiu%2C+xianchao&searchtype=all&abstracts=show&order=-announced_date_first&size=50" class="textlink" target="_blank">preprints </a> 
 
 
 
