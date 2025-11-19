@@ -7,7 +7,7 @@ comments: false
 share: false
 ---
 
-➡️ Recruit self-motivated students with great interest in <a href="http://faculty.bicmr.pku.edu.cn/~wenzw/optbook.html" class="textlink" target="_blank"> Optimization</a> and <a href="https://github.com/ZJU-LLMs/Foundations-of-LLMs" class="textlink" target="_blank"> Large Language Models </a>
+➡️ Recruit self-motivated students with great interest in <a href="https://xianchaoxiu.github.io/chinese/research/OPT/" class="textlink" target="_blank"> Optimization</a> and <a href="https://xianchaoxiu.github.io/chinese/research/LLM/" class="textlink" target="_blank"> LLMs </a>
 
 
 
