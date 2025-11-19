@@ -7,7 +7,7 @@ comments: false
 share: false
 ---
 
-➡️ <a href="https://github.com/xianchaoxiu/LLM4OPT" class="textlink" target="_blank"> Recruit self-motivated students with interest in Optimization</a>
+➡️ <a href="https://github.com/xianchaoxiu/LLM4OPT" class="textlink" target="_blank"> Recruit self-motivated students with interest in optimization</a>
 
 
 
