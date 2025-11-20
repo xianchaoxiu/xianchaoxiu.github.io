@@ -43,7 +43,7 @@ share: false
 
 
 * <a href="https://xianchaoxiu.github.io/chinese/book/OR/" class="textlink" target="_blank">运筹学基础 </a><br>
-* <a href="https://xianchaoxiu.github.io/chinese/book/DDOA/" class="textlink" target="_blank">数据驱动最优化与应用 </a><br>
+* <a href="https://xianchaoxiu.github.io/chinese/book/DDOA/" class="textlink" target="_blank">数据驱动最优化 </a><br>
 
 ### 科研项目
 * 国家自然科学基金面上项目, 大规模黎曼流形稀疏优化算法及应用, 2024.01-2027.12, 主持 <br>
