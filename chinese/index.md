@@ -40,7 +40,7 @@ share: false
 
   
 ### 学术著作
-* <a href="https://xianchaoxiu.github.io/chinese/book/" class="textlink" target="_blank">Structured Sparse Optimization with Applications </a><br>
+* <a href="https://xianchaoxiu.github.io/chinese/book/" class="textlink" target="_blank">Data-Driven Optimization with Applications </a><br>
 
 ### 科研项目
 * 国家自然科学基金面上项目, 大规模黎曼流形稀疏优化算法及应用, 2024.01-2027.12, 主持 <br>
