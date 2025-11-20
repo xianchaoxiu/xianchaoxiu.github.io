@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data-Driven Optimization with Applications
+title: 数据驱动最优化与应用
 comments: false
 share: false
 ---
