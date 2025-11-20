@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 数据驱动最优化与应用
+title: 数据驱动最优化
 comments: false
 share: false
 ---
