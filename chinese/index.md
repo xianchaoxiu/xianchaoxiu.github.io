@@ -35,7 +35,6 @@ share: false
 
 
 ### 学术论文
-
 * <b>X. Xiu</b>, C. Huang, P. Shang*, W. Liu, <a href="https://ieeexplore.ieee.org/document/11207158" class="textlink" target="_blank">Bi-Sparse Unsupervised Feature Selection</a>, IEEE Transactions on Image Processing, 34: 7407-7421, 2025  <br>
 * <b>X. Xiu</b>, L. Pan, Y. Yang*, W. Liu, <a href="https://doi.org/10.1109/TNNLS.2022.3201881" class="textlink" target="_blank">Efficient and Fast Joint Sparse Constrained Canonical Correlation Analysis for Fault Detection</a>, IEEE Transactions on Neural Networks and Learning Systems, 35(3): 4153-4163, 2024  <br>
 * <b>X. Xiu</b>, Z. Miao, W. Liu*, <a href="https://doi.org/10.1109/TII.2022.3180070" class="textlink" target="_blank">A Sparsity-Aware Fault Diagnosis Framework Focusing on Accurate Isolation</a>, IEEE Transactions on Industrial Informatics, 19(2): 1356-1365, 2023 <br>
@@ -43,10 +42,10 @@ share: false
 
   
 ### 学术著作
-
-
 * <a href="https://xianchaoxiu.github.io/chinese/book/OR/" class="textlink" target="_blank">运筹学基础 </a><br>
 * <a href="https://xianchaoxiu.github.io/chinese/book/DDOA/" class="textlink" target="_blank">数据驱动最优化 </a><br>
+
+
 
 ### 科研项目
 * 国家自然科学基金面上项目, 大规模黎曼流形稀疏优化算法及应用, 2024.01-2027.12, 主持 <br>
