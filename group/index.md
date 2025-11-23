@@ -7,8 +7,6 @@ comments: false
 share: false
 ---
 
-➡️ <a href="https://xianchaoxiu.github.io/chinese/course/OPT/" class="textlink" target="_blank"> Recruit self-motivated students with great interest in optimization</a>
-
 
 
 ### Graduate Students
