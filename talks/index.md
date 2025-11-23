@@ -11,10 +11,7 @@ share: false
 
 ### 2025
 
-* <a href="../talks/2025-PKU.pdf" class="textlink" target="_blank"> Data-Driven Optimization: Theory, Algorithms, and Applications</a> <br>
-Peking University <br>
-
-* <a href="../talks/2025-MOS.pdf" class="textlink" target="_blank"> Rethinking Sparse Optimization Through Deep Learning </a> <br>
+* <a href="../talks/2025-MOS.pdf" class="textlink" target="_blank"> Data-Driven Optimization: Theory, Algorithms, and Applications </a> <br>
 Mathematical Optimization Society <br>
 
 * <a href="../talks/2025-POLYU.pdf" class="textlink" target="_blank"> Learning to Select Features in the Era of AI </a><br>
