@@ -7,7 +7,8 @@ comments: false
 share: false
 ---
 
-聚焦最优化理论方法, 攻关大模型核心技术, 突破具身智能关键问题
+
+➡️ <a href="https://auto.shu.edu.cn/info/1341/80462.htm" class="textlink" target="_blank"> 聚焦最优化理论方法, 攻关大模型核心技术, 突破具身智能关键问题 </a>
 
 ### 工作经历
 * 2025.09-至今, 上海大学通用智能机器人研究院 <br>
