@@ -7,8 +7,9 @@ comments: false
 share: false
 ---
 
+➡️ <a href="https://xianchaoxiu.github.io/chinese/course/OPT/" class="textlink" target="_blank"> 聚焦最优化理论方法, 攻关大模型核心技术, 突破具身智能关键问题  </a>
 
-➡️ 聚焦最优化理论方法, 攻关大模型核心技术, 突破具身智能关键问题 
+
 
 ### 工作经历
 * 2025.09-至今, 上海大学通用智能机器人研究院 <br>
