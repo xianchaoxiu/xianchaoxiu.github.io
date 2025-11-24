@@ -7,7 +7,7 @@ comments: false
 share: false
 ---
 
-### Ph.D students
+### Ph.D Students
 * TBD  <br>
 
 
