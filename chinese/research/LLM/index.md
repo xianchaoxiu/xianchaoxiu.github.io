@@ -14,5 +14,5 @@ share: false
 
 ### 机器人具身智能
 * L. Chen, <b>X. Xiu*</b>, Fast-VLA: Exploring Fast Reasoning for Vision-Language-Action Models, 2025 <br>
-* P. Zhang, <b>X. Xiu*</b>, Reinforcement Learning for Vision-Language-Action Models: Formulations, Algorithms, and Opportunities, 2025 <br>
+* P. Zhang, <b>X. Xiu*</b>, Reinforcement Learning for Vision-Language-Action Models: A Survey, 2025 <br>
 
