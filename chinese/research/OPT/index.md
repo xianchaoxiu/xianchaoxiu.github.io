@@ -1,11 +1,14 @@
 ---
 layout: page
-title: 最优化方法
+title: 最优化
 comments: false
 share: false
 ---
 
+### 生成式人工智能与优化
+* TBD
 
+  
 ### 稀疏优化理论与算法
 * J. Fan, A. Yan, <b>X. Xiu*</b>, W. Liu, Robust Sparse Phase Retrieval: Statistical Guarantee, Optimality Theory and Convergent Algorithm, Inverse Problems, 2026 <br>
 * <b>X. Xiu</b>, C. Huang, P. Shang*, W. Liu, <a href="https://ieeexplore.ieee.org/document/11207158" class="textlink" target="_blank">Bi-Sparse Unsupervised Feature Selection</a>, IEEE Transactions on Image Processing, 34: 7407-7421, 2025  <br>
