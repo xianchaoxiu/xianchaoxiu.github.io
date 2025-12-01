@@ -8,9 +8,6 @@ share: false
 ### 生成式人工智能与优化
 * TBD
 
-### 具身智能优化与学习
-TBD
-
 
 ### 高维张量优化与学习
 * J. Liu, J. Jin, <b>X. Xiu*</b>, J. Zhang, W. Liu, <a href="https://doi.org/10.1016/j.patcog.2025.112496" class="textlink" target="_blank">STAR-Net: An Interpretable Model-Aided Network for Remote Sensing Image Denoising</a>, Pattern Recognition, 172: 112496, 2026  <br>
