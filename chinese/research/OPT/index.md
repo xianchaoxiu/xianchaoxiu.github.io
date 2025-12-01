@@ -6,7 +6,10 @@ share: false
 ---
 
 ### 生成式人工智能与优化
-* J. Li, <b>X. Xiu*</b>, LLM4FS: Leveraging Large Language Models for Feature Selection, CAC, 2025 <br>
+* <b>修贤超</b>, 李建豪, 张鹏鹤*, 戚厚铎, 孔令臣, 大语言模型驱动的最优化方法与应用, 2025 <br>
+
+
+
 
   
 ### 稀疏优化理论与算法
