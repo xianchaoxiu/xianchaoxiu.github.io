@@ -26,3 +26,14 @@ share: false
 * J. Liu, J. Jin, <b>X. Xiu*</b>, J. Zhang, W. Liu, <a href="https://doi.org/10.1016/j.patcog.2025.112496" class="textlink" target="_blank">STAR-Net: An Interpretable Model-Aided Network for Remote Sensing Image Denoising</a>, Pattern Recognition, 172: 112496, 2026  <br>
 * J. Liu, M. Feng, <b>X. Xiu*</b>, X. Zeng, J. Zhang, <a href="https://ieeexplore.ieee.org/document/10935754" class="textlink" target="_blank">Tensor Low-Rank Approximation via Plug-and-Play Priors for Anomaly Detection in Remote Sensing Images</a>, IEEE Transactions on Instrumentation and Measurement, 74: 1-14, 2025  <br>
 * J. Sun, <b>X. Xiu</b>, Z. Luo*, W. Liu, <a href="https://ieeexplore.ieee.org/document/10091146" class="textlink" target="_blank">Learning High-Order Multi-View Representation by New Tensor Canonical Correlation Analysi</a>, IEEE Transactions on Circuits and Systems for Video Technology, 33(10): 5645-5654, 2023 <br>
+
+### 大模型基础
+* J. Li, <b>X. Xiu*</b>, LLM4FS: Leveraging Large Language Models for Feature Selection, 2025 <br>
+* L. Xu, <b>X. Xiu*</b>, GoPrune: Accelerated Structured Pruning with L2,p-Norm Optimization, 2025 <br>
+* L. Xu, <b>X. Xiu*</b>, Pruning for Large Language Models: A Survey, 2026 <br>
+
+
+### 机器人具身智能
+* L. Chen, <b>X. Xiu*</b>, Fast-VLA: Exploring Fast Reasoning for Vision-Language-Action Models, 2025 <br>
+* P. Zhang, <b>X. Xiu*</b>, Reinforcement Learning for Vision-Language-Action Models: A Survey, 2026 <br>
+
