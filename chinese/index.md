@@ -23,7 +23,7 @@ share: false
 
 
 ### 研究兴趣
-* <a href="https://xianchaoxiu.github.io/chinese/research/OPT/" class="textlink" target="_blank"> 最优化理论、算法与应用 </a><br>
+* <a href="https://xianchaoxiu.github.io/chinese/research/" class="textlink" target="_blank"> 最优化理论、算法与应用 </a><br>
 
 
 ### 讲授课程
