@@ -6,7 +6,8 @@ share: false
 ---
 
 ### 生成式人工智能与优化
-* TBD
+* J. Li, <b>X. Xiu*</b>, LLM4FS: Leveraging Large Language Models for Feature Selection, 2025 <br>
+* L. Xu, <b>X. Xiu*</b>, GoPrune: Accelerated Structured Pruning with L2,p-Norm Optimization, 2025 <br>
 
   
 ### 稀疏优化理论与算法
