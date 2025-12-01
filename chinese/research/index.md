@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 最优化方法
+title: 最优化理论、算法与应用
 comments: false
 share: false
 ---
