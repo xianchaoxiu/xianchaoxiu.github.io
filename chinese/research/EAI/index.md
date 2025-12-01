@@ -6,13 +6,7 @@ share: false
 ---
 
 
-### 大模型基础
-* J. Li, <b>X. Xiu*</b>, LLM4FS: Leveraging Large Language Models for Feature Selection, 2025 <br>
-* L. Xu, <b>X. Xiu*</b>, GoPrune: Accelerated Structured Pruning with L2,p-Norm Optimization, 2025 <br>
-* L. Xu, <b>X. Xiu*</b>, Pruning for Large Language Models: A Survey, 2026 <br>
-
-
-### 机器人具身智能
+### 视觉语言动作模型
 * L. Chen, <b>X. Xiu*</b>, Fast-VLA: Exploring Fast Reasoning for Vision-Language-Action Models, 2025 <br>
 * P. Zhang, <b>X. Xiu*</b>, Reinforcement Learning for Vision-Language-Action Models: A Survey, 2026 <br>
 
