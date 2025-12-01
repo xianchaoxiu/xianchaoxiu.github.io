@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 最优化与机器学习
+title: 最优化方法
 comments: false
 share: false
 ---
