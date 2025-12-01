@@ -7,8 +7,6 @@ comments: false
 share: false
 ---
 
-➡️ <a href="https://xianchaoxiu.github.io/chinese/course/OPT/" class="textlink" target="_blank"> 聚焦最优化理论方法, 攻关大模型核心技术, 突破具身智能关键问题  </a>
-
 
 
 ### 工作经历
@@ -25,7 +23,7 @@ share: false
 
 
 ### 研究兴趣
-* <a href="https://xianchaoxiu.github.io/chinese/research/OPT/" class="textlink" target="_blank"> 最优化与机器学习 </a><br>
+* <a href="https://xianchaoxiu.github.io/chinese/research/OPT/" class="textlink" target="_blank"> 最优化方法 </a><br>
 * <a href="https://xianchaoxiu.github.io/chinese/research/LLM/" class="textlink" target="_blank"> 大模型与具身智能 </a><br>
 
 
