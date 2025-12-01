@@ -5,13 +5,11 @@ comments: false
 share: false
 ---
 
-### 大模型驱动优化与压缩
-* L. Xu, <b>X. Xiu*</b>, GoPrune: Accelerated Structured Pruning with L2,p-Norm Optimization, 2025 <br>
-* J. Li, <b>X. Xiu*</b>, LLM4FS: Leveraging Large Language Models for Feature Selection, 2025 <br>
-
+### 生成式人工智能与优化
+* TBD
 
 ### 具身智能优化与学习
-* L. Chen, <b>X. Xiu*</b>, Fast-VLA: Exploring Fast Reasoning for Vision-Language-Action Models, 2025 <br>
+TBD
 
 
 ### 高维张量优化与学习
