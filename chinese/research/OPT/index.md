@@ -8,6 +8,14 @@ share: false
 ### 生成式人工智能与优化
 * TBD
 
+
+
+### 高维张量优化与应用
+* J. Liu, J. Jin, <b>X. Xiu*</b>, J. Zhang, W. Liu, <a href="https://doi.org/10.1016/j.patcog.2025.112496" class="textlink" target="_blank">STAR-Net: An Interpretable Model-Aided Network for Remote Sensing Image Denoising</a>, Pattern Recognition, 172: 112496, 2026  <br>
+* J. Liu, M. Feng, <b>X. Xiu*</b>, X. Zeng, J. Zhang, <a href="https://ieeexplore.ieee.org/document/10935754" class="textlink" target="_blank">Tensor Low-Rank Approximation via Plug-and-Play Priors for Anomaly Detection in Remote Sensing Images</a>, IEEE Transactions on Instrumentation and Measurement, 74: 1-14, 2025  <br>
+* J. Sun, <b>X. Xiu</b>, Z. Luo*, W. Liu, <a href="https://ieeexplore.ieee.org/document/10091146" class="textlink" target="_blank">Learning High-Order Multi-View Representation by New Tensor Canonical Correlation Analysi</a>, IEEE Transactions on Circuits and Systems for Video Technology, 33(10): 5645-5654, 2023 <br>
+
+
   
 ### 稀疏优化理论与算法
 * J. Fan, A. Yan, <b>X. Xiu*</b>, W. Liu, Robust Sparse Phase Retrieval: Statistical Guarantee, Optimality Theory and Convergent Algorithm, Inverse Problems, 2026 <br>
@@ -17,17 +25,8 @@ share: false
 
 
 ### 工业数据解析与优化
-
 * <b>X. Xiu</b>, L. Pan, Y. Yang*, W. Liu, <a href="https://doi.org/10.1109/TNNLS.2022.3201881" class="textlink" target="_blank">Efficient and Fast Joint Sparse Constrained Canonical Correlation Analysis for Fault Detection</a>, IEEE Transactions on Neural Networks and Learning Systems, 35(3): 4153-4163, 2024  <br>
 * <b>X. Xiu</b>, Z. Miao, W. Liu*, <a href="https://doi.org/10.1109/TII.2022.3180070" class="textlink" target="_blank">A Sparsity-Aware Fault Diagnosis Framework Focusing on Accurate Isolation</a>, IEEE Transactions on Industrial Informatics, 19(2): 1356-1365, 2023 <br>
 * <b>X. Xiu</b>, Z. Miao, Y. Yang*, W. Liu, <a href="https://doi.org/10.1109/TII.2021.3121770" class="textlink" target="_blank">Deep Canonical Correlation Analysis Using Sparsity-Constrained Optimization for Nonlinear Process Monitoring</a>, IEEE Transactions on Industrial Informatics, 18(10): 6690-6699, 2022 <br>
 * <b>X. Xiu</b>, Y. Yang*, L. Kong, W. Liu, <a href="https://doi.org/10.1109/TCSII.2020.2988054" class="textlink" target="_blank">Data-Driven Process Monitoring Using Structured Joint Sparse Canonical Correlation Analysis</a>, IEEE Transactions on Circuits and Systems II: Express Briefs, 68(1): 361-365, 2021 <br>
-
-
-### 高维张量优化与应用
-
-* J. Liu, J. Jin, <b>X. Xiu*</b>, J. Zhang, W. Liu, <a href="https://doi.org/10.1016/j.patcog.2025.112496" class="textlink" target="_blank">STAR-Net: An Interpretable Model-Aided Network for Remote Sensing Image Denoising</a>, Pattern Recognition, 172: 112496, 2026  <br>
-* J. Liu, M. Feng, <b>X. Xiu*</b>, X. Zeng, J. Zhang, <a href="https://ieeexplore.ieee.org/document/10935754" class="textlink" target="_blank">Tensor Low-Rank Approximation via Plug-and-Play Priors for Anomaly Detection in Remote Sensing Images</a>, IEEE Transactions on Instrumentation and Measurement, 74: 1-14, 2025  <br>
-* J. Sun, <b>X. Xiu</b>, Z. Luo*, W. Liu, <a href="https://ieeexplore.ieee.org/document/10091146" class="textlink" target="_blank">Learning High-Order Multi-View Representation by New Tensor Canonical Correlation Analysi</a>, IEEE Transactions on Circuits and Systems for Video Technology, 33(10): 5645-5654, 2023 <br>
-
 
