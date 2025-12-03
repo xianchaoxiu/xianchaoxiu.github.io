@@ -26,13 +26,8 @@ Chinese Academy of Sciences<br>
 * <a href="../talks/2024-ORSC.pdf" class="textlink" target="_blank"> Bi-Sparse Unsupervised Feature Selection </a><br>
 Operations Research Society of China <br>
 
-* <a href="../talks/2024-ICOSA.pdf" class="textlink" target="_blank">STAR-Net: An Interpretable Tensor Representation Network for Hyperspectral Image Denoising </a><br>
-International Conference on Optimization and Statistics with Applications<br>
 
 ### 2023
-
-* <a href="../talks/2023-ASA.pdf" class="textlink" target="_blank"> Plug-and-Play Tensor Low-Rank Approximation for Hyperspectral Anomaly Detection  </a><br>
-Algorithm Software and Applications<br>
 
 * <a href="../talks/2023-MOS.pdf" class="textlink" target="_blank"> Data-Driven Fault Diagnosis: From Sparse Representation to Deep Learning  </a><br>
 Mathematical Optimization Society <br>
