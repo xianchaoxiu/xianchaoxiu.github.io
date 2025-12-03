@@ -16,7 +16,7 @@ share: false
 * Attention-Driven Latent Low-Rank Representation and Its Applications, 2026  <br>
 * Rethinking Latent Low-Rank Representation Through Deep Unfolding Networks, 2026  <br>
 * Semi-Smooth Newton Unfolding Networks for Efficient Unsupervised Feature Selection, 2026  <br>
-* When Semi-Smooth Newton Meets Diffusion: A Deep Unfolding Perspective for Blind Image Restoration <br>
+* When Semi-Smooth Newton Meets Diffusion: A Deep Unfolding Perspective for Blind Image Restoration, 2026  <br>
 * Robust Infrared Small Target Detection with Flow-Matching Unfolding Networks, 2026  <br>
 * Large Language Models As Optimization Experts, 2026  <br>
 
