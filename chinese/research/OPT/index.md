@@ -11,7 +11,7 @@ share: false
 
 
 ### 高阶张量优化与应用
-* Y. Zhu, W. Liu, <b>X. Xiu*</b>, J. Sun, Sparse Tensor CCA via Manifold Optimization for Multi-View Learning, IEEE Transactions on Circuits and Systems for Video Technology, 2025 <br>
+* Y. Zhu, W. Liu, <b>X. Xiu*</b>, J. Sun, Sparse Tensor CCA via Manifold Optimization for Multi-View Learning, IEEE Transactions on Circuits and Systems for Video Technology, 2026 <br>
 * J. Liu, J. Jin, <b>X. Xiu*</b>, J. Zhang, W. Liu, <a href="https://doi.org/10.1016/j.patcog.2025.112496" class="textlink" target="_blank">STAR-Net: An Interpretable Model-Aided Network for Remote Sensing Image Denoising</a>, Pattern Recognition, 172: 112496, 2026  <br>
 * J. Liu, M. Feng, <b>X. Xiu*</b>, X. Zeng, J. Zhang, <a href="https://ieeexplore.ieee.org/document/10935754" class="textlink" target="_blank">Tensor Low-Rank Approximation via Plug-and-Play Priors for Anomaly Detection in Remote Sensing Images</a>, IEEE Transactions on Instrumentation and Measurement, 74: 1-14, 2025  <br>
 * J. Sun, <b>X. Xiu</b>, Z. Luo*, W. Liu, <a href="https://ieeexplore.ieee.org/document/10091146" class="textlink" target="_blank">Learning High-Order Multi-View Representation by New Tensor Canonical Correlation Analysi</a>, IEEE Transactions on Circuits and Systems for Video Technology, 33(10): 5645-5654, 2023 <br>
