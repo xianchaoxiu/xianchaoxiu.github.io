@@ -40,7 +40,7 @@ share: false
   
 * <b>X. Xiu</b>, Z. Miao, Y. Yang*, W. Liu, <a href="https://doi.org/10.1109/TII.2021.3121770" class="textlink" target="_blank">Deep Canonical Correlation Analysis Using Sparsity-Constrained Optimization for Nonlinear Process Monitoring</a>, IEEE Transactions on Industrial Informatics, 18(10): 6690-6699, 2022
 
-* <b>X. Xiu</b>, J. Fan, Y. Yang*, W. Liu, <a href="https://doi.org/10.1109/TIM.2021.3067218" class="textlink" target="_blank">Fault Detection Using Structured Joint Sparse Nonnegative Matrix Factorization</a>, EEE Transactions on Instrumentation and Measurement, 70: 3513011, 2021
+* <b>X. Xiu</b>, J. Fan, Y. Yang*, W. Liu, <a href="https://doi.org/10.1109/TIM.2021.3067218" class="textlink" target="_blank">Fault Detection Using Structured Joint Sparse Nonnegative Matrix Factorization</a>, IEEE Transactions on Instrumentation and Measurement, 70: 3513011, 2021
 
 * <b>X. Xiu</b>, Y. Yang*, L. Kong, W. Liu, <a href="https://doi.org/10.1109/TCSII.2020.2988054" class="textlink" target="_blank">Data-Driven Process Monitoring Using Structured Joint Sparse Canonical Correlation Analysis</a>, IEEE Transactions on Circuits and Systems II: Express Briefs, 68(1): 361-365, 2021
 
