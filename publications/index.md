@@ -13,13 +13,11 @@ share: false
 
 ### 2025
 
-
 * <b>X. Xiu</b>, C. Huang, P. Shang*, W. Liu, <a href="https://ieeexplore.ieee.org/document/11207158" class="textlink" target="_blank">Bi-Sparse Unsupervised Feature Selection</a>, IEEE Transactions on Image Processing, 34: 7407-7421, 2025 <a href="https://github.com/xianchaoxiu/BSUFS" class="textlink" target="_blank" style="color: red;">[Code]</a>
-
-* J. Fan, A. Yan, <b>X. Xiu*</b>, W. Liu, Robust Sparse Phase Retrieval: Statistical Guarantee, Optimality Theory and Convergent Algorithm, Inverse Problems,  2025 <a href="https://github.com/xianchaoxiu/HPR" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
 * Y. Zhu, W. Liu, <b>X. Xiu*</b>, J. Sun, Sparse Tensor CCA via Manifold Optimization for Multi-View Learning, IEEE Transactions on Circuits and Systems for Video Technology, 2025  <a href="https://github.com/zhudafa/STCCA-L" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
+* J. Fan, A. Yan, <b>X. Xiu*</b>, W. Liu, Robust Sparse Phase Retrieval: Statistical Guarantee, Optimality Theory and Convergent Algorithm, Inverse Problems,  2025 <a href="https://github.com/xianchaoxiu/HPR" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
 * J. Liu, J. Jin, <b>X. Xiu*</b>, J. Zhang, W. Liu, <a href="https://doi.org/10.1016/j.patcog.2025.112496" class="textlink" target="_blank">STAR-Net: An Interpretable Model-Aided Network for Remote Sensing Image Denoising</a>, Pattern Recognition, 172: 112496, 2025 <a href="https://github.com/xianchaoxiu/STAR-Net" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
