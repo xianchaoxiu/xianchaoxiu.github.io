@@ -9,4 +9,6 @@ share: false
 ### 视觉语言动作 (VLA) 
 * L. Chen, <b>X. Xiu*</b>, Fast-VLA: Exploring Fast Reasoning for Vision-Language-Action Models, 2026 <br>
 * P. Zhang, <b>X. Xiu*</b>, Reinforcement Learning for Vision-Language-Action Models: A Survey, 2026 <br>
-* L. Xu, <b>X. Xiu*</b>, A Systematic Review on Pruning for Large Language Models, 2026 <br>
+* L. Xu, <b>X. Xiu*</b>, Unlocking Efficiency in Large Language Models: A Comprehensive Survey of Pruning, 2026 <br>
+
+
