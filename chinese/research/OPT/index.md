@@ -6,8 +6,7 @@ share: false
 ---
 
 ### 生成式人工智能与优化
-* TBD
-
+* L. Xu, <b>X. Xiu*</b>, A Comprehensive Survey of Pruning for Large Language Models, 2026 <br>
 
 
 ### 高阶张量优化与应用
