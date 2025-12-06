@@ -17,4 +17,4 @@ share: false
 * Attention-Driven Latent Low-Rank Representation and Its Applications, 2026  <br>
 * Semi-Smooth Newton Unfolding Networks for Efficient Unsupervised Feature Selection, 2026  <br>
 * When Semi-Smooth Newton Meets Flow Matching: A Deep Unfolding Perspective for Blind Image Restoration, 2026  <br>
-* Large Language Models As Optimization Experts, 2026  <br>
+* Can Large Language Models Be Optimizers?, 2026  <br>
