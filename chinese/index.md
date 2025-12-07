@@ -7,7 +7,7 @@ comments: false
 share: false
 ---
 
-
+目前主要研究生成式人工智能驱动的最优化方法及其具身智能应用。课题组常年招收硕士研究生，欢迎同学们联系. 
 
 ### 工作经历
 * 2024.04-至今, 上海大学, 机电工程与自动化学院, 副教授 <br>
@@ -24,6 +24,7 @@ share: false
 ### 研究兴趣
 * <a href="https://xianchaoxiu.github.io/chinese/research/OPT/" class="textlink" target="_blank"> 最优化 </a><br>
 * <a href="https://xianchaoxiu.github.io/chinese/research/EAI/" class="textlink" target="_blank"> 具身智能 </a><br>
+
 
 ### 讲授课程
 * <a href="https://xianchaoxiu.github.io/chinese/course/PRO/" class="textlink" target="_blank">  概率论 </a><br>
