@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /chinese/
-title: 个人简介
-tags: [chinese]
+permalink: /reading/
+title: 阅读材料
+tags: [reading]
 comments: false
 share: false
 ---
