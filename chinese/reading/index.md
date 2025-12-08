@@ -10,9 +10,10 @@ share: false
 
   
 ### 基本知识
-* 文再文, 袁亚湘, 最优化方法与理论 <a href="http://faculty.bicmr.pku.edu.cn/~wenzw/optbook.html" class="textlink" target="_blank">[Book]</a> <a href="https://www.bilibili.com/video/BV1xH4y1y7qy/" class="textlink" target="_blank">[Video]</a> <br>
-* 邱锡鹏, 神经网络与深度学习 <a href="https://nndl.github.io/" class="textlink" target="_blank">[Book]</a> <a href="https://www.bilibili.com/video/BV13b4y1177W/" class="textlink" target="_blank">[Video]</a> <br>
-* 毛玉仁, 高云君, 大模型基础 <a href="https://github.com/ZJU-LLMs/Foundations-of-LLMs" class="textlink" target="_blank">[Book]</a> <a href="https://www.bilibili.com/video/BV1PB6XYFET2/" class="textlink" target="_blank">[Video]</a> <br>
+*  <a href="http://faculty.bicmr.pku.edu.cn/~wenzw/optbook.html" class="textlink" target="_blank">文再文, 袁亚湘, 最优化方法与理论 </a> <br>
+*  <a href="https://nndl.github.io/" class="textlink" target="_blank">邱锡鹏, 神经网络与深度学习 </a> <br>
+*  <a href="https://github.com/ZJU-LLMs/Foundations-of-LLMs" class="textlink" target="_blank">毛玉仁, 高云君, 大模型基础 </a> <br>
+
 
 ### 推荐期刊
 *  <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34" class="textlink" target="_blank">IEEE Transactions on Pattern Analysis and Machine Intelligence </a> <br>
