@@ -10,10 +10,6 @@ share: false
 ➡️ <a href="https://xianchaoxiu.github.io/chinese/reading/" class="textlink" target="_blank">每年招收硕士研究生2名, 请直接联系</a><br>
 
 
-上海大学自动化系副教授、硕士生导师。2019年获北京交通大学数学博士学位, 2019-2021年在北京大学工学院从事博士后工作。主要研究<a href="https://xianchaoxiu.github.io/chinese/research/OPT/" class="textlink" target="_blank">最优化</a>与<a href="https://xianchaoxiu.github.io/chinese/research/EAI/" class="textlink" target="_blank">具身智能</a>。以第一/通讯作者在IEEE Trans期刊发表学术论文20余篇, ESI高被引论文2篇。主持国家自然科学基金面上项目、青年项目、上海高校青年教师培养资助计划、上海大学青年英才启航计划等。  <br>
-
-
-
 
 ### 工作经历
 * 2024.04-至今, 上海大学, 机电工程与自动化学院, 副教授 <br>
@@ -52,7 +48,9 @@ share: false
 
 ### 科研项目
 * 国家自然科学基金面上项目, 大规模黎曼流形稀疏优化算法及应用, 2024.01-2027.12, 主持 <br>
+* 上海大学青年英才启航计划, 数据驱动故障诊断的优化模型与算法, 2022.01-2024.12, 主持 <br>
 * 国家自然科学基金青年项目, 稀疏典型相关分析的理论与算法研究, 2021.01-2023.12, 主持 <br>
+
 
 
 ### 社会兼职
