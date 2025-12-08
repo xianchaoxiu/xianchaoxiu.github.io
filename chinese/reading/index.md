@@ -15,12 +15,11 @@ share: false
 * 毛玉仁, 高云君, 大模型基础 <a href="https://github.com/ZJU-LLMs/Foundations-of-LLMs" class="textlink" target="_blank">[Book]</a> <a href="https://www.bilibili.com/video/BV1PB6XYFET2/" class="textlink" target="_blank">[Video]</a> <br>
 
 ### 推荐期刊
-*  <a href="https://www.nature.com/natmachintell/" class="textlink" target="_blank">Nature Machine Intelligence </a> <br>
-*  <a href="https://jmlr.org/" class="textlink" target="_blank">Journal of Machine Learning Research</a> <br>
 *  <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34" class="textlink" target="_blank">IEEE Transactions on Pattern Analysis and Machine Intelligence </a> <br>
 *  <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83" class="textlink" target="_blank">IEEE Transactions on Image Processing </a> <br>
 *  <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=78" class="textlink" target="_blank">IEEE Transactions on Signal Processing </a> <br>
-
+*  <a href="https://jmlr.org/" class="textlink" target="_blank">Journal of Machine Learning Research</a> <br>
+*  <a href="https://www.nature.com/natmachintell/" class="textlink" target="_blank">Nature Machine Intelligence </a> <br>
 
 
 ### 学术论文
