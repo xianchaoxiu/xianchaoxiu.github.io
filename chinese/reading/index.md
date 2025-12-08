@@ -20,6 +20,7 @@ share: false
 *  <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=78" class="textlink" target="_blank">IEEE Transactions on Signal Processing </a> <br>
 *  <a href="https://jmlr.org/" class="textlink" target="_blank">Journal of Machine Learning Research</a> <br>
 *  <a href="https://www.nature.com/natmachintell/" class="textlink" target="_blank">Nature Machine Intelligence </a> <br>
+*  <a href="https://www.siam.org/publications/siam-journals/siam-journal-on-optimization/" class="textlink" target="_blank">SIAM Journal on Optimization</a> <br>
 
 
 ### 学术论文
