@@ -17,6 +17,5 @@ share: false
 
 ### 学术论文
 * <b>X. Xiu</b>, C. Huang, P. Shang*, W. Liu, <a href="https://ieeexplore.ieee.org/document/11207158" class="textlink" target="_blank">Bi-Sparse Unsupervised Feature Selection</a>, IEEE Transactions on Image Processing, 34: 7407-7421, 2025  <br>
-* <b>X. Xiu</b>, L. Pan, Y. Yang*, W. Liu, <a href="https://doi.org/10.1109/TNNLS.2022.3201881" class="textlink" target="_blank">Efficient and Fast Joint Sparse Constrained Canonical Correlation Analysis for Fault Detection</a>, IEEE Transactions on Neural Networks and Learning Systems, 35(3): 4153-4163, 2024  <br>
 
   
