@@ -7,7 +7,7 @@ comments: false
 share: false
 ---
 
-上海大学自动化系副教授、硕士生导师。2019年获北京交通大学数学博士学位, 2019-2021年在北京大学工学院从事博士后工作。主要研究<a href="https://xianchaoxiu.github.io/chinese/research/OPT/" class="textlink" target="_blank">最优化</a>与<a href="https://xianchaoxiu.github.io/chinese/research/EAI/" class="textlink" target="_blank">具身智能</a>。以第一/通讯作者在IEEE Trans期刊发表学术论文20余篇, 如IEEE TIP、IEEE TNNLS、IEEE TCSVT、IEEE TII, 授权专利10余项。主持国家自然科学基金面上项目、青年项目、上海高校青年教师培养资助计划、上海大学青年英才启航计划等。 <br>
+上海大学自动化系副教授、硕士生导师。2019年获北京交通大学数学博士学位, 2019-2021年在北京大学工学院从事博士后工作。主要研究<a href="https://xianchaoxiu.github.io/chinese/research/OPT/" class="textlink" target="_blank">最优化</a>与<a href="https://xianchaoxiu.github.io/chinese/research/EAI/" class="textlink" target="_blank">具身智能</a>。以第一/通讯作者在IEEE Trans期刊发表学术论文20余篇, 如IEEE TIP、IEEE TNNLS、IEEE TCSVT、IEEE TII。主持国家自然科学基金面上项目、青年项目、上海高校青年教师培养资助计划、上海大学青年英才启航计划等。 <br>
 
 每年招收硕士研究生2名, 申博意向者优先, 感兴趣的同学直接联系
 
