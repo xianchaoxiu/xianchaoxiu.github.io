@@ -20,6 +20,7 @@ share: false
 *  <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83" class="textlink" target="_blank">IEEE Transactions on Image Processing </a> <br>
 *  <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=78" class="textlink" target="_blank">IEEE Transactions on Signal Processing </a> <br>
 *  <a href="https://jmlr.org/" class="textlink" target="_blank">Journal of Machine Learning Research</a> <br>
+*  <a href="https://pubsonline.informs.org/journal/opre/" class="textlink" target="_blank">Operations Research</a> <br>
 
 
 
