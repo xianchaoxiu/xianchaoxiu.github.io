@@ -1,11 +1,11 @@
 ---
 layout: page
-permalink: /reading/
 title: 阅读材料
-tags: [reading]
 comments: false
 share: false
 ---
+
+
 
 要求具备较强自驱力和Python编程能力, 申博意向者优先
   
