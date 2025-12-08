@@ -7,7 +7,11 @@ comments: false
 share: false
 ---
 
-聚焦最优化理论方法, 攻关大模型核心技术, 突破具身智能关键问题。每年招收硕士研究生 2 名，申博意向者优先，感兴趣的同学直接联系
+上海大学自动化系副教授、硕士生导师。2019年获北京交通大学数学博士学位, 2019-2021年在北京大学工学院从事博士后工作。主要研究 <a href="https://xianchaoxiu.github.io/chinese/research/OPT/" class="textlink" target="_blank"> 最优化 </a> 与 <a href="https://xianchaoxiu.github.io/chinese/research/EAI/" class="textlink" target="_blank"> 具身智能 </a>。以第一/通讯作者在IEEE Trans期刊发表学术论文20余篇, 如IEEE TIP、IEEE TNNLS、IEEE TCSVT、IEEE TII。现为CSIAM大数据与人工智能专委会委员、CAA具身智能专业委员会委员。 <br>
+
+每年招收硕士研究生2名, 申博意向者优先, 感兴趣的同学直接联系
+
+
 
 ### 工作经历
 * 2024.04-至今, 上海大学, 机电工程与自动化学院, 副教授 <br>
