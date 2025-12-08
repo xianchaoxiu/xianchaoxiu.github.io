@@ -9,6 +9,7 @@ share: false
   
 ### 基本知识
 * 刘浩洋, 户将, 李勇锋, 文再文, 最优化：建模、算法与理论 <a href="http://faculty.bicmr.pku.edu.cn/~wenzw/optbook.html" class="textlink" target="_blank">[Book]</a> <a href="https://www.bilibili.com/video/BV1xH4y1y7qy/" class="textlink" target="_blank">[Video]</a> <br>
+* 邱锡鹏, 神经网络与深度学习 <a href="https://nndl.github.io/" class="textlink" target="_blank">[Book]</a> <a href="https://www.bilibili.com/video/BV13b4y1177W/" class="textlink" target="_blank">[Video]</a> <br>
 * 毛玉仁, 高云君, 大模型基础 <a href="https://github.com/ZJU-LLMs/Foundations-of-LLMs" class="textlink" target="_blank">[Book]</a> <a href="https://www.bilibili.com/video/BV1PB6XYFET2/" class="textlink" target="_blank">[Video]</a> <br>
 
 
