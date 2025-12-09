@@ -8,8 +8,8 @@ share: false
 
 
 ### 基本要求
-*  学术自驱力 <br>
-* Python编程 <br>
+* 学术自驱力 <br>
+* Python/MATLAB编程 <br>
  
 
 ### 专业知识
