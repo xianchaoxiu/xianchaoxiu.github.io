@@ -9,7 +9,7 @@ share: false
 
 ### 基本要求
 * 自驱力强, 心怀感恩 <br>
-* 熟悉Python，掌握Latex  <br>
+* 熟悉Python, 掌握Latex  <br>
  
 
  
