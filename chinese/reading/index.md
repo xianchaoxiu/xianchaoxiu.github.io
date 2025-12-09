@@ -9,7 +9,7 @@ share: false
 
 ### 基本要求
 * 自驱力强 <br>
-* 熟悉Python编程  <br>
+* 熟悉Python或Matlab  <br>
  
 
  
