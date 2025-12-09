@@ -9,7 +9,7 @@ share: false
 
 ### 基本要求
 * 自驱力强, 懂得感恩 <br>
-* 熟悉Python编程, 动手能力强 <br>
+* 熟悉Python或Matlab编程语言 <br>
  
 
  
