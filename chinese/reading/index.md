@@ -6,10 +6,13 @@ share: false
 ---
 
 
-<mark>要求具备强烈的学术自驱力, 熟练掌握Python编程技能 </mark>
 
-  
-### 基本知识
+### 基本要求
+*  学术自驱力 <br>
+* Python/Matlab编程 <br>
+ 
+
+### 专业知识
 *  <a href="http://faculty.bicmr.pku.edu.cn/~wenzw/optbook.html" class="textlink" target="_blank">文再文, 袁亚湘, 最优化方法与理论 </a> <br>
 *  <a href="https://nndl.github.io/" class="textlink" target="_blank">邱锡鹏, 神经网络与深度学习 </a> <br>
 *  <a href="https://github.com/ZJU-LLMs/Foundations-of-LLMs" class="textlink" target="_blank">毛玉仁, 高云君, 大模型基础 </a> <br>
