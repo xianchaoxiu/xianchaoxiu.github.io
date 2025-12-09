@@ -8,8 +8,8 @@ share: false
 
 
 ### 基本要求
-* 自驱力强、心怀感恩 <br>
-* 熟悉Python、Matlab编程语言 <br>
+* 自驱力强, 心怀感恩 <br>
+* 熟悉Python编程,  <br>
  
 
  
