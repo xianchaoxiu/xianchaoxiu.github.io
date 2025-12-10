@@ -8,8 +8,8 @@ share: false
 
 
 ### 基本要求
-* 自驱力强, 心怀感恩 <br>
-* 熟悉Python编程, 掌握Latex书写  <br>
+* 品德优秀, 自驱力强 <br>
+* 掌握Python编程, 熟练英文书写  <br>
  
 
  
