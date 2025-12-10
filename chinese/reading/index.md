@@ -28,8 +28,3 @@ share: false
 *  <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34" class="textlink" target="_blank"> IEEE Transactions on Pattern Analysis and Machine Intelligence </a> <br>
 *  <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83" class="textlink" target="_blank"> IEEE Transactions on Image Processing </a> <br>
 *  <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8860" class="textlink" target="_blank"> IEEE Transactions on Robotics </a> <br>
-*  <a href="https://www.siam.org/publications/siam-journals/siam-journal-on-optimization/" class="textlink" target="_blank"> SIAM Journal on Optimization </a> <br>
-
-
-
-  
