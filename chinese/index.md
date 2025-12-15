@@ -41,15 +41,9 @@ share: false
 * <b>X. Xiu</b>, Z. Miao, Y. Yang*, W. Liu, <a href="https://doi.org/10.1109/TII.2021.3121770" class="textlink" target="_blank">Deep Canonical Correlation Analysis Using Sparsity-Constrained Optimization for Nonlinear Process Monitoring</a>, IEEE Transactions on Industrial Informatics, 18(10): 6690-6699, 2022 <br>
 
   
-### 学术著作
-* <a href="https://xianchaoxiu.github.io/chinese/book/OR/" class="textlink" target="_blank">运筹学基础 </a><br>
-* <a href="https://xianchaoxiu.github.io/chinese/book/DDOA/" class="textlink" target="_blank">数据驱动最优化 </a><br>
-
-
 
 ### 科研项目
 * 国家自然科学基金面上项目, 大规模黎曼流形稀疏优化算法及应用, 2024.01-2027.12, 主持 <br>
-* 上海大学青年英才启航计划, 数据驱动故障诊断的优化模型与算法, 2022.01-2024.12, 主持 <br>
 * 国家自然科学基金青年项目, 稀疏典型相关分析的理论与算法研究, 2021.01-2023.12, 主持 <br>
 
 
