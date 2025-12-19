@@ -30,3 +30,7 @@ share: false
 *  <a href="https://jmlr.org/" class="textlink" target="_blank"> Journal of Machine Learning Research </a> <br>
 *  <a href="https://www.siam.org/publications/siam-journals/siam-journal-on-optimization/" class="textlink" target="_blank"> SIAM Journal on Optimization </a> <br>
 *  <a href="https://www.nature.com/natmachintell/" class="textlink" target="_blank"> Nature Machine Intelligence </a> <br>
+
+
+### 个人自评
+本人始终秉持 “理论-算法-应用”的交叉融合，学生可根据自身兴趣与发展规划，灵活选择偏学术探索或偏工程应用，相关细节可充分沟通协商。每周固定组织一次组会，无特殊情况不允许请假。支持学生参加 1-2 次国内高水平学术会议，同时允许学生在二年级暑假外出实习，且在毕业季预留充足时间。本人对学术怀有敬畏之心与执着追求，若仅以 “混学位” 为目的，请勿联系。
