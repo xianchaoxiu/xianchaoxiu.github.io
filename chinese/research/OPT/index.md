@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 数学优化
+title: 最优化与人工智能
 comments: false
 share: false
 ---
