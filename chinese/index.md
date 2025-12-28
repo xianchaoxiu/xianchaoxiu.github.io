@@ -7,7 +7,7 @@ comments: false
 share: false
 ---
 
-➡️ <a href="https://xianchaoxiu.github.io/chinese/reading/" class="textlink" target="_blank"> 课题组每年招收硕士研究生1-2名，博士研究生0-1名，博士后若干名 </a><br>
+➡️ <a href="https://xianchaoxiu.github.io/chinese/reading/" class="textlink" target="_blank"> 每年招收硕士研究生2名, 博士后若干名 </a><br>
 
 
 
