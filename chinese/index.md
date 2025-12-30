@@ -31,7 +31,7 @@ share: false
 
 ### 讲授课程
 * <a href="https://xianchaoxiu.github.io/chinese/course/PRO/" class="textlink" target="_blank">  概率论 </a><br>
-* <a href="https://xianchaoxiu.github.io/chinese/course/OR/" class="textlink" target="_blank">  运筹学基础 </a><br>
+* <a href="https://xianchaoxiu.github.io/chinese/course/OR/" class="textlink" target="_blank">   运筹学基础 </a><br>
 * <a href="https://xianchaoxiu.github.io/chinese/course/OPT/" class="textlink" target="_blank">  现代优化方法 </a><br>
 
 
@@ -44,14 +44,14 @@ share: false
   
 
 ### 科研项目
-* 国家自然科学基金面上项目, 大规模黎曼流形稀疏优化算法及应用, 2024.01-2027.12, 主持 <br>
-* 国家自然科学基金青年项目, 稀疏典型相关分析的理论与算法研究, 2021.01-2023.12, 主持 <br>
+* 2024.01-2027.12, 国家自然科学基金面上项目, 大规模黎曼流形稀疏优化算法及应用 <br>
+* 2021.01-2023.12, 国家自然科学基金青年项目, 稀疏典型相关分析的理论与算法研究 <br>
 
 
 
 ### 荣誉奖励
-* 上海大学突出贡献奖, 2024 <br>
-* 上海大学优秀毕业论文指导教师奖, 2023 <br>
+* 2024, 上海大学突出贡献奖 <br>
+* 2023, 上海大学优秀毕业论文指导教师奖 <br>
 
 
 ### 社会兼职
