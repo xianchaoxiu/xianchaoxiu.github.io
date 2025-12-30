@@ -29,6 +29,9 @@ share: false
 *  <a href="https://jmlr.org/" class="textlink" target="_blank"> Journal of Machine Learning Research </a> <br>
 *  <a href="https://www.siam.org/publications/siam-journals/siam-journal-on-optimization/" class="textlink" target="_blank"> SIAM Journal on Optimization </a> <br>
 *  <a href="https://www.nature.com/natmachintell/" class="textlink" target="_blank"> Nature Machine Intelligence </a> <br>
+*  <a href="https://www.science.org/journal/scirobotics" class="textlink" target="_blank"> Science Robotics </a> <br>
+
+
 
 
 ### 导师自评
