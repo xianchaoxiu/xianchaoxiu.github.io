@@ -24,15 +24,18 @@ share: false
 * 2016.12-2017.12, 澳大利亚科廷大学, 联合培养, 导师: <a href="https://ise.sysu.edu.cn/teacher/LiuWanquan" class="textlink" target="_blank">Wanquan Liu</a> <br>
 
 
-### 研究兴趣
-* <a href="https://xianchaoxiu.github.io/chinese/research/OPT/" class="textlink" target="_blank"> 最优化与机器学习 </a><br>
-* <a href="https://xianchaoxiu.github.io/chinese/research/EAI/" class="textlink" target="_blank"> 大模型与具身智能 </a><br>
-
-
 ### 讲授课程
 * <a href="https://xianchaoxiu.github.io/chinese/course/PRO/" class="textlink" target="_blank">  概率论 </a><br>
 * <a href="https://xianchaoxiu.github.io/chinese/course/OR/" class="textlink" target="_blank">   运筹学基础 </a><br>
 * <a href="https://xianchaoxiu.github.io/chinese/course/OPT/" class="textlink" target="_blank">  现代优化方法 </a><br>
+
+
+
+
+### 研究兴趣
+* <a href="https://xianchaoxiu.github.io/chinese/research/OPT/" class="textlink" target="_blank"> AI for Optimization </a><br>
+* <a href="https://xianchaoxiu.github.io/chinese/research/VLA/" class="textlink" target="_blank"> Efficient VLA </a><br>
+
 
 
 ### 学术论文
