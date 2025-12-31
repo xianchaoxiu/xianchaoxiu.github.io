@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 最优化与机器学习
+title: AI for Optimization
 comments: false
 share: false
 ---
