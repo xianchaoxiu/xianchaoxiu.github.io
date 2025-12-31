@@ -17,7 +17,6 @@ share: false
 
   
 ### Sparse Optimization
-* J. Fan, A. Yan, <b>X. Xiu*</b>, W. Liu, Robust Sparse Phase Retrieval: Statistical Guarantee, Optimality Theory and Convergent Algorithm, Inverse Problems, 2026 <br>
 * <b>X. Xiu</b>, C. Huang, P. Shang*, W. Liu, <a href="https://doi.org/10.1109/TIP.2025.3620667" class="textlink" target="_blank">Bi-Sparse Unsupervised Feature Selection</a>, IEEE Transactions on Image Processing, 34: 7407-7421, 2025  <br>
 * <b>X. Xiu</b>, L. Pan, Y. Yang*, W. Liu, <a href="https://doi.org/10.1109/TNNLS.2022.3201881" class="textlink" target="_blank">Efficient and Fast Joint Sparse Constrained Canonical Correlation Analysis for Fault Detection</a>, IEEE Transactions on Neural Networks and Learning Systems, 35(3): 4153-4163, 2024  <br>
 * <b>X. Xiu</b>, Z. Miao, Y. Yang*, W. Liu, <a href="https://doi.org/10.1109/TII.2021.3121770" class="textlink" target="_blank">Deep Canonical Correlation Analysis Using Sparsity-Constrained Optimization for Nonlinear Process Monitoring</a>, IEEE Transactions on Industrial Informatics, 18(10): 6690-6699, 2022 <br>
