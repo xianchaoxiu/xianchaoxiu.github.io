@@ -6,7 +6,7 @@ share: false
 ---
 
 ### Generative Optimization
-* L. Xu, <b>X. Xiu*</b>, A Comprehensive Review on Pruning for Large Language Models, 2026 <br>
+* <b>X. Xiu*</b>, Large Language Models for Operations Research: A Survey and Outlook, 2026 <br>
 
 
 ### Tensor Optimization 
