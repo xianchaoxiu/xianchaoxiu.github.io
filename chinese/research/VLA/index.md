@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 大模型与具身智能
+title: Efficient VLA
 comments: false
 share: false
 ---
