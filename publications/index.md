@@ -24,7 +24,7 @@ share: false
 
 * Y. Zhu, W. Liu, <b>X. Xiu</b>*, J. Sun, <a href="https://doi.org/10.1109/TCSVT.2025.3642736" class="textlink" target="_blank">Sparse Tensor CCA via Manifold Optimization for Multi-View Learning</a>, IEEE Transactions on Circuits and Systems for Video Technology, 2025  <a href="https://github.com/zhudafa/STCCA-L" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
-* J. Fan, A. Yan, <b>X. Xiu</b>*, W. Liu, Robust Sparse Phase Retrieval: Statistical Guarantee, Optimality Theory and Convergent Algorithm, Inverse Problems, 2025 <a href="https://github.com/xianchaoxiu/HPR" class="textlink" target="_blank" style="color: red;">[Code]</a>
+* <b>修贤超</b>, 杨安宁, 李鑫荣*, <a href="https://kns.cnki.net/kcms2/article/abstract?v=e_WjztTC4N0Z832a-bbzgdfGaZqegXeziR4mPpFe0A1ROQtRv8ba_BSLdRJqYhdrWzhvxs5NJ2O3SOWWMfU0FulX9LypoPkOg34ECqIZ1YDAiTz9p7_NUzLuG3aP698ALezyek3yh7yCM9L1er33sRDx01vji4IFd-a5be0Mbbc=&uniplatform=NZKPT" class="textlink" target="_blank">基于对比学习的稀疏低秩无监督特征选择方法</a>, 运筹学学报(中英文), 2025 <a href="https://github.com/xianchaoxiu/DSCOFS-CL" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
 ### 2024
 
