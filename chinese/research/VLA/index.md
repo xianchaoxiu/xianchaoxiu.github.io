@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Efficient VLA
+title: Vision-Language-Action (VLA)
 comments: false
 share: false
 ---
