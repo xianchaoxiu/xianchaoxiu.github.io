@@ -13,7 +13,7 @@ share: false
 
 ### 2026
 
-* J. Fan, A. Yan, <b>X. Xiu</b>*, W. Liu, Robust Sparse Phase Retrieval: Statistical Guarantee, Optimality Theory and Convergent Algorithm, Inverse Problems, 2025 <a href="https://github.com/xianchaoxiu/HPR" class="textlink" target="_blank" style="color: red;">[Code]</a>
+* J. Fan, A. Yan, <b>X. Xiu</b>*, W. Liu, Robust Sparse Phase Retrieval: Statistical Guarantee, Optimality Theory and Convergent Algorithm, Inverse Problems, 2026 <a href="https://github.com/xianchaoxiu/HPR" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
 
 ### 2025
