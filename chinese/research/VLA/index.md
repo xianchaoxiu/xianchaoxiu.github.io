@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Vision-Language-Action (VLA)
+title: Vision-Language-Action
 comments: false
 share: false
 ---
