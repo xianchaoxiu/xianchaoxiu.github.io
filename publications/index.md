@@ -13,16 +13,16 @@ share: false
 
 ### 2026
 
-* J. Fan, A. Yan, <b>X. Xiu*</b>, W. Liu, Robust Sparse Phase Retrieval: Statistical Guarantee, Optimality Theory and Convergent Algorithm, Inverse Problems, 2025 <a href="https://github.com/xianchaoxiu/HPR" class="textlink" target="_blank" style="color: red;">[Code]</a>
+* J. Fan, A. Yan, <b>X. Xiu</b>*, W. Liu, Robust Sparse Phase Retrieval: Statistical Guarantee, Optimality Theory and Convergent Algorithm, Inverse Problems, 2025 <a href="https://github.com/xianchaoxiu/HPR" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
 
 ### 2025
 
 * <b>X. Xiu</b>, C. Huang, P. Shang*, W. Liu, <a href="https://doi.org/10.1109/TIP.2025.3620667" class="textlink" target="_blank">Bi-Sparse Unsupervised Feature Selection</a>, IEEE Transactions on Image Processing, 34: 7407-7421, 2025 <a href="https://github.com/xianchaoxiu/BSUFS" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
-* Y. Zhu, W. Liu, <b>X. Xiu*</b>, J. Sun, <a href="https://doi.org/10.1109/TCSVT.2025.3642736" class="textlink" target="_blank">Sparse Tensor CCA via Manifold Optimization for Multi-View Learning</a>, IEEE Transactions on Circuits and Systems for Video Technology, 2025  <a href="https://github.com/zhudafa/STCCA-L" class="textlink" target="_blank" style="color: red;">[Code]</a>
+* Y. Zhu, W. Liu, <b>X. Xiu</b>*, J. Sun, <a href="https://doi.org/10.1109/TCSVT.2025.3642736" class="textlink" target="_blank">Sparse Tensor CCA via Manifold Optimization for Multi-View Learning</a>, IEEE Transactions on Circuits and Systems for Video Technology, 2025  <a href="https://github.com/zhudafa/STCCA-L" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
-* J. Liu, J. Jin, <b>X. Xiu*</b>, J. Zhang, W. Liu, <a href="https://doi.org/10.1016/j.patcog.2025.112496" class="textlink" target="_blank">STAR-Net: An Interpretable Model-Aided Network for Remote Sensing Image Denoising</a>, Pattern Recognition, 172: 112496, 2025 <a href="https://github.com/xianchaoxiu/STAR-Net" class="textlink" target="_blank" style="color: red;">[Code]</a>
+* J. Liu, J. Jin, <b>X. Xiu</b>*, J. Zhang, W. Liu, <a href="https://doi.org/10.1016/j.patcog.2025.112496" class="textlink" target="_blank">STAR-Net: An Interpretable Model-Aided Network for Remote Sensing Image Denoising</a>, Pattern Recognition, 172: 112496, 2025 <a href="https://github.com/xianchaoxiu/STAR-Net" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
 
    
@@ -30,9 +30,9 @@ share: false
 
 * <b>X. Xiu</b>, L. Pan, Y. Yang*, W. Liu, <a href="https://doi.org/10.1109/TNNLS.2022.3201881" class="textlink" target="_blank">Efficient and Fast Joint Sparse Constrained Canonical Correlation Analysis for Fault Detection</a>, IEEE Transactions on Neural Networks and Learning Systems, 35(3): 4153-4163, 2024 <a href="https://github.com/xianchaoxiu/JSCCCA" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
-* J. Liu, M. Feng, <b>X. Xiu*</b>, W. Liu, <a href="https://doi.org/10.1016/j.patcog.2024.110512" class="textlink" target="_blank">Towards Robust and Sparse Linear Discriminant Analysis for Image Classification</a>, Pattern Recognition, 153: 110512, 2024 <a href="https://github.com/EMXlight/RSLDAplus" class="textlink" target="_blank" style="color: red;">[Code]</a>
+* J. Liu, M. Feng, <b>X. Xiu</b>*, W. Liu, <a href="https://doi.org/10.1016/j.patcog.2024.110512" class="textlink" target="_blank">Towards Robust and Sparse Linear Discriminant Analysis for Image Classification</a>, Pattern Recognition, 153: 110512, 2024 <a href="https://github.com/EMXlight/RSLDAplus" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
-* W. Qu, H. Chen, <b>X. Xiu*</b>, W. Liu, <a href="https://doi.org/10.1016/j.neucom.2024.128267" class="textlink" target="_blank">Distributed Sparsity Constrained Optimization over the Stiefel Manifold</a>, Neurocomputing, 602: 128267, 2024 <a href="https://github.com/wtqu/DREAM" class="textlink" target="_blank" style="color: red;">[Code]</a>
+* W. Qu, H. Chen, <b>X. Xiu</b>*, W. Liu, <a href="https://doi.org/10.1016/j.neucom.2024.128267" class="textlink" target="_blank">Distributed Sparsity Constrained Optimization over the Stiefel Manifold</a>, Neurocomputing, 602: 128267, 2024 <a href="https://github.com/wtqu/DREAM" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
 
 ### 2018-2023
@@ -47,6 +47,6 @@ share: false
 
 * <b>X. Xiu</b>, Y. Yang*, L. Kong, W. Liu, <a href="https://doi.org/10.1016/j.jprocont.2020.06.011" class="textlink" target="_blank">Laplacian Regularized Robust Principal Component Analysis for Process Monitoring</a>, Journal of Process Control, 92: 212-219, 2020
   
-* <b>X. Xiu*</b>, W. Liu, L. Li, L. Kong, <a href="https://doi.org/10.1016/j.csda.2019.01.002" class="textlink" target="_blank">Alternating Direction Method of Multipliers for Nonconvex Fused Regression Problems</a>, Computational Statistics & Data Analysis, 136: 59-71, 2019
+* <b>X. Xiu</b>*, W. Liu, L. Li, L. Kong, <a href="https://doi.org/10.1016/j.csda.2019.01.002" class="textlink" target="_blank">Alternating Direction Method of Multipliers for Nonconvex Fused Regression Problems</a>, Computational Statistics & Data Analysis, 136: 59-71, 2019
   
-* <b>X. Xiu*</b>, L. Kong, Y. Li, H. Qi, <a href="https://doi.org/10.1007/s10589-017-9977-7" class="textlink" target="_blank">Iterative Reweighted Methods for L1-Lp Minimization</a>, Computational Optimization and Applications, 70(1): 201-219, 2018
+* <b>X. Xiu</b>*, L. Kong, Y. Li, H. Qi, <a href="https://doi.org/10.1007/s10589-017-9977-7" class="textlink" target="_blank">Iterative Reweighted Methods for L1-Lp Minimization</a>, Computational Optimization and Applications, 70(1): 201-219, 2018
