@@ -17,7 +17,6 @@ share: false
 
 
 ### 2025
-* <b>修贤超</b>, 杨安宁, 李鑫荣*, <a href="https://kns.cnki.net/kcms2/article/abstract?v=e_WjztTC4N0bWHCN2AxtrGWjipNfUw2K4Mn_bS4feaVO4ZBtzm7aGgk3Zm--injLM8OOf2vckjIdpVDLKNBF3g1EkZks5cCUHPi4BRsOG5p-10awfnZbh1rk0vsqeUSxBgBGvhOIJ-MeAsgfSNul1b25HFdeeZd8D91HcNRO_FM=&uniplatform=NZKPT" class="textlink" target="_blank">基于对比学习的稀疏低秩无监督特征选择方法</a>, 运筹学学报(中英文), 2025 <a href="https://github.com/xianchaoxiu/DSCOFS-CL" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
 * <b>X. Xiu</b>, C. Huang, P. Shang*, W. Liu, <a href="https://doi.org/10.1109/TIP.2025.3620667" class="textlink" target="_blank">Bi-Sparse Unsupervised Feature Selection</a>, IEEE Transactions on Image Processing, 34: 7407-7421, 2025 <a href="https://github.com/xianchaoxiu/BSUFS" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
