@@ -33,8 +33,8 @@ share: false
 
 
 ### 研究兴趣
-* <a href="https://xianchaoxiu.github.io/chinese/research/OPT/" class="textlink" target="_blank"> AI for Optimization </a><br>
-* <a href="https://xianchaoxiu.github.io/chinese/research/VLA/" class="textlink" target="_blank"> Efficient VLA </a><br>
+* <a href="https://xianchaoxiu.github.io/chinese/research/OPT/" class="textlink" target="_blank"> AI for Optimization (AI4OPT) </a><br>
+* <a href="https://xianchaoxiu.github.io/chinese/research/VLA/" class="textlink" target="_blank"> Vision-Language-Action (VLA) </a><br>
 
 
 
