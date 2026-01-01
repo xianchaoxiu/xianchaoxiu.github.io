@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AI for Optimization
+title: Artificial Intelligence for Optimization
 comments: false
 share: false
 ---
