@@ -20,6 +20,8 @@ share: false
 
 ### 相关论文
 * <b>X. Xiu</b>, C. Huang, P. Shang*, W. Liu, <a href="https://doi.org/10.1109/TIP.2025.3620667" class="textlink" target="_blank">Bi-Sparse Unsupervised Feature Selection</a>, IEEE Transactions on Image Processing, 34: 7407-7421, 2025  <br>
+* 杨安宁, <a href="https://doi.org/10.1109/TIP.2025.3620667" class="textlink" target="_blank">基于稀疏优化的无监督特征选择方法研究</a>, IEEE Transactions on Image Processing, 34: 7407-7421, 2025  <br>
+
 
 
 
