@@ -18,8 +18,10 @@ share: false
 *  <a href="https://www.bilibili.com/video/BV1PB6XYFET2/" class="textlink" target="_blank"> 毛玉仁, 高云君, 大模型基础 </a> <br>
 
 
-### 相关论文
-* 英文论文, <a href="https://doi.org/10.1109/TIP.2025.3620667" class="textlink" target="_blank">Bi-Sparse Unsupervised Feature Selection</a> <br>
+### 论文标准
+* 英文期刊论文, <a href="https://doi.org/10.1109/TIP.2025.3620667" class="textlink" target="_blank">Bi-Sparse Unsupervised Feature Selection</a> <br>
+* 中文期刊论文, <a href="https://doi.org/10.1109/TIP.2025.3620667" class="textlink" target="_blank">大语言模型驱动的运筹优化与应用</a> <br>
+* 英文会议论文, <a href="https://doi.org/10.1109/TIP.2025.3620667" class="textlink" target="_blank">Bi-Sparse Unsupervised Feature Selection</a> <br>
 * 硕士学位论文, <a href="https://xianchaoxiu.github.io/group/2025-Yang.pdf" class="textlink" target="_blank">基于稀疏优化的无监督特征选择方法研究</a> <br>
 
 
