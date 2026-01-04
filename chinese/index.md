@@ -45,8 +45,8 @@ share: false
 
   
 ### 教材专著
-* <b>修贤超</b>, 欧芳, 苗中华, <a href="https://xianchaoxiu.github.io/chinese/book/OR/" class="textlink" target="_blank">运筹学基础, 2026 </a><br>
-* <b>修贤超</b>, <a href="https://xianchaoxiu.github.io/chinese/book/OPT/" class="textlink" target="_blank">结构稀疏优化: 理论、算法与应用, 2026 </a><br>
+* <b>修贤超</b>, 欧芳, 苗中华, <a href="https://xianchaoxiu.github.io/chinese/book/OR/" class="textlink" target="_blank">运筹学基础</a>, 2026 <br>
+* <b>修贤超</b>, <a href="https://xianchaoxiu.github.io/chinese/book/OPT/" class="textlink" target="_blank">结构稀疏优化: 理论、算法与应用</a>, 2026 <br>
 
 
 
