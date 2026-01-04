@@ -11,7 +11,7 @@ share: false
 * 2026年08月, 完成出版<br>
 
 ### 计划提纲
-* 第一章 &nbsp;  引言<br>
+* 第一章 &nbsp;  绪论<br>
 * 第二章 &nbsp;  <a href="https://doi.org/10.1109/TIP.2025.3620667" class="textlink" target="_blank">稀疏主成分分析</a><br>
 * 第三章 &nbsp;  <a href="https://doi.org/10.1016/j.neucom.2024.128267" class="textlink" target="_blank">稀疏线性判别分析</a><br>
 * 第四章 &nbsp;  <a href="https://doi.org/10.1109/TIM.2023.3241990" class="textlink" target="_blank">稀疏非负矩阵分解</a><br> 
