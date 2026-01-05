@@ -8,12 +8,12 @@ share: false
 ### 什么是研究生
 * 学习从事科学研究的学生 
 * 与本科生的区别
-  - 本科生: 学习 $\rightarrow$ 考试 $\rightarrow$ 达 $\rightarrow$ 毕业 $\rightarrow$ 就业
+  - 本科生: 学习 → 考试 $\rightarrow$ 达 $\rightarrow$ 毕业 $\rightarrow$ 就业
   - 研究生: 体验知识 $\rightarrow$ 学会创造 $\rightarrow$ 展研究 $\rightarrow$ 提升素养 $\rightarrow$ 增长能力
 
 
 ### 应具备的基本素质
-* 要做学问先学做人
+* 先学做人
 * 科研内在驱动力
 * 积极向上的人生理想
 
