@@ -8,11 +8,6 @@ share: false
 ➡️ <a href="https://xianchaoxiu.github.io/chinese/reading/how/" class="textlink" target="_blank"> 研究生如何科研 </a>
 
 
-### 基本要求
-* 自驱力强, 有意读博者优先 <br>
-* 熟练Python, 数学功底扎实 <br>
-
- 
 ### 专业知识
 *  <a href="https://www.bilibili.com/video/BV1xH4y1y7qy/" class="textlink" target="_blank"> 文再文, 袁亚湘, 最优化方法与理论 </a> <br>
 *  <a href="https://www.bilibili.com/video/BV1p1421k7MC/" class="textlink" target="_blank"> 邱锡鹏, 神经网络与深度学习 </a> <br>
