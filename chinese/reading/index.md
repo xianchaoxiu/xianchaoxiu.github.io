@@ -21,7 +21,7 @@ share: false
 
 ### 论文标准
 * 期刊论文, <a href="https://doi.org/10.1109/TIP.2025.3620667" class="textlink" target="_blank">Bi-Sparse Unsupervised Feature Selection</a> (<a href="../reading/list/paper.pdf" class="textlink" target="_blank">自查表</a>) <br>
-* 学位论文, <a href="https://xianchaoxiu.github.io/group/2025-Yang.pdf" class="textlink" target="_blank">基于稀疏优化的无监督特征选择方法研究</a> (<a href="../chinese/reading/list/thesis.pdf" class="textlink" target="_blank">自查表</a>) <br>
+* 学位论文, <a href="https://xianchaoxiu.github.io/group/2025-Yang.pdf" class="textlink" target="_blank">基于稀疏优化的无监督特征选择方法研究</a> (<a href="../reading/list/thesis.pdf" class="textlink" target="_blank">自查表</a>) <br>
 
 
 ### 推荐期刊
