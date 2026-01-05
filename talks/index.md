@@ -10,8 +10,8 @@ share: false
 
 
 ### 2026
-* TBD <br>
-
+* Exploring Fast Reasoning for Vision-Language-Action Models<br>
+Algorithm Software and Applications  <br>
 
 ### 2025
 
