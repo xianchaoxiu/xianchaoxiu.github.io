@@ -5,7 +5,7 @@ comments: false
 share: false
 ---
 
-➡️ <a href="https://xianchaoxiu.github.io/chinese/reading/" class="textlink" target="_blank"> 研究生如何学习和做研究 </a>
+➡️ <a href="https://xianchaoxiu.github.io/chinese/reading/how/" class="textlink" target="_blank"> 研究生如何科研 </a>
 
 
 ### 基本要求
