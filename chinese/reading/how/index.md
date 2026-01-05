@@ -31,7 +31,7 @@ share: false
 ### 什么是导师
 * 导师目前只是合作者, 有可能发展成朋友
 * 导师与学生双向选择, 双方都有权解除师生关系
-* 导师与学生认识问题的同异
+* 导师与学生认识问题的差异
   - 导师: 努力刻苦钻研 $\rightarrow$ 提高科研能力 $\rightarrow$ 夯实学术水平 $\rightarrow$ 毕业
   - 学生: 毕业 $\rightarrow$ 必要的水平 $\rightarrow$ 必要的能力 $\rightarrow$ 必要的努力
 
