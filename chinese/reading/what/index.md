@@ -13,8 +13,8 @@ share: false
 
 ### 其他资料
 * <a href="https://www.overleaf.com/latex/templates/ieee-for-journals-template-with-bibtex-example-files-included/hjbyjvncdmpx" class="textlink" target="_blank"> IEEE期刊LATEX模板 <br>
-* <a href="../what/kaiti.pptx" class="textlink" target="_blank">  开题答辩PPT模板 <br>
 * <a href="https://www.overleaf.com/latex/templates/shuthesis-thesis-template-for-shanghai-university/fqdhvtkggqzv" class="textlink" target="_blank">  学位论文LATEX模板 <br>
+* <a href="../what/kaiti.pptx" class="textlink" target="_blank">  开题答辩PPT模板 <br>
 * <a href="../what/paper.pdf" class="textlink" target="_blank">  期刊论文自查表 <br>
 * <a href="../what/thesis.pdf" class="textlink" target="_blank">  学位论文自查表 <br>
 * <a href="../what/reply.pdf" class="textlink" target="_blank">  论文回复模板 <br>
