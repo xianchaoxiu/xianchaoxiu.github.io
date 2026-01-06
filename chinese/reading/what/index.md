@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 关于学术论文
+title: 更多资料
 comments: false
 share: false
 ---
@@ -15,3 +15,4 @@ share: false
 * <a href="../what/paper.pdf" class="textlink" target="_blank">  期刊论文自查表 <br>
 * <a href="../what/thesis.pdf" class="textlink" target="_blank">  学位论文自查表 <br>
 * <a href="../what/reply.pdf" class="textlink" target="_blank">  论文回复模板 <br>
+* <a href="../what/kaiti.pptx" class="textlink" target="_blank">  开题报告模板 <br>
