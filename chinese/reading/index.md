@@ -8,13 +8,13 @@ share: false
 ➡️ <a href="https://xianchaoxiu.github.io/chinese/reading/how/" class="textlink" target="_blank"> 研究生如何科研 </a>
 
 
-### 必读教材
+### 必读图书
 *  <a href="https://www.bilibili.com/video/BV1xH4y1y7qy/" class="textlink" target="_blank"> 文再文, 袁亚湘, 最优化方法与理论 </a> <br>
 *  <a href="https://www.bilibili.com/video/BV1p1421k7MC/" class="textlink" target="_blank"> 邱锡鹏, 神经网络与深度学习 </a> <br>
 *  <a href="https://www.bilibili.com/video/BV1PB6XYFET2/" class="textlink" target="_blank"> 毛玉仁, 高云君, 大模型基础 </a> <br>
 
 
-### 论文参考
+### 参考论文
 * 英文期刊论文, <a href="https://doi.org/10.1109/TIP.2025.3620667" class="textlink" target="_blank">Bi-Sparse Unsupervised Feature Selection</a> <br>
 * 中文期刊论文, <a href="https://kns.cnki.net/kcms2/article/abstract?v=e_WjztTC4N0Z832a-bbzgdfGaZqegXeziR4mPpFe0A1ROQtRv8ba_BSLdRJqYhdrWzhvxs5NJ2O3SOWWMfU0FulX9LypoPkOg34ECqIZ1YDAiTz9p7_NUzLuG3aP698ALezyek3yh7yCM9L1er33sRDx01vji4IFd-a5be0Mbbc=&uniplatform=NZKPT" class="textlink" target="_blank">基于对比学习的稀疏低秩无监督特征选择方法</a> <br>
 * 硕士学位论文, <a href="https://xianchaoxiu.github.io/group/2025-Yang.pdf" class="textlink" target="_blank">基于稀疏优化的无监督特征选择方法研究</a> <br>
