@@ -14,7 +14,7 @@ share: false
 *  <a href="https://www.bilibili.com/video/BV1PB6XYFET2/" class="textlink" target="_blank"> 毛玉仁, 高云君, 大模型基础 </a> <br>
 
 
-### 论文标准
+### 论文参考
 * 英文期刊论文, <a href="https://doi.org/10.1109/TIP.2025.3620667" class="textlink" target="_blank">Bi-Sparse Unsupervised Feature Selection</a> <br>
 * 中文期刊论文, <a href="https://kns.cnki.net/kcms2/article/abstract?v=e_WjztTC4N0Z832a-bbzgdfGaZqegXeziR4mPpFe0A1ROQtRv8ba_BSLdRJqYhdrWzhvxs5NJ2O3SOWWMfU0FulX9LypoPkOg34ECqIZ1YDAiTz9p7_NUzLuG3aP698ALezyek3yh7yCM9L1er33sRDx01vji4IFd-a5be0Mbbc=&uniplatform=NZKPT" class="textlink" target="_blank">基于对比学习的稀疏低秩无监督特征选择方法</a> <br>
 * 硕士学位论文, <a href="https://xianchaoxiu.github.io/group/2025-Yang.pdf" class="textlink" target="_blank">基于稀疏优化的无监督特征选择方法研究</a> <br>
