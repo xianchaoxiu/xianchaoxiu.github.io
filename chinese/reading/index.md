@@ -15,10 +15,12 @@ share: false
 
 
 ### 参考论文
-* 英文期刊论文, <a href="https://doi.org/10.1109/TIP.2025.3620667" class="textlink" target="_blank">Bi-Sparse Unsupervised Feature Selection</a> <br>
-* 中文期刊论文, <a href="https://kns.cnki.net/kcms2/article/abstract?v=e_WjztTC4N0Z832a-bbzgdfGaZqegXeziR4mPpFe0A1ROQtRv8ba_BSLdRJqYhdrWzhvxs5NJ2O3SOWWMfU0FulX9LypoPkOg34ECqIZ1YDAiTz9p7_NUzLuG3aP698ALezyek3yh7yCM9L1er33sRDx01vji4IFd-a5be0Mbbc=&uniplatform=NZKPT" class="textlink" target="_blank">基于对比学习的稀疏低秩无监督特征选择方法</a> <br>
-* 硕士学位论文, <a href="https://xianchaoxiu.github.io/group/2025-Yang.pdf" class="textlink" target="_blank">基于稀疏优化的无监督特征选择方法研究</a> <br>
-
+* Y. Lipman, M. Havasi, P. Holderrieth, et al, <a href="https://doi.org/10.48550/arXiv.2412.06264" class="textlink" target="_blank">Flow Matching Guide and Code</a>, arXiv, 2024 <br>
+* X. Deng, C. Zhang, L. Jiang, et al, <a href="https://doi.org/10.1109/TPAMI.2024.3525089" class="textlink" target="_blank">DeepSN-Net: Deep Semi-Smooth Newton Driven Network for Blind Image Restoration</a>, IEEE Transactions on Pattern Analysis and Machine Intelligence, 47(4): 2632-2646, 2025 <br>
+* C. Huang, Z. Tang, S. Hu, et al, <a href="https://doi.org/10.1287/opre.2024.1233" class="textlink" target="_blank">ORLM: A Customizable Framework in Training Large Models for Automated Optimization Modeling</a>, Operations Research, 73(6): 2986-3009, 2025 <br>
+* 郭田德, 幸天驰, 韩丛英, 等, <a href=" https://www.ort.shu.edu.cn/CN/Y2025/V29/I3/1" class="textlink" target="_blank">人工智能中的生成式方法: 数学模型、优化算法及其应用</a>, 运筹学学报(中英文), 29(3): 1-33, 2025
+* 李浩然, 陈宇辉, 崔文博, 等, <a href=" https://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c250394" class="textlink" target="_blank">面向具身操作的视觉-语言-动作模型综述</a>, 自动化学报, 52(1): 1-34, 2026
+* <a href="https://xianchaoxiu.github.io/chinese/reading/waht/" class="textlink" target="_blank"> 更多资料 </a>
 
 ### 推荐期刊
 *  <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34" class="textlink" target="_blank"> IEEE Transactions on Pattern Analysis and Machine Intelligence </a> <br>
