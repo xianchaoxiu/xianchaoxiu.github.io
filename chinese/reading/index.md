@@ -18,6 +18,8 @@ share: false
 * M. Kim, K. Pertsch, S. Karamcheti, et al, <a href="https://proceedings.mlr.press/v270/kim25c.html" class="textlink" target="_blank">OpenVLA: An Open-Source Vision-Language-Action Model</a>, Proceedings of The 8th Conference on Robot Learning, 270: 2679-2713, 2025 <br>
 * C. Huang, Z. Tang, S. Hu, et al, <a href="https://doi.org/10.1287/opre.2024.1233" class="textlink" target="_blank">ORLM: A Customizable Framework in Training Large Models for Automated Optimization Modeling</a>, Operations Research, 73(6): 2986-3009, 2025 <br>
 * S. Zhou, O. Wang, Z. Luo, et al, <a href="https://doi.org/10.48550/arXiv.2502.10784" class="textlink" target="_blank">Preconditioned Inexact Stochastic ADMM for Deep Model</a>, Nature Machine Intelligence, 2026 <br>
+* 郭田德, 幸天驰, 韩丛英, 等, <a href=" https://www.ort.shu.edu.cn/CN/Y2025/V29/I3/1" class="textlink" target="_blank">人工智能中的生成式方法: 数学模型、优化算法及其应用</a>, 运筹学学报(中英文), 29(3): 1-33, 2025
+* 李浩然, 陈宇辉, 崔文博, 等, <a href=" https://www.aas.net.cn/cn/article/doi/10.16383/j.aas.c250394" class="textlink" target="_blank">面向具身操作的视觉-语言-动作模型综述</a>, 自动化学报, 52(1): 1-34, 2026
 * <a href="https://xianchaoxiu.github.io/chinese/reading/what/" class="textlink" target="_blank"> 更多资料 </a><br>
 
 
