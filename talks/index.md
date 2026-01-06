@@ -10,7 +10,11 @@ share: false
 
 
 ### 2026
-* TBD
+
+* <a href="../talks/2026-ASA.pdf" class="textlink" target="_blank"> Flow Matching for Vision-Language-Action Models</a> <br>
+Algorithm Software and Applications <br>
+
+
 
 ### 2025
 
