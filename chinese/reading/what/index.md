@@ -18,8 +18,8 @@ share: false
 * <a href="../what/kaiti.pptx" class="textlink" target="_blank">  毕业答辩PPT模板 <br>
 * <a href="../what/paper.pdf" class="textlink" target="_blank">  期刊论文自查表 <br>
 * <a href="../what/thesis.pdf" class="textlink" target="_blank">  学位论文自查表 <br>
-* <a href="../what/reply.pdf" class="textlink" target="_blank">  论文回复模板 <br>
 * <a href="../what/writing.pdf" class="textlink" target="_blank">  学术英语写作 <br>
+* <a href="../what/reply.tex" class="textlink" target="_blank">  论文回复模板 <br>
 
 
 
