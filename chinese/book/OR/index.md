@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 运筹学与大模型
+title: 运筹学基础与大模型
 comments: false
 share: false
 ---
