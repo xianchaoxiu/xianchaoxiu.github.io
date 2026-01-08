@@ -11,7 +11,7 @@ share: false
 
 ### 2026
 
-* Flow Matching for Vision-Language-Action Models <br>
+* ChatOPT: An Open-Source Large Language Model for Optimization <br>
  International Conference on Optimization: Techniques and Applications (ICOTA) <br>
 
 
