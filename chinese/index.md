@@ -46,7 +46,7 @@ share: false
   
   
 ### 教材专著
-* <b>修贤超</b>, 欧芳, <a href="https://xianchaoxiu.github.io/chinese/book/OR/" class="textlink" target="_blank"> 运筹学与大模型</a>, 科学出版社, 2027  <br>
+* <b>修贤超</b>, 欧芳, <a href="https://xianchaoxiu.github.io/chinese/book/OR/" class="textlink" target="_blank"> 运筹学基础与大模型</a>, 科学出版社, 2027  <br>
 * <b>修贤超</b>, <a href="https://xianchaoxiu.github.io/chinese/book/OPT/" class="textlink" target="_blank">大规模黎曼流形稀疏优化算法及应用</a>, 哈尔滨工业大学出版社, 2026  <br>
 
 
