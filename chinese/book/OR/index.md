@@ -14,7 +14,7 @@ share: false
 
 
 ### 计划提纲
-* <a href="../course/OR/引言.pdf" class="textlink" target="_blank">  第一章 &nbsp;  引言<br>
+* <a href="https://github.com/xianchaoxiu/xianchaoxiu.github.io/blob/main/chinese/course/OR/引言.pdf" class="textlink" target="_blank">  第一章 &nbsp;  引言<br>
 * <a href="../course/OR/线性规划.pdf" class="textlink" target="_blank">  第二章 &nbsp;  线性规划<br>
 * <a href="../course/OR/整数规划.pdf" class="textlink" target="_blank">  第三章 &nbsp;  整数规划<br>
 * <a href="../course/OR/动态规划.pdf" class="textlink" target="_blank"> 第四章 &nbsp;  动态规划<br>
