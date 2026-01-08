@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 运筹学基础
+title: 运筹学与大模型
 comments: false
 share: false
 ---
@@ -14,10 +14,11 @@ share: false
 
 
 ### 计划提纲
-* 第一章 &nbsp;  引言 <br>
-* 第二章 &nbsp;  线性规划 <br>
-* 第三章 &nbsp;  整数规划 <br>
-* 第四章 &nbsp;  动态规划 <br>
-* 第五章 &nbsp;  对策论 <br>
-* 第六章 &nbsp;  非线性规划 <br>
-* 第七章 &nbsp;  大语言模型赋能运筹学 <br>
+* <a href="../course/OR/引言.pdf" class="textlink" target="_blank">  第一章 &nbsp;  引言<br>
+* <a href="../course/OR/线性规划.pdf" class="textlink" target="_blank">  第二章 &nbsp;  线性规划<br>
+* <a href="../course/OR/整数规划.pdf" class="textlink" target="_blank">  第三章 &nbsp;  整数规划<br>
+* <a href="../course/OR/动态规划.pdf" class="textlink" target="_blank"> 第四章 &nbsp;  动态规划<br>
+* <a href="../course/OR/对策论.pdf" class="textlink" target="_blank"> 第五章 &nbsp;  对策论<br>
+* 第六章 &nbsp;  大语言模型 <br>
+* 第七章 &nbsp;  大模型赋能运筹学 <br>
+* 第八章 &nbsp;  机器人路径规划实战 <br>
