@@ -6,11 +6,9 @@ share: false
 ---
 
 ### 进度安排
-* 2026年02月, 完成草稿 <br>
-* 2026年03月, 第一次校稿 <br>
-* 2026年04月, 第二次校稿 <br>
-* 2026年09月, 完成出版 <br>
-
+* 2026年02月28日, 完成草稿 <br>
+* 2026年04月30日, 完成校稿 <br>
+* 2026年08月31日, 完成出版 <br>
 
 ### 计划提纲
 * <a href="https://xianchaoxiu.github.io/chinese/course/OR/引言.pdf" class="textlink" target="_blank">  第一章 &nbsp;  引言<br>
