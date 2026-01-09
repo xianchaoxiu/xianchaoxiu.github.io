@@ -11,8 +11,8 @@ share: false
 
 ### 2026
 
-* <a href="../talks/2026-ASA.pdf" class="textlink" target="_blank"> Flow Matching for Vision-Language-Action Models </a> <br>
-Algorithm Software and Applications (ASA)
+* <a href="../talks/2026-BDAI.pdf" class="textlink" target="_blank"> Flow Matching for Vision-Language-Action Models </a> <br>
+CSIAM Big Data and Artificial Intelligence (CSIAM-BDAI)
 
 * <a href="../talks/2026-ICOTA.pdf" class="textlink" target="_blank"> ChatOPT: An Open-Source Large Language Model for Optimization </a> <br>
 International Conference on Optimization: Techniques and Applications (ICOTA) <br>
