@@ -16,5 +16,6 @@ share: false
 * 第三章 &nbsp;  整数规划<br>
 * 第四章 &nbsp;  动态规划<br>
 * 第五章 &nbsp;  对策论<br>
-* 第六章 &nbsp;  非线性规划<br>
-* 第七章 &nbsp;  智能优化方法<br>
+* 第六章 &nbsp;  非线性规划 <br>
+* 第七章 &nbsp;  智能优化计算 <br>
+* 第八章 &nbsp;  Python数值仿真<br>
