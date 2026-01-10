@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 更多资料
+title: 师兄经验
 comments: false
 share: false
 ---
