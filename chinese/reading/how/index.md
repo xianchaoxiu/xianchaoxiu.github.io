@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  研究生如何科研
+title:  导师寄语
 comments: false
 share: false
 ---
