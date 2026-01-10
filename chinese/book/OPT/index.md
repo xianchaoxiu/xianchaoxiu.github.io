@@ -46,7 +46,7 @@ share: false
   - 数学模型与算法
   - 数值实验与分析
   - 本章小结
-* 第八章 &nbsp;  <a href="https://doi.org/10.1016/j.patcog.2025.112496" class="textlink" target="_blank"> 基于正交低秩张量表示网络的优化算法与应用</a> <br>
+* 第八章 &nbsp;  <a href="https://doi.org/10.1016/j.patcog.2025.112496" class="textlink" target="_blank"> 基于低秩正交张量表示网络的优化算法与应用</a> <br>
   - 相关工作
   - 数学模型与算法
   - 数值实验与分析
