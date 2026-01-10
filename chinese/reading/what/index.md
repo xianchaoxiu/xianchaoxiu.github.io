@@ -13,8 +13,8 @@ share: false
 
 ### 学术写作
 * <a href="../what/writing.pdf" class="textlink" target="_blank">  学术英语写作 <br>
-* <a href="../what/paper.pdf" class="textlink" target="_blank">  期刊论文自查表 <br>
 * <a href="../what/reply.tex" class="textlink" target="_blank">  论文回复模板 <br>
+* <a href="../what/paper.pdf" class="textlink" target="_blank">  期刊论文自查表 <br>
 * <a href="https://www.overleaf.com/latex/templates/ieee-for-journals-template-with-bibtex-example-files-included/hjbyjvncdmpx" class="textlink" target="_blank"> IEEE期刊LATEX模板 <br>
 
 
