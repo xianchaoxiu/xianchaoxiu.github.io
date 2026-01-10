@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  导师有话说
+title:  导师寄语
 comments: false
 share: false
 ---
