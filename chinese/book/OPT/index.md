@@ -26,7 +26,7 @@ share: false
   - 3.2  &nbsp;  模型与算法
   - 3.3  &nbsp;  实验与分析
   - 3.4  &nbsp;  本章小结
-* 第 4 章 &nbsp;  <a href="https://kns.cnki.net/kcms2/article/abstract?v=e_WjztTC4N0Z832a-bbzgdfGaZqegXeziR4mPpFe0A1ROQtRv8ba_BSLdRJqYhdrWzhvxs5NJ2O3SOWWMfU0FulX9LypoPkOg34ECqIZ1YDAiTz9p7_NUzLuG3aP698ALezyek3yh7yCM9L1er33sRDx01vji4IFd-a5be0Mbbc=&uniplatform=NZKPT" class="textlink" target="_blank"> 基于低秩流形对比学习优化算法与应用 </a> <br>
+* 第 4 章 &nbsp;  <a href="https://kns.cnki.net/kcms2/article/abstract?v=e_WjztTC4N0Z832a-bbzgdfGaZqegXeziR4mPpFe0A1ROQtRv8ba_BSLdRJqYhdrWzhvxs5NJ2O3SOWWMfU0FulX9LypoPkOg34ECqIZ1YDAiTz9p7_NUzLuG3aP698ALezyek3yh7yCM9L1er33sRDx01vji4IFd-a5be0Mbbc=&uniplatform=NZKPT" class="textlink" target="_blank"> 基于低秩流形和对比学习的优化算法与应用 </a> <br>
   - 4.1  &nbsp;  引言
   - 4.2  &nbsp;  模型与算法
   - 4.3  &nbsp;  实验与分析
@@ -36,7 +36,7 @@ share: false
   - 5.2  &nbsp;  模型与算法
   - 5.3  &nbsp;  实验与分析
   - 5.4  &nbsp;  本章小结
-* 第 6 章 &nbsp;  <a href="https://doi.org/10.1109/TCSVT.2025.3642736" class="textlink" target="_blank"> 基于流形学习的稀疏张量表示的优化算法与应用 </a> <br>
+* 第 6 章 &nbsp;  <a href="https://doi.org/10.1109/TCSVT.2025.3642736" class="textlink" target="_blank"> 基于流形学习的稀疏张量优化算法与应用 </a> <br>
   - 6.1  &nbsp;  引言
   - 6.2  &nbsp;  模型与算法
   - 6.3  &nbsp;  实验与分析
