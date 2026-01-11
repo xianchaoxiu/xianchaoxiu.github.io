@@ -36,24 +36,19 @@ share: false
   - 5.2  &nbsp;  模型与算法
   - 5.3  &nbsp;  实验与分析
   - 5.4  &nbsp;  本章小结
-* 第 6 章 &nbsp;  <a href="https://doi.org/10.1109/TNNLS.2022.3201881" class="textlink" target="_blank"> 基于稀疏正交矩阵相关分析的优化算法与应用 </a> <br>
+* 第 6 章 &nbsp;  <a href="https://doi.org/10.1109/TCSVT.2025.3642736" class="textlink" target="_blank"> 基于流形学习的稀疏张量表示的优化算法与应用 </a> <br>
   - 6.1  &nbsp;  引言
   - 6.2  &nbsp;  模型与算法
   - 6.3  &nbsp;  实验与分析
   - 6.4  &nbsp;  本章小结
-* 第 7 章 &nbsp;  <a href="https://doi.org/10.1109/TCSVT.2025.3642736" class="textlink" target="_blank"> 基于流形学习的稀疏张量表示的优化算法与应用 </a> <br>
+* 第 7 章 &nbsp;  <a href="https://doi.org/10.1016/j.patcog.2025.112496" class="textlink" target="_blank"> 基于低秩正交张量表示网络的优化算法与应用</a> <br>
   - 7.1  &nbsp;  引言
   - 7.2  &nbsp;  模型与算法
   - 7.3  &nbsp;  实验与分析
   - 7.4  &nbsp;  本章小结
-* 第 8 章 &nbsp;  <a href="https://doi.org/10.1016/j.patcog.2025.112496" class="textlink" target="_blank"> 基于低秩正交张量表示网络的优化算法与应用</a> <br>
-  - 8.1  &nbsp;  引言
-  - 8.2  &nbsp;  模型与算法
-  - 8.3  &nbsp;  实验与分析
-  - 8.4  &nbsp;  本章小结
-* 第 9 章 &nbsp;  结语与展望<br>
-  - 9.1  &nbsp;  结语
-  - 9.2  &nbsp;  展望
+* 第 8 章 &nbsp;  结语与展望<br>
+  - 8.1  &nbsp;  结语
+  - 8.2  &nbsp;  展望
 
 
 
