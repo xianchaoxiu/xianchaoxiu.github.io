@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Vision-Language-Action
+title: OPT4VLA
 comments: false
 share: false
 ---
