@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Artificial Intelligence for Optimization
+title: AI4OPT
 comments: false
 share: false
 ---
