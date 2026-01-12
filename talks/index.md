@@ -10,6 +10,8 @@ share: false
 
 
 ### 2026
+* <a href="../talks/2026-BDAI.pdf" class="textlink" target="_blank"> Rethinking Vision-Language-Action Models From an Optimization Perspective </a> <br>
+CSIAM Big Data and Artificial Intelligence (BDAI) <br>
 
 * <a href="../talks/2026-ASA.pdf" class="textlink" target="_blank"> Learning to Optimize Low-Rank Tensor Representation </a> <br>
 Algorithm Software and Applications (ASA) <br>
