@@ -10,8 +10,8 @@ share: false
 
 
 ### 2026
-* TBD
-
+* <a href="../talks/2025-ICOTA.pdf" class="textlink" target="_blank"> Semi-Smooth Newton-Inspired Networks for Low-Rank Representation </a> <br>
+International Conference on Optimization: Techniques and Applications (ICOTA) <br>
 
 
 ### 2025
