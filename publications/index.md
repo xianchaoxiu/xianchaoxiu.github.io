@@ -13,8 +13,7 @@ share: false
 
 ### 2026
 
-* J. Liu, N. Wu, <b>X. Xiu</b>*, J. Zhang, <a href="https://doi.org/10.1016/j.neunet.2026.108613" class="textlink" target="_blank">Robust Orthogonal NMF with Label Propagation for Image Clustering</a>, Neural Networks, 2026 <a href="https://github.com/xianchaoxiu/RONMF" class="textlink" target="_blank" style="color: red;">[Code]</a>
- 
+* J. Liu, N. Wu, <b>X. Xiu</b>*, J. Zhang, <a href="https://doi.org/10.1016/j.neunet.2026.108613" class="textlink" target="_blank">Robust Orthogonal NMF with Label Propagation for Image Clustering</a>, Neural Networks, 198: 108613, 2026 <a href="https://github.com/xianchaoxiu/RONMF" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
 ### 2025
 
