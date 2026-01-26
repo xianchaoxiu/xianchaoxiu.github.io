@@ -15,6 +15,7 @@ share: false
 * Yewen Hu (2026.09 - )  <br>
 * Li Xu (2025.09 - )  <br>
 * Pengfei Zhang (2025.09 - ) <br>
+* Changhua He (2024.09 - )  <br>
 * Long Chen (2024.09 - )  <br>
 * Jianhao Li (2024.09 - ) <br>
 * Chenyi Huang (2023.09 - ) <br>
