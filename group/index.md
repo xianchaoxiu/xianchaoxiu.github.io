@@ -18,14 +18,14 @@ share: false
 * Changhua He (2024.09 - )  <br>
 * Long Chen (2024.09 - )  <br>
 * Jianhao Li (2024.09 - ) <br>
-* Chenyi Huang (2023.09 - ) <br>
+* Chenyi Huang (2023.09 - 2026.06) <br>
 * <a href="../group/2025-Yang.pdf" class="textlink" target="_blank"> Anning Yang (2022.09 - 2025.06) <br>
 * <a href="../group/2024-Yu.pdf" class="textlink" target="_blank"> Fuchao Yu (2021.09 - 2024.06) </a> <br>
 
 
 ### Cooperate Students
 
-* Shiqi Fei (2023.09 - , joint with ) <br>
-* Shenghao Sun (2023.09 - , joint with ) <br>
+* Shiqi Fei (2023.09 - 2026.06, joint with <a href="https://auto.shu.edu.cn/info/1340/12652.htm" class="textlink" target="_blank">Zhonghua Miao</a>) <br>
+* Shenghao Sun (2023.09 - 2026.06, joint with <a href="https://auto.shu.edu.cn/info/1340/12652.htm" class="textlink" target="_blank">Zhonghua Miao</a>) <br>
 
 
