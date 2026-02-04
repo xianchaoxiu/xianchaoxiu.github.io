@@ -25,7 +25,7 @@ share: false
 
 ### Cooperate Students
 
-* Shiqi Fei (2023.09 - 2026.06, with <a href="https://auto.shu.edu.cn/info/1340/12652.htm" class="textlink" target="_blank">Zhonghua Miao</a>) <br>
-* Shenghao Sun (2023.09 - 2026.06, with <a href="https://auto.shu.edu.cn/info/1340/12652.htm" class="textlink" target="_blank">Zhonghua Miao</a>) <br>
+* Shiqi Fei (2023.09 - 2026.06, joint with <a href="https://auto.shu.edu.cn/info/1340/12652.htm" class="textlink" target="_blank">Zhonghua Miao</a>) <br>
+* Shenghao Sun (2023.09 - 2026.06, joint with <a href="https://auto.shu.edu.cn/info/1340/12652.htm" class="textlink" target="_blank">Zhonghua Miao</a>) <br>
 
 
