@@ -25,7 +25,7 @@ share: false
 
 ### Cooperate Students
 
-* Shiqi Fei (2023.09 - ) <br>
-* Shenghao Sun (2023.09 - ) <br>
+* Shiqi Fei (2023.09 - , joint with ) <br>
+* Shenghao Sun (2023.09 - , joint with ) <br>
 
 
