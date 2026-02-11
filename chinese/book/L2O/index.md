@@ -12,6 +12,7 @@ share: false
 
 
 ### 计划提纲
-* TBD
-
-
+### 计划提纲
+* 第 1 章 &nbsp;  绪论<br>
+* 第 2 章 &nbsp;  <a href="https://doi.org/10.1016/j.patcog.2025.112496" class="textlink" target="_blank"> 基于张量低秩网络的高光谱图像去噪</a> <br>
+* 第 3 章 &nbsp;  <a href="https://doi.org/10.1109/TIP.2025.3620667" class="textlink" target="_blank"> 基于轻量化主成分分析网络的小目标检测 </a> <br>
