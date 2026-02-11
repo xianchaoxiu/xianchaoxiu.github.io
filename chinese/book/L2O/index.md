@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 学习优化
+title: 学习最优化
 comments: false
 share: false
 ---
