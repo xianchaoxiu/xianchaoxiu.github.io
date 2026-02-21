@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 学习最优化
+title: 稀疏优化问题的人工智能方法
 comments: false
 share: false
 ---
