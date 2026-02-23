@@ -1,0 +1,52 @@
+---
+layout: page
+permalink: /publications
+title: Selected Publications
+tags: [publications]
+comments: false
+share: false
+---
+
+➡️ <a href="https://arxiv.org/search/?query=xiu%2C+xianchao&searchtype=all&abstracts=show&order=-announced_date_first&size=50" class="textlink" target="_blank">Click for my preprints </a> 
+
+
+
+### 2026
+
+* TBD
+
+
+### 2025
+
+* <b>X. Xiu</b>, C. Huang, P. Shang*, W. Liu, <a href="https://doi.org/10.1109/TIP.2025.3620667" class="textlink" target="_blank">Bi-Sparse Unsupervised Feature Selection</a>, IEEE Transactions on Image Processing, 34: 7407-7421, 2025 <a href="https://github.com/xianchaoxiu/BSUFS" class="textlink" target="_blank" style="color: red;">[Code]</a>
+
+* J. Liu, J. Jin, <b>X. Xiu</b>*, J. Zhang, W. Liu, <a href="https://doi.org/10.1016/j.patcog.2025.112496" class="textlink" target="_blank">STAR-Net: An Interpretable Model-Aided Network for Remote Sensing Image Denoising</a>, Pattern Recognition, 172: 112496, 2026 <a href="https://github.com/xianchaoxiu/STAR-Net" class="textlink" target="_blank" style="color: red;">[Code]</a>
+
+* Y. Zhu, W. Liu, <b>X. Xiu</b>*, J. Sun, <a href="https://doi.org/10.1109/TCSVT.2025.3642736" class="textlink" target="_blank">Sparse Tensor CCA via Manifold Optimization for Multi-View Learning</a>, IEEE Transactions on Circuits and Systems for Video Technology, 2025  <a href="https://github.com/zhudafa/STCCA-L" class="textlink" target="_blank" style="color: red;">[Code]</a>
+
+* <b>修贤超</b>, 杨安宁, 李鑫荣*, <a href="https://kns.cnki.net/kcms2/article/abstract?v=e_WjztTC4N0Z832a-bbzgdfGaZqegXeziR4mPpFe0A1ROQtRv8ba_BSLdRJqYhdrWzhvxs5NJ2O3SOWWMfU0FulX9LypoPkOg34ECqIZ1YDAiTz9p7_NUzLuG3aP698ALezyek3yh7yCM9L1er33sRDx01vji4IFd-a5be0Mbbc=&uniplatform=NZKPT" class="textlink" target="_blank">基于对比学习的稀疏低秩无监督特征选择方法</a>, 运筹学学报, 2025 <a href="https://github.com/xianchaoxiu/DSCOFS-CL" class="textlink" target="_blank" style="color: red;">[Code]</a>
+
+### 2024
+
+* <b>X. Xiu</b>, L. Pan, Y. Yang*, W. Liu, <a href="https://doi.org/10.1109/TNNLS.2022.3201881" class="textlink" target="_blank">Efficient and Fast Joint Sparse Constrained Canonical Correlation Analysis for Fault Detection</a>, IEEE Transactions on Neural Networks and Learning Systems, 35(3): 4153-4163, 2024 <a href="https://github.com/xianchaoxiu/JSCCCA" class="textlink" target="_blank" style="color: red;">[Code]</a>
+
+* J. Liu, M. Feng, <b>X. Xiu</b>*, W. Liu, <a href="https://doi.org/10.1016/j.patcog.2024.110512" class="textlink" target="_blank">Towards Robust and Sparse Linear Discriminant Analysis for Image Classification</a>, Pattern Recognition, 153: 110512, 2024 <a href="https://github.com/EMXlight/RSLDAplus" class="textlink" target="_blank" style="color: red;">[Code]</a>
+
+* W. Qu, H. Chen, <b>X. Xiu</b>*, W. Liu, <a href="https://doi.org/10.1016/j.neucom.2024.128267" class="textlink" target="_blank">Distributed Sparsity Constrained Optimization over the Stiefel Manifold</a>, Neurocomputing, 602: 128267, 2024 <a href="https://github.com/wtqu/DREAM" class="textlink" target="_blank" style="color: red;">[Code]</a>
+
+
+### 2018-2023
+
+* <b>X. Xiu</b>, Z. Miao, W. Liu*, <a href="https://doi.org/10.1109/TII.2022.3180070" class="textlink" target="_blank">A Sparsity-Aware Fault Diagnosis Framework Focusing on Accurate Isolation</a>, IEEE Transactions on Industrial Informatics, 19(2): 1356-1365, 2023
+  
+* <b>X. Xiu</b>, Z. Miao, Y. Yang*, W. Liu, <a href="https://doi.org/10.1109/TII.2021.3121770" class="textlink" target="_blank">Deep Canonical Correlation Analysis Using Sparsity-Constrained Optimization for Nonlinear Process Monitoring</a>, IEEE Transactions on Industrial Informatics, 18(10): 6690-6699, 2022
+
+* <b>X. Xiu</b>, J. Fan, Y. Yang*, W. Liu, <a href="https://doi.org/10.1109/TIM.2021.3067218" class="textlink" target="_blank">Fault Detection Using Structured Joint Sparse Nonnegative Matrix Factorization</a>, IEEE Transactions on Instrumentation and Measurement, 70: 3513011, 2021
+
+* <b>X. Xiu</b>, Y. Yang*, L. Kong, W. Liu, <a href="https://doi.org/10.1109/TCSII.2020.2988054" class="textlink" target="_blank">Data-Driven Process Monitoring Using Structured Joint Sparse Canonical Correlation Analysis</a>, IEEE Transactions on Circuits and Systems II: Express Briefs, 68(1): 361-365, 2021
+
+* <b>X. Xiu</b>, Y. Yang*, L. Kong, W. Liu, <a href="https://doi.org/10.1016/j.jprocont.2020.06.011" class="textlink" target="_blank">Laplacian Regularized Robust Principal Component Analysis for Process Monitoring</a>, Journal of Process Control, 92: 212-219, 2020
+  
+* <b>X. Xiu</b>*, W. Liu, L. Li, L. Kong, <a href="https://doi.org/10.1016/j.csda.2019.01.002" class="textlink" target="_blank">Alternating Direction Method of Multipliers for Nonconvex Fused Regression Problems</a>, Computational Statistics & Data Analysis, 136: 59-71, 2019
+  
+* <b>X. Xiu</b>*, L. Kong, Y. Li, H. Qi, <a href="https://doi.org/10.1007/s10589-017-9977-7" class="textlink" target="_blank">Iterative Reweighted Methods for L1-Lp Minimization</a>, Computational Optimization and Applications, 70(1): 201-219, 2018
