@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 稀疏优化问题的人工智能求解方法
+title: 基于深度学习的稀疏优化算法与应用
 comments: false
 share: false
 ---
