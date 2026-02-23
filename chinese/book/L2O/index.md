@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 稀疏优化问题的深度学习求解方法
+title: 稀疏优化问题的人工智能求解方法
 comments: false
 share: false
 ---
