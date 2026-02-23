@@ -11,7 +11,7 @@ share: false
 * 2027年01月31日, 完成出版<br>
 
 
-### 计划提纲
+
 ### 计划提纲
 * 第 1 章 &nbsp;  绪论<br>
 * 第 2 章 &nbsp;  <a href="https://doi.org/10.1016/j.patcog.2025.112496" class="textlink" target="_blank"> 基于张量低秩网络的高光谱图像去噪</a> <br>
