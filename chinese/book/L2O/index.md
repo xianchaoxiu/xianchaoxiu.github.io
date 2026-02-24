@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 基于深度学习的稀疏优化算法与应用
+title: 稀疏优化深度学习方法与应用
 comments: false
 share: false
 ---
