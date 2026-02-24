@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 生成式人工智能驱动的最优化方法
+title: 大模型驱动的最优化方法
 comments: false
 share: false
 ---
