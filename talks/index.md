@@ -9,11 +9,6 @@ share: false
 
 
 
-### 2026
-* <a href="../talks/2026-ICOTA.pdf" class="textlink" target="_blank"> Rethinking Low-Rank Representation Through Semi-Smooth Newton-Inspired Networks </a> <br>
-International Conference on Optimization: Techniques and Applications (ICOTA) <br>
-
-
 ### 2025
 
 * <a href="../talks/2025-MOS.pdf" class="textlink" target="_blank"> Learning to Optimize: Theory, Algorithms, and Applications</a> <br>
