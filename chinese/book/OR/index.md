@@ -17,5 +17,4 @@ share: false
 * 第四章 &nbsp;  非线性规划 <br>
 * 第五章 &nbsp;  动态规划<br>
 * 第六章 &nbsp;  对策论<br>
-* 第七章 &nbsp;  智能优化计算 <br>
-* 第八章 &nbsp;  Python数值仿真<br>
+* 第七章 &nbsp;  案例实战<br>
