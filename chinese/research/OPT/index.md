@@ -6,7 +6,13 @@ share: false
 ---
 
 
-### Learning to Optimize
+
+### LLM for Optimization 
+* 修贤超,李建豪,张鹏鹤,戚厚铎*,孔令臣, 大语言模型驱动的运筹优化研究综述, 2026  <br>
+
+
+
+### DL for Optimization 
 * J. Liu, J. Jin, <b>X. Xiu</b>*, J. Zhang, W. Liu, <a href="https://doi.org/10.1016/j.patcog.2025.112496" class="textlink" target="_blank">STAR-Net: An Interpretable Model-Aided Network for Remote Sensing Image Denoising</a>, Pattern Recognition, 172: 112496, 2026  <br>
 
 
