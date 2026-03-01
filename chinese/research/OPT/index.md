@@ -13,6 +13,7 @@ share: false
 
 
 ### DL for Optimization 
+* 修贤超,何昶桦,曲文涛*, 稀疏优化问题的深度学习求解方法, 2026  <br>
 * J. Liu, J. Jin, <b>X. Xiu</b>*, J. Zhang, W. Liu, <a href="https://doi.org/10.1016/j.patcog.2025.112496" class="textlink" target="_blank">STAR-Net: An Interpretable Model-Aided Network for Remote Sensing Image Denoising</a>, Pattern Recognition, 172: 112496, 2026  <br>
 
 
