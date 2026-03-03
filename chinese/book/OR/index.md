@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 运筹学简明教程
+title: 运筹学导论
 comments: false
 share: false
 ---
