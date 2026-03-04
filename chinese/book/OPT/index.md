@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 大规模黎曼流形稀疏优化算法与应用
+title: 大规模黎曼流形稀疏优化算法及应用
 comments: false
 share: false
 ---
