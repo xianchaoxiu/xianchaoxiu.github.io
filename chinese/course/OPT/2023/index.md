@@ -13,7 +13,7 @@ share: false
 * <a href="https://item.jd.com/12755179.html" class="textlink" target="_blank"> 陈宝林, 最优化理论与算法 </a><br>
 
 
-### 课程信息
+### 章节安排
 * <a href="../2023/最优化简介.pdf" class="textlink" target="_blank">  第一章 &nbsp;  最优化简介<br>
 * <a href="../2023/基础知识.pdf" class="textlink" target="_blank">  第二章 &nbsp;  基础知识<br>
 * <a href="../2023/典型优化问题.pdf" class="textlink" target="_blank">  第三章 &nbsp;  典型优化问题<br>
