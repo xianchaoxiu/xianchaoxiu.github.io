@@ -11,7 +11,7 @@ share: false
 * 2026年07月, 完成出版<br>
 
 
-### 计划提纲
+### 章节安排
 * 第 1 章 &nbsp;  绪论<br>
 * 第 2 章 &nbsp;  <a href="https://doi.org/10.1016/j.neucom.2024.128267" class="textlink" target="_blank"> 基于Stiefel流形的分布式稀疏优化算法与应用 </a> <br>
 * 第 3 章 &nbsp;  <a href="https://doi.org/10.1109/TIP.2025.3620667" class="textlink" target="_blank"> 基于黎曼流形的双稀疏优化算法与应用 </a> <br>
