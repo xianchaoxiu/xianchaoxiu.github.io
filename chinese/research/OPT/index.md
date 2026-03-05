@@ -8,7 +8,7 @@ share: false
 
 
 ### LLM for Optimization 
-* 修贤超,李建豪,张鹏鹤,戚厚铎*,孔令臣, <a href="https://github.com/xianchaoxiu/LLM4OR" class="textlink" target="_blank">大语言模型驱动的运筹优化研究综述</a>, 2026  <br>
+* TBD
 
 
 
