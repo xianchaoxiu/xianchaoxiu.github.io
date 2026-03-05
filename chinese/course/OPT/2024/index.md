@@ -13,7 +13,7 @@ share: false
 * <a href="https://nndl.github.io/" class="textlink" target="_blank"> 邱锡鹏, 神经网络与深度学习 </a><br>
 
 
-### 课程信息 
+### 章节安排
 
 - 第一部分 &nbsp;  最优化方法<br>
   - <a href="../2024/绪论.pdf" class="textlink" target="_blank">  第一章 &nbsp;  绪论<br>
