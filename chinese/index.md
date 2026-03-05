@@ -24,9 +24,9 @@ share: false
 
 
 ### 讲授课程
-* <a href="https://xianchaoxiu.github.io/chinese/course/PRO/" class="textlink" target="_blank">  概率论</a>, 本科生, 春季学期 <br>
-* <a href="https://xianchaoxiu.github.io/chinese/course/OR/" class="textlink" target="_blank">   运筹模型与案例</a>, 本科生, 秋季学期 <br>
-* <a href="https://xianchaoxiu.github.io/chinese/course/OPT/" class="textlink" target="_blank">  数据驱动最优化方法</a>, 研究生, 秋季学期 <br>
+* <a href="https://xianchaoxiu.github.io/chinese/course/PRO/" class="textlink" target="_blank">  概率论</a><br>
+* <a href="https://xianchaoxiu.github.io/chinese/course/OR/" class="textlink" target="_blank">   运筹模型与案例</a> <br>
+* <a href="https://xianchaoxiu.github.io/chinese/course/OPT/" class="textlink" target="_blank">  数据驱动最优化方法</a> <br>
 
 
 
