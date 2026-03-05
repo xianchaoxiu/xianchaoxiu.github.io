@@ -8,7 +8,7 @@ share: false
 ---
 
 ### 2026
-* Rethinking Low-Rank Representation Through Semi-Smooth Newton-Inspired Networks  <br>
+* Rethinking Low-Rank Representation Through Semi-Smooth Newton  Networks  <br>
 CSIAM Big Data and Artificial Intelligence  <br>
 
 
