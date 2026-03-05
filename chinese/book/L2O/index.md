@@ -12,6 +12,6 @@ share: false
 
 
 
-### 计划提纲
+### 章节安排
 * 第 1 章 &nbsp;  绪论<br>
 * 第 2 章 &nbsp;  <a href="https://arxiv.org/abs/2509.08205" class="textlink" target="_blank"> 基于轻量化主成分分析网络的小目标检测 </a> <br>
