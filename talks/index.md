@@ -7,6 +7,10 @@ comments: false
 share: false
 ---
 
+### 2026
+* Rethinking Low-Rank Representation Through Semi-Smooth Newton-Inspired Networks  <br>
+CSIAM Big Data and Artificial Intelligence (BDAI) <br>
+
 
 
 ### 2025
