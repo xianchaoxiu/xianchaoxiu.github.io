@@ -13,5 +13,4 @@ share: false
 
 
 ### 计划提纲
-* 第 1 章 &nbsp;  绪论<br>
-* 第 2 章 &nbsp;  <a href="https://arxiv.org/abs/2509.08205" class="textlink" target="_blank"> 基于轻量化主成分分析网络的小目标检测 </a> <br>
+* 第 1 章 &nbsp;  <a href="https://github.com/xianchaoxiu/LLM4OR" class="textlink" target="_blank">绪论</a> <br>
