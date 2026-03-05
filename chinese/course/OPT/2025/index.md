@@ -13,7 +13,7 @@ share: false
 * <a href="https://github.com/ZJU-LLMs/Foundations-of-LLMs" class="textlink" target="_blank"> 毛玉仁, 高云君, 大模型基础 </a><br>
 
 
-### 课程信息 
+### 章节安排
 
 - 第一部分 &nbsp;  基础篇<br>
   -  <a href="../2025/绪论.pdf" class="textlink" target="_blank">  第一章 &nbsp;  绪论<br>
