@@ -6,7 +6,7 @@ share: false
 ---
 
 ### 参考教材
-* <a href="https://item.jd.com/13536130.html" class="textlink" target="_blank"> 盛骤, 谢式千, 潘承毅, 概率论与数理统计 </a><br>
+* <a href="http://faculty.bicmr.pku.edu.cn/~wenzw/optbook.html" class="textlink" target="_blank"> 文再文, 袁亚湘, 最优化方法与理论</a><br>
 * <a href="https://item.jd.com/12112157.html" class="textlink" target="_blank"> 陈希孺, 概率论与数理统计 </a><br>
 
 ### 课程信息
