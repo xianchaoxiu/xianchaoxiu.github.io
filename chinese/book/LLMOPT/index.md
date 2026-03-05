@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 大模型驱动的最优化方法
+title: 大模型驱动的最优化方法与应用
 comments: false
 share: false
 ---
@@ -10,3 +10,5 @@ share: false
 * 2027年09月31日, 完成校稿<br>
 * 2027年12月31日, 完成出版<br>
 
+### 计划提纲
+* 第 1 章 &nbsp;  <a href="https://github.com/xianchaoxiu/LLM4OR" class="textlink" target="_blank">绪论</a> <br>
