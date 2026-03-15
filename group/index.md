@@ -15,7 +15,6 @@ share: false
 * Yewen Hu (2026.09 - )  <br>
 * Li Xu (2025.09 - )  <br>
 * Pengfei Zhang (2025.09 - ) <br>
-* Changhua He (2024.09 - )  <br>
 * Long Chen (2024.09 - )  <br>
 * Jianhao Li (2024.09 - ) <br>
 * Chenyi Huang (2023.09 - ) <br>
@@ -23,10 +22,9 @@ share: false
 * <a href="../group/2024-Yu.pdf" class="textlink" target="_blank"> Fuchao Yu</a> (2021.09 - 2024.06, CSSC) <br>
 
 
-
-
 ### Cooperate Students
-
+* Chong Shen (2024.09 - )  <br>
+* Changhua He (2024.09 - )  <br>
 * Shiqi Fei (2023.09 - ) <br>
 * Shenghao Sun (2023.09 - ) <br>
 
