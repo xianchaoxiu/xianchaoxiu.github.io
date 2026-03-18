@@ -17,7 +17,7 @@ share: false
 ### 参考论文
 * M. Kim, K. Pertsch, S. Karamcheti, et al, <a href="https://proceedings.mlr.press/v270/kim25c.html" class="textlink" target="_blank">OpenVLA: An Open-Source Vision-Language-Action Model</a>, Proceedings of The 8th Conference on Robot Learning, 2025 <br>
 * C. Huang, Z. Tang, S. Hu, et al, <a href="https://doi.org/10.1287/opre.2024.1233" class="textlink" target="_blank">ORLM: A Customizable Framework in Training Large Models for Automated Optimization Modeling</a>, Operations Research, 2025 <br>
-* Z. Fan, B. Ghaddar, X. Wang, et al, <a href="https://doi.org/10.1016/j.ejor.2025.08.029" class="textlink" target="_blank">Artificial Intelligence for Optimization: Unleashing the Potential of Parameter Generation, Model Formulation, and Solution Methods</a>, European Journal of Operational Research, 2025 <br>
+* Z. Fan, B. Ghaddar, X. Wang, et al, <a href="https://doi.org/10.1016/j.ejor.2025.08.029" class="textlink" target="_blank">Artificial Intelligence for Optimization: Unleashing the Potential of Parameter Generation, Model Formulation, and Solution Methods</a>, European Journal of Operational Research, 2026 <br>
 * S. Zhou, O. Wang, Z. Luo, et al, <a href="https://doi.org/10.1038/s42256-026-01182-3" class="textlink" target="_blank">Preconditioned Inexact Stochastic ADMM for Deep Model</a>, Nature Machine Intelligence, 2026 <br>
 
 
