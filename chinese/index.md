@@ -24,22 +24,17 @@ share: false
 
 
 ### 研究兴趣
-* <a href="https://xianchaoxiu.github.io/chinese/research/OPT/" class="textlink" target="_blank"> Artificial Intelligence for Optimization </a><br>
-* <a href="https://xianchaoxiu.github.io/chinese/research/VLA/" class="textlink" target="_blank"> Optimization for Vision-Language-Action </a><br>
+* <a href="https://xianchaoxiu.github.io/chinese/research/OPT/" class="textlink" target="_blank"> AI for Optimization </a><br>
+* <a href="https://xianchaoxiu.github.io/chinese/research/VLA/" class="textlink" target="_blank"> Optimization for VLA </a><br>
 
 
 ### 讲授课程
-* <a href="https://xianchaoxiu.github.io/chinese/course/PRO/" class="textlink" target="_blank"> 概率论</a><br>
-* <a href="https://xianchaoxiu.github.io/chinese/course/OR/" class="textlink" target="_blank"> 运筹学</a> <br>
-* <a href="https://xianchaoxiu.github.io/chinese/course/OPT/" class="textlink" target="_blank"> 最优化</a> <br>
-
-
-
+* <a href="https://xianchaoxiu.github.io/chinese/course/OPT/" class="textlink" target="_blank"> 最优化方法 </a> <br>
 
   
 ### 教材专著
-* <b>修贤超</b>, 黎曼流形稀疏优化算法及应用, 哈尔滨工业大学出版社, 2026 <br>
-* <b>修贤超</b>, 欧芳, 运筹学导论, 哈尔滨工业大学出版社, 2026 <br>
+* 黎曼流形稀疏优化算法及应用, 哈尔滨工业大学出版社, 2026 <br>
+* 运筹学导论, 哈尔滨工业大学出版社, 2026 <br>
 
 
 
