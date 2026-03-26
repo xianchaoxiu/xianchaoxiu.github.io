@@ -1,6 +1,6 @@
 ---
 layout: page
-title: OPT4VLA
+title: Optimization for VLA
 comments: false
 share: false
 ---
