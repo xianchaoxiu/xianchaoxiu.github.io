@@ -24,8 +24,8 @@ share: false
 
 
 ### 研究兴趣
-* <a href="https://xianchaoxiu.github.io/chinese/research/OPT/" class="textlink" target="_blank"> AI for Optimization </a><br>
-* <a href="https://xianchaoxiu.github.io/chinese/research/VLA/" class="textlink" target="_blank"> Optimization for VLA </a><br>
+* <a href="https://xianchaoxiu.github.io/chinese/research/OPT/" class="textlink" target="_blank"> 最优化与人工智能 </a><br>
+* <a href="https://xianchaoxiu.github.io/chinese/research/VLA/" class="textlink" target="_blank"> 大模型与具身智能 </a><br>
 
 
 ### 讲授课程
