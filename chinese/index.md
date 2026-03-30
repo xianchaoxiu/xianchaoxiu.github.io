@@ -27,10 +27,6 @@ share: false
 * <a href="https://xianchaoxiu.github.io/chinese/research/OPT/" class="textlink" target="_blank"> 最优化与人工智能 </a><br>
 * <a href="https://xianchaoxiu.github.io/chinese/research/VLA/" class="textlink" target="_blank"> 大模型与具身智能 </a><br>
 
-
-### 讲授课程
-* <a href="https://xianchaoxiu.github.io/chinese/course/OPT/" class="textlink" target="_blank"> 最优化方法 </a> <br>
-
   
 ### 教材专著
 * 黎曼流形稀疏优化算法及应用, 哈尔滨工业大学出版社, 2026 <br>
