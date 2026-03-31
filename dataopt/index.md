@@ -11,13 +11,19 @@ share: false
 
 
 ### 出版计划
-- 2027年05月, 完成初稿 <br>
-- 2027年06月, 完成校稿 <br>
-- 2027年08月, 完成出版 <br>
+* 2027年05月, 完成初稿 <br>
+* 2027年06月, 完成校稿 <br>
+* 2027年08月, 完成出版 <br>
+
+
+### 相关论文
+* <a href="https://doi.org/10.48550/arXiv.2509.08205" class="textlink" target="_blank"> Lightweight Deep Unfolding Networks with Enhanced Robustness for Infrared Small Target Detection
+ </a><br>
+
+
 
 
 ### 课程信息
-
 * <a href="https://xianchaoxiu.github.io/dataopt/2025" class="textlink" target="_blank"> 数据驱动最优化方法 2025 </a><br>
 * <a href="https://xianchaoxiu.github.io/dataopt/2024" class="textlink" target="_blank"> 现代优化方法 2024 </a><br>
 * <a href="https://xianchaoxiu.github.io/dataopt/2023" class="textlink" target="_blank"> 现代优化方法 2023 </a><br>
