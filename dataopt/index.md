@@ -17,9 +17,8 @@ share: false
 
 
 ### 相关论文
-* <a href="https://doi.org/10.48550/arXiv.2509.08205" class="textlink" target="_blank"> Lightweight Deep Unfolding Networks with Enhanced Robustness for Infrared Small Target Detection
- </a><br>
-
+* <a href="https://doi.org/10.48550/arXiv.2509.08205" class="textlink" target="_blank"> Lightweight Deep Unfolding Networks with Enhanced Robustness for Infrared Small Target Detection</a><br>
+* 大语言模型驱动的运筹优化研究综述 <br>
 
 
 
