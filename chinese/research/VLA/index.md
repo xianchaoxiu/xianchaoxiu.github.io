@@ -9,7 +9,7 @@ share: false
 * TBD
 
   
-### Low-bit Quantization
+### Low-Bit Quantization
 * TBD
 
 
