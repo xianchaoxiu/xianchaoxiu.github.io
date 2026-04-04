@@ -28,8 +28,8 @@ share: false
 
   
 ### 讲授课程
-* <a href="https://xianchaoxiu.github.io/chinese/course/OR/" class="textlink" target="_blank">   运筹模型与案例 </a><br>
-* <a href="https://xianchaoxiu.github.io/chinese/course/OPT/" class="textlink" target="_blank">  数据驱动最优化方法 </a><br>
+* <a href="https://xianchaoxiu.github.io/chinese/course/OR/" class="textlink" target="_blank">   运筹学导论 </a><br>
+* <a href="https://xianchaoxiu.github.io/chinese/course/OPT/" class="textlink" target="_blank">  数据驱动最优化 </a><br>
 
 
 
