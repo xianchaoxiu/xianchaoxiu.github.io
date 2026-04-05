@@ -11,9 +11,8 @@ share: false
 
 
 ### 教材购买
-* 京东链接 &nbsp;  待更新 <br>
-* 下载作者版本&nbsp;  内容持续更新 <br>
-* 
+* <a href="../chinese/course/OR/IOR.pdf" class="textlink" target="_blank"> 作者版本</a>, 推荐用iPad阅读 <br>
+* 出版社版本购买链接如下
 
 
 ### 章节安排
