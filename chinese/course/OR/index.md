@@ -11,7 +11,7 @@ share: false
 
 
 ### 教材购买
-* <a href="../chinese/course/OR/IOR.pdf" class="textlink" target="_blank"> 作者版本</a>, 推荐用iPad阅读 <br>
+* <a href="../chinese/course/OR/IOR.pdf" class="textlink" target="_blank"> 作者版本</a>, 推荐iPad阅读 <br>
 * 出版社版本购买链接如下
 
 
