@@ -7,10 +7,13 @@ share: false
 
 
 ### 本书简介
-运筹学 (Operations Research, OR) 是一门融合数学、系统科学与工程管理的交叉学科。其核心在于运用数学建模、优化算法、系统分析等工具, 实现有限资源的合理配置。
-运筹学思想源远流长, 我国古代“田忌赛马”“丁渭修皇宫”“沈括运军粮”等经典案例, 早已蕴含朴素而深刻的运筹智慧。在当今科技飞速发展的时代, 运筹学已成为支撑现代
-工程技术与人工智能发展的重要理论基础。在工程领域, 运筹学广泛应用于生产调度、设备故障诊断、复杂系统可靠性分析等方面。在人工智能领域, 强化学习策略优化、组
-合优化问题求解、稀疏优化算法设计等, 均以运筹学为基石。
+运筹学是一门融合数学、系统科学与工程管理的交叉学科。其核心在于运用数学建模、优化算法、系统分析等工具, 实现有限资源的合理配置。运筹学思想源远流长, 我国古代“田忌赛马”“丁渭修皇宫”“沈括运军粮”等经典案例, 早已蕴含朴素而深刻的运筹智慧。在当今科技飞速发展的时代, 运筹学已成为支撑现代工程技术与人工智能发展的重要理论基础。在工程领域, 运筹学广泛应用于生产调度、设备故障诊断、复杂系统可靠性分析等方面。在人工智能领域, 强化学习策略优化、组合优化问题求解、稀疏优化算法设计等, 均以运筹学为基石。
+
+
+### 教材购买
+* 京东链接 &nbsp;  待更新 <br>
+* 限于编者水平, 书中难免存在疏漏与不妥之处, 恳请广大读者批评指正。
+
 
 ### 章节安排
 * 第一章 &nbsp;  绪论<br>
@@ -21,15 +24,6 @@ share: false
 * 第六章 &nbsp;  博弈论<br>
 * 第七章 &nbsp;  Python 编程<br>
 * 第八章 &nbsp;  展望<br>
-
-### 相关论文
-* <a href="https://doi.org/10.48550/arXiv.2509.08205" class="textlink" target="_blank"> Lightweight Deep Unfolding Networks with Enhanced Robustness for Infrared Small Target Detection</a><br>
-* Rethinking Low-Rank Representation Through Semi-Smooth Newton Networks <br>
-* Learning to Select Features With Deep Unfolding PCA <br>
-* Attention-Guided Deep Support Matrix Machines <br>
-* 大语言模型驱动的运筹优化研究综述 <br>
-* 稀疏优化问题的深度展开求解方法 <br>
-
 
 
 ### 课程信息
