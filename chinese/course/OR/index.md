@@ -13,7 +13,9 @@ share: false
 ### 教材购买
 * 待更新<br>
 * 勘误表<br>
-* 作者版本 (推荐iPad阅读)
+* <a href="../chinese/course/OR/运筹学导论.pdf" class="textlink" target="_blank"> 作者版本 (推荐iPad阅读)</a> <br>
+
+
 
 ### 章节安排
 * 第一章 &nbsp;  绪论<br>
