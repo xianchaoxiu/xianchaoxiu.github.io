@@ -8,8 +8,6 @@ share: false
 ---
 
 ### 2026
-* ChatOPT: An Open-Source Large Language Model for Optimization  <br>
-Operations Research Society of China (ORSC)  <br>
 
 * Rethinking Low-Rank Representation Through Semi-Smooth Newton  Networks  <br>
 CSIAM Big Data and Artificial Intelligence  (BDAI)  <br>
