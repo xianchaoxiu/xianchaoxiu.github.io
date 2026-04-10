@@ -10,10 +10,9 @@ share: false
 ➡️ <a href="https://arxiv.org/search/?query=xiu%2C+xianchao&searchtype=all&abstracts=show&order=-announced_date_first&size=50" class="textlink" target="_blank">Click for my preprints </a> 
 
 
-
 ### 2026
 
-* J. Fan, A. Yan, <b>X. Xiu</b>*, W. Liu,  <a href="https://iopscience.iop.org/article/10.1088/1361-6420/ae5e02" class="textlink" target="_blank">Robust Sparse Phase Retrieval: Statistical Guarantee, Optimality Theory and Convergent Algorithm</a>, Inverse Problems, 2026 <a href="https://github.com/xianchaoxiu/HPR" class="textlink" target="_blank" style="color: red;">[Code]</a>
+* J. Fan, A. Yan, <b>X. Xiu</b>*, W. Liu,  <a href="https://doi.org/10.1088/1361-6420/ae5e02" class="textlink" target="_blank">Robust Sparse Phase Retrieval: Statistical Guarantee, Optimality Theory and Convergent Algorithm</a>, Inverse Problems, 2026 <a href="https://github.com/xianchaoxiu/HPR" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
 * J. Liu, N. Wu, <b>X. Xiu</b>*, J. Zhang, <a href="https://doi.org/10.1016/j.neunet.2026.108613" class="textlink" target="_blank">Robust Orthogonal NMF with Label Propagation for Image Clustering</a>, Neural Networks, 198: 108613, 2026 <a href="https://github.com/xianchaoxiu/RONMF" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
