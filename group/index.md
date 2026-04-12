@@ -12,6 +12,7 @@ share: false
 
 
 ### Master's Students
+* Bingwen Zhang (2026.09 - )  <br>
 * Yewen Hu (2026.09 - )  <br>
 * Li Xu (2025.09 - )  <br>
 * Pengfei Zhang (2025.09 - ) <br>
