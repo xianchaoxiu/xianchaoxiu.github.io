@@ -11,6 +11,7 @@ share: false
 
 
 ### 课程信息
+* 运筹模型与案例 2026 <br>
 * <a href="https://xianchaoxiu.github.io/chinese/course/OR/2025" class="textlink" target="_blank"> 运筹学基础 2025 </a><br>
 
 
