@@ -17,16 +17,6 @@ share: false
 * <a href="https://xianchaoxiu.github.io/chinese/course/OPT/2023" class="textlink" target="_blank"> 现代优化方法 2023 </a><br>
 
 
-### 内容安排
-* 第一章 &nbsp;  绪论<br>
-* 第二章 &nbsp;  线性规划<br>
-* 第三章 &nbsp;  整数规划<br>
-* 第四章 &nbsp;  非线性规划<br>
-* 第五章 &nbsp;  动态规划<br>
-* 第六章 &nbsp;  博弈论<br>
-* 第七章 &nbsp;  Python 编程<br>
-
-
 ### 教材购买
 * 黎曼流形稀疏优化算法及应用<br>
 * 数据驱动最优化: 理论、算法与应用 <br>
