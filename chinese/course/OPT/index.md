@@ -18,7 +18,7 @@ share: false
 * <a href="https://xianchaoxiu.github.io/chinese/course/OPT/2023" class="textlink" target="_blank"> 现代优化方法 2023 </a><br>
 
 
-### 教材购买
+### 参考资料
 * 黎曼流形稀疏优化算法及应用<br>
 * 数据驱动最优化: 理论、算法与应用 <br>
 
