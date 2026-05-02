@@ -21,21 +21,19 @@ share: false
 * 2025.03-2025.09, 香港理工大学, 访问学者, 导师: <a href="https://www.polyu.edu.hk/ama/people/academic-staff/prof-qi-houduo/" class="textlink" target="_blank">Houduo Qi</a> <br>
 * 2016.12-2017.12, 澳大利亚科廷大学, 联合培养, 导师: <a href="https://ise.sysu.edu.cn/teacher/LiuWanquan" class="textlink" target="_blank">Wanquan Liu</a> <br>
 
-  
+### 研究兴趣
+* Artificial Intelligence for Optimization <br>
+* Optimization for Embodied Intelligence <br>
+
+
 ### 讲授课程
 * <a href="https://xianchaoxiu.github.io/chinese/course/OR/" class="textlink" target="_blank">   运筹学导论 </a><br>
 * <a href="https://xianchaoxiu.github.io/chinese/course/OPT/" class="textlink" target="_blank">  数据驱动最优化 </a><br>
 
 
-### 研究兴趣
-
-* 运筹优化与具身智能 <br>
-
-
 ### 科研项目
 * 国家自然科学基金面上项目, 大规模黎曼流形稀疏优化算法及应用, 2024.01-2027.12 <br>
 * 国家自然科学基金青年项目, 稀疏典型相关分析的理论与算法研究, 2021.01-2023.12  <br>
-
 
 
 ### 社会兼职
