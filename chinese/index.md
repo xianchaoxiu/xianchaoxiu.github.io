@@ -21,14 +21,24 @@ share: false
 * 2025.03-2025.09, 香港理工大学, 访问学者, 导师: <a href="https://www.polyu.edu.hk/ama/people/academic-staff/prof-qi-houduo/" class="textlink" target="_blank">Houduo Qi</a> <br>
 * 2016.12-2017.12, 澳大利亚科廷大学, 联合培养, 导师: <a href="https://ise.sysu.edu.cn/teacher/LiuWanquan" class="textlink" target="_blank">Wanquan Liu</a> <br>
 
-### 研究兴趣
-* Artificial Intelligence for Optimization <br>
-* Optimization for Embodied Intelligence <br>
-
-
 ### 讲授课程
 * <a href="https://xianchaoxiu.github.io/chinese/course/OR/" class="textlink" target="_blank">   运筹学导论 </a><br>
 * <a href="https://xianchaoxiu.github.io/chinese/course/OPT/" class="textlink" target="_blank">  数据驱动最优化 </a><br>
+
+
+
+### 研究兴趣
+* <a href="https://xianchaoxiu.github.io/chinese/research/OPT/" class="textlink" target="_blank"> Artificial Intelligence for Optimization </a><br>
+* <a href="https://xianchaoxiu.github.io/chinese/research/EAI/" class="textlink" target="_blank"> Optimization for Embodied Intelligence </a><br>
+
+
+
+### 学术论文
+* <b>X. Xiu</b>, C. Huang, P. Shang*, W. Liu, <a href="https://doi.org/10.1109/TIP.2025.3620667" class="textlink" target="_blank">Bi-Sparse Unsupervised Feature Selection</a>, IEEE Transactions on Image Processing, 34: 7407-7421, 2025  <br>
+* <b>X. Xiu</b>, L. Pan, Y. Yang*, W. Liu, <a href="https://doi.org/10.1109/TNNLS.2022.3201881" class="textlink" target="_blank">Efficient and Fast Joint Sparse Constrained Canonical Correlation Analysis for Fault Detection</a>, IEEE Transactions on Neural Networks and Learning Systems, 35(3): 4153-4163, 2024  <br>
+* <b>X. Xiu</b>, Z. Miao, W. Liu*, <a href="https://doi.org/10.1109/TII.2022.3180070" class="textlink" target="_blank">A Sparsity-Aware Fault Diagnosis Framework Focusing on Accurate Isolation</a>, IEEE Transactions on Industrial Informatics, 19(2): 1356-1365, 2023 <br>
+* <b>X. Xiu</b>, Z. Miao, Y. Yang*, W. Liu, <a href="https://doi.org/10.1109/TII.2021.3121770" class="textlink" target="_blank">Deep Canonical Correlation Analysis Using Sparsity-Constrained Optimization for Nonlinear Process Monitoring</a>, IEEE Transactions on Industrial Informatics, 18(10): 6690-6699, 2022 <br>
+* <b>X. Xiu</b>*, L. Kong, Y. Li, H. Qi, <a href="https://doi.org/10.1007/s10589-017-9977-7" class="textlink" target="_blank">Iterative Reweighted Methods for L1-Lp Minimization</a>, Computational Optimization and Applications, 70(1): 201-219, 2018
 
 
 ### 科研项目
