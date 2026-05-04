@@ -16,7 +16,6 @@ share: false
 
 
 ### 参考资料
-* 运筹学导论 
-
+* <a href="https://xianchaoxiu.github.io/chinese/book/OR" class="textlink" target="_blank"> 运筹学导论 </a><br>
 
 
