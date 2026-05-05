@@ -1,27 +1,34 @@
 ---
 layout: page
-title: 大规模黎曼流形稀疏优化算法及应用
+title: 黎曼流形稀疏优化
 comments: false
 share: false
 ---
 
-### 进度安排
-* 2026年02月28日, 完成草稿<br>
-* 2026年03月31日, 完成校稿<br>
-* 2026年07月31日, 完成出版<br>
+
+### 内容介绍
+黎曼流形稀疏优化, 作为一种新兴的大数据分析方法, 通过刻画数据内在的非线性流形几何结构, 同时兼具高效的稀疏压缩优势, 能够从海量高维数据中精准提取核心特征, 从而显著简化复杂优化问题的求解过程. 正因如此, 黎曼流形稀疏优化受到了
+学术界和工业界的广泛关注, 在工程技术、经济分析、金融风控、交通调度、军事应用等多个领域展现出重要的应用价值. <br>
 
 
-### 计划提纲
-* 第一章 &nbsp;  绪论<br>
-* 第二章 &nbsp;  <a href="https://doi.org/10.1109/TIP.2025.3620667" class="textlink" target="_blank"> 基于稀疏主成分分析的无监督特征选择 </a><br>
-* 第三章 &nbsp;  <a href="https://doi.org/10.1016/j.neucom.2024.128267" class="textlink" target="_blank"> 基于Stiefel流形的分布式稀疏约束优化</a><br>
-* 第四章 &nbsp;  <a href="https://doi.org/10.1109/TIM.2023.3241990" class="textlink" target="_blank">基于结构稀疏非负矩阵分解的故障诊断</a><br> 
-* 第五章 &nbsp;  <a href="https://doi.org/10.1109/TCSVT.2025.3642736" class="textlink" target="_blank">基于稀疏张量典型相关分析的多视图学习</a><br>
-* 第六章 &nbsp;  <a href="https://doi.org/10.1016/j.patcog.2025.112496" class="textlink" target="_blank">基于张量低秩表示网络的遥感图像去噪</a><br>
-* 第七章 &nbsp;  <a href="https://arxiv.org/abs/2509.08205" class="textlink" target="_blank"> 基于稀疏低秩展开网络的红外小目标检测</a><br>
-* 第八章 &nbsp;  结语与展望<br>
+### 章节安排
+* 第 1 章  &nbsp;  绪论<br>
+* 第 2 章  &nbsp;  基于双稀疏主成分分析的特征选择<br>
+* 第 3 章  &nbsp;  基于稀疏联邦学习的异常检测<br>
+* 第 4 章  &nbsp;  基于正交非负矩阵分解的故障检测<br>
+* 第 5 章  &nbsp;  基于稀疏张量典型相关分析的多视角学习<br>
+* 第 6 章  &nbsp;  基于对比学习稀疏低秩的特征选择<br>
+* 第 7 章  &nbsp;  基于深度张量低秩表示的图像去噪<br>
+* 第 8 章  &nbsp;  基于深度自适应低秩稀疏的的目标检测<br>
+* 第 9 章  &nbsp;  基于深度低秩支持矩阵机的图像分类<br>
+* 第 10 章  &nbsp;  基于自适应稀疏的大语言模型剪枝<br>
+* 第 11 章  &nbsp;  图像反问题的深度展开方法<br>
+* 第 12 章  &nbsp;  大语言模型驱动的优化方法<br>
 
 
+### 购买信息
+* 京东自营链接 <br>
+* 作者版本 (适合iPad)  <br>
 
 
 
