@@ -34,16 +34,5 @@ share: false
 
 
 
-### 更多资料
-* <a href="https://www.overleaf.com/latex/templates/ieee-for-journals-template-with-bibtex-example-files-included/hjbyjvncdmpx" class="textlink" target="_blank"> IEEE期刊LATEX模板 <br>
-* <a href="https://www.overleaf.com/latex/templates/shuthesis-thesis-template-for-shanghai-university/fqdhvtkggqzv" class="textlink" target="_blank">  学位论文LATEX模板 <br>
-* <a href="../reading/kaiti.pptx" class="textlink" target="_blank">  开题答辩PPT模板 <br>
-* <a href="../reading/biye.pptx" class="textlink" target="_blank">  毕业答辩PPT模板 <br>
-* <a href="../reading/paper.pdf" class="textlink" target="_blank">  期刊论文自查表 <br>
-* <a href="../reading/thesis.pdf" class="textlink" target="_blank">  学位论文自查表 <br>
-* <a href="../reading/writing.pdf" class="textlink" target="_blank">  学术英语写作 <br>
-* <a href="../reading/reply.tex" class="textlink" target="_blank">  论文回复模板 <br>
-
-
 
 
