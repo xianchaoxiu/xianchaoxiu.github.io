@@ -20,6 +20,8 @@ share: false
 
 ### 参考资料
 * <a href="https://xianchaoxiu.github.io/chinese/book/OPT" class="textlink" target="_blank"> 黎曼流形稀疏优化: 理论、算法与拓展 </a><br>
-* <a href="https://xianchaoxiu.github.io/chinese/book/L2O" class="textlink" target="_blank"> 学习最优化 </a><br> 
+* <a href="https://xianchaoxiu.github.io/chinese/book/L2O" class="textlink" target="_blank"> 学习最优化方法与应用 </a><br> 
+* <a href="https://xianchaoxiu.github.io/chinese/book/LLM" class="textlink" target="_blank"> 具身大模型轻量化 </a><br> 
+
 
 
