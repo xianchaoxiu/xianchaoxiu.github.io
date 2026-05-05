@@ -19,6 +19,7 @@ share: false
 
 
 ### 参考资料
-* 黎曼流形稀疏优化: 理论、算法与拓展<br>
-* 学习最优化 <br>
+* <a href="https://xianchaoxiu.github.io/chinese/book/OPT" class="textlink" target="_blank"> 黎曼流形稀疏优化: 理论、算法与拓展 </a><br>
+* <a href="https://xianchaoxiu.github.io/chinese/book/L2O" class="textlink" target="_blank"> 学习最优化 </a><br> 
+
 
