@@ -9,7 +9,7 @@ share: false
 
 ### 2026
 
-* Rethinking Low-Rank Representation Through Semi-Smooth Newton  Networks  <br>
+* Rethinking Low-Rank Representation with Semi-Smooth Newton Deep Unfolding <br>
 CSIAM Big Data and Artificial Intelligence   <br>
 
 
