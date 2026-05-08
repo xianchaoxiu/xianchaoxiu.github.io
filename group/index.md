@@ -18,14 +18,14 @@ share: false
 * Pengfei Zhang (2025.09 - ) <br>
 * Long Chen (2024.09 - )  <br>
 * Jianhao Li (2024.09 - ) <br>
-* Chenyi Huang (2023.09 - ) <br>
+* Chenyi Huang (2023.09 - 2026.06) <br>
 * <a href="../group/2025-Yang.pdf" class="textlink" target="_blank"> Anning Yang (2022.09 - 2025.06)</a> <br>
 * <a href="../group/2024-Yu.pdf" class="textlink" target="_blank"> Fuchao Yu (2021.09 - 2024.06)</a> <br>
 
 
 
 ### Cooperate Students
-* Chong Shen (2024.09 - )
-* Changhua He (2024.09 - )
-* Shiqi Fei (2023.09 - )
-* Shenghao Sun (2023.09 - )
+* Chong Shen (2024.09 - )  <br>
+* Changhua He (2024.09 - )  <br>
+* Shiqi Fei (2023.09 - 2026.06)  <br>
+* Shenghao Sun (2023.09 - 2026.06)  <br>
