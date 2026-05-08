@@ -9,7 +9,7 @@ share: false
 
 ### 2026
 
-* Rethinking Low-Rank Representation with Deep Semi-Smooth Newton <br>
+* <a href="../talks/2025-MOS.pdf" class="textlink" target="_blank"> Rethinking Low-Rank Representation with Deep Semi-Smooth Newton</a> <br>
 CSIAM Big Data and Artificial Intelligence   <br>
 
 
