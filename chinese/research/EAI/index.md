@@ -1,6 +1,6 @@
 ---
 layout: page
-title: OPT4EAI
+title: 具身大模型轻量化
 comments: false
 share: false
 ---
