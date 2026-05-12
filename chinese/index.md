@@ -29,7 +29,7 @@ share: false
 
 ### 研究兴趣
 * <a href="https://xianchaoxiu.github.io/chinese/research/OPT/" class="textlink" target="_blank"> 学习最优化 </a><br>
-* <a href="https://xianchaoxiu.github.io/chinese/research/EAI/" class="textlink" target="_blank"> 具身大模型轻量化 </a><br>
+* <a href="https://xianchaoxiu.github.io/chinese/research/EAI/" class="textlink" target="_blank"> 具身智能大模型 </a><br>
 
 
 ### 学术论文
