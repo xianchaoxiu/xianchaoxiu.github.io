@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AI4OPT
+title: 学习最优化
 comments: false
 share: false
 ---
