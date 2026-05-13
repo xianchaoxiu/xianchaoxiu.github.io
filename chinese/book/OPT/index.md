@@ -26,7 +26,7 @@ share: false
 
 ### 购买信息
 * 京东自营链接 <br>
-* <a href="../chinese/book/OPT/黎曼流形稀疏优化.pdf" class="textlink" target="_blank"> 作者版本 (适合iPad)</a> <br>
+* <a href="../OPT/黎曼流形稀疏优化.pdf" class="textlink" target="_blank"> 作者版本 (适合iPad)</a> <br>
 
 
 
