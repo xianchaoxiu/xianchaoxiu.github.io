@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 具身智能大模型
+title: 具身智能
 comments: false
 share: false
 ---
