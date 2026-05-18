@@ -31,7 +31,6 @@ share: false
 * 大模型与具身智能<br>
 
 
-
 ### 学术论文
 * J. Fan, A. Yan, <b>X. Xiu</b>*, W. Liu,  <a href="https://doi.org/10.1088/1361-6420/ae5e02" class="textlink" target="_blank">Robust Sparse Phase Retrieval: Statistical Guarantee, Optimality Theory and Convergent Algorithm</a>, Inverse Problems, 42: 045014, 2026  <br>
 * Y. Zhu, W. Liu, <b>X. Xiu</b>*, J. Sun, <a href="https://doi.org/10.1109/TCSVT.2025.3642736" class="textlink" target="_blank">Sparse Tensor CCA via Manifold Optimization for Multi-View Learning</a>, IEEE Transactions on Circuits and Systems for Video Technology, 36(5): 6299-6313, 2026  <br>
