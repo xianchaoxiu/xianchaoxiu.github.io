@@ -31,9 +31,9 @@ share: false
 
 
 ### 教材专著
-* <a href="https://xianchaoxiu.github.io/chinese/book/L2O" class="textlink" target="_blank"> 修贤超, 学习最优化, 科学出版社, 2027 </a><br> 
-* <a href="https://xianchaoxiu.github.io/chinese/book/OPT" class="textlink" target="_blank"> 修贤超, 黎曼流形稀疏优化, 哈尔滨工业大学出版社, 2026</a><br>
-* <a href="https://xianchaoxiu.github.io/chinese/book/OR" class="textlink" target="_blank"> 修贤超, 欧芳, 运筹学导论, 哈尔滨工业大学出版社, 2026</a><br>
+* <a href="https://xianchaoxiu.github.io/chinese/book/L2O" class="textlink" target="_blank"> 学习最优化, 科学出版社, 2027 </a><br> 
+* <a href="https://xianchaoxiu.github.io/chinese/book/OPT" class="textlink" target="_blank"> 黎曼流形稀疏优化, 哈尔滨工业大学出版社, 2026</a><br>
+* <a href="https://xianchaoxiu.github.io/chinese/book/OR" class="textlink" target="_blank"> 运筹学导论, 哈尔滨工业大学出版社, 2026</a><br>
 
 
 ### 科研项目
