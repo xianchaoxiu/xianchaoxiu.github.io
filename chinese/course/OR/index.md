@@ -14,7 +14,4 @@ share: false
 * <a href="https://xianchaoxiu.github.io/chinese/course/OR/2025" class="textlink" target="_blank"> 运筹学基础 2025 </a><br>
 
 
-### 参考资料
-* <a href="https://xianchaoxiu.github.io/chinese/book/OR" class="textlink" target="_blank"> 运筹学导论 </a><br>
-
 
