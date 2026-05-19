@@ -21,19 +21,27 @@ share: false
 * 2026.08-2026.09, 新加坡国立大学, 访问学者 <br>
 * 2025.03-2025.09, 香港理工大学, 访问学者 <br>
 
+### 研究兴趣
+* 大模型与具身智能<br>
+
 
 ### 讲授课程
 * <a href="https://xianchaoxiu.github.io/chinese/course/OR/" class="textlink" target="_blank">   运筹学 </a><br>
 * <a href="https://xianchaoxiu.github.io/chinese/course/OPT/" class="textlink" target="_blank">  最优化方法 </a><br>
 
 
-### 研究兴趣
-* 大模型与具身智能<br>
+### 教材专著
+* <a href="https://xianchaoxiu.github.io/chinese/book/L2O" class="textlink" target="_blank"> 学习最优化方法与应用 </a><br> 
+* <a href="https://xianchaoxiu.github.io/chinese/book/OPT" class="textlink" target="_blank"> 黎曼流形稀疏优化: 理论、算法与拓展 </a><br>
+* <a href="https://xianchaoxiu.github.io/chinese/book/OR" class="textlink" target="_blank"> 运筹学导论 </a><br>
 
 
-### 学术论文
-* J. Fan, A. Yan, <b>X. Xiu</b>*, W. Liu, Robust Sparse Phase Retrieval: Statistical Guarantee, Optimality Theory and Convergent Algorithm, Inverse Problems, 42: 045014, 2026  <br>
-* <b>X. Xiu</b>, C. Huang, P. Shang*, W. Liu, Bi-Sparse Unsupervised Feature Selection, IEEE Transactions on Image Processing, 34: 7407-7421, 2025  <br>
+
+* 修贤超, 欧芳, 运筹学导论, 哈尔滨工业大学出版社, 2026<br>
+* 修贤超, 欧芳, 运筹学导论, 《哈尔滨工业大学出版社》, 2026<br>
+* <a href="https://xianchaoxiu.github.io/chinese/book/OR" class="textlink" target="_blank"> 修贤超, 欧芳, 运筹学导论, 哈尔滨工业大学出版社, 2026</a><br>
+* 修贤超, 欧芳, <a href="https://xianchaoxiu.github.io/chinese/book/OR" class="textlink" target="_blank"> 运筹学导论</a>, 哈尔滨工业大学出版社, 2026<br>
+
 
 ### 科研项目
 * 国家自然科学基金面上项目, 大规模黎曼流形稀疏优化算法及应用, 2024.01-2027.12 <br>
