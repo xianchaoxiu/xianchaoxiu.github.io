@@ -5,15 +5,24 @@ comments: false
 share: false
 ---
 
-### 进度安排
-* 2026年02月28日, 完成草稿 <br>
-* 2026年04月30日, 完成校稿 <br>
-* 2026年08月31日, 完成出版 <br>
+### 内容介绍
+在当今科技飞速发展的时代, 运筹学已成为支撑现代工程技术与人工智能发展的重要理论基础. 在工程领域, 运筹学广泛应用于生产调度、设备故障诊断、复杂系统可靠性分析等方面. 在人工智能领域, 运筹学是强化学习策略优化、组合优化问题求解、稀疏优化算法设计等的基石. <br>
 
-### 计划提纲
-* <a href="https://xianchaoxiu.github.io/chinese/course/OR/引言.pdf" class="textlink" target="_blank">  第一章 &nbsp;  引言<br>
-* <a href="https://xianchaoxiu.github.io/chinese/course/OR/线性规划.pdf" class="textlink" target="_blank">  第二章 &nbsp;  线性规划<br>
-* <a href="https://xianchaoxiu.github.io/chinese/course/OR/整数规划.pdf" class="textlink" target="_blank">  第三章 &nbsp;  整数规划<br>
-* <a href="https://xianchaoxiu.github.io/chinese/course/OR/动态规划.pdf" class="textlink" target="_blank">  第四章 &nbsp;  动态规划<br>
-* <a href="https://xianchaoxiu.github.io/chinese/course/OR/对策论.pdf" class="textlink" target="_blank">  第五章 &nbsp;  对策论<br>
-* <a href="https://xianchaoxiu.github.io/chinese/course/OR/非线性规划.pdf" class="textlink" target="_blank">  第六章 &nbsp;  非线性规划<br>
+### 章节安排
+* 第一章 &nbsp;  绪论<br>
+* 第二章 &nbsp;  线性规划<br>
+* 第三章 &nbsp;  整数规划<br>
+* 第四章 &nbsp;  非线性规划<br>
+* 第五章 &nbsp;  动态规划<br>
+* 第六章 &nbsp;  博弈论<br>
+* 第七章 &nbsp;  Python编程<br>
+
+
+一、具身智能概述
+二、具身智能物理基础
+三、具身智能理论基础.
+四、具身智能感知与认知
+五、具身智能规划与动作生成
+六、具身智能学习与进化
+七、具身智能虚拟仿真实践
+八、具身智能典型应用案例
