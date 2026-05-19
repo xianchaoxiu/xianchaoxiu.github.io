@@ -26,21 +26,14 @@ share: false
 
 
 ### 讲授课程
-* <a href="https://xianchaoxiu.github.io/chinese/course/OR/" class="textlink" target="_blank">   运筹学 </a><br>
+* <a href="https://xianchaoxiu.github.io/chinese/course/OR/" class="textlink" target="_blank">  运筹学 </a><br>
 * <a href="https://xianchaoxiu.github.io/chinese/course/OPT/" class="textlink" target="_blank">  最优化方法 </a><br>
 
 
 ### 教材专著
-* <a href="https://xianchaoxiu.github.io/chinese/book/L2O" class="textlink" target="_blank"> 学习最优化方法与应用 </a><br> 
-* <a href="https://xianchaoxiu.github.io/chinese/book/OPT" class="textlink" target="_blank"> 黎曼流形稀疏优化: 理论、算法与拓展 </a><br>
-* <a href="https://xianchaoxiu.github.io/chinese/book/OR" class="textlink" target="_blank"> 运筹学导论 </a><br>
-
-
-
-* 修贤超, 欧芳, 运筹学导论, 哈尔滨工业大学出版社, 2026<br>
-* 修贤超, 欧芳, 运筹学导论, 《哈尔滨工业大学出版社》, 2026<br>
+* <a href="https://xianchaoxiu.github.io/chinese/book/L2O" class="textlink" target="_blank"> 修贤超, 学习最优化方法与应用, 科学出版社, 2026 </a><br> 
+* <a href="https://xianchaoxiu.github.io/chinese/book/OPT" class="textlink" target="_blank"> 修贤超, 黎曼流形稀疏优化: 理论、算法与拓展, 哈尔滨工业大学出版社, 2026</a><br>
 * <a href="https://xianchaoxiu.github.io/chinese/book/OR" class="textlink" target="_blank"> 修贤超, 欧芳, 运筹学导论, 哈尔滨工业大学出版社, 2026</a><br>
-* 修贤超, 欧芳, <a href="https://xianchaoxiu.github.io/chinese/book/OR" class="textlink" target="_blank"> 运筹学导论</a>, 哈尔滨工业大学出版社, 2026<br>
 
 
 ### 科研项目
