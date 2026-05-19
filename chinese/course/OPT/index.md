@@ -18,9 +18,3 @@ share: false
 * <a href="https://xianchaoxiu.github.io/chinese/course/OPT/2023" class="textlink" target="_blank"> 现代优化方法 2023 </a><br>
 
 
-### 参考资料
-* <a href="https://xianchaoxiu.github.io/chinese/book/L2O" class="textlink" target="_blank"> 学习最优化方法与应用 </a><br> 
-* <a href="https://xianchaoxiu.github.io/chinese/book/OPT" class="textlink" target="_blank"> 黎曼流形稀疏优化 </a><br>
-
-
-
