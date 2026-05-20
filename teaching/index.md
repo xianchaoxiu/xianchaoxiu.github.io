@@ -20,3 +20,6 @@ share: false
 * <a href="https://xianchaoxiu.github.io/teaching/OR/2024" class="textlink" target="_blank"> 运筹学基础  </a><br>
 * <a href="https://xianchaoxiu.github.io/teaching/OPT/2024" class="textlink" target="_blank"> 现代优化方法  </a><br>
 
+### 2024
+* <a href="https://xianchaoxiu.github.io/teaching/SW/2023" class="textlink" target="_blank"> 学术英语写作  </a><br>
+* <a href="https://xianchaoxiu.github.io/teaching/OPT/2023" class="textlink" target="_blank"> 现代优化方法  </a><br>
