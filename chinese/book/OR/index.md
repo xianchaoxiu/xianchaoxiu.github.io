@@ -17,5 +17,5 @@ share: false
 
 
 ### 购买信息
-* 京东自营链接 <br>
+* 京东自营 <br>
 * <a href="../OR/运筹学导论.pdf" class="textlink" target="_blank"> 作者版本 (适合iPad)</a> <br>
