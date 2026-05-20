@@ -25,11 +25,6 @@ share: false
 * 大模型与具身智能<br>
 
 
-### 讲授课程
-* <a href="https://xianchaoxiu.github.io/chinese/course/OR/" class="textlink" target="_blank"> 运筹学 </a><br>
-* <a href="https://xianchaoxiu.github.io/chinese/course/OPT/" class="textlink" target="_blank"> 最优化方法 </a><br>
-
-
 ### 教材专著
 * 学习最优化, 科学出版社, 2027 <br>
 * 具身智能导论, 高等教育出版社, 2026 <br>
