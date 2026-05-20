@@ -11,7 +11,7 @@ share: false
 
 
 ### 课程信息
-* <a href="../OR/2024/引言.pdf" class="textlink" target="_blank">  第 1 章 &nbsp;  引言<br>
+* <a href="../teaching/OR/2024/引言.pdf" class="textlink" target="_blank">  第 1 章 &nbsp;  引言<br>
 * <a href="../OR/2024/线性规划.pdf" class="textlink" target="_blank">  第 2 章 &nbsp;  线性规划<br>
 * <a href="../OR/2024/整数规划.pdf" class="textlink" target="_blank">  第 3 章 &nbsp;  整数规划<br>
 * <a href="../OR/2024/非线形规划.pdf" class="textlink" target="_blank">  第 4 章 &nbsp;  非线形规划<br>
