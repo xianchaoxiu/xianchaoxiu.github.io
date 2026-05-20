@@ -7,7 +7,7 @@ share: false
 
 ### 参考教材
 * <a href="https://item.jd.com/14020941.html" class="textlink" target="_blank"> 胡运权, 郭耀煌, 运筹学教程 </a><br>
-* <a href="https://item.jd.com/15239544.html" class="textlink" target="_blank"> 赵文燕, 孔造杰, 运筹学 (第 3 版) </a><br>
+* <a href="https://item.jd.com/13203603.html" class="textlink" target="_blank"> 侯福均, 吴祈宗, 运筹学与最优化方法 </a><br>
 
 
 ### 课程信息
