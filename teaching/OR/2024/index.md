@@ -7,7 +7,7 @@ share: false
 
 ### 参考教材
 * <a href="https://item.jd.com/14020941.html" class="textlink" target="_blank"> 胡运权, 郭耀煌, 运筹学教程 </a><br>
-* <a href="https://item.jd.com/13383821.html" class="textlink" target="_blank"> 哈姆迪·塔哈, 运筹学基础 </a><br>
+* <a href="https://item.jd.com/15239544.html" class="textlink" target="_blank"> 赵文燕, 孔造杰, 运筹学 </a><br>
 
 
 ### 课程信息
