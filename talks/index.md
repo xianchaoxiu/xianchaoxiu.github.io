@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /talks/
-title: Selected Talks
+permalink: /conferences/
+title: Selected Conferences
 tags: [talks]
 comments: false
 share: false
