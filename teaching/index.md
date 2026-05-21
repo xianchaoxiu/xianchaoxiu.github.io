@@ -12,6 +12,7 @@ share: false
 * 数据驱动最优化方法  <br>
 
 ### 2025
+* <a href="https://xianchaoxiu.github.io/teaching/PRO/2025" class="textlink" target="_blank"> 概率论 </a><br>
 * <a href="https://xianchaoxiu.github.io/teaching/OR/2025" class="textlink" target="_blank"> 运筹学基础 </a><br>
 * <a href="https://xianchaoxiu.github.io/teaching/OPT/2025" class="textlink" target="_blank"> 数据驱动最优化方法 </a><br>
 
