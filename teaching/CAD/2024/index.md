@@ -9,8 +9,8 @@ share: false
 
 ### 参考教材
 
-* <a href="http://faculty.bicmr.pku.edu.cn/~wenzw/optbook.html" class="textlink" target="_blank"> 文再文, 袁亚湘, 最优化方法与理论</a><br>
-* <a href="https://item.jd.com/12755179.html" class="textlink" target="_blank"> 陈宝林, 最优化理论与算法 </a><br>
+* <a href="https://item.jd.com/14651911.html" class="textlink" target="_blank"> 薛定宇, 控制系统计算机辅助设计</a><br>
+* <a href="https://item.jd.com/14136320.html" class="textlink" target="_blank"> 胡寿松, 姜斌, 张绍杰, 自动控制原理 </a><br>
 
 
 ### 课程信息
