@@ -10,8 +10,8 @@ share: false
 * <a href="https://item.jd.com/12112157.html" class="textlink" target="_blank"> 陈希孺, 概率论与数理统计 </a><br>
 
 ### 课程信息
-* <a href="../PRO/基本概念.pdf" class="textlink" target="_blank">  第 1 章 &nbsp;  基本概念<br>
-* <a href="../PRO/随机变量及其分布.pdf" class="textlink" target="_blank">  第 2 章 &nbsp;  随机变量及其分布<br>
-* <a href="../PRO/多维随机变量及其分布.pdf" class="textlink" target="_blank">  第 3 章 &nbsp;  多维随机变量及其分布<br>
-* <a href="../PRO/随机变量的数字特征.pdf" class="textlink" target="_blank"> 第 4 章 &nbsp;  随机变量的数字特征 <br>
-* <a href="../PRO/大数定律及中心极限定理.pdf" class="textlink" target="_blank"> 第 5 章 &nbsp;  大数定律及中心极限定理<br>
+* <a href="../2025/基本概念.pdf" class="textlink" target="_blank">  第 1 章 &nbsp;  基本概念<br>
+* <a href="../2025/随机变量及其分布.pdf" class="textlink" target="_blank">  第 2 章 &nbsp;  随机变量及其分布<br>
+* <a href="../2025/多维随机变量及其分布.pdf" class="textlink" target="_blank">  第 3 章 &nbsp;  多维随机变量及其分布<br>
+* <a href="../2025/随机变量的数字特征.pdf" class="textlink" target="_blank"> 第 4 章 &nbsp;  随机变量的数字特征 <br>
+* <a href="../2025/大数定律及中心极限定理.pdf" class="textlink" target="_blank"> 第 5 章 &nbsp;  大数定律及中心极限定理<br>
