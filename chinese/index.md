@@ -43,10 +43,9 @@ share: false
 * 中国工业与应用数学学会大数据与人工智能专业委员会委员 <br>
 
 ### 指导研究生
-* <a href="../students/2024-Yu.pdf" class="textlink" target="_blank"> 于福超, 基于迁移学习的轴承故障诊断技术研究, 2024 </a> <br>
-* <a href="../students/2025-Yang.pdf" class="textlink" target="_blank"> 杨安宁, 基于稀疏优化的无监督特征选择方法研究, 2025 </a> <br>
-* 黄晨毅, 大规模结构稀疏优化算法与应用, 2026 <br>
-* 费士祺, 基于深度学习的梨表面缺陷检测方法研究, 2026 <br>
 * 孙圣豪, 基于支持矩阵机的图像分类方法研究, 2026 <br>
-
+* 费士祺, 基于深度学习的梨表面缺陷检测方法研究, 2026 <br>
+* 黄晨毅, 大规模结构稀疏优化算法与应用, 2026 <br>
+* <a href="../students/2025-Yang.pdf" class="textlink" target="_blank"> 杨安宁, 基于稀疏优化的无监督特征选择方法研究, 2025 </a> <br>
+* <a href="../students/2024-Yu.pdf" class="textlink" target="_blank"> 于福超, 基于迁移学习的轴承故障诊断技术研究, 2024 </a> <br>
 
