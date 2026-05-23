@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 学习最优化方法与应用
+title: 数据驱动最优化
 comments: false
 share: false
 ---
