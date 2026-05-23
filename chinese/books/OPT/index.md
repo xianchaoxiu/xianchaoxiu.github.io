@@ -29,7 +29,6 @@ share: false
 * 京东链接 <br>
 * <a href="../OPT/黎曼流形稀疏优化.pdf" class="textlink" target="_blank"> 作者版本 <br>
 
-### 反馈意见
-* 如果您发现任何不妥和错误之处, 请联系 xcxiu@shu.edu.cn
-
+### 信息反馈
+* 如果您发现任何不妥和错误之处, 请联系 xcxiu at shu dot edu dot cn
 
