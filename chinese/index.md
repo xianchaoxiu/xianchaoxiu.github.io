@@ -31,13 +31,6 @@ share: false
 * 大模型与具身智能<br>
 
 
-### 学术论文
-* 修贤超, 何昶桦, 曲文涛, 孙军, 图像反问题的深度展开求解方法, 运筹学学报, 审稿中, 2026 <br>
-* J. Liu, Y. Han, <b>X. Xiu</b>*, J. Zhang, W. Liu, Lightweight Deep Unfolding Networks with Enhanced Robustness for Infrared Small Target Detection, IEEE Transactions on Image Processing, Major Revision, 2026 <br>
-* <a href="../chinese/papers/2026-IP.pdf" class="textlink" target="_blank"> J. Fan, A. Yan, <b>X. Xiu</b>*, W. Liu, Robust Sparse Phase Retrieval: Statistical Guarantee, Optimality Theory and Convergent Algorithm, Inverse Problems, 42: 045014, 2026 </a> <br>
-* <a href="../chinese/papers/2025-TIP.pdf" class="textlink" target="_blank"> <b>X. Xiu</b>, C. Huang, P. Shang*, W. Liu, Bi-Sparse Unsupervised Feature Selection, IEEE Transactions on Image Processing, 34: 7407-7421, 2025 </a> <br>
-
-
 ### 教材专著
 * <a href="https://xianchaoxiu.github.io/chinese/books/EAI/" class="textlink" target="_blank"> 具身大模型, 2027 </a> <br>
 * <a href="https://xianchaoxiu.github.io/chinese/books/L2O/" class="textlink" target="_blank"> 数据驱动最优化方法, 2027 </a> <br>
