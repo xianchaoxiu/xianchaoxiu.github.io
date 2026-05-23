@@ -26,7 +26,7 @@ share: false
   * 第 12 章 &nbsp;  基于大语言模型的优化问题求解方法 <br>
 
 ### 购买信息
-* 京东链接 <br>
+* 京东官方链接 <br>
 * <a href="../OPT/黎曼流形稀疏优化.pdf" class="textlink" target="_blank"> 作者版本 (推荐iPad阅读)  <br>
 
 ### 信息反馈
