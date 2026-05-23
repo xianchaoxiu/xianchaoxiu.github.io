@@ -18,7 +18,7 @@ share: false
 * 第 7 章 &nbsp;  Python 编程 <br>
 
 ### 购买信息
-* 京东链接 <br>
+* 京东官方链接 <br>
 * <a href="../OR/运筹学导论.pdf" class="textlink" target="_blank"> 作者版本 (推荐iPad阅读) <br>
 
 ### 反馈意见
