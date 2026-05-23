@@ -1,28 +1,33 @@
 ---
 layout: page
-title: 大规模黎曼流形稀疏优化算法及应用
+title: 学习最优化
 comments: false
 share: false
 ---
 
 ### 进度安排
-* 2026年02月28日, 完成草稿<br>
-* 2026年03月31日, 完成校稿<br>
-* 2026年07月31日, 完成出版<br>
+* 2027年05月30日, 完成草稿<br>
+* 2027年06月30日, 完成校稿<br>
+* 2027年08月31日, 完成出版<br>
 
 
-### 计划提纲
-* 第一章 &nbsp;  绪论<br>
-* 第二章 &nbsp;  <a href="https://doi.org/10.1109/TIP.2025.3620667" class="textlink" target="_blank"> 基于稀疏主成分分析的无监督特征选择 </a><br>
-* 第三章 &nbsp;  <a href="https://doi.org/10.1016/j.neucom.2024.128267" class="textlink" target="_blank"> 基于Stiefel流形的分布式稀疏约束优化</a><br>
-* 第四章 &nbsp;  <a href="https://doi.org/10.1109/TIM.2023.3241990" class="textlink" target="_blank">基于结构稀疏非负矩阵分解的故障诊断</a><br> 
-* 第五章 &nbsp;  <a href="https://doi.org/10.1109/TCSVT.2025.3642736" class="textlink" target="_blank">基于稀疏张量典型相关分析的多视图学习</a><br>
-* 第六章 &nbsp;  <a href="https://doi.org/10.1016/j.patcog.2025.112496" class="textlink" target="_blank">基于张量低秩表示网络的遥感图像去噪</a><br>
-* 第七章 &nbsp;  <a href="https://arxiv.org/abs/2509.08205" class="textlink" target="_blank"> 基于稀疏低秩展开网络的红外小目标检测</a><br>
-* 第八章 &nbsp;  结语与展望<br>
+### 关于本书
+黎曼流形稀疏优化是指决策变量带有稀疏性特征且满足黎曼流形约束的一类优化问题. 不仅在图像处理、无线通信、故障诊断等场景中得到了广泛应用, 更有力推动了数学、计算机、自动化等多学科的交叉发展.
 
-
-
-
-
+### 相关论文
+* 第一部分 &nbsp;  基础篇 <br>
+  * 第 1 章 &nbsp;  绪论 <br>
+  * 第 2 章 &nbsp;  基于稀疏主成分分析的特征选择 <br>
+  * 第 3 章 &nbsp;  基于稀疏联邦主成分分析的异常检测  <br>
+  * 第 4 章 &nbsp;  基于稀疏正交非负矩阵分解的故障检测 <br>
+  * 第 5 章 &nbsp;  基于稀疏张量相关分析的多视角学习 <br>
+  * 第 6 章 &nbsp;  基于稀疏低秩对比学习的特征选择 <br>
+* 第二部分 &nbsp;  神经网络篇 <br>
+  * 第 7 章 &nbsp;  基于深度张量低秩表示的图像去噪 <br>
+  * 第 8 章 &nbsp;  基于深度自适应低秩稀疏的目标检测 <br>
+  * 第 9 章 &nbsp;  基于注意力深度支持矩阵机的图像分类 <br>
+  * 第 10 章 &nbsp;  基于自适应稀疏的大语言模型剪枝 <br>
+* 第三部分 &nbsp;  大语言模型篇 <br>
+  * 第 11 章 &nbsp;  基于深度展开的图像反问题求解方法 <br>
+  * 第 12 章 &nbsp;  基于大语言模型的优化问题求解方法 <br>
 
