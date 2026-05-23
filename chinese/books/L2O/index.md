@@ -1,9 +1,13 @@
 ---
 layout: page
-title: 数据驱动最优化
+title: 数据驱动最优化方法
 comments: false
 share: false
 ---
+
+### 关于本书
+暂定《数据驱动最优化方法》
+
 
 ### 进度安排
 * 2027年05月30日, 完成草稿<br>
