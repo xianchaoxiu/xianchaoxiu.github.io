@@ -25,11 +25,6 @@ share: false
 * 大模型与具身智能<br>
 
 
-### 教材专著
-* <a href="https://xianchaoxiu.github.io/chinese/books/L2O/" class="textlink" target="_blank"> 学习最优化方法与应用, 2027 </a> <br>
-* <a href="https://xianchaoxiu.github.io/chinese/books/OPT/" class="textlink" target="_blank"> 运筹学导论, 哈尔滨工业大学出版社, 2026 </a> <br>
-* <a href="https://xianchaoxiu.github.io/chinese/books/OR/" class="textlink" target="_blank"> 黎曼流形稀疏优化, 哈尔滨工业大学出版社, 2026 </a> <br>
-
 ### 科研项目
 * 国家自然科学基金面上项目, 大规模黎曼流形稀疏优化算法及应用, 2024.01-2027.12 <br>
 * 国家自然科学基金青年项目, 稀疏典型相关分析的理论与算法研究, 2021.01-2023.12  <br>
@@ -39,6 +34,12 @@ share: false
 * 教育部学位中心学位论文评议专家 <br>
 * 中国自动化学会具身智能专业委员会委员 <br>
 * 中国工业与应用数学学会大数据与人工智能专业委员会委员 <br>
+
+
+### 教材专著
+* <a href="https://xianchaoxiu.github.io/chinese/books/L2O/" class="textlink" target="_blank"> 学习最优化方法与应用, 2027 </a> <br>
+* <a href="https://xianchaoxiu.github.io/chinese/books/OPT/" class="textlink" target="_blank"> 运筹学导论, 哈尔滨工业大学出版社, 2026 </a> <br>
+* <a href="https://xianchaoxiu.github.io/chinese/books/OR/" class="textlink" target="_blank"> 黎曼流形稀疏优化, 哈尔滨工业大学出版社, 2026 </a> <br>
 
 
 ### 指导研究生
