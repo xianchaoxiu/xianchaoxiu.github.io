@@ -26,11 +26,9 @@ share: false
 
 
 ### 教材专著
-* 学习最优化, 科学出版社, 2027 <br>
-* 具身智能导论, 高等教育出版社, 2026 <br>
-* 运筹学导论, 哈尔滨工业大学出版社, 2026 <br>
-* 黎曼流形稀疏优化, 哈尔滨工业大学出版社, 2026 <br>
-
+* <a href="../chinese/books/L2O/" class="textlink" target="_blank"> 学习最优化, 科学出版社, 2027 </a> <br>
+* <a href="../chinese/books/OPT/" class="textlink" target="_blank"> 运筹学导论, 哈尔滨工业大学出版社, 2026 </a> <br>
+* <a href="../chinese/books/OR/" class="textlink" target="_blank"> 黎曼流形稀疏优化, 哈尔滨工业大学出版社, 2026 </a> <br>
 
 ### 科研项目
 * 国家自然科学基金面上项目, 大规模黎曼流形稀疏优化算法及应用, 2024.01-2027.12 <br>
@@ -44,8 +42,6 @@ share: false
 
 
 ### 指导研究生
-* 李建豪, 大模型驱动的运筹优化及其应用, 2024.09- <br>
-* 陈龙, 基于深度张量低秩表示的图像聚类研究, 2024.09- <br>
 * 黄晨毅, 大规模结构稀疏优化算法与应用, 2023.09-2026.06 <br>
 * <a href="../chinese/students/2025-Yang.pdf" class="textlink" target="_blank"> 杨安宁, 基于稀疏优化的无监督特征选择方法研究, 2022.09-2025.06 </a> <br>
 * <a href="../chinese/students/2024-Yu.pdf" class="textlink" target="_blank"> 于福超, 基于迁移学习的轴承故障诊断技术研究, 2021.09-2024.06 </a> <br>
