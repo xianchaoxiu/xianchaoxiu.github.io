@@ -33,7 +33,6 @@ share: false
 
 ### 学术论文
 * J. Fan, A. Yan, <b>X. Xiu</b>*, W. Liu, Robust Sparse Phase Retrieval: Statistical Guarantee, Optimality Theory and Convergent Algorithm, Inverse Problems, 42: 045014, 2026 <br>
-* Y. Zhu, W. Liu, <b>X. Xiu</b>*, J. Sun, Sparse Tensor CCA via Manifold Optimization for Multi-View Learning, IEEE Transactions on Circuits and Systems for Video Technology, 36(5): 6299-6313, 2026 <br>
 * <b>X. Xiu</b>, C. Huang, P. Shang*, W. Liu, Bi-Sparse Unsupervised Feature Selection, IEEE Transactions on Image Processing, 34: 7407-7421, 2025 <br>
 * <b>X. Xiu</b>, L. Pan, Y. Yang*, W. Liu, Efficient and Fast Joint Sparse Constrained Canonical Correlation Analysis for Fault Detection, IEEE Transactions on Neural Networks and Learning Systems, 35(3): 4153-4163, 2024 <br>
 
