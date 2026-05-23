@@ -26,7 +26,7 @@ share: false
 
 
 ### 教材专著
-* <a href="https://xianchaoxiu.github.io/chinese/books/L2O/" class="textlink" target="_blank"> 学习最优化, 科学出版社, 2027 </a> <br>
+* <a href="https://xianchaoxiu.github.io/chinese/books/L2O/" class="textlink" target="_blank"> 学习最优化方法与应用, 2027 </a> <br>
 * <a href="https://xianchaoxiu.github.io/chinese/books/OPT/" class="textlink" target="_blank"> 运筹学导论, 哈尔滨工业大学出版社, 2026 </a> <br>
 * <a href="https://xianchaoxiu.github.io/chinese/books/OR/" class="textlink" target="_blank"> 黎曼流形稀疏优化, 哈尔滨工业大学出版社, 2026 </a> <br>
 
