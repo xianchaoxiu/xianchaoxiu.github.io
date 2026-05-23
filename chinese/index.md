@@ -32,6 +32,7 @@ share: false
 
 
 ### 学术论文
+* <a href="https://arxiv.org/abs/2509.08205" class="textlink" target="_blank"> J. Liu, Y. Han, <b>X. Xiu</b>*, J. Zhang, W. Liu, Lightweight Deep Unfolding Networks with Enhanced Robustness for Infrared Small Target Detection, IEEE Transactions on Image Processing, Major Revision </a> <br>
 * <a href="../chinese/papers/2026-IP.pdf" class="textlink" target="_blank"> J. Fan, A. Yan, <b>X. Xiu</b>*, W. Liu, Robust Sparse Phase Retrieval: Statistical Guarantee, Optimality Theory and Convergent Algorithm, Inverse Problems, 42: 045014, 2026 </a> <br>
 * <a href="../chinese/papers/2025-TIP.pdf" class="textlink" target="_blank"> <b>X. Xiu</b>, C. Huang, P. Shang*, W. Liu, Bi-Sparse Unsupervised Feature Selection, IEEE Transactions on Image Processing, 34: 7407-7421, 2025 </a> <br>
 
