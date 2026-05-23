@@ -20,3 +20,7 @@ share: false
 ### 购买信息
 * 京东链接 <br>
 * <a href="../OR/运筹学导论.pdf" class="textlink" target="_blank"> 作者版本 <br>
+
+
+### 反馈意见
+* 如果您发现任何不妥和错误之处, 请连续xcxiu@shu.edu.cn
