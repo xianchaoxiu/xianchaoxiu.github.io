@@ -22,4 +22,4 @@ share: false
 * <a href="../OR/运筹学导论.pdf" class="textlink" target="_blank"> 作者版本 (推荐iPad阅读) <br>
 
 ### 反馈意见
-* 如果您发现任何不妥和错误之处, 请联系 xcxiu at shu dot edu dot cn
+* <a href="https://docs.qq.com/form/page/DTkZycUxMRUpkRHpY" class="textlink" target="_blank"> 如果您发现任何不妥和错误之处, 请填写勘误链接 <br>
