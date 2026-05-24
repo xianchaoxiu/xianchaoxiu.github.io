@@ -15,4 +15,4 @@ share: false
 * 2027年02月28日, 完成校稿<br>
 * 2027年05月31日, 完成出版<br>
 
-![alt text](./framework.png)
+![alt text](./cover.png)
