@@ -24,4 +24,4 @@ share: false
 * 第 7 章 &nbsp;  低秩分解 <br>
 * 第 8 章 &nbsp;  参数高效微调 <br>
 * 第 9 章 &nbsp;  具身强化学习 <br>
-* 第 10 章 &nbsp;  边缘部署加速 <br>
+* 第 10 章 &nbsp;  边缘推理加速 <br>
