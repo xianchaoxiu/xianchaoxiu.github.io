@@ -9,9 +9,6 @@ share: false
 
 ### 2026
 
-* ChatOR: An Open-Source Large Language Model for Operations Research <br>
-Operations Research Society of China <br>
-
 * Rethinking Low-Rank Representation with Deep Semi-Smooth Newton <br>
 CSIAM Big Data and Artificial Intelligence   <br>
 
