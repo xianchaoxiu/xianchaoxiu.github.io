@@ -9,7 +9,10 @@ share: false
 
 ### 2026
 
-* <a href="../talks/2025-MOS.pdf" class="textlink" target="_blank"> Rethinking Low-Rank Representation with Deep Semi-Smooth Newton</a> <br>
+* ChatOR: An Open-Source Large Language Model for Operations Research <br>
+Operations Research Society of China <br>
+
+* Rethinking Low-Rank Representation with Deep Semi-Smooth Newton <br>
 CSIAM Big Data and Artificial Intelligence   <br>
 
 
