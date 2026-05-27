@@ -17,7 +17,7 @@ share: false
 ### 章节安排
 * 第 1 章 &nbsp;  绪论 <br>
 * 第 2 章 &nbsp;  大模型基础理论 <br>
-* 第 3 章 &nbsp;  具身大模型架构 <br>
+* 第 3 章 &nbsp;  视觉-语言-动作模型 <br>
 * 第 4 章 &nbsp;  模型量化 <br>
 * 第 5 章 &nbsp;  模型剪枝 <br>
 * 第 6 章 &nbsp;  词元优化 <br>
