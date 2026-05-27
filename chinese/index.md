@@ -37,12 +37,12 @@ share: false
 * <a href="https://xianchaoxiu.github.io/chinese/books/OPT/" class="textlink" target="_blank"> 黎曼流形稀疏优化, 哈尔滨工业大学出版社, 2026 </a> <br>
 
 
-### 指导研究生
+### 指导硕士研究生
 * 黄晨毅, 大规模结构稀疏优化算法与应用, 2023.09-2026.06 <br>
 * <a href="../chinese/students/2025-Yang.pdf" class="textlink" target="_blank"> 杨安宁, 基于稀疏优化的无监督特征选择方法研究, 2022.09-2025.06 </a> <br>
 * <a href="../chinese/students/2024-Yu.pdf" class="textlink" target="_blank"> 于福超, 基于迁移学习的轴承故障诊断技术研究, 2021.09-2024.06 </a> <br>
 
 
-### 指导优秀本科毕业设计
+### 指导优秀本科毕业论文
 * <a href="../chinese/students/2026-An.pdf" class="textlink" target="_blank"> 安志闻, 面向具身机器人的深度强化学习研究, 2025.12-2026.05 </a> <br>
 * <a href="../chinese/students/2026-Cao.pdf" class="textlink" target="_blank"> 曹佳豪, 面向具身操作的视觉-语言-动作模型研究, 2025.12-2026.05 </a> <br>
