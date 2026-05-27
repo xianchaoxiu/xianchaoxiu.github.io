@@ -36,6 +36,11 @@ share: false
 * <a href="https://xianchaoxiu.github.io/chinese/books/OR/" class="textlink" target="_blank"> 运筹学导论, 哈尔滨工业大学出版社, 2026 </a> <br>
 * <a href="https://xianchaoxiu.github.io/chinese/books/OPT/" class="textlink" target="_blank"> 黎曼流形稀疏优化, 哈尔滨工业大学出版社, 2026 </a> <br>
 
+### 学术论文
+* <a href="../chinese/papers/2026-IP.pdf" class="textlink" target="_blank">  J. Fan, A. Yan, <b>X. Xiu</b>*, W. Liu,  Robust Sparse Phase Retrieval: Statistical Guarantee, Optimality Theory and Convergent Algorithm</a>, Inverse Problems, 42: 045014, 2026 </a><br>
+* <a href="../chinese/papers/2025-TIP.pdf" class="textlink" target="_blank">  <b>X. Xiu</b>, C. Huang, P. Shang*, W. Liu, Bi-Sparse Unsupervised Feature Selection, IEEE Transactions on Image Processing, 34: 7407-7421, 2025 </a><br>
+
+
 
 ### 指导硕士研究生
 * 黄晨毅, 大规模结构稀疏优化算法与应用, 2023.09-2026.06 <br>
