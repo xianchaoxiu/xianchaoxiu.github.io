@@ -30,7 +30,6 @@ share: false
 ### 研究兴趣
 * 大模型与具身智能<br>
 
-
 ### 教材专著
 * <a href="https://xianchaoxiu.github.io/chinese/books/EAI/" class="textlink" target="_blank"> 具身大模型轻量化, 2027 </a> <br>
 * <a href="https://xianchaoxiu.github.io/chinese/books/L2O/" class="textlink" target="_blank"> 数据驱动最优化方法, 2027 </a> <br>
