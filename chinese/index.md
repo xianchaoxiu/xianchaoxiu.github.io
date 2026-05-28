@@ -38,7 +38,7 @@ share: false
 
 
 
-### 指导研究生
+### 指导学生
 * 黄晨毅, 大规模结构稀疏优化算法与应用, 2023.09-2026.06 <br>
 * <a href="../chinese/students/2025-Yang.pdf" class="textlink" target="_blank"> 杨安宁, 基于稀疏优化的无监督特征选择方法研究, 2022.09-2025.06 </a> <br>
 * <a href="../chinese/students/2024-Yu.pdf" class="textlink" target="_blank"> 于福超, 基于迁移学习的轴承故障诊断技术研究, 2021.09-2024.06 </a> <br>
