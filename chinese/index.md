@@ -34,6 +34,13 @@ share: false
 * <a href="https://xianchaoxiu.github.io/chinese/books/OR/" class="textlink" target="_blank"> 运筹学导论, 哈尔滨工业大学出版社, 2026 </a> <br>
 * <a href="https://xianchaoxiu.github.io/chinese/books/OPT/" class="textlink" target="_blank"> 黎曼流形稀疏优化, 哈尔滨工业大学出版社, 2026 </a> <br>
 
+
+### 科研项目
+* 国家自然科学基金面上项目, 大规模黎曼流形稀疏优化算法及应用, 2024.01-2027.12 <br>
+* 国家自然科学基金青年项目, 稀疏典型相关分析的理论与算法研究, 2021.01-2023.12  <br>
+
+
+
 ### 指导学生
 * 李建豪, 大模型驱动的运筹优化及其应用, 2024.09- <br>
 * 陈龙, 基于流匹配的视觉-语言-动作模型研究, 2024.09- <br>
