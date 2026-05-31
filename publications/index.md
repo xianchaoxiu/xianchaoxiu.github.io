@@ -16,7 +16,6 @@ share: false
 
 * <b>X. Xiu</b>, C. Huang, W. Zhang*, W. Liu, <a href="https://arxiv.org/abs/2602.12622" class="textlink" target="_blank">Efficient Personalized Federated PCA with Manifold Optimization for IoT Anomaly Detection</a>, IEEE Internet of Things, Major Revision <a href="https://github.com/xianchaoxiu/FedEP" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
-* J. Liu, X. Ju, <b>X. Xiu</b>*, W. Liu, <a href="https://arxiv.org/abs/2505.20563" class="textlink" target="_blank">Bi-Level Unsupervised Feature Selection with L2,0-Norm</a>, Pattern Recognition, Major Revision <a href="https://github.com/xianchaoxiu/BLUFS" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
 * J. Fan, A. Yan, <b>X. Xiu</b>*, W. Liu,  <a href="https://doi.org/10.1088/1361-6420/ae5e02" class="textlink" target="_blank">Robust Sparse Phase Retrieval: Statistical Guarantee, Optimality Theory and Convergent Algorithm</a>, Inverse Problems, 42: 045014, 2026 <a href="https://github.com/xianchaoxiu/HPR" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
