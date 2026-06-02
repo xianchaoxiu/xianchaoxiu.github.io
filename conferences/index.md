@@ -9,7 +9,7 @@ share: false
 
 ### 2026
 
-* Deep Newton Unfolding for Inverse Problems <br>
+* Newton Deep  Unfolding for Inverse Problems <br>
 Operations Research Society of China <br>
 
 * Rethinking Low-Rank Representation with Deep Semi-Smooth Newton <br>
