@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /conferences/
-title: Selected Conferences
-tags: [talks]
+title: Selected Conference
+tags: [conferences]
 comments: false
 share: false
 ---
