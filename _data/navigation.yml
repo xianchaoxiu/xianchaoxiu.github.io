@@ -8,11 +8,11 @@
  #{{ site.url }}
 
   
-- title: Publications
+- title: Publication
   url: /publications
 
 
-- title: Conferences
+- title: Conference
   url: /conferences
 
   
