@@ -8,8 +8,8 @@ share: false
 ---
 
 ### 2026
-* 运筹学基础 <br>
-* 数据驱动最优化方法  <br>
+* <a href="https://xianchaoxiu.github.io/teaching/OR/2026" class="textlink" target="_blank"> 运筹学基础  </a><br>
+* <a href="https://xianchaoxiu.github.io/teaching/OPT/2026" class="textlink" target="_blank"> 数据驱动最优化方法  </a><br>
 
 ### 2025
 * <a href="https://xianchaoxiu.github.io/teaching/PRO/2025" class="textlink" target="_blank"> 概率论 </a><br>
