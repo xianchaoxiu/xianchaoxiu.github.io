@@ -77,7 +77,7 @@ share: false
 
 
 ### 必读图书
-*  <a href="https://www.bilibili.com/video/BV1p1421k7MC/" class="textlink" target="_blank"> 神经网络与深度学习 </a> <br>
+*  <a href="../reading/NNDL.pdf" class="textlink" target="_blank">  神经网络与深度学习 </a> <br>
 *  <a href="https://www.bilibili.com/video/BV1xH4y1y7qy/" class="textlink" target="_blank"> 最优化方法与理论 </a> <br>
 *  <a href="https://www.bilibili.com/video/BV1PB6XYFET2/" class="textlink" target="_blank"> 大模型基础 </a> <br>
 
