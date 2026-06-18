@@ -30,9 +30,9 @@ share: false
 * 大模型与具身智能<br>
 
 ### 教材专著
-* <a href="https://xianchaoxiu.github.io/chinese/books/L2O/" class="textlink" target="_blank"> 数据驱动最优化, 科学出版社, 2027 </a> <br>
-* <a href="https://xianchaoxiu.github.io/chinese/books/EAI/" class="textlink" target="_blank"> 具身智能大模型, 清华大学出版社, 2027 </a> <br>
-* <a href="https://xianchaoxiu.github.io/chinese/books/OPT/" class="textlink" target="_blank"> 黎曼流形稀疏优化, 哈尔滨工业大学出版社, 2026 </a> <br>
+* 数据驱动最优化, 科学出版社, 2027 <br>
+* 具身智能大模型, 清华大学出版社, 2027 <br>
+* 黎曼流形稀疏优化, 哈尔滨工业大学出版社, 2026 <br>
 
 
 ### 科研项目
