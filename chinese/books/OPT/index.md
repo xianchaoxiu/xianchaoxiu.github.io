@@ -30,6 +30,6 @@ share: false
 * <a href="../OPT/黎曼流形稀疏优化.pdf" class="textlink" target="_blank"> 作者版本 (推荐iPad阅读)  <br>
 
 ### 反馈意见
-* <a href="https://docs.qq.com/form/page/DTmtyY2JXUWVjSEJS" class="textlink" target="_blank"> 如果您发现任何不妥和错误之处, 请填写勘误链接. <br>
+* <a href="https://docs.qq.com/form/page/DTmtyY2JXUWVjSEJS" class="textlink" target="_blank"> 如果您发现任何不妥和错误之处, 请填写勘误链接 <br>
 
 
