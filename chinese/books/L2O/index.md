@@ -1,12 +1,12 @@
 ---
 layout: page
-title: 数据驱动最优化方法
+title: 数据驱动最优化
 comments: false
 share: false
 ---
 
 ### 关于本书
-暂定《数据驱动最优化方法》
+暂定《数据驱动最优化》
 
 
 ### 进度安排
