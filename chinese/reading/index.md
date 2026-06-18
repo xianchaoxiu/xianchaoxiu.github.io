@@ -89,7 +89,6 @@ share: false
 *  <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9" class="textlink" target="_blank"> IEEE Transactions on Automatic Control </a> <br>
 *  <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8860" class="textlink" target="_blank"> IEEE Transactions on Robotics </a> <br>
 *  <a href="https://www.nature.com/natmachintell/" class="textlink" target="_blank"> Nature Machine Intelligence </a> <br>
-*  <a href="https://www.scichina.com/" class="textlink" target="_blank"> 中国科学 </a> <br>
 
 
 
