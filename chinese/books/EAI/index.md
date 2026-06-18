@@ -1,12 +1,12 @@
 ---
 layout: page
-title: 具身大模型轻量化
+title: 具身智能大模型
 comments: false
 share: false
 ---
 
 ### 关于本书
-暂定《具身大模型轻量化》
+暂定《具身智能大模型》
 
 ### 进度安排
 * 2026年09月30日, 完成初稿 <br>
