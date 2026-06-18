@@ -9,9 +9,6 @@ share: false
 
 ### 2026
 
-* <a href="../conferences/2026-ORSC.pdf" class="textlink" target="_blank"> Newton Deep  Unfolding for Inverse Problems </a> <br>
-Operations Research Society of China <br>
-
 * <a href="../conferences/2026-BDAI.pdf" class="textlink" target="_blank"> Rethinking Low-Rank Representation with Deep Semi-Smooth Newton</a>  <br>
 CSIAM Big Data and Artificial Intelligence <br>
 
