@@ -5,6 +5,15 @@ comments: false
 share: false
 ---
 
+### 时间安排
+
+* 2026年07月01日, 完成第一部分 <br>
+* 2026年09月01日, 完成第二部分 <br>
+* 2026年11月01日, 完成第三部分 <br>
+* 2026年12月01日, 第一轮校对 <br>
+* 2027年01月01日, 第二轮校对 <br>
+
+
 
 ### 目录
 
@@ -23,9 +32,7 @@ share: false
   - TBD <br>
 
 ### 反馈
-* <a href="../OR/Part-I.pdf" class="textlink" target="_blank"> 第一部分, 2026年6月30日基本完成 </a> <br>
-* 第二部分，计划于2026年8月30日基本完成 </a> <br>
-* 第二部分，计划于2026年8月30日基本完成 </a> <br>
+* <a href="../OR/Part-I.pdf" class="textlink" target="_blank"> 第一部分草稿 </a> <br>
 * <a href="https://docs.qq.com/form/page/DTkZycUxMRUpkRHpY" class="textlink" target="_blank">如果您发现任何不妥和错误之处，麻烦通过此链接反馈 </a> <br>
 
 
