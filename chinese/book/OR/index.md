@@ -22,10 +22,10 @@ share: false
   - 第 2 章 &nbsp;  线性规划 <br>
   - 第 3 章 &nbsp;  整数规划 <br>
   - 第 4 章 &nbsp;  非线性规划 <br> 
-  - 第 5 章 &nbsp;  动态规划 <br>
+  - 第 5 章 &nbsp;  动态规划 <br><br>
 
 * 第二部分 &nbsp; 优化篇 <br>
-  - TBD <br>
+  - TBD <br><br>
 
 
 * 第三部分 &nbsp; 实践篇 <br>
