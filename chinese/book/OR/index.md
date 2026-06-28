@@ -15,12 +15,12 @@ share: false
   - 第 4 章 &nbsp;  非线性规划 <br> 
   - 第 5 章 &nbsp;  动态规划 <br>
 
-* 第二部分 &nbsp; 优化篇<br>
-  - TBD
+* 第二部分 &nbsp; 优化篇 <br>
+  - TBD <br>
 
 
-* 第三部分 &nbsp; 实践篇<br>
-  - TBD
+* 第三部分 &nbsp; 实践篇 <br>
+  - TBD <br>
 
 ### 反馈
 * <a href="../OR/Part-I.pdf" class="textlink" target="_blank"> 2026年6月30日, 第一部分基本完成 </a> <br>
