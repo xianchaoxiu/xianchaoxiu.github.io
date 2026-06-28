@@ -34,9 +34,9 @@ share: false
 
 
 ### 教材专著
-* 数据驱动最优化, 科学出版社, 2027 <br>
-* 具身智能大模型, 清华大学出版社, 2026 <br>
-* <a href="https://xianchaoxiu.github.io/chinese/book/OR/" class="textlink" target="_blank">修贤超, 运筹优化导论, 清华大学出版社, 2027</a> <br>
+* 数据驱动最优化, 2027 <br>
+* 具身智能大模型, 2026 <br>
+* <a href="https://xianchaoxiu.github.io/chinese/book/OR/" class="textlink" target="_blank">修贤超, 运筹优化导论, 2027</a> <br>
 * <a href="https://xianchaoxiu.github.io/chinese/book/OPT/" class="textlink" target="_blank">修贤超, 黎曼流形稀疏优化, 哈尔滨工业大学出版社, ISBN  978-7-5767-2903-0</a> <br>
 
 
