@@ -23,5 +23,7 @@ share: false
   - TBD
 
 ### 反馈
-* 2026年6月30日, 第一部分基本完成
+* <a href="../OR/第一部分.pdf" class="textlink" target="_blank"> 2026年6月30日, 第一部分基本完成 </a> <br>
+* <a href="https://docs.qq.com/form/page/DTkZycUxMRUpkRHpY" class="textlink" target="_blank">如果您发现任何不妥和错误之处，麻烦通过此链接反馈 </a> <br>
+
 
