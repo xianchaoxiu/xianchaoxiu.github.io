@@ -22,15 +22,16 @@ share: false
   - 第 4 章 &nbsp;  动态规划  <br> <br>
   
 * 第二部分 &nbsp; 优化篇 <br>
-  - 第 5 章 &nbsp;  最优性理论 <br>
-  - 第 6 章 &nbsp;  无约束优化算法 <br>
-  - 第 7 章 &nbsp;  约束优化算法 <br>
-  - 第 8 章 &nbsp;  复合优化算法 <br><br>
+  - 第 5 章 &nbsp;  TBD <br>
+  - 第 6 章 &nbsp;  TBD <br>
+  - 第 7 章 &nbsp;  TBD <br>
+  - 第 8 章 &nbsp;  TBD <br><br>
 
 * 第三部分 &nbsp; 实践篇 <br>
-  - 第 9 章 &nbsp;  相位恢复 <br>
-  - 第 10 章 &nbsp;  支持矩阵机 <br>
-
+  - 第 9 章 &nbsp;  TBD <br>
+  - 第 10 章 &nbsp;  TBD <br>
+  - 第 11 章 &nbsp;  TBD <br>
+  - 第 12 章 &nbsp;  TBD <br>
 
 ### 反馈
 
