@@ -20,15 +20,19 @@ share: false
   - 第 1 章 &nbsp;  绪论 <br>
   - 第 2 章 &nbsp;  线性规划 <br>
   - 第 3 章 &nbsp;  整数规划 <br>
-  - 第 4 章 &nbsp;  非线性规划 <br> 
-  - 第 5 章 &nbsp;  动态规划 <br><br>
-
+  - 第 4 章 &nbsp;  动态规划  <br> 
+  - 第 5 章 &nbsp;  博弈论 <br><br>
+  
 * 第二部分 &nbsp; 优化篇 <br>
-  - TBD <br><br>
-
+  - 第 6 章 &nbsp;  最优性理论 <br>
+  - 第 7 章 &nbsp;  无约束优化算法 <br>
+  - 第 8 章 &nbsp;  约束优化算法 <br>
+  - 第 9 章 &nbsp;  复合优化算法 <br><br>
 
 * 第三部分 &nbsp; 实践篇 <br>
-  - TBD <br>
+  - 第 10 章 &nbsp;  稀疏相位恢复 <br>
+  - 第 11 章 &nbsp;  支持矩阵机 <br>
+  - 第 12 章 &nbsp;  张量低秩表示 <br><br>
 
 ### 反馈
 * <a href="../OR/Part-I.pdf" class="textlink" target="_blank"> 第一部分草稿 </a> <br>
