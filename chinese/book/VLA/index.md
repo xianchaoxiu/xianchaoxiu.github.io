@@ -21,7 +21,7 @@ share: false
 * 第 4 章 &nbsp;  模型量化 <br>
 * 第 5 章 &nbsp;  模型剪枝 <br>
 * 第 6 章 &nbsp;  词元优化 <br>
-* 第 7 章 &nbsp;  监督微调（ <br>
+* 第 7 章 &nbsp;  监督微调 <br>
 * 第 8 章 &nbsp;  强化学习 <br>
 * 第 9 章 &nbsp;  边缘加速 <br>
 * 第 10 章 &nbsp;  应用案例 <br>
