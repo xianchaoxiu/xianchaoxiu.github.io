@@ -18,8 +18,8 @@ share: false
 * 第一部分 &nbsp; 运筹篇 <br>
   - 第 1 章 &nbsp;  线性规划 <br>
   - 第 2 章 &nbsp;  整数规划 <br>
-  - 第 3 章 &nbsp;  动态规划  <br> 
-  - 第 4 章 &nbsp;  博弈论 <br><br>
+  - 第 3 章 &nbsp;  非线性规划  <br> 
+  - 第 4 章 &nbsp;  动态规划  <br> <br>
   
 * 第二部分 &nbsp; 优化篇 <br>
   - 第 5 章 &nbsp;  最优性理论 <br>
