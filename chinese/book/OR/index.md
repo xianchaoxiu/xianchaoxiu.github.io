@@ -30,7 +30,7 @@ share: false
   - 第 9 章 &nbsp;  复合优化算法 <br><br>
 
 * 第三部分 &nbsp; 实践篇 <br>
-  - 第 10 章 &nbsp;  稀疏相位恢复 <br>
+  - 第 10 章 &nbsp;  相位恢复 <br>
   - 第 11 章 &nbsp;  支持矩阵机 <br>
   - 第 12 章 &nbsp;  张量低秩表示 <br><br>
 
