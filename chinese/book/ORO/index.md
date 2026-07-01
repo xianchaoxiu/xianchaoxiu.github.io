@@ -5,6 +5,12 @@ comments: false
 share: false
 ---
 
+### 时间安排
+
+* 2026年07月01日, 完成第一部分 <br>
+* 2026年09月01日, 完成第二部分 <br>
+* 2026年12月01日, 完成第三部分 <br>
+
 
 ### 目录
 
@@ -23,6 +29,6 @@ share: false
 
 
 ### 反馈
-* <a href="../ORO/Part-I.pdf" class="textlink" target="_blank"> 第一部分草稿 </a> <br>
+* 修贤超, 欧芳, 运筹学导论, 哈尔滨工业大学出版社, ISBN  978-7-5767-2903-0 <br>
 * <a href="https://docs.qq.com/form/page/DTkZycUxMRUpkRHpY" class="textlink" target="_blank">如果您发现任何不妥和错误之处，请通过此链接反馈 </a> <br>
 
