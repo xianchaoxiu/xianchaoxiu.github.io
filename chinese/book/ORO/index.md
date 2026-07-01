@@ -14,7 +14,7 @@ share: false
 
 ### 目录
 
-* 第一部分 &nbsp; 运筹篇 <br>
+* <a href="../ORO/Part-I.pdf" class="textlink" target="_blank"> 第一部分 &nbsp; 运筹篇  </a> <br>
   - 第 1 章 &nbsp;  线性规划 <br>
   - 第 2 章 &nbsp;  整数规划<br>
   - 第 3 章 &nbsp;  非线性规划 <br>
