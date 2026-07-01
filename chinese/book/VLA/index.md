@@ -25,3 +25,8 @@ share: false
 * 第 8 章 &nbsp;  强化学习 <br>
 * 第 9 章 &nbsp;  边缘加速 <br>
 * 第 10 章 &nbsp;  应用案例 <br>
+
+
+### 反馈
+* <a href="https://docs.qq.com/form/page/DTkZmRnNHZGRwTE1K" class="textlink" target="_blank">如果您发现任何不妥和错误之处，请通过此链接反馈 </a> <br>
+
