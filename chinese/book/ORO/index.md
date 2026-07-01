@@ -31,3 +31,5 @@ share: false
 
 ### 反馈
 * <a href="../ORO/Part-I.pdf" class="textlink" target="_blank"> 第一部分草稿 </a> <br>
+* <a href="https://docs.qq.com/form/page/DTkZycUxMRUpkRHpY" class="textlink" target="_blank">如果您发现任何不妥和错误之处，麻烦通过此链接反馈 </a> <br>
+
