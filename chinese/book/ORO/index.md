@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 运筹优化导论
+title: 运筹优化基础
 comments: false
 share: false
 ---
