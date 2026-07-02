@@ -21,8 +21,8 @@ share: false
 
 
 * 第三部分 &nbsp; 工程应用篇 <br>
-  - 第 9 章 &nbsp;  图像处理问题 <br>
-  - 第 10 章 &nbsp;  车辆路径问题 <br>
+  - 第 9 章 &nbsp;  图像处理 <br>
+  - TBD
 
 
 ### 反馈
