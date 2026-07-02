@@ -7,7 +7,7 @@ share: false
 
 ### 简介
 
-➡️ <a href="https://xianchaoxiu.github.io/chinese/reading/" class="textlink" target="_blank"> 《黎曼流形稀疏优化: 理论、算法与拓展》秉持“算法创新为核心、交叉应用为导向”的理念, 配套的全部实验代码均已整理上传至Github </a><br>
+《黎曼流形稀疏优化: 理论、算法与拓展》秉持“算法创新为核心、交叉应用为导向”的理念, 配套的全部实验代码均已整理上传至Github 🔥
 
 
 ### 目录
