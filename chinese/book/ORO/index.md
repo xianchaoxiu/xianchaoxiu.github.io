@@ -7,11 +7,11 @@ share: false
 
 ### 目录
 
-* <a href="../ORO/Part-I.pdf" class="textlink" target="_blank"> 第一部分 &nbsp; 运筹建模篇  </a> <br>
-  - 第 1 章 &nbsp;  线性规划 <br>
-  - 第 2 章 &nbsp;  整数规划 <br>
-  - 第 3 章 &nbsp;  非线性规划 <br>
-  - 第 4 章 &nbsp;  动态规划 <br><br>
+* 第一部分 &nbsp; 运筹建模篇   <br>
+  - <a href="../ORO/Chapter1.pdf" class="textlink" target="_blank"> 第 1 章 &nbsp;  线性规划 </a> <br>
+  - <a href="../ORO/Chapter2.pdf" class="textlink" target="_blank"> 第 2 章 &nbsp;  整数规划 </a> <br>
+  - <a href="../ORO/Chapter3.pdf" class="textlink" target="_blank"> 第 3 章 &nbsp;  非线性规划 </a> <br>
+  - <a href="../ORO/Chapter4.pdf" class="textlink" target="_blank"> 第 4 章 &nbsp;  动态规划 </a> <br><br>
 
 * 第二部分 &nbsp; 优化算法篇 <br>
   - 第 5 章 &nbsp;  随机梯度下降法 <br>
