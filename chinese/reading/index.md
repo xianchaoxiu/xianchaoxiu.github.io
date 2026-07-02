@@ -82,13 +82,8 @@ share: false
 *  <a href="https://llmbook-zh.github.io/" class="textlink" target="_blank">  大模型基础 </a> <br>
 
 
-### 推荐期刊
-*  <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34" class="textlink" target="_blank"> IEEE Transactions on Pattern Analysis and Machine Intelligence </a> <br>
-*  <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83" class="textlink" target="_blank"> IEEE Transactions on Image Processing </a> <br>
-*  <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=78" class="textlink" target="_blank"> IEEE Transactions on Signal Processing </a> <br>
-*  <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9" class="textlink" target="_blank"> IEEE Transactions on Automatic Control </a> <br>
-*  <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8860" class="textlink" target="_blank"> IEEE Transactions on Robotics </a> <br>
-*  <a href="https://www.nature.com/natmachintell/" class="textlink" target="_blank"> Nature Machine Intelligence </a> <br>
+### 心灵鸡汤
+* 做一个解决问题的人，而不是解释问题的人 <br>
 
 
 
