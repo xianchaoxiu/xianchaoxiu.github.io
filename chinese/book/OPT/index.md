@@ -33,7 +33,7 @@ share: false
 
 
 ### 反馈
-* <a href="../OPT/OPTBook.pdf" class="textlink" target="_blank"> 下载作者版本 </a> <br>
+* <a href="../OPT/OPTBook.pdf" class="textlink" target="_blank"> 作者版本（推荐iPad阅读） </a> <br>
 * <a href="https://docs.qq.com/form/page/DTmtyY2JXUWVjSEJS" class="textlink" target="_blank">如果您发现任何不妥和错误之处，请通过此链接反馈 </a> <br>
 
 
