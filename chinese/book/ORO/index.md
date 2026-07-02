@@ -5,13 +5,6 @@ comments: false
 share: false
 ---
 
-### 时间安排
-
-* 2026年07月01日, 完成第一部分 <br>
-* 2026年09月01日, 完成第二部分 <br>
-* 2026年12月01日, 完成第三部分 <br>
-
-
 ### 目录
 
 * <a href="../ORO/Part-I.pdf" class="textlink" target="_blank"> 第一部分 &nbsp; 运筹篇  </a> <br>
