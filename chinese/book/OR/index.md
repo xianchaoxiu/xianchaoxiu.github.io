@@ -17,7 +17,7 @@ share: false
 *  第 3 章 &nbsp;  整数规划 <br>
 *  第 4 章 &nbsp;  非线性规划 <br> 
 *  第 5 章 &nbsp;  动态规划 <br>
-*  第 6 章 &nbsp;  博弈论 <br><br>
+*  第 6 章 &nbsp;  博弈论 <br>
 *  第 7 章 &nbsp;  Python 编程 <br>
 
 
