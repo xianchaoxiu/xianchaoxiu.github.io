@@ -7,7 +7,7 @@ share: false
 
 ### 简介
 
-《运筹学导论》秉持“算法创新为核心、交叉应用为导向”的理念, 配套的全部实验代码均已整理上传,  <a href="https://github.com/xianchaoxiu" class="textlink" target="_blank"> 欢迎下载 </a>
+《运筹学导论》定位为精简通识读本，旨在帮助读者轻松理解运筹学的内涵，掌握运筹学的基本方法
 
 
 ### 目录
