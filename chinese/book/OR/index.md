@@ -7,7 +7,7 @@ share: false
 
 ### 简介
 
-➡️ <a href="https://xianchaoxiu.github.io/chinese/reading/" class="textlink" target="_blank"> 《运筹学导论》定位为精简通识读本, 旨在帮助读者轻松理解运筹学的内涵与方法 </a><br>
+➡️ 《运筹学导论》定位为精简通识读本, 旨在帮助读者轻松理解运筹学的内涵与方法 🔥
 
 ### 目录
 
