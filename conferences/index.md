@@ -9,6 +9,10 @@ share: false
 
 ### 2026
 
+* <a href="../conferences/2026-HIT.pdf" class="textlink" target="_blank"> Can LLM really benefit optimization?</a>  <br>
+Harbin Institute of Technology<br>
+
+
 * <a href="../conferences/2026-BDAI.pdf" class="textlink" target="_blank"> Rethinking Low-Rank Representation with Deep Semi-Smooth Newton</a>  <br>
 CSIAM Big Data and Artificial Intelligence <br>
 
