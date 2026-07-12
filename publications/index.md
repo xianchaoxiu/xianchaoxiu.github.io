@@ -11,7 +11,6 @@ share: false
 
 
 ### 2026
-* <b>X. Xiu</b>, C. Shen, Y. Zhu, W. Liu*, <a href="https://arxiv.org/abs/2607.00604" class="textlink" target="_blank">A Survey of Large Language Models for Vehicle Routing Problems</a>, submitted to Science China - Information Sciences <a href="https://github.com/xianchaoxiu/LLM4VRP" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
 * J. Liu, Y. Han, <b>X. Xiu</b>*, J. Zhang, W. Liu, <a href="https://arxiv.org/abs/2509.08205" class="textlink" target="_blank">Lightweight Deep Unfolding Networks with Enhanced Robustness for Infrared Small Target Detection</a>, IEEE Transactions on Image Processing, Major Revision <a href="https://github.com/xianchaoxiu/L-RPCANet" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
