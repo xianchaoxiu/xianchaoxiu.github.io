@@ -11,7 +11,7 @@ share: false
 
 
 ### 2026
-* <b>修贤超</b>, 沈翀, 朱艳娇, 刘万泉*, <a href="https://arxiv.org/abs/2607.00604" class="textlink" target="_blank">大语言模型驱动的车辆路径问题研究综述</a>, 中国科学: 信息科学, 审稿中 <a href="https://github.com/xianchaoxiu/LLM4VRP" class="textlink" target="_blank" style="color: red;">[Code]</a>
+* <b>X. Xiu</b>, C. Shen, Y. Zhu, W. Liu*, <a href="https://arxiv.org/abs/2607.00604" class="textlink" target="_blank">大语言模型驱动的车辆路径问题研究综述</a>, submitted to Science China - Information Sciences <a href="https://github.com/xianchaoxiu/LLM4VRP" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
 * J. Liu, Y. Han, <b>X. Xiu</b>*, J. Zhang, W. Liu, <a href="https://arxiv.org/abs/2509.08205" class="textlink" target="_blank">Lightweight Deep Unfolding Networks with Enhanced Robustness for Infrared Small Target Detection</a>, IEEE Transactions on Image Processing, Major Revision <a href="https://github.com/xianchaoxiu/L-RPCANet" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
