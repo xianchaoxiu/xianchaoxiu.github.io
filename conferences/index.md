@@ -12,7 +12,7 @@ share: false
 * <a href="../conferences/2026-HIT.pdf" class="textlink" target="_blank"> Large Language Models As Optimizers </a><br>
 Harbin Institute of Technology <br>
 
-* <a href="../conferences/2026-BDAI.pdf" class="textlink" target="_blank"> Rethinking Low-Rank Representation with Deep Semi-Smooth Newton</a><br>
+* <a href="../conferences/2026-BDAI.pdf" class="textlink" target="_blank"> Newton Deep Unrolling and Its Applications </a><br>
 CSIAM Big Data and Artificial Intelligence <br>
 
 ### 2025
