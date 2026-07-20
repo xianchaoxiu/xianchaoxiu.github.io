@@ -7,7 +7,7 @@ comments: false
 share: false
 ---
 
-➡️ <a href="https://xianchaoxiu.github.io/chinese/reading/" class="textlink" target="_blank"> 每年招收硕士研究生 2 名 </a><br>
+➡️ <a href="https://xianchaoxiu.github.io/chinese/reading/" class="textlink" target="_blank"> 每年招收硕士研究生 2 名, 博士研究生 1 名 </a><br>
 
 
 ### 工作经历
