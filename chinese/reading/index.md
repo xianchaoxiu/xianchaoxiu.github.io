@@ -76,12 +76,6 @@ share: false
 * 提升基础科研技能, 包括幻灯片制作和成果展示
 
 
-### 必读图书
-*  <a href="https://nndl.ai/" class="textlink" target="_blank">  神经网络与深度学习 </a> <br>
-*  <a href="http://faculty.bicmr.pku.edu.cn/~wenzw/optbook.html" class="textlink" target="_blank">  最优化方法与理论 </a> <br>
-*  <a href="https://llmbook-zh.github.io/" class="textlink" target="_blank">  大模型基础 </a> <br>
-
-
 ### 心灵鸡汤
 * 主动是最好的老师 <br>
 * 做一个解决问题的人, 而不是解释问题的人 <br>
