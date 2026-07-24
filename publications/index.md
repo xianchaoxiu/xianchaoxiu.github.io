@@ -12,6 +12,10 @@ share: false
 
 ### 2026
 
+* <b>X. Xiu</b>, L. Xu, Y. Zhu, W. Liu*, A Survey of Compression Methods for Vision-Language-Action Models (in Chinese), submitted to Acta Automatica Sinica
+
+* <b>X. Xiu</b>, C. He, W. Qu*, J. Sun, Solving Image Inverse Problems by Deep Unfolding (in Chinese) , submitted to Operations Research Transactions
+
 * <b>X. Xiu</b>, C. Huang, W. Zhang*, W. Liu, <a href="https://doi.org/10.1109/JIOT.2026.3701337" class="textlink" target="_blank">Efficient Personalized Federated PCA with Manifold Optimization for IoT Anomaly Detection</a>, IEEE Internet of Things Journal, 2026 <a href="https://github.com/xianchaoxiu/FedEP" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
 ### 2025
