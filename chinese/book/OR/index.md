@@ -5,9 +5,6 @@ comments: false
 share: false
 ---
 
-
-《运筹学导论》已由哈尔滨工业大学出版社正式出版👏
-
 ### 目录
 
 *  第 1 章 &nbsp;  绪论 <br>
