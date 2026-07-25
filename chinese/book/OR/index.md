@@ -5,7 +5,7 @@ comments: false
 share: false
 ---
 
-* <a href="https://weidian.com/item.html?itemID=7810621848" class="textlink" target="_blank"> 《运筹学导论》已上架微店, 欢迎选购 </a> <br>
+<a href="https://weidian.com/item.html?itemID=7810621848" class="textlink" target="_blank"> 《运筹学导论》已上架微店, 欢迎选购 </a> <br>
 
 ### 目录
 
