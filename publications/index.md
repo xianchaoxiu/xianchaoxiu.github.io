@@ -12,6 +12,8 @@ share: false
 
 ### 2026
 
+* J. Liu, Y. Han, <b>X. Xiu</b>, J. Zhang, W. Liu, Lightweight Deep Unfolding Networks with Enhanced Robustness for Infrared Small Target Detection, IEEE Transactions on Image Processing, minor revision
+
 * <b>X. Xiu</b>, L. Xu, Y. Zhu, W. Liu*, A Survey of Compression Methods for Vision-Language-Action Models (in Chinese), submitted to Acta Automatica Sinica
 
 * <b>X. Xiu</b>, C. He, W. Qu*, J. Sun, Solving Image Inverse Problems by Deep Unfolding (in Chinese), submitted to Operations Research Transactions
