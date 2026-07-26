@@ -5,6 +5,9 @@ comments: false
 share: false
 ---
 
+### 简介
+
+运筹学是一门融合数学、系统科学与工程管理的交叉学科。其核心在于运用数学建模、优化算法、系统分析等工具, 实现有限资源的优化配置。在当今科技飞速发展的时代, 运筹学已成为支撑现代工程技术与人工智能发展的重要理论基础。
 
 ### 目录
 
@@ -15,6 +18,10 @@ share: false
 *  第 5 章 &nbsp;  动态规划 <br>
 *  第 6 章 &nbsp;  博弈论 <br>
 *  第 7 章 &nbsp;  Python 编程 <br>
+
+### 购买
+* <a href="https://weidian.com/item.html?itemID=7810621848" class="textlink" target="_blank"> 微店 </a> <br>
+* <a href="https://item.jd.com/15450180.html" class="textlink" target="_blank"> 京东自营 </a> <br>
 
 
 ### 反馈
