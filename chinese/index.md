@@ -7,10 +7,11 @@ comments: false
 share: false
 ---
 
-➡️ <a href="https://xianchaoxiu.github.io/chinese/reading/" class="textlink" target="_blank"> 每年招收硕士研究生 2 名, 博士研究生 1 名 </a><br>
+➡️ <a href="https://xianchaoxiu.github.io/chinese/reading/" class="textlink" target="_blank"> 每年招收硕士研究生 2 名 </a><br>
 
 
 ### 工作经历
+* 2025.09-至今, 上海宝山上大通用智能机器人研究院 <br>
 * 2024.04-至今, 上海大学, 机电工程与自动化学院, 副教授 <br>
 * 2021.05-2024.04, 上海大学, 机电工程与自动化学院, 讲师 <br>
 * 2019.02-2021.05, 北京大学, 工学院, 博士后 <br>
