@@ -9,10 +9,10 @@ share: false
 
 ### 2026
 
-* Solving Low-Rank Representation Through Deep Newton Unrolling </a><br>
+* Solving Low-Rank Representation Through Deep Newton Unrolling <br>
 Operations Research Society of China <br>
 
-* Large Language Models-Driven Optimization and Applications </a><br>
+* Large Language Models-Driven Optimization and Applications <br>
 Harbin Institute of Technology <br>
 
 * <a href="../conferences/2026-BDAI.pdf" class="textlink" target="_blank"> Newton-Driven Deep Unrolling Networks: From CS to LRR </a><br>
