@@ -9,7 +9,7 @@ share: false
 
 ### 2026
 
-* Solving Low-Rank Representation Through Deep Newton Unrolling <br>
+* Solving Low-Rank Representation Through Deep Newton Networks <br>
 Operations Research Society of China <br>
 
 * Large Language Models-Driven Optimization and Applications <br>
