@@ -36,9 +36,8 @@ share: false
 ### 教材专著
 * <a href="https://xianchaoxiu.github.io/chinese/book/AIOPT/" class="textlink" target="_blank">修贤超, 人工智能驱动的最优化方法, 科学出版社, 2027   </a> <br>
 * <a href="https://xianchaoxiu.github.io/chinese/book/VLA/" class="textlink" target="_blank">修贤超, 苗中华, 具身智能大模型, 清华大学出版社, 2027  </a> <br>
-* <a href="https://xianchaoxiu.github.io/chinese/book/OPT/" class="textlink" target="_blank">修贤超, 黎曼流形稀疏优化, 哈尔滨工业大学出版社, 2026  </a> <br>
 * <a href="https://xianchaoxiu.github.io/chinese/book/OR/" class="textlink" target="_blank">修贤超, 欧芳, 运筹学导论, 哈尔滨工业大学出版社, 2026  </a> <br>
-
+* <a href="https://xianchaoxiu.github.io/chinese/book/OPT/" class="textlink" target="_blank">修贤超, 黎曼流形稀疏优化, 哈尔滨工业大学出版社, 2026  </a> <br>
 
 ### 科研项目
 * 国家自然科学基金面上项目, 大规模黎曼流形稀疏优化算法及应用, 2024.01-2027.12 <br>
