@@ -12,11 +12,11 @@ share: false
 
 ### Surveys
 
-* <b>X. Xiu</b>, L. Xu, Y. Zhu, W. Liu*, 面向视觉-语言-动作模型的压缩方法综述, Acta Automatica Sinica, Under Review 
+* <b>X. Xiu</b>, L. Xu, Y. Zhu, W. Liu*, A Survey of Compression Methods for Vision-Language-Action Models (in Chinese), Acta Automatica Sinica, Under Review 
 
-* <b>X. Xiu</b>, C. Shen, Y. Zhu, W. Liu*, 大语言模型驱动的车辆路径问题研究综述, Control Theory \& Applications, Under Review 
+* <b>X. Xiu</b>, C. Shen, Y. Zhu, W. Liu*, A Survey of Large Language Models for Vehicle Routing Problems (in Chinese), Control Theory \& Applications, Under Review 
 
-* <b>X. Xiu</b>, C. He, W. Qu*, J. Sun, 图像反问题的深度展开求解方法, Operations Research Transactions, Under Review
+* <b>X. Xiu</b>, C. He, W. Qu*, J. Sun, Solving Image Inverse Problems by Deep Unfolding (in Chinese), Operations Research Transactions, Under Review
 
 
 ### 2026
