@@ -20,7 +20,7 @@ share: false
 
 ### 购买
 * 修贤超, 欧芳, 运筹学导论, 哈尔滨工业大学出版社, ISBN: 9787576729030<br>
-* <a href="https://weidian.com/item.html?itemID=7810621848" class="textlink" target="_blank"> 微店 </a> &nbsp;  <a href="https://item.jd.com/15450180.html" class="textlink" target="_blank"> 京东 </a> </a> &nbsp;  <a href="https://product.dangdang.com/30088807.html" class="textlink" target="_blank"> 当当 </a> <br>
+* <a href="https://weidian.com/item.html?itemID=7810621848" class="textlink" target="_blank"> 微店 </a> &nbsp;  <a href="https://item.jd.com/15450180.html" class="textlink" target="_blank"> 京东 </a>  &nbsp;  <a href="https://product.dangdang.com/30088807.html" class="textlink" target="_blank"> 当当 </a> <br>
 
 ### 反馈
 * <a href="../OR/运筹学导论.pdf" class="textlink" target="_blank"> 作者版本（推荐iPad阅读） </a> <br>
