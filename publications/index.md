@@ -10,11 +10,16 @@ share: false
 ➡️ <a href="https://arxiv.org/search/?query=xiu%2C+xianchao&searchtype=all&abstracts=show&order=-announced_date_first&size=50" class="textlink" target="_blank">Click for my preprints </a> 
 
 
+### Surveys
+
+* <b>X. Xiu</b>, L. Xu, Y. Zhu, W. Liu*, 面向视觉-语言-动作模型的压缩方法综述, Acta Automatica Sinica, Under Review 
+
+* <b>X. Xiu</b>, C. Shen, Y. Zhu, W. Liu*, 大语言模型驱动的车辆路径问题研究综述, Control Theory \& Applications, Under Review 
+
+* <b>X. Xiu</b>, C. He, W. Qu*, J. Sun, 图像反问题的深度展开求解方法, Operations Research Transactions, Under Review
+
+
 ### 2026
-
-* <b>X. Xiu</b>, L. Xu, Y. Zhu, W. Liu*, 面向视觉-语言-动作模型的压缩方法综述, Acta Automatica Sinica, Under Review <a href="https://github.com/xianchaoxiu/COM4VLA" class="textlink" target="_blank" style="color: red;">[Code]</a>
-
-* <b>X. Xiu</b>, C. He, W. Qu*, J. Sun, 图像反问题的深度展开求解方法, Operations Research Transactions, Under Review <a href="https://github.com/xianchaoxiu/DL4OPT" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
 * <b>X. Xiu</b>, J. Li, H. Chen*, W. Liu, <a href="https://arxiv.org/abs/2607.27918" class="textlink" target="_blank">OptGraph: Large Language Models Enhanced Evolutionary Optimization Via Graph Retrieval-Augmented Generation</a>, IEEE Transactions on Evolutionary Computation, Under Review <a href="https://github.com/xianchaoxiu/OptGraph" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
