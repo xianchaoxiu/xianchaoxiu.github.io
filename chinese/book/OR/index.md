@@ -18,11 +18,8 @@ share: false
 *  第 6 章 &nbsp;  博弈论 <br>
 *  第 7 章 &nbsp;  Python 编程 <br>
 
-### 购买
-* 出版信息 &nbsp;  修贤超, 欧芳, 运筹学导论, 哈尔滨工业大学出版社, ISBN: 9787576729030<br>
-* <a href="https://weidian.com/item.html?itemID=7810621848" class="textlink" target="_blank"> 微店 </a> &nbsp;  <a href="https://item.jd.com/15450180.html" class="textlink" target="_blank"> 京东 </a>  &nbsp;  <a href="https://product.dangdang.com/30088807.html" class="textlink" target="_blank"> 当当 </a> <br>
-
 ### 反馈
+* <a href="https://weidian.com/item.html?itemID=7810621848" class="textlink" target="_blank"> 微店 </a> &nbsp;  <a href="https://item.jd.com/15450180.html" class="textlink" target="_blank"> 京东 </a>  &nbsp;  <a href="https://product.dangdang.com/30088807.html" class="textlink" target="_blank"> 当当 </a> <br>
 * <a href="../OR/运筹学导论.pdf" class="textlink" target="_blank"> 作者版本（推荐iPad阅读） </a> <br>
 * <a href="https://docs.qq.com/form/page/DTkZycUxMRUpkRHpY" class="textlink" target="_blank">如果您发现任何不妥和错误之处, 请通过此链接反馈 </a> <br>
 
