@@ -30,11 +30,6 @@ share: false
   - 第 12 章 基于大语言模型的运筹优化求解方法 <br>
 
 
-### 购买
-* 修贤超, 黎曼流形稀疏优化: 理论、算法与拓展, 哈尔滨工业大学出版社, ISBN: 9787576729085 <br>
-* TBD <br>
-
-
 ### 反馈
 * <a href="../OPT/黎曼流形稀疏优化.pdf" class="textlink" target="_blank"> 作者版本（推荐iPad阅读） </a> <br>
 * <a href="https://docs.qq.com/form/page/DTmtyY2JXUWVjSEJS" class="textlink" target="_blank">如果您发现任何不妥和错误之处, 请通过此链接反馈 </a> <br>
