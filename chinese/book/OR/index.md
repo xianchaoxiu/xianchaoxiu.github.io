@@ -29,4 +29,7 @@ share: false
 * <a href="../OR/运筹学导论.pdf" class="textlink" target="_blank"> 作者版本（推荐iPad阅读） </a> <br>
 * <a href="https://docs.qq.com/form/page/DTkZycUxMRUpkRHpY" class="textlink" target="_blank">如果您发现任何不妥和错误之处, 请通过此链接反馈 </a> <br>
 
+### 出版
+* 修贤超, 欧芳, 运筹学导论, 哈尔滨工业大学出版社, ISBN: 9787576729030
+
 
