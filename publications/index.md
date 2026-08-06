@@ -10,7 +10,8 @@ share: false
 ➡️ <a href="https://arxiv.org/search/?query=xiu%2C+xianchao&searchtype=all&abstracts=show&order=-announced_date_first&size=50" class="textlink" target="_blank">Click for my preprints </a> 
 
 
-### Surveys
+
+### 2026
 
 * <b>X. Xiu</b>, L. Xu, Y. Zhu, W. Liu*, Review of Compression Methods for Vision-Language-Action Models (in Chinese), Acta Automatica Sinica, Under Review 
 
@@ -18,10 +19,7 @@ share: false
 
 * <b>X. Xiu</b>, C. He, W. Qu*, J. Sun, Solving Image Inverse Problems by Deep Unfolding (in Chinese), Operations Research Transactions, Under Review
 
-
-### 2026
-
-* <b>X. Xiu</b>, J. Li, H. Chen*, W. Liu, <a href="https://arxiv.org/abs/2607.27918" class="textlink" target="_blank">OptGraph: Large Language Models Enhanced Evolutionary Optimization Via Graph Retrieval-Augmented Generation</a>, IEEE Transactions on Evolutionary Computation, Under Review <a href="https://github.com/xianchaoxiu/OptGraph" class="textlink" target="_blank" style="color: red;">[Code]</a>
+* <b>X. Xiu</b>, J. Li, H. Chen*, W. Liu, OptGraph: Large Language Models Enhanced Evolutionary Optimization Via Graph Retrieval-Augmented Generation, IEEE Transactions on Evolutionary Computation, Under Review 
 
 * J. Liu, Y. Han, <b>X. Xiu*</b>, J. Zhang, W. Liu, <a href="https://arxiv.org/abs/2509.08205" class="textlink" target="_blank">Lightweight Deep Unfolding Networks with Enhanced Robustness for Infrared Small Target Detection</a>, IEEE Transactions on Image Processing, Minor Revision <a href="https://github.com/xianchaoxiu/L-RPCANet" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
