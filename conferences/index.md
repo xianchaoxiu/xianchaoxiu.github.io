@@ -12,7 +12,7 @@ share: false
 * Solving Low-Rank Representation Through Deep Newton Networks <br>
 Operations Research Society of China <br>
 
-* Large Language Models-Driven Optimization and Applications <br>
+* When Optimization Meets Large Language Models <br>
 Harbin Institute of Technology <br>
 
 
