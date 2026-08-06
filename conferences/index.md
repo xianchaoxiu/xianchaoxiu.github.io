@@ -15,8 +15,6 @@ Operations Research Society of China <br>
 * Large Language Models-Driven Optimization and Applications <br>
 Harbin Institute of Technology <br>
 
-* <a href="../conferences/2026-BDAI.pdf" class="textlink" target="_blank"> Newton-Driven Deep Unrolling Networks: From CS to LRR </a><br>
-CSIAM Big Data and Artificial Intelligence <br>
 
 ### 2025
 * <a href="../conferences/2025-MOS.pdf" class="textlink" target="_blank"> Learning to Optimize: Theory, Algorithms, and Applications</a><br>
