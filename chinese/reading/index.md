@@ -74,9 +74,8 @@ share: false
 
 
 ### 必读图书
-*  <a href="https://nndl.ai/" class="textlink" target="_blank">  神经网络与深度学习 </a> <br>
-*  <a href="http://faculty.bicmr.pku.edu.cn/~wenzw/optbook.html" class="textlink" target="_blank">  最优化方法与理论 </a> <br>
-*  <a href="https://llmbook-zh.github.io/" class="textlink" target="_blank">  大模型基础 </a> <br>
+*  <a href="https://nndl.ai/nndl-v2/" class="textlink" target="_blank"> 神经网络与深度学习 </a> <br>
+*  <a href="http://faculty.bicmr.pku.edu.cn/~wenzw/optbook.html" class="textlink" target="_blank"> 最优化方法与理论 </a> <br>
 
 
 ### 本人自述
