@@ -12,11 +12,11 @@ share: false
 
 ### Surveys
 
-* <b>X. Xiu</b>, L. Xu, Y. Zhu, W. Liu*, Review of Compression Methods for Vision-Language-Action Models (in Chinese), Acta Automatica Sinica, Under Review 
+* <b>X. Xiu</b>, L. Xu, Y. Zhu, W. Liu*, Review of Compression Methods for Vision-Language-Action Models (in Chinese), Acta Automatica Sinica, Under Review <a href="https://github.com/xianchaoxiu/COM4VLA" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
-* <b>X. Xiu</b>, C. Shen, Y. Zhu, W. Liu*, A Survey of Large Language Models for Vehicle Routing Problems (in Chinese), Control Theory & Applications, Under Review 
+* <b>X. Xiu</b>, C. Shen, Y. Zhu, W. Liu*, A Survey of Large Language Models for Vehicle Routing Problems (in Chinese), Control Theory & Applications, Under Review  <a href="https://github.com/xianchaoxiu/LLM4VRP" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
-* <b>X. Xiu</b>, C. He, W. Qu*, J. Sun, Solving Image Compressive Sensing by Deep Unfolding (in Chinese), Operations Research Transactions, Major Revision
+* <b>X. Xiu</b>, C. He, W. Qu*, J. Sun, Solving Image Compressive Sensing by Deep Unfolding (in Chinese), Operations Research Transactions, Major Revision <a href="https://github.com/xianchaoxiu/DL4OPT" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
 
 ### 2026
