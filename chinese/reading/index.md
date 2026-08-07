@@ -73,11 +73,6 @@ share: false
 * 提升基础科研技能, 包括幻灯片制作和成果展示
 
 
-### 必读图书
-*  <a href="https://nndl.ai/nndl-v2/" class="textlink" target="_blank"> 神经网络与深度学习 </a> <br>
-*  <a href="http://faculty.bicmr.pku.edu.cn/~wenzw/optbook.html" class="textlink" target="_blank"> 最优化方法与理论 </a> <br>
-
-
 ### 本人自述
 
 恳请大家耐心读完这段文字, 做出最优的选择. <br> <br>
@@ -100,7 +95,7 @@ share: false
 教育部对毕业论文要求越来越高, 请务必认真对待. <br> <br>
 
 
-最后寄语即将开启科研之路的各位同学, 与大家共勉: 做一个解决问题的人, 而不是解释问题的人.
+最后寄语即将开启科研之路的各位同学, 与大家共勉: 做一个解决问题的人, 而不是解释问题的人. 
 
 
 
