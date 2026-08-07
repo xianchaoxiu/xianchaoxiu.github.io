@@ -95,8 +95,7 @@ share: false
 教育部对毕业论文要求越来越高, 请务必认真对待. <br> <br>
 
 
-最后寄语即将开启科研之路的各位同学, 与大家共勉: 做一个解决问题的人, 而不是解释问题的人. 
-同时, 送大家两本书
+最后推荐两本读物, 希望能为大家的研究打下扎实根基
 *  <a href="https://nndl.ai/nndl-v2/" class="textlink" target="_blank"> 神经网络与深度学习 </a> <br>
 *  <a href="http://faculty.bicmr.pku.edu.cn/~wenzw/optbook.html" class="textlink" target="_blank"> 最优化方法与理论 </a> <br>
 
