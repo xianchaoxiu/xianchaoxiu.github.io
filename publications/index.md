@@ -10,6 +10,14 @@ share: false
 ➡️ <a href="https://arxiv.org/search/?query=xiu%2C+xianchao&searchtype=all&abstracts=show&order=-announced_date_first&size=50" class="textlink" target="_blank">Click for my preprints </a> 
 
 
+### Surveys
+
+* <b>X. Xiu</b>, L. Xu, Y. Zhu, W. Liu*, Review of Compression Methods for Vision-Language-Action Models (in Chinese), Acta Automatica Sinica, Under Review 
+
+* <b>X. Xiu</b>, C. Shen, Y. Zhu, W. Liu*, A Survey of Large Language Models for Vehicle Routing Problems (in Chinese), Control Theory & Applications, Under Review 
+
+* <b>X. Xiu</b>, C. He, W. Qu*, J. Sun, Solving Image Compressive Sensing by Deep Unfolding (in Chinese), Operations Research Transactions, Major Revision
+
 
 ### 2026
 
