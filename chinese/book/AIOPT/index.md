@@ -14,9 +14,9 @@ share: false
   
 * 第二部分 &nbsp; 深度学习篇 <br>
   - 基于深度流形学习的特征选择 <span style="color:#ff0000">（感谢邰佩）</span> <br>
-  - 基于深度牛顿展开的压缩感知 <br>
-  - 基于深度低秩表示的图像聚类 <br>
-  - 基于深度主成分分析的目标检测 <br> <br>
+  - 基于深度牛顿展开的压缩感知 <span style="color:#ff0000">（感谢何昶桦）</span><br>
+  - 基于深度低秩表示的图像聚类 <span style="color:#ff0000">（感谢王新杰）</span><br>
+  - 基于深度主成分分析的目标检测 <span style="color:#ff0000">（感谢韩银超）</span><br> <br>
 
 * 第三部分 &nbsp; 大语言模型篇 <br>
   - 基于大语言模型的运筹优化建模 <br>
