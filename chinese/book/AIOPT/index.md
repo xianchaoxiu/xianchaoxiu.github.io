@@ -13,7 +13,7 @@ share: false
   - TBD <br><br>
   
 * 第二部分 &nbsp; 深度学习篇 <br>
-  - 基于深度流形学习的特征选择 <br>
+  - 基于深度流形学习的特征选择 <span style="color:red;font-weight:bold;">（感谢邰佩）</span> <br>
   - 基于深度牛顿展开的压缩感知 <br>
   - 基于深度低秩表示的图像聚类 <br>
   - 基于深度主成分分析的目标检测 <br> <br>
