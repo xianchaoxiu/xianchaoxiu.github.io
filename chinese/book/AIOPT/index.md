@@ -22,5 +22,5 @@ share: false
 * 第三部分 &nbsp; 大语言模型篇 <br>
   - 第 9 章 &nbsp;  基于大语言模型的运筹优化建模 <span style="color:#ff0000">（感谢李建豪）</span> <br>
   - 第 10 章 &nbsp;  基于大语言模型的路径问题求解 <span style="color:#ff0000">（感谢沈翀）</span> <br>
-  - 第 11 章 &nbsp;  面向机器人运动控制的强化学习 <span style="color:#ff0000">（感谢张鹏飞）</span> <br> <br> 
+  - 第 11 章 &nbsp;  面向机器人运动控制的强化学习方法 <span style="color:#ff0000">（感谢张鹏飞）</span> <br> 
   - 第 12 章 &nbsp;  面向视觉-语言-动作模型的压缩方法 <span style="color:#ff0000">（感谢徐力）</span> <br> <br> 
