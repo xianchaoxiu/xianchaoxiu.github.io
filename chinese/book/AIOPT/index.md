@@ -9,8 +9,8 @@ share: false
 ### 目录
 * 第一部分 &nbsp; 基础篇 <br>
   - 第 1 章 &nbsp;  绪论 <br>
-  - 第 2 章 &nbsp;  最优化方法 <br>
-  - 第 3 章 &nbsp;  TBD <br><br>
+  - 第 2 章 &nbsp;  最优化理论与方法 <br>
+  - 第 3 章 &nbsp;  神经网络与深度学习 <br><br>
   
 * 第二部分 &nbsp; 深度学习篇 <br>
   - 第 4 章 &nbsp;  基于深度流形学习的特征选择 <span style="color:#ff0000">（感谢邰佩）</span> <br>
