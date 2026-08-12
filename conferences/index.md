@@ -13,7 +13,7 @@ share: false
 Operations Research Society of China <br>
 
 * When Optimization Meets Large Language Models <br>
-Harbin Institute of Technology <br>
+Peking University <br>
 
 
 ### 2025
