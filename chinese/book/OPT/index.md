@@ -31,9 +31,7 @@ share: false
 
 
 ### 购买
-* <a href="https://item.jd.com/15450180.html" class="textlink" target="_blank"> 京东 https://item.jd.com/15450180.html </a>  <br>
-* <a href="https://product.dangdang.com/30088807.html" class="textlink" target="_blank"> 当当 https://product.dangdang.com/30088807.html </a> <br>
-* <a href="https://weidian.com/item.html?itemID=7810621848" class="textlink" target="_blank"> 微店 https://weidian.com/item.html?itemID=7810621848 </a>  <br>
+* TBD
 
 
 ### 反馈
