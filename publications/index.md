@@ -16,7 +16,7 @@ share: false
 
 * <b>X. Xiu</b>, J. Li, J. Fan*, W. Liu, Large Language Models for Operations Research: A Comprehensive Survey, Journal of the Operations Research Society of China, Under Review  <a href="https://github.com/xianchaoxiu/LLM4OR" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
-* <b>X. Xiu</b>, C. He, W. Qu*, J. Sun, Deep Unfolding Methods for Image Compressive Sensing  (in Chinese), Operations Research Transactions, Major Revision <a href="https://github.com/xianchaoxiu/DU4ICS" class="textlink" target="_blank" style="color: red;">[Code]</a>
+* <b>X. Xiu</b>, C. He, W. Qu*, J. Sun, A Survey of Deep Unfolding Methods for Image Compressive Sensing  (in Chinese), Operations Research Transactions, Major Revision <a href="https://github.com/xianchaoxiu/DU4ICS" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
 ### 2026
 
