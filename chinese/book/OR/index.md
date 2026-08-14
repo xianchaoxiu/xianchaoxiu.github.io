@@ -10,12 +10,12 @@ share: false
 
 
 ### 目录
-*  第 1 章 &nbsp;  绪论 <br>
-*  第 2 章 &nbsp;  线性规划 <br>
-*  第 3 章 &nbsp;  整数规划 <br>
-*  第 4 章 &nbsp;  非线性规划 <br> 
-*  第 5 章 &nbsp;  动态规划 <br>
-*  第 6 章 &nbsp;  博弈论 <br>
+*  第 1 章 &nbsp;  绪论 <a href="https://github.com/xianchaoxiu/绪论.pdf" class="textlink" target="_blank" style="color: red;">[PPT]</a> <br>
+*  第 2 章 &nbsp;  线性规划  <a href="https://github.com/xianchaoxiu/线性规划.pdf" class="textlink" target="_blank" style="color: red;">[PPT]</a> <br>
+*  第 3 章 &nbsp;  整数规划 <a href="https://github.com/xianchaoxiu/整数规划.pdf" class="textlink" target="_blank" style="color: red;">[PPT]</a> <br>
+*  第 4 章 &nbsp;  非线性规划  <a href="https://github.com/xianchaoxiu/非线性规划.pdf" class="textlink" target="_blank" style="color: red;">[PPT]</a> <br>
+*  第 5 章 &nbsp;  动态规划 <a href="https://github.com/xianchaoxiu/动态规划.pdf" class="textlink" target="_blank" style="color: red;">[PPT]</a> <br>
+*  第 6 章 &nbsp;  博弈论  <a href="https://github.com/xianchaoxiu/博弈论.pdf" class="textlink" target="_blank" style="color: red;">[PPT]</a> <br>
 *  第 7 章 &nbsp;  Python 编程 <br>
 
 
