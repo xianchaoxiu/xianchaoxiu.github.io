@@ -8,11 +8,11 @@ share: false
 ---
 
 ### 2026
-
-* Solving Low-Rank Representation Through Deep Newton Networks <br>
+* <a href="../conferences/2026-ORSC.pdf" class="textlink" target="_blank"> Solving Low-Rank Representation Through Deep Newton Networks </a><br>
 Operations Research Society of China <br>
 
-* When Optimization Meets Large Language Models <br>
+
+* <a href="../conferences/2026-PKU.pdf" class="textlink" target="_blank"> When Optimization Meets Large Language Models </a><br>
 Peking University <br>
 
 
