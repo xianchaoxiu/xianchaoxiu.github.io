@@ -22,6 +22,11 @@ share: false
 
 * <b>X. Xiu</b>, J. Li, H. Chen*, W. Liu, <a href="https://arxiv.org/abs/2607.27918" class="textlink" target="_blank">OptGraph: Large Language Models Enhanced Evolutionary Optimization Via Graph Retrieval-Augmented Generation</a>, IEEE Transactions on Evolutionary Computation, Under Review <a href="https://github.com/xianchaoxiu/OptGraph" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
+
+
+
+* J. Liu, P. Tai, <b>X. Xiu*</b>, W. Liu, <a href="https://arxiv.org/abs/2509.08205" class="textlink" target="_blank"> Learning to Select Features With Manifold Deep Unfolding PCA </a>, IEEE Transactions on Image Processing, Under Review <a href="https://github.com/xianchaoxiu/FSDUN" class="textlink" target="_blank" style="color: red;">[Code]</a>
+
 * J. Liu, Y. Han, <b>X. Xiu*</b>, J. Zhang, W. Liu, <a href="https://arxiv.org/abs/2509.08205" class="textlink" target="_blank">Lightweight Deep Unfolding Networks with Enhanced Robustness for Infrared Small Target Detection</a>, IEEE Transactions on Image Processing, Minor Revision <a href="https://github.com/xianchaoxiu/L-RPCANet" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
 * <b>X. Xiu</b>, C. Huang, W. Zhang*, W. Liu, <a href="https://doi.org/10.1109/JIOT.2026.3701337" class="textlink" target="_blank">Efficient Personalized Federated PCA with Manifold Optimization for IoT Anomaly Detection</a>, IEEE Internet of Things Journal, 13(16): 37252-37262, 2026 <a href="https://github.com/xianchaoxiu/FedEP" class="textlink" target="_blank" style="color: red;">[Code]</a>
