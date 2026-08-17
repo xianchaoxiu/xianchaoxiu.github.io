@@ -11,8 +11,8 @@ share: false
 * Solving Low-Rank Representation Through Deep Newton Networks<br>
 Operations Research Society of China <br>
 
-* When Optimization Meets Large Language Models<br>
-Peking University <br>
+* <a href="../conferences/2026-HIT.pdf" class="textlink" target="_blank"> When Optimization Meets Large Language Models </a><br>
+Harbin Institute of Technology <br>
 
 
 ### 2025
