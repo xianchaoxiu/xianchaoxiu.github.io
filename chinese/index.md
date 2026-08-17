@@ -62,7 +62,7 @@ share: false
 * 杨安宁, 基于稀疏优化的无监督特征选择方法研究, 2022.09-2025.06 <br>
 * 于福超, 基于迁移学习的轴承故障诊断技术研究, 2021.09-2024.06  <br>
 
-<p align="left">
+<p align="center">
 <img src="photos/2025.png" alt="图1" width="500">
 <br>
 <em>2025年, 南大研究院</em>
