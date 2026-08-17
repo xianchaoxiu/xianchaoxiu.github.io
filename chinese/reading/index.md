@@ -97,7 +97,11 @@ share: false
 
 最后推荐两本读物, 希望能为大家的研究打下扎实根基
 *  <a href="https://nndl.ai/nndl-v2/" class="textlink" target="_blank"> 神经网络与深度学习 </a> <br>
-*  <a href="https://xianchaoxiu.github.io/chinese/book/OPT/" class="textlink" target="_blank"> 黎曼流形稀疏优化 </a> <br>
+*  <a href="https://xianchaoxiu.github.io/chinese/book/OPT/" class="textlink" target="_blank"> 黎曼流形稀疏优化 </a> <br><br>
+
+
+
+![2025年, 南大研究院](2025.png)
 
 
 
