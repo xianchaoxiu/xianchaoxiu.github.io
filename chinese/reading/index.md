@@ -101,9 +101,6 @@ share: false
 
 
 
-![2025年, 南大研究院](2025.png)
-
-
 <p align="center">
 <img src="2025.png" alt="图1" width="600">
 <br>
