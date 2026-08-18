@@ -1,3 +1,4 @@
+---
 layout: page
 permalink: /conferences/
 title: Selected Conferences
