@@ -1,4 +1,3 @@
-<img width="1400" height="764" alt="image" src="https://github.com/user-attachments/assets/36050876-9bd5-43d7-8251-94bd25596a8b" />---
 layout: page
 permalink: /conferences/
 title: Selected Conferences
