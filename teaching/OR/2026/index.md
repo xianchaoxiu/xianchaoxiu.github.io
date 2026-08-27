@@ -16,7 +16,7 @@ share: false
 *  第 4 章 &nbsp;  非线性规划  <a href="../2026/非线性规划.pdf" class="textlink" target="_blank" style="color: red;">[PPT]</a> <br>
 *  第 5 章 &nbsp;  动态规划 <a href="../2026/动态规划.pdf" class="textlink" target="_blank" style="color: red;">[PPT]</a> <br>
 *  第 6 章 &nbsp;  博弈论  <a href="../2026/博弈论.pdf" class="textlink" target="_blank" style="color: red;">[PPT]</a> <br>
-*  第 7 章 &nbsp;  Python 编程 <br>
+*  第 7 章 &nbsp;  Python 编程 <a href="../2026/Python编程.pdf" class="textlink" target="_blank" style="color: red;">[PPT]</a> <br>
 
 
 ### 反馈
