@@ -9,8 +9,9 @@ share: false
 
 ### 参考教材
 
-* <a href="http://faculty.bicmr.pku.edu.cn/~wenzw/optbook.html" class="textlink" target="_blank"> 文再文, 袁亚湘, 最优化方法与理论</a><br>
-* <a href="https://github.com/ZJU-LLMs/Foundations-of-LLMs" class="textlink" target="_blank"> 毛玉仁, 高云君, 大模型基础 </a><br>
+* <a href="http://faculty.bicmr.pku.edu.cn/~wenzw/optbook.html" class="textlink" target="_blank"> 文再文, 袁亚湘, 最优化方法与理论, 高等教育出版社, 2025</a><br>
+* <a href="https://llmbook-zh.github.io/" class="textlink" target="_blank"> 赵鑫, 李军毅, 周昆, 唐天一, 文继荣, 高等教育出版社, 2024</a><br>
+
 
 
 ### 课程信息 
