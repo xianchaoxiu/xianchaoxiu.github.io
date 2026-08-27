@@ -8,14 +8,10 @@ share: false
 
 
 ### 参考教材
-
 * <a href="http://faculty.bicmr.pku.edu.cn/~wenzw/optbook.html" class="textlink" target="_blank"> 文再文, 袁亚湘, 最优化方法与理论, 高等教育出版社, 2025</a><br>
 * <a href="https://llmbook-zh.github.io/" class="textlink" target="_blank"> 赵鑫, 李军毅, 周昆, 唐天一, 文继荣, 高等教育出版社, 2024</a><br>
 
-
-
 ### 课程信息 
-
 - 第一部分 &nbsp;  基础篇<br>
   -  <a href="../2025/绪论.pdf" class="textlink" target="_blank">  第 1 章 &nbsp;  绪论<br>
   -  <a href="../2025/最优化理论.pdf" class="textlink" target="_blank">  第 2 章 &nbsp;  最优化理论<br>
