@@ -6,7 +6,7 @@ share: false
 ---
 
 ### 参考教材
-* <a href="https://item.jd.com/10212569671556.html" class="textlink" target="_blank"> 盛骤, 谢式千, 潘承毅, 概率论与数理统计, 高等教育出版社, 2026 </a><br>
+* <a href="https://item.jd.com/10212569671556.html" class="textlink" target="_blank"> 盛骤, 谢式千, 潘承毅, 概率论与数理统计 (第6版), 高等教育出版社, 2026 </a><br>
 
 ### 课程信息
 * <a href="../2027/基本概念.pdf" class="textlink" target="_blank">  第 1 章 &nbsp;  基本概念<br>
