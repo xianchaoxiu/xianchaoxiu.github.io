@@ -20,6 +20,6 @@ share: false
 
 
 ### 图书反馈
-* <a href="../2026/运筹学导论.pdf" class="textlink" target="_blank"> 作者版本（推荐iPad阅读） </a> <br>
+* <a href="../2026/运筹学导论.pdf" class="textlink" target="_blank"> 作者版本 (推荐iPad阅读) </a> <br>
 * <a href="https://docs.qq.com/form/page/DTkZycUxMRUpkRHpY" class="textlink" target="_blank">如果您发现任何不妥和错误之处, 请通过此链接反馈 </a> <br>
 
