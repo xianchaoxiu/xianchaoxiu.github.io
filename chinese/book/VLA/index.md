@@ -13,14 +13,14 @@ share: false
 
 * 第 1 章 &nbsp;  绪论 <br>
 * 第 2 章 &nbsp;  大模型技术 <br> 
-* 第 3 章 &nbsp;  视觉-语言-动作模型   <span style="color:#ff0000">（感谢胡叶文）</span>  <br>
-* 第 4 章 &nbsp;  模型量化  <span style="color:#ff0000">（感谢徐力）</span>  <br>
-* 第 5 章 &nbsp;  模型剪枝  <span style="color:#ff0000">（感谢徐力）</span>  <br>
-* 第 6 章 &nbsp;  词元优化  <span style="color:#ff0000">（感谢胡叶文）</span>  <br>
-* 第 7 章 &nbsp;  监督微调   <span style="color:#ff0000">（感谢张鹏飞）</span> <br>
-* 第 8 章 &nbsp;  强化学习   <span style="color:#ff0000">（感谢张鹏飞）</span> <br>
-* 第 9 章 &nbsp;  边缘加速    <span style="color:#ff0000">（感谢张丙文）</span> <br>
-* 第 10 章 &nbsp;  应用案例   <span style="color:#ff0000">（感谢张丙文）</span>  <br>
+* 第 3 章 &nbsp;  视觉-语言-动作模型   <span style="color:#ff0000">(感谢胡叶文)</span>  <br>
+* 第 4 章 &nbsp;  模型量化  <span style="color:#ff0000">(感谢徐力)</span>  <br>
+* 第 5 章 &nbsp;  模型剪枝  <span style="color:#ff0000">(感谢徐力)</span>  <br>
+* 第 6 章 &nbsp;  词元优化  <span style="color:#ff0000">(感谢胡叶文)</span>  <br>
+* 第 7 章 &nbsp;  监督微调   <span style="color:#ff0000">(感谢张鹏飞)</span> <br>
+* 第 8 章 &nbsp;  强化学习   <span style="color:#ff0000">(感谢张鹏飞)</span> <br>
+* 第 9 章 &nbsp;  边缘加速    <span style="color:#ff0000">(感谢张丙文)</span> <br>
+* 第 10 章 &nbsp;  应用案例   <span style="color:#ff0000">(感谢张丙文)</span>  <br>
 
 
 ### 反馈
