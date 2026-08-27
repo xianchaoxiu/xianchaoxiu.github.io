@@ -6,7 +6,7 @@ share: false
 ---
 
 ### 参考教材
-* <a href="https://item.jd.com/14020941.html" class="textlink" target="_blank"> 胡运权, 郭耀煌, 运筹学教程, 清华大学出版社, 2018 </a><br>
+* <a href="https://item.jd.com/14020941.html" class="textlink" target="_blank"> 胡运权, 郭耀煌, 运筹学教程 (第5版), 清华大学出版社, 2018 </a><br>
 
 ### 课程信息
 * <a href="../2025/引言.pdf" class="textlink" target="_blank">  第 1 章 &nbsp;  引言<br>
