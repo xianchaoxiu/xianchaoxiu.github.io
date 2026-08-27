@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: My Teaching
-tags: [talks]
+tags: [teaching]
 comments: false
 share: false
 ---
