@@ -6,8 +6,8 @@ share: false
 ---
 
 ### 参考教材
-* <a href="https://item.jd.com/13536130.html" class="textlink" target="_blank"> 盛骤, 谢式千, 潘承毅, 概率论与数理统计 </a><br>
-* <a href="https://item.jd.com/12112157.html" class="textlink" target="_blank"> 陈希孺, 概率论与数理统计 </a><br>
+* <a href="https://item.jd.com/13536130.html" class="textlink" target="_blank"> 盛骤, 谢式千, 潘承毅, 概率论与数理统计, 高等教育出版社, 2019 </a><br>
+* <a href="https://item.jd.com/12112157.html" class="textlink" target="_blank"> 陈希孺, 概率论与数理统计, 中国科学技术大学出版社, 2017 </a><br>
 
 ### 课程信息
 * <a href="../2027/基本概念.pdf" class="textlink" target="_blank">  第 1 章 &nbsp;  基本概念<br>
