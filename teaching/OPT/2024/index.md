@@ -8,8 +8,8 @@ share: false
 
 
 ### 参考教材
-* <a href="http://faculty.bicmr.pku.edu.cn/~wenzw/optbook.html" class="textlink" target="_blank"> 刘浩洋, 户将, 李勇锋, 文再文, 最优化: 建模、算法与理论, 高等教育出版社, 2021 </a><br>
-* <a href="https://nndl.github.io/" class="textlink" target="_blank"> 邱锡鹏, 神经网络与深度学习, 机械工业出版社, 2020 </a><br>
+* 刘浩洋, 户将, 李勇锋, 文再文, 最优化: 建模、算法与理论, 高等教育出版社, 2021<br>
+* 邱锡鹏, 神经网络与深度学习, 机械工业出版社, 2020<br>
 
 
 ### 课程信息 
