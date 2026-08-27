@@ -1,15 +1,15 @@
 ---
 layout: page
-title: 运筹学导论
+title: 运筹学基础
 comments: false
 share: false
 ---
 
-### 简介
-运筹学是一门融合数学、系统科学与工程管理的交叉学科, 已成为支撑现代工程技术与人工智能发展的重要理论基础. 本书作为入门级简明教材, 旨在引导读者掌握运筹学的基本思想与方法.
+### 参考教材
+* <a href="https://item.jd.com/14020941.html" class="textlink" target="_blank"> 胡运权, 郭耀煌, 运筹学教程 </a><br>
+* <a href="https://item.jd.com/15450180.html" class="textlink" target="_blank"> 修贤超, 欧芳, 运筹学导论 </a><br>
 
-
-### 目录
+### 课程信息
 *  <a href="../2026/绪论.pdf" class="textlink" target="_blank"> 第 1 章 &nbsp;  绪论</a> <br>
 *  <a href="../2026/线性规划.pdf" class="textlink" target="_blank">第 2 章 &nbsp;  线性规划 </a> <br>
 *  <a href="../2026/整数规划.pdf" class="textlink" target="_blank">第 3 章 &nbsp;  整数规划  </a> <br>
