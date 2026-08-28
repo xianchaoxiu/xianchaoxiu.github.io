@@ -47,17 +47,6 @@ share: false
 
 
 
-
-
- 
- 
- 
- 
-
-
-
-
-
 ### Conference Papers
 
 * H. Chen, X. Wang, <b>X. Xiu</b>*, W. Liu, Rethinking Low-Rank Representation with Deep Semi-Smooth Newton, Pattern Recognition and Computer Vision, 2026 <a href="https://github.com/xianchaoxiu/LRRSSN-Net" class="textlink" target="_blank" style="color: red;">[Code]</a><br>
