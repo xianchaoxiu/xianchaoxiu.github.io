@@ -20,6 +20,7 @@ share: false
 
 * <b>X. Xiu</b>, J. Li, H. Chen*, W. Liu, OptGraph: Large Language Models Enhanced Evolutionary Optimization via Graph Retrieval-Augmented Generation, submitted to IEEE Transactions on Evolutionary Computation <a href="https://github.com/xianchaoxiu/OptGraph" class="textlink" target="_blank" style="color: red;">[Code]</a><br>
 * J. Liu, Y. Han, <b>X. Xiu*</b>, J. Zhang, W. Liu, Lightweight Deep Unfolding Networks with Enhanced Robustness for Infrared Small Target Detection, IEEE Transactions on Image Processing, minor revision <a href="https://github.com/xianchaoxiu/L-RPCANet" class="textlink" target="_blank" style="color: red;">[Code]</a><br>
+* J. Liu, X. Ju, <b>X. Xiu</b>*, W. Liu, Bi-Level Unsupervised Feature Selection with L2,0-Norm, Pattern Recognition, 181: 114687, 2027 <a href="https://github.com/xianchaoxiu/BLUFS" class="textlink" target="_blank" style="color: red;">[Code]</a><br>
 * <b>X. Xiu</b>, C. Huang, W. Zhang*, W. Liu, Efficient Personalized Federated PCA with Manifold Optimization for IoT Anomaly Detection, IEEE Internet of Things Journal, 13(16): 37252-37262, 2026 <a href="https://github.com/xianchaoxiu/FedEP" class="textlink" target="_blank" style="color: red;">[Code]</a><br>
 * Y. Zhu, W. Liu, <b>X. Xiu</b>*, J. Sun, Sparse Tensor CCA via Manifold Optimization for Multi-View Learning, IEEE Transactions on Circuits and Systems for Video Technology, 36(5): 6299-6313, 2026  <a href="https://github.com/zhudafa/STCCA-L" class="textlink" target="_blank" style="color: red;">[Code]</a><br>
 * J. Fan, A. Yan, <b>X. Xiu</b>*, W. Liu, Robust Sparse Phase Retrieval: Statistical Guarantee, Optimality Theory and Convergent Algorithm, Inverse Problems, 42: 045014, 2026 <a href="https://github.com/xianchaoxiu/HPR" class="textlink" target="_blank" style="color: red;">[Code]</a><br>
@@ -32,13 +33,22 @@ share: false
 * J. Liu, M. Feng, <b>X. Xiu</b>*, W. Liu, Towards Robust and Sparse Linear Discriminant Analysis for Image Classification, Pattern Recognition, 153: 110512, 2024 <a href="https://github.com/EMXlight/RSLDAplus" class="textlink" target="_blank" style="color: red;">[Code]</a><br>
 * W. Qu, H. Chen, <b>X. Xiu</b>*, W. Liu, Distributed Sparsity Constrained Optimization over the Stiefel Manifold, Neurocomputing, 602: 128267, 2024 <a href="https://github.com/wtqu/DREAM" class="textlink" target="_blank" style="color: red;">[Code]</a><br>
 * H. Chen, L. Kong, <b>X. Xiu</b>*, W. Qu, An Enhanced Regularized Clustering Method With Adaptive Spurious Connection Detection, IEEE Signal Processing Letters, 30: 1332-1336, 2023 <a href="https://github.com/xianchaoxiu/ERC" class="textlink" target="_blank" style="color: red;">[Code]</a><br>
+* Y. Li, <b>X. Xiu</b>*, W. Liu, Towards Efficient Process Monitoring Using Spatiotemporal PCA, IEEE Transactions on Circuits and Systems II: Express Briefs, 70(2): 551-555, 2023<br>
 * <b>X. Xiu</b>, Z. Miao, W. Liu*, A Sparsity-Aware Fault Diagnosis Framework Focusing on Accurate Isolation, IEEE Transactions on Industrial Informatics, 19(2): 1356-1365, 2023<br>
 * <b>X. Xiu</b>, Z. Miao, Y. Yang*, W. Liu, Deep Canonical Correlation Analysis Using Sparsity-Constrained Optimization for Nonlinear Process Monitoring, IEEE Transactions on Industrial Informatics, 18(10): 6690-6699, 2022<br>
+* Z. Miao, <b>X. Xiu</b>*, Efficient and Robust Process Monitoring Using Structured Low-Rank Representation, IEEE Transactions on Circuits and Systems II: Express Briefs, 69(8): 3530-3534, 2022<br>
+* X. Li, <b>X. Xiu</b>*, W. Liu, Z. Miao, An Efficient Newton-Based Method for Sparse Generalized Canonical Correlation Analysis, IEEE Signal Processing Letters, 29: 125-129, 2022<br>
 * <b>X. Xiu</b>, J. Fan, Y. Yang*, W. Liu, Fault Detection Using Structured Joint Sparse Nonnegative Matrix Factorization, IEEE Transactions on Instrumentation and Measurement, 70: 3513011, 2021<br>
 * <b>X. Xiu</b>, Y. Yang*, L. Kong, W. Liu, Data-Driven Process Monitoring Using Structured Joint Sparse Canonical Correlation Analysis, IEEE Transactions on Circuits and Systems II: Express Briefs, 68(1): 361-365, 2021<br>
 * <b>X. Xiu</b>, Y. Yang*, L. Kong, W. Liu, Laplacian Regularized Robust Principal Component Analysis for Process Monitoring, Journal of Process Control, 92: 212-219, 2020<br>
 * <b>X. Xiu</b>*, W. Liu, L. Li, L. Kong, Alternating Direction Method of Multipliers for Nonconvex Fused Regression Problems, Computational Statistics & Data Analysis, 136: 59-71, 2019<br>
 * <b>X. Xiu</b>*, L. Kong, Y. Li, H. Qi, Iterative Reweighted Methods for L1-Lp Minimization, Computational Optimization and Applications, 70(1): 201-219, 2018 <br> 
+
+
+
+
+
+
 
 ### Conference Papers
 
