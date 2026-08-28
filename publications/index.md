@@ -18,11 +18,8 @@ share: false
  
 ### Journal Papers
 
-
-
-
-* <b>X. Xiu</b>, J. Li, H. Chen*, W. Liu, OptGraph: Large Language Models Enhanced Evolutionary Optimization via Graph Retrieval-Augmented Generation, submitted to IEEE Transactions on Evolutionary Computation <a href="https://github.com/xianchaoxiu/OptGraph" class="textlink" target="_blank" style="color: red;">[Code]</a><br>
-* J. Liu, Y. Han, <b>X. Xiu*</b>, J. Zhang, W. Liu, Lightweight Deep Unfolding Networks with Enhanced Robustness for Infrared Small Target Detection, IEEE Transactions on Image Processing, minor revision <a href="https://github.com/xianchaoxiu/L-RPCANet" class="textlink" target="_blank" style="color: red;">[Code]</a><br>
+* <b>X. Xiu</b>, J. Li, H. Chen*, W. Liu, OptGraph: Large Language Models Enhanced Evolutionary Optimization via Graph Retrieval-Augmented Generation, submitted to IEEE Transactions on Evolutionary Computation <a href="https://arxiv.org/abs/2607.27918" class="textlink" target="_blank" style="color: red;">[Paper]</a> <a href="https://github.com/xianchaoxiu/OptGraph" class="textlink" target="_blank" style="color: red;">[Code]</a><br>
+* J. Liu, Y. Han, <b>X. Xiu*</b>, J. Zhang, W. Liu, Lightweight Deep Unfolding Networks with Enhanced Robustness for Infrared Small Target Detection, IEEE Transactions on Image Processing, minor revision <a href="https://arxiv.org/abs/2509.08205" class="textlink" target="_blank" style="color: red;">[Paper]</a> <a href="https://github.com/xianchaoxiu/L-RPCANet" class="textlink" target="_blank" style="color: red;">[Code]</a><br>
 * J. Liu, X. Ju, <b>X. Xiu</b>*, W. Liu, Bi-Level Unsupervised Feature Selection with L2,0-Norm, Pattern Recognition, 181: 114687, 2027 <a href="https://doi.org/10.1016/j.patcog.2026.114687" class="textlink" target="_blank" style="color: red;">[Paper]</a> <a href="https://github.com/xianchaoxiu/BLUFS" class="textlink" target="_blank" style="color: red;">[Code]</a><br>
 * <b>X. Xiu</b>, C. Huang, W. Zhang*, W. Liu, Efficient Personalized Federated PCA with Manifold Optimization for IoT Anomaly Detection, IEEE Internet of Things Journal, 13(16): 37252-37262, 2026 <a href="https://github.com/xianchaoxiu/FedEP" class="textlink" target="_blank" style="color: red;">[Code]</a><br>
 * Y. Zhu, W. Liu, <b>X. Xiu</b>*, J. Sun, Sparse Tensor CCA via Manifold Optimization for Multi-View Learning, IEEE Transactions on Circuits and Systems for Video Technology, 36(5): 6299-6313, 2026  <a href="https://github.com/zhudafa/STCCA-L" class="textlink" target="_blank" style="color: red;">[Code]</a><br>
