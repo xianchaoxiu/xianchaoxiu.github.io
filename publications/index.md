@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications
-title: Selected Publications
+title: Publications
 tags: [publications]
 comments: false
 share: false
@@ -10,7 +10,7 @@ share: false
 ➡️ <a href="https://arxiv.org/search/?query=xiu%2C+xianchao&searchtype=all&abstracts=show&order=-announced_date_first&size=50" class="textlink" target="_blank">Click for more preprints </a> <br>
 
 
-### Survey Papers
+### Review Papers
 
 * <b>X. Xiu*</b>, L. Xu, Y. Zhu, W. Liu, Review of Compression Methods for Vision-Language-Action Models (in Chinese), submitted to Acta Automatica Sinica  <a href="https://github.com/xianchaoxiu/COM4VLA" class="textlink" target="_blank" style="color: red;">[Code]</a> 
 
@@ -18,7 +18,7 @@ share: false
 
  * <b>X. Xiu</b>, J. Li, J. Fan*, W. Liu, <a href="https://arxiv.org/abs/2605.20849" class="textlink" target="_blank">Large Language Models for Operations Research: A Comprehensive Survey</a>, submitted to Journal of the Operations Research Society of China <a href="https://github.com/xianchaoxiu/LLM4OR" class="textlink" target="_blank" style="color: red;">[Code]</a> <br>
  
-### Journal Papers
+### Selected Papers
 
 #### 2027
 
@@ -33,6 +33,9 @@ share: false
 * J. Fan, A. Yan, <b>X. Xiu</b>*, W. Liu, <a href="https://doi.org/10.1088/1361-6420/ae5e02" class="textlink" target="_blank">Robust Sparse Phase Retrieval: Statistical Guarantee, Optimality Theory and Convergent Algorithm</a>, Inverse Problems, 42: 045014, 2026   <a href="https://github.com/xianchaoxiu/HPR" class="textlink" target="_blank" style="color: red;">[Code]</a><br>
 
 * J. Liu, J. Jin, <b>X. Xiu</b>*, J. Zhang, W. Liu, <a href="https://doi.org/10.1016/j.patcog.2025.112496" class="textlink" target="_blank">STAR-Net: An Interpretable Model-Aided Network for Remote Sensing Image Denoising</a>, Pattern Recognition, 172: 112496, 2026   <a href="https://github.com/xianchaoxiu/STAR-Net" class="textlink" target="_blank" style="color: red;">[Code]</a><br>
+
+H. Chen, X. Wang, X. Xiu*, W. Liu, Rethinking Low-Rank Representation with Deep Semi-Smooth Newton, Pattern Recognition and Computer Vision, 2026 [Code]
+
 
 #### 2025
 
@@ -70,13 +73,3 @@ share: false
 * <b>X. Xiu</b>*, W. Liu, L. Li, L. Kong, <a href="https://doi.org/10.1016/j.csda.2019.01.002" class="textlink" target="_blank">Alternating Direction Method of Multipliers for Nonconvex Fused Regression Problems</a>, Computational Statistics & Data Analysis, 136: 59-71, 2019 <br>
 
 * <b>X. Xiu</b>*, L. Kong, Y. Li, H. Qi, <a href="https://doi.org/10.1007/s10589-017-9977-7" class="textlink" target="_blank">Iterative Reweighted Methods for L1-Lp Minimization</a>, Computational Optimization and Applications, 70(1): 201-219, 2018  <br>
-
-
-### Conference Papers
-
-#### 2026
-
-* H. Chen, X. Wang, <b>X. Xiu</b>*, W. Liu, Rethinking Low-Rank Representation with Deep Semi-Smooth Newton, Pattern Recognition and Computer Vision, 2026 <a href="https://github.com/xianchaoxiu/LRRSSN-Net" class="textlink" target="_blank" style="color: red;">[Code]</a><br>
-
-* C. Huang, L. Xu, <b>X. Xiu</b>*, GAP: Gradient-guided Adaptive Pruning for Large Language Models, Pattern Recognition and Computer Vision, 2026 <a href="https://github.com/xianchaoxiu/GAP" class="textlink" target="_blank" style="color: red;">[Code]</a>
-
