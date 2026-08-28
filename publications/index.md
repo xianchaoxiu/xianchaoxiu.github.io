@@ -10,7 +10,7 @@ share: false
 ➡️ <a href="https://arxiv.org/search/?query=xiu%2C+xianchao&searchtype=all&abstracts=show&order=-announced_date_first&size=50" class="textlink" target="_blank">Click for more preprints </a> 
 
 
-### Surveys
+### Survey Papers
 
 * <b>X. Xiu*</b>, L. Xu, Y. Zhu, W. Liu, Review of Compression Methods for Vision-Language-Action Models (in Chinese), submitted to Acta Automatica Sinica  <a href="https://github.com/xianchaoxiu/COM4VLA" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
@@ -18,7 +18,7 @@ share: false
 
 * <b>X. Xiu</b>, C. He, W. Qu*, J. Sun, A Survey of Deep Unfolding Methods for Image Compressive Sensing (in Chinese), Operations Research Transactions, 2026 <a href="https://github.com/xianchaoxiu/DU4ICS" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
-### 2026
+### Journal Papers
 
 * <b>X. Xiu</b>, J. Li, H. Chen*, W. Liu, <a href="https://arxiv.org/abs/2607.27918" class="textlink" target="_blank">OptGraph: Large Language Models Enhanced Evolutionary Optimization via Graph Retrieval-Augmented Generation</a>, submitted to IEEE Transactions on Evolutionary Computation <a href="https://github.com/xianchaoxiu/OptGraph" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
@@ -28,9 +28,6 @@ share: false
 
 * J. Liu, X. Ju, <b>X. Xiu</b>*, W. Liu, <a href="https://doi.org/10.1016/j.patcog.2026.114687" class="textlink" target="_blank">Bi-Level Unsupervised Feature Selection with L2,0-norm</a>, Pattern Recognition, 181: 114687, 2027 <a href="https://github.com/xianchaoxiu/BLUFS" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
-
-### 2025
-
 * <b>X. Xiu</b>, C. Huang, P. Shang*, W. Liu, <a href="https://doi.org/10.1109/TIP.2025.3620667" class="textlink" target="_blank">Bi-Sparse Unsupervised Feature Selection</a>, IEEE Transactions on Image Processing, 34: 7407-7421, 2025 <a href="https://github.com/xianchaoxiu/BSUFS" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
 * Y. Zhu, W. Liu, <b>X. Xiu</b>*, J. Sun, <a href="https://doi.org/10.1109/TCSVT.2025.3642736" class="textlink" target="_blank">Sparse Tensor CCA via Manifold Optimization for Multi-View Learning</a>, IEEE Transactions on Circuits and Systems for Video Technology, 36(5): 6299-6313, 2026  <a href="https://github.com/zhudafa/STCCA-L" class="textlink" target="_blank" style="color: red;">[Code]</a>
@@ -39,15 +36,9 @@ share: false
 
 * J. Liu, J. Jin, <b>X. Xiu</b>*, J. Zhang, W. Liu, <a href="https://doi.org/10.1016/j.patcog.2025.112496" class="textlink" target="_blank">STAR-Net: An Interpretable Model-Aided Network for Remote Sensing Image Denoising</a>, Pattern Recognition, 172: 112496, 2026 <a href="https://github.com/xianchaoxiu/STAR-Net" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
-
-### 2024
-
 * <b>X. Xiu</b>, L. Pan, Y. Yang*, W. Liu, <a href="https://doi.org/10.1109/TNNLS.2022.3201881" class="textlink" target="_blank">Efficient and Fast Joint Sparse Constrained Canonical Correlation Analysis for Fault Detection</a>, IEEE Transactions on Neural Networks and Learning Systems, 35(3): 4153-4163, 2024 <a href="https://github.com/xianchaoxiu/JSCCCA" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
 * J. Liu, M. Feng, <b>X. Xiu</b>*, W. Liu, <a href="https://doi.org/10.1016/j.patcog.2024.110512" class="textlink" target="_blank">Towards Robust and Sparse Linear Discriminant Analysis for Image Classification</a>, Pattern Recognition, 153: 110512, 2024 <a href="https://github.com/EMXlight/RSLDAplus" class="textlink" target="_blank" style="color: red;">[Code]</a>
-
-
-### 2018-2023
 
 * <b>X. Xiu</b>, Z. Miao, W. Liu*, <a href="https://doi.org/10.1109/TII.2022.3180070" class="textlink" target="_blank">A Sparsity-Aware Fault Diagnosis Framework Focusing on Accurate Isolation</a>, IEEE Transactions on Industrial Informatics, 19(2): 1356-1365, 2023
   
@@ -62,3 +53,5 @@ share: false
 * <b>X. Xiu</b>*, W. Liu, L. Li, L. Kong, <a href="https://doi.org/10.1016/j.csda.2019.01.002" class="textlink" target="_blank">Alternating Direction Method of Multipliers for Nonconvex Fused Regression Problems</a>, Computational Statistics & Data Analysis, 136: 59-71, 2019
   
 * <b>X. Xiu</b>*, L. Kong, Y. Li, H. Qi, <a href="https://doi.org/10.1007/s10589-017-9977-7" class="textlink" target="_blank">Iterative Reweighted Methods for L1-Lp Minimization</a>, Computational Optimization and Applications, 70(1): 201-219, 2018
+
+### Conference Papers
