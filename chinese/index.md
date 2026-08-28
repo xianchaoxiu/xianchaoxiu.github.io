@@ -7,7 +7,7 @@ comments: false
 share: false
 ---
 
-➡️ <a href="https://xianchaoxiu.github.io/chinese/reading/" class="textlink" target="_blank"> 每年招收硕士研究生 2 名 </a><br><br>
+➡️ <a href="https://xianchaoxiu.github.io/chinese/reading/" class="textlink" target="_blank"> 每年招收硕士研究生 2 名 </a><br>
 
 ### 工作经历
 * 2024.04-至今, 上海大学, 机电工程与自动化学院, 副教授 <br>
