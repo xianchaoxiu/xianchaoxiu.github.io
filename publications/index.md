@@ -36,7 +36,7 @@ share: false
 
 * H. Chen, X. Wang, <b>X. Xiu</b>*, W. Liu, Rethinking Low-Rank Representation with Deep Semi-Smooth Newton, Pattern Recognition and Computer Vision, 2026 <a href="https://github.com/xianchaoxiu/LRRSSN-Net" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
-* C. Huang, L. Xu, <b>X. Xiu</b>*, GAP: Gradient-guided Adaptive Pruning for Large Language Models, Pattern Recognition and Computer Vision, 2026 <a href="https://github.com/xianchaoxiu/GAP" class="textlink" target="_blank" style="color: red;">[Code]</a>
+* C. Huang, L. Xu, <b>X. Xiu</b>*, GAP: Gradient-Guided Adaptive Pruning for Large Language Models, Pattern Recognition and Computer Vision, 2026 <a href="https://github.com/xianchaoxiu/GAP" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
 #### 2025
 
