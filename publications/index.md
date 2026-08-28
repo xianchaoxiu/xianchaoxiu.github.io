@@ -41,12 +41,9 @@ share: false
 * <b>X. Xiu</b>, J. Fan, Y. Yang*, W. Liu, Fault Detection Using Structured Joint Sparse Nonnegative Matrix Factorization, IEEE Transactions on Instrumentation and Measurement, 70: 3513011, 2021<br>
 * <b>X. Xiu</b>, Y. Yang*, L. Kong, W. Liu, Data-Driven Process Monitoring Using Structured Joint Sparse Canonical Correlation Analysis, IEEE Transactions on Circuits and Systems II: Express Briefs, 68(1): 361-365, 2021<br>
 * <b>X. Xiu</b>, Y. Yang*, L. Kong, W. Liu, Laplacian Regularized Robust Principal Component Analysis for Process Monitoring, Journal of Process Control, 92: 212-219, 2020<br>
+* <b>X. Xiu</b>, Y. Yang*, L. Kong, W. Liu, tSSNALM: A Fast Two-Stage Semi-Smooth Newton Augmented Lagrangian Method for Sparse CCA, Applied Mathematics and Computation, 383: 125272, 2020<br>
 * <b>X. Xiu</b>*, W. Liu, L. Li, L. Kong, Alternating Direction Method of Multipliers for Nonconvex Fused Regression Problems, Computational Statistics & Data Analysis, 136: 59-71, 2019<br>
 * <b>X. Xiu</b>*, L. Kong, Y. Li, H. Qi, Iterative Reweighted Methods for L1-Lp Minimization, Computational Optimization and Applications, 70(1): 201-219, 2018 <br> 
-
-
-
-
 
 
 
