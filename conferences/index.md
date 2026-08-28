@@ -8,16 +8,16 @@ share: false
 ---
 
 ### Organized Conferences 
+
 * The 1st International Conference on Statistical Optimization with Applications <br>
 TBD <br>
 
 
 ### Selected Presentations
-* Solving Low-Rank Representation Through Deep Newton Networks<br>
-Operations Research Society of China <br>
 
-* <a href="../conferences/2026-PKU.pdf" class="textlink" target="_blank"> When Optimization Meets Large Language Models </a><br>
-Peking University <br>
+* Solving Low-Rank Representation Through Deep Newton Networks, Operations Research Society of China, 2026 
+
+* <a href="../conferences/2026-PKU.pdf" class="textlink" target="_blank"> When Optimization Meets Large Language Models, Peking University, 2026
 
 
 ### 2025
