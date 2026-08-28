@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: My Teaching
+title: Teaching
 tags: [teaching]
 comments: false
 share: false
