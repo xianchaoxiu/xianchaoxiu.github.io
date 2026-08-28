@@ -13,15 +13,15 @@ share: false
 ### 目录
 * 第一部分 &nbsp; 基础篇 <br>
   - 第 1 章 &nbsp;  绪论 <br>
-  - 第 2 章 &nbsp;  基于稀疏主成分分析的特征选择 <a href="https://doi.org/10.1109/TIP.2025.3620667" class="textlink" target="_blank" style="color: red;">[Paper]</a>  <a href="https://github.com/xianchaoxiu/BSUFS" class="textlink" target="_blank" style="color: red;">[Code]</a> <br>
-  - 第 3 章 &nbsp;  基于稀疏联邦主成分分析的异常检测 <a href="https://doi.org/10.1109/JIOT.2026.3701337" class="textlink" target="_blank" style="color: red;">[Paper]</a> <a href="https://github.com/xianchaoxiu/FedEP" class="textlink" target="_blank" style="color: red;">[Code]</a> <br>
-  - 第 4 章 &nbsp;  基于稀疏正交非负矩阵分解的故障诊断 <a href="https://doi.org/10.1109/TIM.2023.3241990" class="textlink" target="_blank" style="color: red;">[Paper]</a> <a href="https://github.com/xianchaoxiu/SJSONMF" class="textlink" target="_blank" style="color: red;">[Code]</a>  <br> 
-  - 第 5 章 &nbsp;  基于稀疏张量相关分析的多视角学习 <a href="https://doi.org/10.1109/TCSVT.2025.3642736" class="textlink" target="_blank" style="color: red;">[Paper]</a> <a href="https://github.com/zhudafa/STCCA-L" class="textlink" target="_blank" style="color: red;">[Code]</a> <br>
-  - 第 6 章 &nbsp;  基于稀疏低秩对比学习的特征选择 <a href="https://link.cnki.net/urlid/31.1732.O1.20251222.1101.002" class="textlink" target="_blank" style="color: red;">[Paper]</a>  <a href="https://github.com/xianchaoxiu/DSCOFS-CL" class="textlink" target="_blank" style="color: red;">[Code]</a> <br><br>
+  - 第 2 章 &nbsp;  基于稀疏主成分分析的特征选择 <a href="https://github.com/xianchaoxiu/BSUFS" class="textlink" target="_blank" style="color: red;">[Code]</a> <br>
+  - 第 3 章 &nbsp;  基于稀疏联邦主成分分析的异常检测 <a href="https://github.com/xianchaoxiu/FedEP" class="textlink" target="_blank" style="color: red;">[Code]</a> <br>
+  - 第 4 章 &nbsp;  基于稀疏正交非负矩阵分解的故障诊断 <a href="https://github.com/xianchaoxiu/SJSONMF" class="textlink" target="_blank" style="color: red;">[Code]</a>  <br> 
+  - 第 5 章 &nbsp;  基于稀疏张量相关分析的多视角学习  <a href="https://github.com/zhudafa/STCCA-L" class="textlink" target="_blank" style="color: red;">[Code]</a> <br>
+  - 第 6 章 &nbsp;  基于稀疏低秩对比学习的特征选择  <a href="https://github.com/xianchaoxiu/DSCOFS-CL" class="textlink" target="_blank" style="color: red;">[Code]</a> <br><br>
 
 
 * 第二部分 &nbsp; 进阶篇 <br>
-  - 第 7 章 &nbsp;  基于深度张量低秩表示的图像去噪 <a href="https://doi.org/10.1016/j.patcog.2025.112496" class="textlink" target="_blank" style="color: red;">[Paper]</a>  <a href="https://github.com/xianchaoxiu/STAR-Net" class="textlink" target="_blank" style="color: red;">[Code]</a> <br>
+  - 第 7 章 &nbsp;  基于深度张量低秩表示的图像去噪 <a href="https://github.com/xianchaoxiu/STAR-Net" class="textlink" target="_blank" style="color: red;">[Code]</a> <br>
   - 第 8 章 &nbsp;  基于深度自适应低秩稀疏的目标检测 <a href="https://github.com/xianchaoxiu/L-RPCANet" class="textlink" target="_blank" style="color: red;">[Code]</a> <br>
   - 第 9 章 &nbsp;  基于注意力引导深度支持矩阵机的图像分类 <a href="https://github.com/xianchaoxiu/AD-SMM" class="textlink" target="_blank" style="color: red;">[Code]</a>  <br>
   - 第 10 章 &nbsp;   基于自适应稀疏的大语言模型剪枝 <a href="https://github.com/xianchaoxiu/GAP" class="textlink" target="_blank" style="color: red;">[Code]</a>  <br><br>
