@@ -22,7 +22,7 @@ share: false
 
 * <b>X. Xiu</b>, J. Li, H. Chen*, W. Liu, OptGraph: Large Language Models Enhanced Evolutionary Optimization via Graph Retrieval-Augmented Generation, submitted to IEEE Transactions on Evolutionary Computation <a href="https://arxiv.org/abs/2607.27918" class="textlink" target="_blank" style="color: red;">[Paper]</a> <a href="https://github.com/xianchaoxiu/OptGraph" class="textlink" target="_blank" style="color: red;">[Code]</a><br>
 
-* J. Liu, Y. Han, <b>X. Xiu*</b>, J. Zhang, W. Liu, Lightweight Deep Unfolding Networks with Enhanced Robustness for Infrared Small Target Detection, IEEE Transactions on Image Processing, minor revision <a href="https://arxiv.org/abs/2509.08205" class="textlink" target="_blank" style="color: red;">[Paper]</a> <a href="https://github.com/xianchaoxiu/L-RPCANet" class="textlink" target="_blank" style="color: red;">[Code]</a><br>
+* J. Liu, Y. Han, <b>X. Xiu*</b>, J. Zhang, W. Liu, <a href="https://arxiv.org/abs/2509.08205" class="textlink" target="_blank">Lightweight Deep Unfolding Networks with Enhanced Robustness for Infrared Small Target Detection</a>, IEEE Transactions on Image Processing, minor revision <a href="https://github.com/xianchaoxiu/L-RPCANet" class="textlink" target="_blank" style="color: red;">[Code]</a><br>
 
 * J. Liu, X. Ju, <b>X. Xiu</b>*, W. Liu, Bi-Level Unsupervised Feature Selection with L2,0-Norm, Pattern Recognition, 181: 114687, 2027 <a href="https://doi.org/10.1016/j.patcog.2026.114687" class="textlink" target="_blank" style="color: red;">[Paper]</a> <a href="https://github.com/xianchaoxiu/BLUFS" class="textlink" target="_blank" style="color: red;">[Code]</a><br>
 
