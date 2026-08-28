@@ -12,7 +12,7 @@ share: false
 TBD <br>
 
 
-### 2026
+### Selected Presentations
 * Solving Low-Rank Representation Through Deep Newton Networks<br>
 Operations Research Society of China <br>
 
