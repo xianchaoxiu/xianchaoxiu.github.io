@@ -34,9 +34,9 @@ share: false
 
 * J. Liu, J. Jin, <b>X. Xiu</b>*, J. Zhang, W. Liu, <a href="https://doi.org/10.1016/j.patcog.2025.112496" class="textlink" target="_blank">STAR-Net: An Interpretable Model-Aided Network for Remote Sensing Image Denoising</a>, Pattern Recognition, 172: 112496, 2026 <a href="https://github.com/xianchaoxiu/STAR-Net" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
-* H. Chen, X. Wang, <b>X. Xiu</b>*, W. Liu, Rethinking Low-Rank Representation with Deep Semi-Smooth Newton, Pattern Recognition and Computer Vision, 2026 <a href="https://github.com/xianchaoxiu/LRRSSN-Net" class="textlink" target="_blank" style="color: red;">[Code]</a>
+* H. Chen, X. Wang, <b>X. Xiu</b>*, W. Liu, Rethinking Low-Rank Representation with Deep Semi-Smooth Newton, PRCV, 2026 <a href="https://github.com/xianchaoxiu/LRRSSN-Net" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
-* C. Huang, L. Xu, <b>X. Xiu</b>*, GAP: Gradient-Guided Adaptive Pruning for Large Language Models, Pattern Recognition and Computer Vision, 2026 <a href="https://github.com/xianchaoxiu/GAP" class="textlink" target="_blank" style="color: red;">[Code]</a>
+* C. Huang, L. Xu, <b>X. Xiu</b>*, GAP: Gradient-Guided Adaptive Pruning for Large Language Models, PRCV, 2026 <a href="https://github.com/xianchaoxiu/GAP" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
 #### 2025
 
