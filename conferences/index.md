@@ -9,8 +9,7 @@ share: false
 
 ### Organized Conferences 
 
-* The 1st International Conference on Statistical Optimization with Applications <br>
-TBD <br>
+* TBD <br>
 
 
 ### Selected Presentations
