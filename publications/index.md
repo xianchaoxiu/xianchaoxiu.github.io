@@ -28,6 +28,7 @@ share: false
 
 * J. Liu, X. Ju, <b>X. Xiu</b>*, W. Liu, <a href="https://doi.org/10.1016/j.patcog.2026.114687" class="textlink" target="_blank">Bi-Level Unsupervised Feature Selection with L2,0-norm</a>, Pattern Recognition, 181: 114687, 2027 <a href="https://github.com/xianchaoxiu/BLUFS" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
+
 ### 2025
 
 * <b>X. Xiu</b>, C. Huang, P. Shang*, W. Liu, <a href="https://doi.org/10.1109/TIP.2025.3620667" class="textlink" target="_blank">Bi-Sparse Unsupervised Feature Selection</a>, IEEE Transactions on Image Processing, 34: 7407-7421, 2025 <a href="https://github.com/xianchaoxiu/BSUFS" class="textlink" target="_blank" style="color: red;">[Code]</a>
