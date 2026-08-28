@@ -32,7 +32,7 @@ share: false
 
 * J. Fan, A. Yan, <b>X. Xiu</b>*, W. Liu, <a href="https://doi.org/10.1088/1361-6420/ae5e02" class="textlink" target="_blank">Robust Sparse Phase Retrieval: Statistical Guarantee, Optimality Theory and Convergent Algorithm</a>, Inverse Problems, 42: 045014, 2026   <a href="https://github.com/xianchaoxiu/HPR" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
-* J. Liu, J. Jin, <b>X. Xiu</b>*, J. Zhang, W. Liu, <a href="https://doi.org/10.1016/j.patcog.2025.112496" class="textlink" target="_blank">STAR-Net: An Interpretable Model-Aided Network for Remote Sensing Image Denoising</a>, Pattern Recognition, 172: 112496, 2026   <a href="https://github.com/xianchaoxiu/STAR-Net" class="textlink" target="_blank" style="color: red;">[Code]</a>
+* J. Liu, J. Jin, <b>X. Xiu</b>*, J. Zhang, W. Liu, <a href="https://doi.org/10.1016/j.patcog.2025.112496" class="textlink" target="_blank">STAR-Net: An Interpretable Model-Aided Network for Remote Sensing Image Denoising</a>, Pattern Recognition, 172: 112496, 2026 <a href="https://github.com/xianchaoxiu/STAR-Net" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
 * H. Chen, X. Wang, <b>X. Xiu</b>*, W. Liu, Rethinking Low-Rank Representation with Deep Semi-Smooth Newton, Pattern Recognition and Computer Vision, 2026 <a href="https://github.com/xianchaoxiu/LRRSSN-Net" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
