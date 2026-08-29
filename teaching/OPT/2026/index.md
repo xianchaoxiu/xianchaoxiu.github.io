@@ -17,21 +17,24 @@ share: false
 ### 课程信息 
 
 - 第一部分 &nbsp;  最优化基础 <br>
-  -  <a href="../2026/绪论.pdf" class="textlink" target="_blank">  绪论 <br>
-  -  <a href="../2026/最优化理论.pdf" class="textlink" target="_blank">  最优化理论 <br>
-  -  <a href="../2026/无约束优化算法.pdf" class="textlink" target="_blank">  无约束优化算法 <br>
-  -  <a href="../2026/约束优化算法.pdf" class="textlink" target="_blank">  约束优化算法 <br>
-  -  <a href="../2026/复合优化算法.pdf" class="textlink" target="_blank">  复合优化算法 <br><br>
-
-
-
+  -  <a href="../2026/绪论.pdf" class="textlink" target="_blank"> 绪论 <br>
+  -  <a href="../2026/最优化理论.pdf" class="textlink" target="_blank"> 最优化理论 <br>
+  -  <a href="../2026/无约束优化算法.pdf" class="textlink" target="_blank"> 无约束优化算法 <br>
+  -  <a href="../2026/约束优化算法.pdf" class="textlink" target="_blank"> 约束优化算法 <br>
+  -  <a href="../2026/复合优化算法.pdf" class="textlink" target="_blank"> 复合优化算法 <br><br>
 
 - 第二部分 &nbsp;  前沿进展 <br>
   - <a href="https://github.com/xianchaoxiu/xianchaoxiu.github.io/blob/main/conferences/2025-POLYU.pdf" class="textlink" target="_blank"> 基于稀疏主成分分析的特征选择 <br>
   - <a href="https://github.com/xianchaoxiu/xianchaoxiu.github.io/blob/main/conferences/2025-MOS.pdf" class="textlink" target="_blank"> 基于低秩表示的遥感图像处理 <br>
   - <a href="https://github.com/xianchaoxiu/xianchaoxiu.github.io/blob/main/conferences/2026-BDAI.pdf" class="textlink" target="_blank"> 基于二阶优化的深度展开方法 <br>
-  - <a href="https://github.com/xianchaoxiu/xianchaoxiu.github.io/blob/main/conferences/2026-PKU.pdf" class="textlink" target="_blank">基于大语言模型的智能决策 <br> <br>
+  - <a href="https://github.com/xianchaoxiu/xianchaoxiu.github.io/blob/main/conferences/2026-PKU.pdf" class="textlink" target="_blank"> 基于大语言模型的智能决策 <br> <br>
 
+- 第三部分 &nbsp;  具身智能大模型 <br>
+  - VLA模型与词元优化 <br>
+  - 模型量化与模型剪枝 <br>
+  - 监督微调与强化学习 <br>
+  - 边缘加速与应用案例 <br> <br>
+ 
 
-- 第三部分 &nbsp;  学生报告 <br>
+- 第四部分 &nbsp;  学生报告 <br>
   - TBD
