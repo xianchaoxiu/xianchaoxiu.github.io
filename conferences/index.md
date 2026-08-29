@@ -15,7 +15,11 @@ share: false
 ### Selected Presentations
 
 * <a href="../conferences/2026-PKU.pdf" class="textlink" target="_blank"> When Optimization Meets Large Language Models</a><br>
-Peking University, 2026
+Peking University, 2026 
+
+* <a href="../conferences/2026-BDAI.pdf" class="textlink" target="_blank"> Newton-Driven Deep Unrolling Networks: From CS to LRR </a><br>
+CSIAM Big Data and Artificial Intelligence, July 17-19, 2026
+
 
 * <a href="../conferences/2025-MOS.pdf" class="textlink" target="_blank"> Learning to Optimize: Theory, Algorithms, and Applications</a><br>
 Mathematical Optimization Society, 2025
