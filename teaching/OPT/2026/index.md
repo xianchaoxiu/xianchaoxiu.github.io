@@ -25,7 +25,7 @@ share: false
 
 
 - 第二部分 &nbsp;  前沿进展 <br>
-  - 基于稀疏主成分分析的特征选择 <br>
+  - <a href="../conferences/2025-POLYU.pdf" class="textlink" target="_blank"> 基于稀疏主成分分析的特征选择 <br>
   - 基于低秩表示的遥感图像处理 <br>
   - 基于二阶优化的深度展开方法 <br>
   - 基于大语言模型的智能决策 <br> <br>
