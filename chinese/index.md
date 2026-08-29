@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /chinese/
-title: 个人简介
+title: 简介
 tags: [chinese]
 comments: false
 share: false
