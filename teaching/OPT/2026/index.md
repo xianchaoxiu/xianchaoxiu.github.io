@@ -18,10 +18,10 @@ share: false
 
 - 第一部分 &nbsp;  最优化基础 <br>
   -  <a href="../2026/绪论.pdf" class="textlink" target="_blank">  绪论 <br>
-  -  最优化理论 <br>
-  -  无约束优化算法 <br>
-  -  约束优化算法 <br>
-  -  复合优化算法 <br><br>
+  -  <a href="../2026/最优化理论.pdf" class="textlink" target="_blank">  最优化理论 <br>
+  -  <a href="../2026/无约束优化算法.pdf" class="textlink" target="_blank">  无约束优化算法 <br>
+  -  <a href="../2026/约束优化算法.pdf" class="textlink" target="_blank">  约束优化算法 <br>
+  -  <a href="../2026/复合优化算法.pdf" class="textlink" target="_blank">  复合优化算法 <br><br>
 
 
 - 第二部分 &nbsp;  前沿进展 <br>
