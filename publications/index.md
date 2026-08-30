@@ -21,6 +21,14 @@ share: false
 * J. Liu, Y. Han, <b>X. Xiu*</b>, J. Zhang, W. Liu, <a href="https://arxiv.org/abs/2509.08205" class="textlink" target="_blank">Lightweight Deep Unfolding Networks with Enhanced Robustness for Infrared Small Target Detection</a>, IEEE Transactions on Image Processing, minor revision <a href="https://github.com/xianchaoxiu/L-RPCANet" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
 
+### Review Papers
+
+* <b>X. Xiu*</b>, L. Xu, Y. Zhu, W. Liu, Review of Compression Methods for Vision-Language-Action Models (in Chinese), submitted to Acta Automatica Sinica  <a href="https://github.com/xianchaoxiu/COM4VLA" class="textlink" target="_blank" style="color: red;">[Code]</a> 
+
+* <b>X. Xiu*</b>, C. Shen, Y. Zhu, W. Liu, A Survey of Large Language Models for Vehicle Routing Problems (in Chinese), submitted to Control Theory & Applications <a href="https://github.com/xianchaoxiu/LLM4VRP" class="textlink" target="_blank" style="color: red;">[Code]</a>
+
+* <b>X. Xiu</b>, C. He, W. Qu*, J. Sun, A Survey of Deep Unfolding Methods for Image Compressive Sensing (in Chinese), Operations Research Transactions, major revision <a href="https://github.com/xianchaoxiu/DU4ICS" class="textlink" target="_blank" style="color: red;">[Code]</a> 
+
 
 
 
@@ -81,12 +89,4 @@ share: false
 
 * <b>X. Xiu</b>*, L. Kong, Y. Li, H. Qi, <a href="https://doi.org/10.1007/s10589-017-9977-7" class="textlink" target="_blank">Iterative Reweighted Methods for L1-Lp Minimization</a>, Computational Optimization and Applications, 70(1): 201-219, 2018
 
-
-### Review Papers
-
-* <b>X. Xiu*</b>, L. Xu, Y. Zhu, W. Liu, Review of Compression Methods for Vision-Language-Action Models (in Chinese), submitted to Acta Automatica Sinica  <a href="https://github.com/xianchaoxiu/COM4VLA" class="textlink" target="_blank" style="color: red;">[Code]</a> 
-
-* <b>X. Xiu*</b>, C. Shen, Y. Zhu, W. Liu, A Survey of Large Language Models for Vehicle Routing Problems (in Chinese), submitted to Control Theory & Applications <a href="https://github.com/xianchaoxiu/LLM4VRP" class="textlink" target="_blank" style="color: red;">[Code]</a>
-
-* <b>X. Xiu</b>, C. He, W. Qu*, J. Sun, A Survey of Deep Unfolding Methods for Image Compressive Sensing (in Chinese), Operations Research Transactions, major revision <a href="https://github.com/xianchaoxiu/DU4ICS" class="textlink" target="_blank" style="color: red;">[Code]</a> 
 
