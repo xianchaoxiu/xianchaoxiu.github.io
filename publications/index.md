@@ -54,6 +54,8 @@ share: false
 
 * <b>X. Xiu</b>, C. Huang, P. Shang*, W. Liu, <a href="https://doi.org/10.1109/TIP.2025.3620667" class="textlink" target="_blank">Bi-Sparse Unsupervised Feature Selection</a>, IEEE Transactions on Image Processing, 34: 7407-7421, 2025  <a href="https://github.com/xianchaoxiu/BSUFS" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
+* J. Liu, M. Feng, <b>X. Xiu</b>*, W. Liu, X. Zeng, <a href="https://doi.org/10.1109/TETCI.2024.3403912" class="textlink" target="_blank">Efficient and Robust Sparse Linear Discriminant Analysis for Data Classification</a>, IEEE Transactions on Emerging Topics in Computational Intelligence, 9(1): 617-629, 2025  <a href="https://github.com/EMXlight/ERSLDA" class="textlink" target="_blank" style="color: red;">[Code]</a>
+
 * J. Liu, M. Feng, <b>X. Xiu</b>*, X. Zeng, J. Zhang, <a href="https://doi.org/10.1109/TIM.2025.3553235" class="textlink" target="_blank">Tensor Low-Rank Approximation via Plug-and-Play Priors for Anomaly Detection in Remote Sensing Images</a>, IEEE Transactions on Instrumentation and Measurement, 74: 5503014, 2025  <a href="https://github.com/xianchaoxiu/PnP-TLRA" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
 * H. Chen, L. Liu, <b>X. Xiu</b>*, W. Liu, <a href="https://doi.org/10.1109/JSTARS.2025.3602505" class="textlink" target="_blank">Adaptive Multiorder Graph Regularized NMF With Dual Sparsity for Hyperspectral Unmixing</a>, IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 18: 22121-22136, 2025 <a href="https://github.com/xianchaoxiu/MOGNMF" class="textlink" target="_blank" style="color: red;">[Code]</a>
