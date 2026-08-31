@@ -12,10 +12,6 @@ share: false
 
 * <b>X. Xiu</b>, J. Li, H. Chen*, W. Liu, <a href="https://arxiv.org/pdf/2607.27918" class="textlink" target="_blank">OptGraph: Large Language Models Enhanced Evolutionary Optimization Via Graph Retrieval-Augmented Generation</a>, submitted to IEEE Transactions on Evolutionary Computation <a href="https://github.com/xianchaoxiu/OptGraph" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
-* <b>X. Xiu</b>, J. Li, J. Fan*, W. Liu, <a href="https://arxiv.org/abs/2605.20849" class="textlink" target="_blank">Large Language Models for Operations Research: A Comprehensive Survey</a>, submitted to Journal of the Operations Research Society of China <a href="https://github.com/xianchaoxiu/LLM4OR" class="textlink" target="_blank" style="color: red;">[Code]</a>
-
-* H. Chen, X. Wang, <b>X. Xiu*</b>, W. Liu, <a href="https://arxiv.org/abs/2510.20077" class="textlink" target="_blank">Data-Adaptive Transformed Bilateral Tensor Low-Rank Representation for Clustering</a>, submitted to Signal Processing <a href="https://github.com/xianchaoxiu/TBTLRR" class="textlink" target="_blank" style="color: red;">[Code]</a>
-
 * <b>X. Xiu</b>, S. Sun, X. Li*, J. Tao, <a href="https://arxiv.org/pdf/2603.00491" class="textlink" target="_blank">Heaviside Low-Rank Support Matrix Machine</a>, Journal of the Operations Research Society of China, major revision <a href="https://github.com/xianchaoxiu/HL-SMM" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
 * J. Liu, Y. Han, <b>X. Xiu*</b>, J. Zhang, W. Liu, <a href="https://arxiv.org/abs/2509.08205" class="textlink" target="_blank">Lightweight Deep Unfolding Networks with Enhanced Robustness for Infrared Small Target Detection</a>, IEEE Transactions on Image Processing, minor revision <a href="https://github.com/xianchaoxiu/L-RPCANet" class="textlink" target="_blank" style="color: red;">[Code]</a>
