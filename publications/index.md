@@ -19,7 +19,11 @@ share: false
 
 ### Review Papers
 
-* <b>X. Xiu</b>, C. He, W. Qu*, J. Sun, A Survey of Deep Unfolding Methods for Image Compressive Sensing (in Chinese), Operations Research Transactions, 2026 <a href="https://github.com/xianchaoxiu/DU4ICS" class="textlink" target="_blank" style="color: red;">[Code]</a> 
+* <b>X. Xiu*</b>, L. Xu, Y. Zhu, W. Liu, Review of Compression Methods for Vision-Language-Action Models (in Chinese), submitted to Acta Automatica Sinica  <a href="https://github.com/xianchaoxiu/COM4VLA" class="textlink" target="_blank" style="color: red;">[Code]</a> 
+
+* <b>X. Xiu</b>, J. Li, J. Fan*, W. Liu, Large Language Models for Operations Research: A Comprehensive Survey, submitted to Journal of the Operations Research Society of China <a href="https://github.com/xianchaoxiu/LLM4OR" class="textlink" target="_blank" style="color: red;">[Code]</a>
+
+* <b>X. Xiu</b>, C. He, W. Qu*, J. Sun, A Survey of Deep Unfolding Methods for Image Compressive Sensing (in Chinese), submitted to Operations Research Transactions  <a href="https://github.com/xianchaoxiu/DU4ICS" class="textlink" target="_blank" style="color: red;">[Code]</a> 
 
 
 ### Selected Papers
