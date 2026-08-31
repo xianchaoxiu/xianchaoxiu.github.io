@@ -95,7 +95,9 @@ share: false
 教育部对硕士毕业论文要求越来越高, 请务必认真对待. <br> <br>
 
 
-祝大家研究生阶段开开心心, 学有所成. 最后推荐两本读物, 希望能为大家后续的科研打下基础
+希望各位同学明晰读研目标, 理清自身诉求以及期待导师给予的支持.
+祝大家研究生阶段开开心心, 学有所成. 
+最后推荐两本读物，期望为大家后续科研打下坚实基础
 *  <a href="https://nndl.ai/nndl-v2/" class="textlink" target="_blank"> 神经网络与深度学习 </a> <br>
 *  <a href="https://xianchaoxiu.github.io/chinese/book/OPT/" class="textlink" target="_blank"> 黎曼流形稀疏优化 </a> <br><br>
 
