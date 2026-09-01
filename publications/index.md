@@ -38,9 +38,9 @@ share: false
 
 * <b>X. Xiu</b>, C. Huang, W. Zhang*, W. Liu, <a href="https://doi.org/10.1109/JIOT.2026.3701337" class="textlink" target="_blank">Efficient Personalized Federated PCA with Manifold Optimization for IoT Anomaly Detection</a>, IEEE Internet of Things Journal, 13(16): 37252-37262, 2026 <a href="https://github.com/xianchaoxiu/FedEP" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
-* Y. Zhu, W. Liu, <b>X. Xiu</b>*, J. Sun, <a href="https://doi.org/10.1109/TCSVT.2025.3642736" class="textlink" target="_blank">Sparse Tensor CCA via Manifold Optimization for Multi-View Learning</a>, IEEE Transactions on Circuits and Systems for Video Technology, 36(5): 6299-6313, 2026   <a href="https://github.com/zhudafa/STCCA-L" class="textlink" target="_blank" style="color: red;">[Code]</a>
-
 * J. Fan, A. Yan, <b>X. Xiu</b>*, W. Liu, <a href="https://doi.org/10.1088/1361-6420/ae5e02" class="textlink" target="_blank">Robust Sparse Phase Retrieval: Statistical Guarantee, Optimality Theory and Convergent Algorithm</a>, Inverse Problems, 42: 045014, 2026   <a href="https://github.com/xianchaoxiu/HPR" class="textlink" target="_blank" style="color: red;">[Code]</a>
+
+* Y. Zhu, W. Liu, <b>X. Xiu</b>*, J. Sun, <a href="https://doi.org/10.1109/TCSVT.2025.3642736" class="textlink" target="_blank">Sparse Tensor CCA via Manifold Optimization for Multi-View Learning</a>, IEEE Transactions on Circuits and Systems for Video Technology, 36(5): 6299-6313, 2026   <a href="https://github.com/zhudafa/STCCA-L" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
 * J. Liu, J. Jin, <b>X. Xiu</b>*, J. Zhang, W. Liu, <a href="https://doi.org/10.1016/j.patcog.2025.112496" class="textlink" target="_blank">STAR-Net: An Interpretable Model-Aided Network for Remote Sensing Image Denoising</a>, Pattern Recognition, 172: 112496, 2026 <a href="https://github.com/xianchaoxiu/STAR-Net" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
