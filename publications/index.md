@@ -10,8 +10,6 @@ share: false
 
 ### Preprints
 
-* <b>X. Xiu*</b>, L. Xu, Y. Zhu, W. Liu, Review of Compression Methods for Vision-Language-Action Models (in Chinese), submitted to Acta Automatica Sinica  <a href="https://github.com/xianchaoxiu/COM4VLA" class="textlink" target="_blank" style="color: red;">[Code]</a>
-  
 * <b>X. Xiu</b>, J. Li, H. Chen*, W. Liu, <a href="https://arxiv.org/pdf/2607.27918" class="textlink" target="_blank">OptGraph: Large Language Models Enhanced Evolutionary Optimization Via Graph Retrieval-Augmented Generation</a>, submitted to IEEE Transactions on Evolutionary Computation <a href="https://github.com/xianchaoxiu/OptGraph" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
 * <b>X. Xiu</b>, J. Li, J. Fan*, W. Liu, <a href="https://arxiv.org/abs/2605.20849" class="textlink" target="_blank">Large Language Models for Operations Research: A Comprehensive Survey</a>, submitted to Journal of the Operations Research Society of China <a href="https://github.com/xianchaoxiu/LLM4OR" class="textlink" target="_blank" style="color: red;">[Code]</a>
@@ -22,6 +20,8 @@ share: false
 
 
 ### Review Papers
+
+* <b>修贤超</b>, 徐力, 朱艳娇, 刘万泉*, 面向视觉-语言-动作模型的压缩方法综述, 自动化学报  <a href="https://github.com/xianchaoxiu/COM4VLA" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
 * <b>修贤超</b>, 何昶桦, 曲文涛*, 孙军, 图像压缩感知的深度展开求解方法综述, 运筹学学报  <a href="https://github.com/xianchaoxiu/DU4ICS" class="textlink" target="_blank" style="color: red;">[Code]</a> 
 
