@@ -21,7 +21,7 @@ share: false
 
 ### Review Papers
 
-* <b>修贤超</b>, 徐力, 朱艳娇, 刘万泉*, 面向视觉-语言-动作模型的压缩方法综述, 自动化学报  <a href="https://github.com/xianchaoxiu/COM4VLA" class="textlink" target="_blank" style="color: red;">[Code]</a>
+* <b>修贤超</b>, 徐力, 朱艳娇, 刘万泉*, 面向视觉-语言-动作模型的压缩方法综述  <a href="https://github.com/xianchaoxiu/COM4VLA" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
 * <b>修贤超</b>, 何昶桦, 曲文涛*, 孙军, 图像压缩感知的深度展开求解方法综述, 运筹学学报  <a href="https://github.com/xianchaoxiu/DU4ICS" class="textlink" target="_blank" style="color: red;">[Code]</a> 
 
