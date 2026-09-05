@@ -11,7 +11,7 @@ share: false
 ### Preprints
 
 
-* J. Liu, P. Tai, <b>X. Xiu</b>, W. Liu, Learning to Select Features With Manifold Deep Unfolding PCA, submitted to IEEE Transactions on Image Processing <a href="https://github.com/xianchaoxiu/MDUFS" class="textlink" target="_blank" style="color: red;">[Code]</a>
+* J. Liu, P. Tai, <b>X. Xiu</b>, W. Liu, Learning to Select Features with Manifold Deep Unfolding PCA, submitted to IEEE Transactions on Image Processing <a href="https://github.com/xianchaoxiu/MDUFS" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
 * P. Zhang, T. Sun, <b>X. Xiu</b>, W. Liu, Toward Efficient Robotic Control with Dual Latent Space Reinforcement Learning, submitted to IEEE Robotics and Automation Letters <a href="https://github.com/xianchaoxiu/DLSRL" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
