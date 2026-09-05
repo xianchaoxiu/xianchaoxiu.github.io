@@ -30,10 +30,6 @@ share: false
   - 第 11 章 基于深度展开的图像反问题求解方法 <a href="https://github.com/xianchaoxiu/DU4ICS" class="textlink" target="_blank" style="color: red;">[Code]</a> <br>
   - 第 12 章 基于大语言模型的运筹优化求解方法 <a href="https://github.com/xianchaoxiu/LLM4OR" class="textlink" target="_blank" style="color: red;">[Code]</a> <br>
 
-
-### 购买
-* <a href="https://item.jd.com/15474336.html" class="textlink" target="_blank"> 京东 https://item.jd.com/15474336.html </a>  <br>
-* <a href="https://product.dangdang.com/30098043.html" class="textlink" target="_blank"> 当当 https://product.dangdang.com/30098043.html </a> <br>
  
 
 
