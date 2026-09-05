@@ -14,6 +14,9 @@ share: false
 
 ### Selected Presentations
 
+* Solving Low-Rank Representation Through Deep Newton Networks<br>
+Operations Research Society of China, October 16-18, 2026
+
 * <a href="../conferences/2026-PKU.pdf" class="textlink" target="_blank"> When Optimization Meets Large Language Models </a><br>
 Peking University, August 29-30, 2026
 
