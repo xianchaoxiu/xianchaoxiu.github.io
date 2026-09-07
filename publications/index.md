@@ -14,9 +14,9 @@ share: false
 
 * X. He, <b>X. Xiu</b>, Newton Deep Unfolding for Compressed Sensing, submitted to AAAI <a href="https://github.com/xianchaoxiu/DNU-Net" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
-* J. Liu, Y. Han, <b>X. Xiu</b>, J. Zhang, W. Liu, PICANet: Physics-Informed Cascaded Asymmetric Network for Infrared Small Target Detection,  submitted to IEEE Transactions on Circuits and Systems for Video Technology <a href="https://github.com/xianchaoxiu/PICANet" class="textlink" target="_blank" style="color: red;">[Code]</a>
-
 * <b>X. Xiu</b>, J. Li, H. Chen, <a href="https://arxiv.org/abs/2607.27918" class="textlink" target="_blank">OptGraph: Large Language Models Enhanced Evolutionary Optimization Via Graph Retrieval-Augmented Generation</a>, submitted to ICLR <a href="https://github.com/xianchaoxiu/OptGraph" class="textlink" target="_blank" style="color: red;">[Code]</a>
+
+* J. Liu, Y. Han, <b>X. Xiu</b>, J. Zhang, W. Liu, PICANet: Physics-Informed Cascaded Asymmetric Network for Infrared Small Target Detection,  submitted to IEEE Transactions on Circuits and Systems for Video Technology <a href="https://github.com/xianchaoxiu/PICANet" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
 * <b>X. Xiu</b>, J. Li, J. Fan, W. Liu, <a href="https://arxiv.org/abs/2605.20849" class="textlink" target="_blank">Large Language Models for Operations Research: A Comprehensive Survey</a>, submitted to Journal of the Operations Research Society of China <a href="https://github.com/xianchaoxiu/LLM4OR" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
