@@ -10,9 +10,9 @@ share: false
 
 ### Preprints
 
-* P. Zhang, T. Sun, <b>X. Xiu</b>, Beyond Noise Steering: Dual‑Latent Space Reinforcement Learning for Robot Policy, submitted to ICRA <a href="https://github.com/xianchaoxiu/DLSRL" class="textlink" target="_blank" style="color: red;">[Code]</a>
-
 * X. He, <b>X. Xiu</b>, Newton Deep Unfolding for Compressed Sensing, submitted to AAAI <a href="https://github.com/xianchaoxiu/DNU-Net" class="textlink" target="_blank" style="color: red;">[Code]</a>
+
+* P. Zhang, T. Sun, <b>X. Xiu</b>, Beyond Noise Steering: Dual‑Latent Space Reinforcement Learning for Robot Policy, submitted to ICRA <a href="https://github.com/xianchaoxiu/DLSRL" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
 * <b>X. Xiu</b>, J. Li, H. Chen, <a href="https://arxiv.org/abs/2607.27918" class="textlink" target="_blank">OptGraph: Large Language Models Enhanced Evolutionary Optimization Via Graph Retrieval-Augmented Generation</a>, submitted to ICLR <a href="https://github.com/xianchaoxiu/OptGraph" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
