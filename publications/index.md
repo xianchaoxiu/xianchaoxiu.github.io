@@ -14,7 +14,7 @@ share: false
 
 * <b>X. Xiu</b>, J. Li, H. Chen, <a href="https://arxiv.org/abs/2607.27918" class="textlink" target="_blank">OptGraph: Large Language Models Enhanced Evolutionary Optimization Via Graph Retrieval-Augmented Generation</a>, submitted to ICLR <a href="https://github.com/xianchaoxiu/OptGraph" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
-* J. Liu, Y. Han, <b>X. Xiu</b>, J. Zhang, W. Liu, PICANet: Physics-Informed Cascaded Asymmetric Network for Infrared Small Target Detection,  submitted to IEEE Transactions on Circuits and Systems for Video Technology <a href="https://github.com/xianchaoxiu/PICANet" class="textlink" target="_blank" style="color: red;">[Code]</a>
+* J. Liu, Y. Han, <b>X. Xiu</b>, J. Zhang, W. Liu, <a href="https://arxiv.org/abs/2609.07515" class="textlink" target="_blank">PICANet: Physics-Informed Cascaded Asymmetric Network for Infrared Small Target Detection</a>,  submitted to IEEE Transactions on Circuits and Systems for Video Technology <a href="https://github.com/xianchaoxiu/PICANet" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
 * X. He, <b>X. Xiu</b>, Newton Deep Unfolding for Compressed Sensing, submitted to AAAI <a href="https://github.com/xianchaoxiu/DNU-Net" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
