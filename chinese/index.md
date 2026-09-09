@@ -28,7 +28,7 @@ share: false
 * CAA 具身智能专业委员会委员 <br>
 * CSIAM 大数据与人工智能专业委员会委员 <br>
 * CAAI 因果与不确定性人工智能专业委员会委员 <br>
-* 期刊编委: Scientific Reports, Big Data and Information Analytics <br>
+* Scientific Reports, Big Data and Information Analytics 等期刊编委 <br>
 
 ### 研究兴趣
 * 数据驱动最优化 <br>
