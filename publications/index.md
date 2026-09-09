@@ -16,7 +16,7 @@ share: false
 
 * J. Liu, Y. Han, <b>X. Xiu</b>, J. Zhang, W. Liu, <a href="https://arxiv.org/abs/2609.07515" class="textlink" target="_blank">PICANet: Physics-Informed Cascaded Asymmetric Network for Infrared Small Target Detection</a>,  submitted to IEEE Transactions on Circuits and Systems for Video Technology <a href="https://github.com/xianchaoxiu/PICANet" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
-* X. He, <b>X. Xiu</b>, Newton Deep Unfolding for Compressed Sensing, submitted to AAAI <a href="https://github.com/xianchaoxiu/DNU-Net" class="textlink" target="_blank" style="color: red;">[Code]</a>
+* C. He, <b>X. Xiu</b>, Newton Deep Unfolding for Compressed Sensing, submitted to AAAI <a href="https://github.com/xianchaoxiu/DNU-Net" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
 * <b>X. Xiu</b>, J. Li, J. Fan, W. Liu, <a href="https://arxiv.org/abs/2605.20849" class="textlink" target="_blank">Large Language Models for Operations Research: A Comprehensive Survey</a>, submitted to Journal of the Operations Research Society of China <a href="https://github.com/xianchaoxiu/LLM4OR" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
