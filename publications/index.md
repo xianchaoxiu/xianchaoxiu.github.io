@@ -10,6 +10,8 @@ share: false
 
 ### Preprints
 
+* J. Liu, P. Tai, <b>X. Xiu</b>, W. Liu, Learning to Select Features with Manifold Deep Unfolding PCA, submitted to IEEE Transactions on Image Processing <a href="https://github.com/xianchaoxiu/MDUFS" class="textlink" target="_blank" style="color: red;">[Code]</a>
+
 * P. Zhang, T. Sun, <b>X. Xiu</b>, <a href="https://arxiv.org/abs/2609.11270" class="textlink" target="_blank">Beyond Noise Steering: Dual‑Latent Space Reinforcement Learning for Generative Robot Policy</a>, submitted to ICRA <a href="https://github.com/xianchaoxiu/DLSRL" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
 * <b>X. Xiu</b>, J. Li, H. Chen, <a href="https://arxiv.org/abs/2607.27918" class="textlink" target="_blank">OptGraph: Large Language Models Enhanced Evolutionary Optimization Via Graph Retrieval-Augmented Generation</a>, submitted to ICLR <a href="https://github.com/xianchaoxiu/OptGraph" class="textlink" target="_blank" style="color: red;">[Code]</a>
