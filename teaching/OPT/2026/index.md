@@ -29,12 +29,5 @@ share: false
   - <a href="https://github.com/xianchaoxiu/xianchaoxiu.github.io/blob/main/conferences/2026-BDAI.pdf" class="textlink" target="_blank"> 基于二阶优化的深度展开方法 <br>
   - <a href="https://github.com/xianchaoxiu/xianchaoxiu.github.io/blob/main/conferences/2026-PKU.pdf" class="textlink" target="_blank"> 基于大语言模型的智能决策 <br> <br>
 
-- 第三部分 &nbsp;  具身智能大模型 <br>
-  - VLA模型与词元优化 <br>
-  - 模型量化与模型剪枝 <br>
-  - 监督微调与强化学习 <br>
-  - 边缘加速与应用案例 <br> <br>
- 
-
-- 第四部分 &nbsp;  学生报告 <br>
+- 第三部分 &nbsp;  学生报告 <br>
   - TBD
