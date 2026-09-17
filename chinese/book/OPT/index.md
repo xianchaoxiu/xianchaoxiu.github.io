@@ -27,8 +27,8 @@ share: false
   - 第 10 章 &nbsp;  <a href="https://github.com/xianchaoxiu/GAP" class="textlink" target="_blank">基于自适应稀疏的大语言模型剪枝 </a>  <br><br>
 
 * 第三部分 &nbsp; 拓展篇 <br>
-  - 第 11 章 <a href="https://github.com/xianchaoxiu/DU4ICS" class="textlink" target="_blank">基于深度展开的图像反问题求解方法 </a> <br>
-  - 第 12 章 <a href="https://github.com/xianchaoxiu/LLM4OR" class="textlink" target="_blank">基于大语言模型的运筹优化求解方法 </a> <br>
+  - 第 11 章 &nbsp; <a href="https://github.com/xianchaoxiu/DU4ICS" class="textlink" target="_blank">基于深度展开的图像反问题求解方法 </a> <br>
+  - 第 12 章 &nbsp; <a href="https://github.com/xianchaoxiu/LLM4OR" class="textlink" target="_blank">基于大语言模型的运筹优化求解方法 </a> <br>
 
  
 
