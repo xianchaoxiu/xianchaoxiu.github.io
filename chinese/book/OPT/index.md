@@ -13,7 +13,7 @@ share: false
 ### 目录
 * 第一部分 &nbsp; 基础篇 <br>
   - 第 1 章 &nbsp;  绪论 <br>
-  - 第 2 章 &nbsp;  基于稀疏主成分分析的特征选择 <a href="https://github.com/xianchaoxiu/BSUFS" class="textlink" target="_blank" style="color: red;">[Code]</a> <br>
+  - 第 2 章 &nbsp;  <a href="https://github.com/xianchaoxiu/BSUFS" class="textlink" target="_blank" style="color: red;">基于稀疏主成分分析的特征选择</a> <br>
   - 第 3 章 &nbsp;  基于稀疏联邦主成分分析的异常检测 <a href="https://github.com/xianchaoxiu/FedEP" class="textlink" target="_blank" style="color: red;">[Code]</a> <br>
   - 第 4 章 &nbsp;  基于稀疏正交非负矩阵分解的故障诊断 <a href="https://github.com/xianchaoxiu/SJSONMF" class="textlink" target="_blank" style="color: red;">[Code]</a>  <br> 
   - 第 5 章 &nbsp;  基于稀疏张量相关分析的多视角学习  <a href="https://github.com/zhudafa/STCCA-L" class="textlink" target="_blank" style="color: red;">[Code]</a> <br>
