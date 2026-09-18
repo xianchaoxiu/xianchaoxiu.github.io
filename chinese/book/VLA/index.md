@@ -11,8 +11,8 @@ share: false
 
 ### 目录
 
-* 第 1 章 &nbsp;  绪论 <br>
-* 第 2 章 &nbsp;  大模型技术 <br> 
+* 第 1 章 &nbsp;  绪论 <span style="color:#ff0000">(已完成)</span>  <br>
+* 第 2 章 &nbsp;  大模型技术 <span style="color:#ff0000">(已完成)</span>  <br>
 * 第 3 章 &nbsp;  视觉-语言-动作模型   <span style="color:#ff0000">(感谢胡叶文)</span>  <br>
 * 第 4 章 &nbsp;  模型量化  <span style="color:#ff0000">(感谢徐力)</span>  <br>
 * 第 5 章 &nbsp;  模型剪枝  <span style="color:#ff0000">(感谢徐力)</span>  <br>
