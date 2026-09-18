@@ -98,7 +98,7 @@ share: false
 
 请大家想清楚自己读研想要什么, 也明确希望导师能够给予你哪些支持, 树立清晰的目标, 踏实前行.
 祝愿大家研究生阶段过得开心充实, 不负韶华.
-最后推荐两本读物，期望为大家后续科研打下坚实基础
+最后推荐两本读物, 期望为大家后续科研打下坚实基础
 *  <a href="https://nndl.ai/nndl-v2/" class="textlink" target="_blank"> 神经网络与深度学习 </a> <br>
 *  <a href="https://xianchaoxiu.github.io/chinese/book/OPT/" class="textlink" target="_blank"> 黎曼流形稀疏优化 </a> <br><br>
 
