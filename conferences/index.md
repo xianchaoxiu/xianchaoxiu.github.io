@@ -17,6 +17,9 @@ share: false
 * <a href="../conferences/2026-ORSC.pdf" class="textlink" target="_blank"> Solving Low-Rank Representation Through Deep Newton Networks</a><br>
 Operations Research Society of China, October 16-18, 2026
 
+* <a href="../conferences/2026-PKU.pdf" class="textlink" target="_blank"> When Optimization Meets Large Language Models </a><br>
+Peking University, August 29-30, 2026
+
 * <a href="../conferences/2025-MOS.pdf" class="textlink" target="_blank"> Learning to Optimize: Theory, Algorithms, and Applications</a><br>
 Mathematical Optimization Society, May 16-19, 2025
 
