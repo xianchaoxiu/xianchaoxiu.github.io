@@ -10,7 +10,7 @@ share: false
 
 
 ### 目录
-  - 第 1 章 &nbsp;  绪论 <br>
+  - 第 1 章 &nbsp;  绪论 <span style="color:#ff0000">(已完成)</span> <br>
   - 第 2 章 &nbsp;  基础知识 <br>
   - 第 3 章 &nbsp;  基于深度流形学习的特征选择 <span style="color:#ff0000">(感谢邰佩)</span> <br>
   - 第 4 章 &nbsp;  基于深度稀疏学习的目标检测 <span style="color:#ff0000">(感谢韩银超)</span> <br>
