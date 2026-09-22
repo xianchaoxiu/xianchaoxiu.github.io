@@ -31,7 +31,7 @@ share: false
 * Scientific Reports 等期刊编委 <br>
 
 ### 研究兴趣
-* 数据驱动最优化 <br>
+* 学习最优化 <br>
 * 具身智能大模型 <br>
 
 
