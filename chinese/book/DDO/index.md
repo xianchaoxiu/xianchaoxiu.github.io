@@ -1,12 +1,12 @@
 ---
 layout: page
-title: 数据驱动最优化
+title: 学习最优化
 comments: false
 share: false
 ---
 
 ### 简介
-暂定《数据驱动最优化: 从深度学习到大语言模型》
+暂定《学习最优化: 从深度学习到大语言模型》
 
 
 ### 目录
