@@ -20,6 +20,7 @@ share: false
 
 ### 2024
 * <a href="https://xianchaoxiu.github.io/teaching/OPT/2024" class="textlink" target="_blank"> Modern Optimization Methods </a><br>
+* Computer Aided Control System Design<br>
 
 ### 2023
 * <a href="https://xianchaoxiu.github.io/teaching/SW/2023" class="textlink" target="_blank"> Academic English Writing </a><br>
