@@ -11,6 +11,7 @@ share: false
 
 
 ### Graduate Students
+* Muping Sun (2027.09-) <br>
 * Bingwen Zhang (2026.09-) <br>
 * Yewen Hu (2026.09-) <br>
 * Li Xu (2025.09-) <br>
