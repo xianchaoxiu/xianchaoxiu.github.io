@@ -9,9 +9,6 @@ share: false
 
 ➡️ <a href="https://xianchaoxiu.github.io/group/reading/" class="textlink" target="_blank"> 每年招收硕士研究生 2 名 </a><br>
 
-### Ph.D Students
-* TBD
-
 
 ### Graduate Students
 * Bingwen Zhang (2026.09-) <br>
