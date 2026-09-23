@@ -24,7 +24,7 @@ share: false
 
 
 ### Cooperant Students
-* Chong He (2024.09-) <br>
+* Chong Shen (2024.09-) <br>
 * Changhua He (2024.09-) <br>
 * Shenghao Sun (2023.09-2026.06) <br>
 * Shiqi Fei (2023.09-2026.06) <br>
