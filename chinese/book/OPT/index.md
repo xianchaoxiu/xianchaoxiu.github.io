@@ -31,7 +31,9 @@ share: false
   - 第 12 章 &nbsp; <a href="https://github.com/xianchaoxiu/LLM4OR" class="textlink" target="_blank">基于大语言模型的运筹优化求解方法 </a> <br>
 
  
-
+### 购买
+* <a href="https://item.jd.com/15474336.html" class="textlink" target="_blank"> 京东 https://item.jd.com/15474336.html </a>  <br>
+* <a href="https://product.dangdang.com/30098043.html" class="textlink" target="_blank"> 当当 https://product.dangdang.com/30098043.html </a> <br>
 
 ### 反馈
 * <a href="../OPT/黎曼流形稀疏优化.pdf" class="textlink" target="_blank"> 作者版本 (推荐iPad阅读) </a> <br>
