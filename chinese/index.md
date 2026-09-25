@@ -26,7 +26,7 @@ share: false
 
 ### 学术论文
 * <a href="https://doi.org/10.1088/1361-6420/ae5e02" class="textlink" target="_blank"> J. Fan, A. Yan, X. Xiu, W. Liu, Robust Sparse Phase Retrieval: Statistical Guarantee, Optimality Theory and Convergent Algorithm, Inverse Problems, 42: 045014, 2026 </a> <br>
-* <a href="https://doi.org/10.1109/TIP.2025.3620667" class="textlink" target="_blank"> X. Xiu, C. Huang, P. Shang, W. Liu, Bi-Sparse Unsupervised Feature Selection</a>, IEEE Transactions on Image Processing, 34: 7407-7421, 2025  </a> <br>
+* <a href="https://doi.org/10.1109/TIP.2025.3620667" class="textlink" target="_blank"> X. Xiu, C. Huang, P. Shang, W. Liu, Bi-Sparse Unsupervised Feature Selection, IEEE Transactions on Image Processing, 34: 7407-7421, 2025  </a> <br>
 
 
 ### 教材专著
