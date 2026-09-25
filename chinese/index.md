@@ -24,10 +24,6 @@ share: false
 * 人工智能驱动的优化算法与应用 <br>
 * 面向具身智能的大模型与世界模型 <br>
 
-### 学术论文
-* <a href="https://doi.org/10.1088/1361-6420/ae5e02" class="textlink" target="_blank"> J. Fan, A. Yan, X. Xiu, W. Liu, Robust Sparse Phase Retrieval: Statistical Guarantee, Optimality Theory and Convergent Algorithm, Inverse Problems, 2026 </a> <br>
-* <a href="https://doi.org/10.1109/TIP.2025.3620667" class="textlink" target="_blank"> X. Xiu, C. Huang, P. Shang, W. Liu, Bi-Sparse Unsupervised Feature Selection, IEEE Transactions on Image Processing, 2025  </a> <br>
-
 
 ### 教材专著
 * <a href="https://xianchaoxiu.github.io/chinese/book/L2O/" class="textlink" target="_blank"> 修贤超, 学习最优化, 科学出版社, 2027   </a> <br>
