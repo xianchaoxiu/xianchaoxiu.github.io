@@ -9,8 +9,11 @@ share: false
 
 ➡️ <a href="https://xianchaoxiu.github.io/group/reading/" class="textlink" target="_blank"> 每年招收硕士研究生 2 名 </a><br>
 
+### PhD Students
+* TBD
 
-### Graduate Students
+
+### Master's Students
 * Zishu Zhang (2027.09-) <br>
 * Muping Sun (2027.09-) <br>
 * Bingwen Zhang (2026.09-) <br>
