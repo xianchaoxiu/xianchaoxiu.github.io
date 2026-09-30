@@ -29,5 +29,4 @@ share: false
   - <a href="https://github.com/xianchaoxiu/xianchaoxiu.github.io/blob/main/conferences/2026-ORSC.pdf" class="textlink" target="_blank"> 基于二阶优化的深度展开方法 <br>
   - <a href="https://github.com/xianchaoxiu/xianchaoxiu.github.io/blob/main/conferences/2026-PKU.pdf" class="textlink" target="_blank"> 基于大语言模型的智能决策 <br> <br>
 
-- 第三部分 &nbsp;  学生报告 <br>
-  - TBD
+- 第三部分 &nbsp;  学生报告 
