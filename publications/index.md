@@ -10,16 +10,11 @@ share: false
 
 ### Preprints
 
-#### Conference 
+* J. Liu, P. Tai, <b>X. Xiu</b>, W. Liu, <a href="https://arxiv.org/abs/2609.14391" class="textlink" target="_blank">Learning to Select Features with Manifold Deep Unfolding PCA</a>, submitted to IEEE Transactions on Image Processing <a href="https://github.com/xianchaoxiu/MDUFS" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
 * P. Zhang, T. Sun, <b>X. Xiu</b>, <a href="https://arxiv.org/abs/2609.11270" class="textlink" target="_blank">Beyond Noise Steering: Dual‑Latent Space Reinforcement Learning for Generative Robot Policy</a>, submitted to ICRA <a href="https://github.com/xianchaoxiu/DLSRL" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
 * <b>X. Xiu</b>, J. Li, H. Chen, <a href="https://arxiv.org/abs/2607.27918" class="textlink" target="_blank">OptGraph: Large Language Models Enhanced Evolutionary Optimization Via Graph Retrieval-Augmented Generation</a>, submitted to ICLR <a href="https://github.com/xianchaoxiu/OptGraph" class="textlink" target="_blank" style="color: red;">[Code]</a>
-
-#### Journal
-
-
-* J. Liu, P. Tai, <b>X. Xiu</b>, W. Liu, <a href="https://arxiv.org/abs/2609.14391" class="textlink" target="_blank">Learning to Select Features with Manifold Deep Unfolding PCA</a>, submitted to IEEE Transactions on Image Processing <a href="https://github.com/xianchaoxiu/MDUFS" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
 * J. Liu, Y. Han, <b>X. Xiu</b>, J. Zhang, W. Liu, <a href="https://arxiv.org/abs/2609.07515" class="textlink" target="_blank">PICANet: Physics-Informed Cascaded Asymmetric Network for Infrared Small Target Detection</a>,  submitted to IEEE Transactions on Circuits and Systems for Video Technology <a href="https://github.com/xianchaoxiu/PICANet" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
@@ -38,8 +33,6 @@ share: false
 
 * <b>修贤超</b>, 何昶桦, 曲文涛, 孙军, 图像压缩感知的深度展开求解方法综述, 运筹学学报  <a href="https://github.com/xianchaoxiu/DU4ICS" class="textlink" target="_blank" style="color: red;">[Code]</a>  <br>
 <b>X. Xiu</b>, C. He, W. Qu, J. Sun, A Survey of Deep Unfolding Methods for Image Compressive Sensing (in Chinese), Operations Research Transactions 
-
-* <b>X. Xiu</b>, J. Li, J. Fan, W. Liu, Large Language Models for Operations Research: A Comprehensive Survey, Journal of the Operations Research Society of China <a href="https://github.com/xianchaoxiu/LLM4OR" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
 
 ### Selected Papers
