@@ -21,21 +21,23 @@ share: false
 
 * C. He, <b>X. Xiu</b>, <a href="https://arxiv.org/abs/2609.14391" class="textlink" target="_blank">Newton Deep Unfolding for Compressed Sensing</a>, submitted to IEEE Transactions on Image Processing <a href="https://github.com/xianchaoxiu/DNU-Net" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
-* <b>X. Xiu</b>, J. Li, J. Fan, W. Liu, <a href="https://arxiv.org/abs/2605.20849" class="textlink" target="_blank">Large Language Models for Operations Research: A Comprehensive Survey</a>, submitted to Journal of the Operations Research Society of China <a href="https://github.com/xianchaoxiu/LLM4OR" class="textlink" target="_blank" style="color: red;">[Code]</a>
+
 
 * J. Liu, Y. Han, <b>X. Xiu</b>, J. Zhang, W. Liu, <a href="https://arxiv.org/abs/2509.08205" class="textlink" target="_blank">Lightweight Deep Unfolding Networks with Enhanced Robustness for Infrared Small Target Detection</a>, IEEE Transactions on Image Processing, minor revision <a href="https://github.com/xianchaoxiu/L-RPCANet" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
 
 ### Review Papers
 
-* <b>修贤超</b>, 徐力, 朱艳娇, 刘万泉, 面向视觉-语言-动作模型的压缩方法综述  <a href="https://github.com/xianchaoxiu/COM4VLA" class="textlink" target="_blank" style="color: red;">[Code]</a> <br>
+* <b>修贤超</b>, 徐力, 朱艳娇, 刘万泉, 面向视觉-语言-动作模型的压缩方法综述, 自动化学报  <a href="https://github.com/xianchaoxiu/COM4VLA" class="textlink" target="_blank" style="color: red;">[Code]</a> <br>
 <b>X. Xiu</b>, L. Xu, Y. Zhu, W. Liu, Review of Compression Methods for Vision-Language-Action Models (in Chinese)
 
-* <b>修贤超</b>, 沈翀, 朱艳娇, 刘万泉, 大语言模型驱动的车辆路径问题研究综述  <a href="https://github.com/xianchaoxiu/LLM4VRP" class="textlink" target="_blank" style="color: red;">[Code]</a> <br>
+* <b>修贤超</b>, 沈翀, 朱艳娇, 刘万泉, 大语言模型驱动的车辆路径问题研究综述, 控制理论与应用  <a href="https://github.com/xianchaoxiu/LLM4VRP" class="textlink" target="_blank" style="color: red;">[Code]</a> <br>
 <b>X. Xiu</b>, C. Shen, Y. Zhu, W. Liu, A Survey of Large Language Models for Vehicle Routing Problems (in Chinese)
 
 * <b>修贤超</b>, 何昶桦, 曲文涛, 孙军, 图像压缩感知的深度展开求解方法综述, 运筹学学报  <a href="https://github.com/xianchaoxiu/DU4ICS" class="textlink" target="_blank" style="color: red;">[Code]</a>  <br>
 <b>X. Xiu</b>, C. He, W. Qu, J. Sun, A Survey of Deep Unfolding Methods for Image Compressive Sensing (in Chinese), Operations Research Transactions 
+
+* <b>X. Xiu</b>, J. Li, J. Fan, W. Liu, Large Language Models for Operations Research: A Comprehensive Survey, Journal of the Operations Research Society of China <a href="https://github.com/xianchaoxiu/LLM4OR" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
 
 ### Selected Papers
