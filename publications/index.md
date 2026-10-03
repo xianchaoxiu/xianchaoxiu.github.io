@@ -53,10 +53,6 @@ share: false
 
 * X. Li, C. Huang, A. Yang, <b>X. Xiu</b>, <a href="https://doi.org/10.1016/j.knosys.2026.116924" class="textlink" target="_blank">Enhancing Unsupervised Feature Selection via Double Sparsity Constrained Optimization</a>, Knowledge-Based Systems, 352: 116924, 2026 <a href="https://github.com/xianchaoxiu/DSCOFS" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
-* H. Chen, X. Wang, <b>X. Xiu</b>, W. Liu, Rethinking Low-Rank Representation with Deep Semi-Smooth Newton, PRCV, 2026 <a href="https://github.com/xianchaoxiu/LRRSSN-Net" class="textlink" target="_blank" style="color: red;">[Code]</a>
-
-* C. Huang, L. Xu, <b>X. Xiu</b>, GAP: Gradient-Guided Adaptive Pruning for Large Language Models, PRCV, 2026 <a href="https://github.com/xianchaoxiu/GAP" class="textlink" target="_blank" style="color: red;">[Code]</a>
-
 #### 2025
 
 * <b>X. Xiu</b>, C. Huang, P. Shang, W. Liu, <a href="https://doi.org/10.1109/TIP.2025.3620667" class="textlink" target="_blank">Bi-Sparse Unsupervised Feature Selection</a>, IEEE Transactions on Image Processing, 34: 7407-7421, 2025  <a href="https://github.com/xianchaoxiu/BSUFS" class="textlink" target="_blank" style="color: red;">[Code]</a>
