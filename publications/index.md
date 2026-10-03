@@ -10,6 +10,9 @@ share: false
 
 ### Preprints
 
+
+* H. Chen, R. Yu, X. Wang, <b>X. Xiu</b>, W. Liu, Solving Low-Rank Representation Through Deep Newton Networks, submitted to IEEE Transactions on Image Processing <a href="https://github.com/xianchaoxiu/LRRDNN" class="textlink" target="_blank" style="color: red;">[Code]</a>
+
 * J. Liu, P. Tai, <b>X. Xiu</b>, W. Liu,  Learning to Select Features with Manifold Deep Unfolding PCA, submitted to IEEE Transactions on Image Processing <a href="https://github.com/xianchaoxiu/MDUFS" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
 * C. He, <b>X. Xiu</b>, <a href="https://arxiv.org/abs/2609.14391" class="textlink" target="_blank">Newton Deep Unfolding for Compressed Sensing</a>, submitted to IEEE Transactions on Image Processing <a href="https://github.com/xianchaoxiu/DNU-Net" class="textlink" target="_blank" style="color: red;">[Code]</a>
