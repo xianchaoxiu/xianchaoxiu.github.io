@@ -1,12 +1,12 @@
 ---
 layout: page
-title: 学习最优化
+title: 人工智能驱动的最优化
 comments: false
 share: false
 ---
 
 ### 简介
-暂定《学习最优化: 从深度学习到大语言模型》
+暂定《人工智能驱动的最优化: 从深度学习到大语言模型》
 
 ### 目录
   - 第 1 章 &nbsp;  绪论 <span style="color:#ff0000">(已完成)</span> <br>
