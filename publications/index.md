@@ -30,6 +30,7 @@ share: false
 * <b>修贤超</b>, 何昶桦, 曲文涛, 孙军, 图像压缩感知的深度展开求解方法综述, 运筹学学报  <a href="https://github.com/xianchaoxiu/DU4ICS" class="textlink" target="_blank" style="color: red;">[Code]</a>  <br>
 <b>X. Xiu</b>, C. He, W. Qu, J. Sun, A Survey of Deep Unfolding Methods for Image Compressive Sensing (in Chinese), Operations Research Transactions 
 
+* <b>X. Xiu</b>, J. Li, J. Fan, W. Liu, <a href="https://arxiv.org/abs/2605.20849" class="textlink" target="_blank">Large Language Models for Operations Research: A Comprehensive Survey</a>, submitted to Journal of the Operations Research Society of China <a href="https://github.com/xianchaoxiu/LLM4OR" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
 ### Selected Papers
 
