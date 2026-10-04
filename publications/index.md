@@ -10,8 +10,6 @@ share: false
 
 ### Preprints
 
-* J. Liu, P. Tai, <b>X. Xiu</b>, W. Liu, Learning to Select Features with Manifold Deep Unfolding PCA, submitted to IEEE Transactions on Image Processing <a href="https://github.com/xianchaoxiu/MDUFS" class="textlink" target="_blank" style="color: red;">[Code]</a>
-
 * P. Zhang, T. Sun, <b>X. Xiu</b>, <a href="https://arxiv.org/abs/2609.11270" class="textlink" target="_blank">Beyond Noise Steering: Dual‑Latent Space Reinforcement Learning for Generative Robot Policy</a>, submitted to ICRA <a href="https://github.com/xianchaoxiu/DLSRL" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
 * <b>X. Xiu</b>, J. Li, H. Chen, <a href="https://arxiv.org/abs/2607.27918" class="textlink" target="_blank">OptGraph: Large Language Models Enhanced Evolutionary Optimization via Graph Retrieval-Augmented Generation</a>, submitted to ICLR <a href="https://github.com/xianchaoxiu/OptGraph" class="textlink" target="_blank" style="color: red;">[Code]</a>
@@ -20,6 +18,7 @@ share: false
 
 * J. Liu, Y. Han, <b>X. Xiu</b>, J. Zhang, W. Liu, <a href="https://arxiv.org/abs/2609.07515" class="textlink" target="_blank">PICANet: Physics-Informed Cascaded Asymmetric Network for Infrared Small Target Detection</a>,  submitted to IEEE Transactions on Circuits and Systems for Video Technology <a href="https://github.com/xianchaoxiu/PICANet" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
+* J. Liu, Y. Han, <b>X. Xiu</b>, J. Zhang, W. Liu, <a href="https://arxiv.org/abs/2509.08205" class="textlink" target="_blank">Lightweight Deep Unfolding Networks with Enhanced Robustness for Infrared Small Target Detection</a>, IEEE Transactions on Image Processing, 2026 <a href="https://github.com/xianchaoxiu/L-RPCANet" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
 
 ### Review Papers
@@ -30,6 +29,8 @@ share: false
 
 * <b>X. Xiu</b>, J. Li, J. Fan, W. Liu, <a href="https://arxiv.org/abs/2605.20849" class="textlink" target="_blank">Large Language Models for Operations Research: A Comprehensive Survey</a>,  submitted to  Journal of the Operations Research Society of China 
 
+
+
 ### Selected Papers
 
 #### 2027
@@ -37,9 +38,6 @@ share: false
 * J. Liu, X. Ju, <b>X. Xiu</b>, W. Liu, <a href="https://doi.org/10.1016/j.patcog.2026.114687" class="textlink" target="_blank">Bi-Level Unsupervised Feature Selection with L2,0-Norm</a>, Pattern Recognition, 181: 114687, 2027  <a href="https://github.com/xianchaoxiu/BLUFS" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
 #### 2026
-
-* J. Liu, Y. Han, <b>X. Xiu</b>, J. Zhang, W. Liu, <a href="https://arxiv.org/abs/2509.08205" class="textlink" target="_blank">Lightweight Deep Unfolding Networks with Enhanced Robustness for Infrared Small Target Detection</a>, IEEE Transactions on Image Processing, 2026 <a href="https://github.com/xianchaoxiu/L-RPCANet" class="textlink" target="_blank" style="color: red;">[Code]</a>
-
 
 * <b>X. Xiu</b>, C. Huang, W. Zhang, W. Liu, <a href="https://doi.org/10.1109/JIOT.2026.3701337" class="textlink" target="_blank">Efficient Personalized Federated PCA with Manifold Optimization for IoT Anomaly Detection</a>, IEEE Internet of Things Journal, 13(16): 37252-37262, 2026 <a href="https://github.com/xianchaoxiu/FedEP" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
