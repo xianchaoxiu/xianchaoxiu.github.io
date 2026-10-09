@@ -25,6 +25,8 @@ share: false
 
 * <b>X. Xiu</b>, L. Xu, Y. Zhu, W. Liu, Review of Compression Methods for Vision-Language-Action Models (in Chinese),  submitted to Acta Automatica Sinica
 
+* <b>X. Xiu</b>, C. Shen, Y. Zhu, W. Liu, A Survey of Large Language Models for Vehicle Routing Problems (in Chinese),  submitted to Control Theory and Applications
+
 * <b>X. Xiu</b>, C. He, W. Qu, J. Sun, A Survey of Deep Unfolding Methods for Image Compressive Sensing (in Chinese), Operations Research Transactions, 2026  <a href="https://github.com/xianchaoxiu/DU4ICS" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
 
