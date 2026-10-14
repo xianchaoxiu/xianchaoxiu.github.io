@@ -11,11 +11,11 @@ share: false
 
 ### 目录
 * 第一部分 &nbsp; 运筹篇 <br>
-  - 第 1 章 &nbsp;  运筹学简介 <br>
-  - 第 2 章 &nbsp;  线性规划<br>
-  - 第 3 章 &nbsp;  整数规划 <br>
-  - 第 4 章 &nbsp;  动态规划 <br> 
-  - 第 5 章 &nbsp;  博弈论 <br><br>
+  - 第 1 章 &nbsp;  运筹学简介 <span style="color:#ff0000">(已完成)</span><br>
+  - 第 2 章 &nbsp;  线性规划 <span style="color:#ff0000">(已完成)</span><br>
+  - 第 3 章 &nbsp;  整数规划 <span style="color:#ff0000">(已完成)</span><br>
+  - 第 4 章 &nbsp;  动态规划 <span style="color:#ff0000">(已完成)</span><br> 
+  - 第 5 章 &nbsp;  博弈论 <span style="color:#ff0000">(已完成)</span><br><br>
 
 
 * 第二部分 &nbsp; 优化篇 <br>
@@ -25,7 +25,7 @@ share: false
   - 第 9 章 &nbsp;   复合优化算法<br><br>
 
 * 第三部分 &nbsp;  应用篇 <br>
-  - 第 10 章 &nbsp; 工程实例<br>
+  - 第 10 章 &nbsp; 工程实例 <span style="color:#ff0000">(已完成)</span><br>
   - 第 11 章 &nbsp; 图像处理 <br>
 
  
