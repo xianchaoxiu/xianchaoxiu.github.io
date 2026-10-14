@@ -1,42 +1,32 @@
 ---
 layout: page
-title: 人工智能驱动的最优化
+title: 运筹学与最优化
 comments: false
 share: false
 ---
 
 ### 简介
-暂定《人工智能驱动的最优化: 从深度学习到大语言模型》
-
-### 目录
-  - 第 1 章 &nbsp;  绪论 <span style="color:#ff0000">(已完成)</span> <br>
-  - 第 2 章 &nbsp;  基于深度流形学习的特征选择 <span style="color:#ff0000">(感谢邰佩)</span> <br>
-  - 第 3 章 &nbsp;  基于深度稀疏学习的目标检测 <span style="color:#ff0000">(感谢韩银超)</span> <br>
-  - 第 4 章 &nbsp;  基于深度牛顿展开的压缩感知 <span style="color:#ff0000">(感谢何昶桦)</span> <br>
-  - 第 5 章 &nbsp;  基于深度半光滑牛顿的图像聚类 <span style="color:#ff0000">(感谢王新杰和于锐)</span> <br>
-  - 第 6 章 &nbsp;  基于深度张量表示的具身操作 <span style="color:#ff0000">(感谢陈龙和张紫淑)</span> <br>
-  - 第 7 章 &nbsp;  基于大语言模型的运筹优化 <span style="color:#ff0000">(感谢李建豪和沈翀)</span> <br>
+暂定《运筹学与最优化》
 
 
 ### 目录
-* 第一部分 &nbsp; 基础篇 <br>
-  - 第 1 章 &nbsp;  绪论 <br>
-  - 第 2 章 &nbsp;  <a href="https://github.com/xianchaoxiu/BSUFS" class="textlink" target="_blank">基于稀疏主成分分析的特征选择</a> <br>
-  - 第 3 章 &nbsp;  <a href="https://github.com/xianchaoxiu/FedEP" class="textlink" target="_blank">基于稀疏联邦主成分分析的异常检测 </a> <br>
-  - 第 4 章 &nbsp;  <a href="https://github.com/xianchaoxiu/SJSONMF" class="textlink" target="_blank">基于稀疏正交非负矩阵分解的故障诊断 </a>  <br> 
-  - 第 5 章 &nbsp;  <a href="https://github.com/zhudafa/STCCA-L" class="textlink" target="_blank">基于稀疏张量相关分析的多视角学习 </a> <br>
-  - 第 6 章 &nbsp;  <a href="https://github.com/xianchaoxiu/DSCOFS-CL" class="textlink" target="_blank">基于稀疏低秩对比学习的特征选择 </a> <br><br>
+* 第一部分 &nbsp; 运筹篇 <br>
+  - 第 1 章 &nbsp;  运筹学简介 <br>
+  - 第 2 章 &nbsp;  线性规划<br>
+  - 第 3 章 &nbsp;  整数规划 <br>
+  - 第 4 章 &nbsp;  动态规划 <br> 
+  - 第 5 章 &nbsp;  博弈论 <br>
 
 
-* 第二部分 &nbsp; 进阶篇 <br>
-  - 第 7 章 &nbsp;  <a href="https://github.com/xianchaoxiu/STAR-Net" class="textlink" target="_blank">基于深度张量低秩表示的图像去噪 </a> <br>
-  - 第 8 章 &nbsp;  <a href="https://github.com/xianchaoxiu/L-RPCANet" class="textlink" target="_blank">基于深度自适应低秩稀疏的目标检测 </a> <br>
-  - 第 9 章 &nbsp;  <a href="https://github.com/xianchaoxiu/AD-SMM" class="textlink" target="_blank">基于注意力引导深度支持矩阵机的图像分类 </a>  <br>
-  - 第 10 章 &nbsp;  <a href="https://github.com/xianchaoxiu/GAP" class="textlink" target="_blank">基于自适应稀疏的大语言模型剪枝 </a>  <br><br>
+* 第二部分 &nbsp; 优化篇 <br>
+  - 第 6 章 &nbsp;   最优化基础<br>
+  - 第 7 章 &nbsp;   无约束优化算法 <br>
+  - 第 8 章 &nbsp;   约束优化算法 <br>
+  - 第 9 章 &nbsp;   复合优化算法<br><br>
 
-* 第三部分 &nbsp; 拓展篇 <br>
-  - 第 11 章 &nbsp; <a href="https://github.com/xianchaoxiu/DU4ICS" class="textlink" target="_blank">基于深度展开的图像反问题求解方法 </a> <br>
-  - 第 12 章 &nbsp; <a href="https://github.com/xianchaoxiu/LLM4OR" class="textlink" target="_blank">基于大语言模型的运筹优化求解方法 </a> <br>
+* 第三部分 &nbsp;  应用篇 <br>
+  - 第 10 章 &nbsp; 工程实例<br>
+  - 第 11 章 &nbsp; 图像处理 <br>
 
  
 ### 反馈
