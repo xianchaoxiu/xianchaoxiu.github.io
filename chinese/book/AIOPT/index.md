@@ -8,11 +8,5 @@ share: false
 ### 简介
 暂定《人工智能驱动的最优化: 从深度学习到大语言模型》
 
-### 目录
-  - 第 1 章 &nbsp;  绪论 <span style="color:#ff0000">(已完成)</span> <br>
-  - 第 2 章 &nbsp;  基于深度牛顿展开的压缩感知 <span style="color:#ff0000">(感谢何昶桦)</span> <br>
-  - 第 3 章 &nbsp;  基于深度半光滑牛顿的图像聚类 <span style="color:#ff0000">(感谢王新杰)</span> <br>
-  - 第 4 章 &nbsp;  基于深度稀疏学习的目标检测 <span style="color:#ff0000">(感谢韩银超)</span> <br>
-  - 第 5 章 &nbsp;  基于深度张量表示的具身操作 <span style="color:#ff0000">(感谢陈龙)</span> <br>
-  - 第 6 章 &nbsp;  基于大语言模型的优化建模 <span style="color:#ff0000">(感谢李建豪)</span> <br>
-  - 第 7 章 &nbsp;  基于大语言模型的车辆路径问题 <span style="color:#ff0000">(感谢沈翀)</span> <br>
+### 相关论文
+* J. Liu, P. Tai, <b>X. Xiu</b>, W. Liu, <a href="https://arxiv.org/abs/2610.19436" class="textlink" target="_blank">Learning to Select Features with Manifold Deep Unfolding PCA</a>
