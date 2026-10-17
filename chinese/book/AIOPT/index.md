@@ -16,3 +16,4 @@ share: false
 - 第 5 章 &nbsp;  基于深度张量表示的机器人操作 <span style="color:#ff0000">(感谢陈龙)</span> <br>
 - 第 6 章 &nbsp;  基于大语言模型的优化建模 <span style="color:#ff0000">(感谢李建豪)</span> <br>
 - 第 7 章 &nbsp;  基于大语言模型的车辆路径问题 <span style="color:#ff0000">(感谢沈翀)</span> <br>
+- 第 8 章 &nbsp;  展望 <br>
