@@ -11,6 +11,7 @@ share: false
 ### 目录
 - 第 1 章 &nbsp;  绪论 <span style="color:#ff0000">(已完成)</span> <br>
 - 第 2 章 &nbsp;  基于深度稀疏表示的特征选择 <span style="color:#ff0000">(感谢张紫淑)</span> <br>
+- 第 3 章 &nbsp;  基于深度稀疏低秩的目标检测 <span style="color:#ff0000">(感谢韩银超)</span> <br>
 - 第 3 章 &nbsp;  基于深度牛顿展开的压缩感知 <span style="color:#ff0000">(感谢何昶桦)</span> <br>
 - 第 4 章 &nbsp;  基于深度半光滑牛顿的图像聚类 <span style="color:#ff0000">(感谢王新杰)</span> <br>
 - 第 5 章 &nbsp;  基于深度张量表示的机器人操作 <span style="color:#ff0000">(感谢陈龙)</span> <br>
