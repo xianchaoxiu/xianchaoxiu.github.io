@@ -1,0 +1,16 @@
+---
+layout: page
+title: 运筹学基础
+comments: false
+share: false
+---
+
+### 参考教材
+* 胡运权, 郭耀煌, 运筹学教程 (第5版), 清华大学出版社, 2018 <br>
+
+### 课程信息
+* <a href="../2025/引言.pdf" class="textlink" target="_blank">  第 1 章 &nbsp;  引言<br>
+* <a href="../2025/线性规划.pdf" class="textlink" target="_blank">  第 2 章 &nbsp;  线性规划<br>
+* <a href="../2025/整数规划.pdf" class="textlink" target="_blank">  第 3 章 &nbsp;  整数规划<br>
+* <a href="../2025/动态规划.pdf" class="textlink" target="_blank"> 第 4 章 &nbsp;  动态规划<br>
+* <a href="../2025/对策论.pdf" class="textlink" target="_blank"> 第 5 章 &nbsp;  对策论<br>
