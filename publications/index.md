@@ -77,6 +77,6 @@ share: false
 
 #### 2026
 
-* H. Chen, X. Wang, <b>X. Xiu</b>, W. Liu, Rethinking low-rank representation with deep semi-smooth Newton, PRCV, 2026<a href="https://github.com/xianchaoxiu/LRRSSN-Net" class="textlink" target="_blank" style="color: red;">[Code]</a>
+* H. Chen, X. Wang, <b>X. Xiu</b>, W. Liu, Rethinking low-rank representation with deep semi-smooth Newton, PRCV, 2026 <a href="https://github.com/xianchaoxiu/LRRSSN-Net" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
-* C. Huang, L. Xu, <b>X. Xiu</b>, GAP: Gradient-guided adaptive pruning for large language models, PRCV, 2026<a href="https://github.com/xianchaoxiu/GAP" class="textlink" target="_blank" style="color: red;">[Code]</a>
+* C. Huang, L. Xu, <b>X. Xiu</b>, GAP: Gradient-guided adaptive pruning for large language models, PRCV, 2026 <a href="https://github.com/xianchaoxiu/GAP" class="textlink" target="_blank" style="color: red;">[Code]</a>
