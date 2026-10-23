@@ -17,7 +17,7 @@ share: false
 
 - 第一部分 &nbsp;  最优化基础 <br>
   -  <a href="../2026/绪论.pdf" class="textlink" target="_blank"> 绪论 <br>
-  -  <a href="../2026/最优化理论.pdf" class="textlink" target="_blank"> 基本概念 <br>
+  -  <a href="../2026/基本概念.pdf" class="textlink" target="_blank"> 基本概念 <br>
   -  <a href="../2026/最优化理论.pdf" class="textlink" target="_blank"> 最优化理论 <br>
   -  <a href="../2026/无约束优化算法.pdf" class="textlink" target="_blank"> 无约束优化算法 <br>
   -  <a href="../2026/约束优化算法.pdf" class="textlink" target="_blank"> 约束优化算法 <br>
