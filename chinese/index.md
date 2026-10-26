@@ -19,8 +19,7 @@ share: false
 
 
 ### 研究兴趣
-* 人工智能驱动的最优化 <br>
-* 具身智能的大模型优化 <br>
+* 运筹优化与具身智能 <br>
 
 
 ### 教材专著
@@ -34,4 +33,5 @@ share: false
 * CAA 具身智能专业委员会委员 <br>
 * CSIAM 大数据与人工智能专业委员会委员 <br>
 * CAAI 因果与不确定性人工智能专业委员会委员 <br>
+* Mathematical Reviews 评论员
 * Scientific Reports 等期刊编委 <br>
