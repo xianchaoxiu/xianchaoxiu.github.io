@@ -1,12 +1,12 @@
 ---
 layout: page
-title: 运筹学与最优化基础
+title: 运筹学与最优化
 comments: false
 share: false
 ---
 
 ### 简介
-暂定《运筹学与最优化基础》
+暂定《运筹学与最优化：理论、算法与应用》
 
 
 ### 目录
