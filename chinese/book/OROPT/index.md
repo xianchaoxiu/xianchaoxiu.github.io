@@ -6,7 +6,7 @@ share: false
 ---
 
 ### 简介
-暂定《运筹学与最优化》
+暂定《运筹学与最优化基础》
 
 
 ### 目录
@@ -29,6 +29,3 @@ share: false
   - 第 11 章 &nbsp; 图像处理 <br>
 
  
-### 反馈
-* <a href="../OROPT/运筹学与最优化.pdf" class="textlink" target="_blank"> 作者版本 (2026年10月更新) </a> <br>
-
