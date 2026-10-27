@@ -14,11 +14,8 @@ share: false
 
 ### Selected Presentations
 
-* <a href="../talks/2026-PKU.pdf" class="textlink" target="_blank"> Artificial Intelligence-Driven Optimization </a><br>
+* <a href="../talks/2026-PKU.pdf" class="textlink" target="_blank"> AI-Driven Optimization: From Algorithms to Applications </a><br>
 Peking University, October 30, 2026
-
-* <a href="../talks/2025-MOS.pdf" class="textlink" target="_blank"> Learning to Optimize: Theory, Algorithms, and Applications</a><br>
-Mathematical Optimization Society, May 16-19, 2025
 
 * <a href="../talks/2025-POLYU.pdf" class="textlink" target="_blank"> Learning to Select Features in the Era of AI</a><br>
 The Hong Kong Polytechnic University, March 20, 2025
