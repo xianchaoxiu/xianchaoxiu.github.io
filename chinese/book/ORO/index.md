@@ -22,7 +22,7 @@ share: false
   - 第 8 章 &nbsp;  约束优化算法 <br>
   - 第 9 章 &nbsp;  复合优化算法<br>
   
-* 第三部分 &nbsp; Python编程 <br>
+* 第三部分 &nbsp; Python 编程 <br>
 
 
 
