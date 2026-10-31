@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 运筹学与最优化
+title: 运筹优化与机器学习
 comments: false
 share: false
 ---
