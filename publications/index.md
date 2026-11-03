@@ -22,6 +22,8 @@ share: false
 
 #### 2027
 
+* <b>X. Xiu</b>, S. Sun, L. Li, J. Tao, Heaviside Low-Rank Support Matrix Machine, Journal of the Operations Research Society of China, 2027 <a href="https://github.com/xianchaoxiu/HL-SMM" class="textlink" target="_blank" style="color: red;">[Code]</a>
+
 * J. Liu, X. Ju, <b>X. Xiu</b>, W. Liu, <a href="https://doi.org/10.1016/j.patcog.2026.114687" class="textlink" target="_blank">Bi-Level Unsupervised Feature Selection with L2,0-Norm</a>, Pattern Recognition, 181: 114687, 2027  <a href="https://github.com/xianchaoxiu/BLUFS" class="textlink" target="_blank" style="color: red;">[Code]</a>
 
 #### 2026
