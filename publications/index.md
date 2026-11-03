@@ -15,6 +15,7 @@ share: false
 
 * <b>X. Xiu</b>, C. Shen, Y. Zhu, W. Liu, A Survey of Large Language Models for Vehicle Routing Problems (in Chinese),  submitted to Control Theory and Applications
 
+* 修贤超, 何昶桦, 曲文涛, 孙军, 图像压缩感知的深度展开求解方法综述, 运筹学学报, 2026
 * <b>X. Xiu</b>, C. He, W. Qu, J. Sun, A Survey of Deep Unfolding Methods for Image Compressive Sensing (in Chinese), Operations Research Transactions, 2026 
 
 
