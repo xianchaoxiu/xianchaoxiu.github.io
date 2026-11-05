@@ -31,7 +31,9 @@ share: false
 
 
 ### 社会兼职
+
 * Mathematical Reviews 评论员 <br>
-* 上海市运筹学会青年委员 <br>
 * CAA 具身智能专业委员会委员 <br>
 * CSIAM 大数据与人工智能专业委员会委员 <br>
+* Scientific Reports 等期刊编委 <br>
+
