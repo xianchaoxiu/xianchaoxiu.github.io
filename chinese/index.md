@@ -23,7 +23,6 @@ share: false
 
 
 ### 教材专著
-
 * <a href="https://xianchaoxiu.github.io/chinese/book/ORML/" class="textlink" target="_blank"> 修贤超, 运筹优化与机器学习, 清华大学出版社, 2028  </a> <br>
 * <a href="https://xianchaoxiu.github.io/chinese/book/AIO/" class="textlink" target="_blank"> 修贤超, 人工智能驱动的最优化, 科学出版社, 2027   </a> <br>
 * <a href="https://xianchaoxiu.github.io/chinese/book/VLA/" class="textlink" target="_blank"> 修贤超, 苗中华, 具身智能大模型, 清华大学出版社, 2027  </a> <br>
@@ -31,9 +30,7 @@ share: false
 
 
 ### 社会兼职
-
 * Mathematical Reviews 评论员 <br>
 * CAA 具身智能专业委员会委员 <br>
 * CSIAM 大数据与人工智能专业委员会委员 <br>
 * Scientific Reports 等期刊编委 <br>
-
