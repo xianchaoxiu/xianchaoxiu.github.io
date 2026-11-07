@@ -11,11 +11,9 @@ share: false
 
 ### Review Papers
 
-* <b>修贤超</b>, 沈翀, 朱艳娇, 刘万泉, 大语言模型驱动的车辆路径问题研究综述, 控制理论与应用, 2026 <br>
-<b>X. Xiu</b>, C. Shen, Y. Zhu, W. Liu, A Survey of Large Language Models for Vehicle Routing Problems (in Chinese), Control Theory and Applications, 2026
+* <b>X. Xiu</b>, C. Shen, Y. Zhu, W. Liu, A Survey of Large Language Models for Vehicle Routing Problems (in Chinese), Control Theory and Applications, 2026
 
-* <b>修贤超</b>, 何昶桦, 曲文涛, 孙军, 图像压缩感知的深度展开求解方法综述, 运筹学学报, 2026 <br>
- <b>X. Xiu</b>, C. He, W. Qu, J. Sun, A Survey of Deep Unfolding Methods for Image Compressive Sensing (in Chinese), Operations Research Transactions, 2026 
+* <b>X. Xiu</b>, C. He, W. Qu, J. Sun, A Survey of Deep Unfolding Methods for Image Compressive Sensing (in Chinese), Operations Research Transactions, 2026 
 
 
 ### Selected Journals
