@@ -31,7 +31,6 @@ share: false
 
 ### 社会兼职
 * 教育部学位中心论文评审专家<br>
-* Mathematical Reviews 评论员 <br>
 * CAA 具身智能专业委员会委员<br>
 * CSIAM 大数据与人工智能专业委员会委员<br>
 * CAAI 因果与不确定性人工智能专业委员会委员<br>
